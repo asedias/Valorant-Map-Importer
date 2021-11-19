@@ -145,6 +145,7 @@ MAPS = {
     "range": [
         "Range_Art_AsylumDown.umap",
         "Range_Art_AsylumUp.umap",
+        "Range_Art_AsylumBasement.umap",
         "Range_Art_BMainInterior.umap",
         "Range_Art_Boathouse_hide.umap",
         "Range_Art_Boathouse.umap",
