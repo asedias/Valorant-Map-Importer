@@ -1,5 +1,7 @@
 # VALORANT Content Creation Tools & Scripts
 
+IMPORTANT: This repo is not maintaned, I'm working on a better script, which will be released in December.
+
 Some useful scripts & tools to be used with creating VALORANT content
 
 ## Extracting maps
