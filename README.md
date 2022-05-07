@@ -16,7 +16,7 @@ Blender 2.93 or higher is needed.
     1 - Open "settings.ini" file using a text editor
     2 - Set the "PATH" to where .pak files are located
     4 - Open Blender, go to "Scripting" Panel
-    5 - Drag & Drop the "importMapBlender_json.py" file in to script panel
+    5 - Drag & Drop the "importMap_cycles.py" file in to script panel
     6 - Click "Window > Toggle System Console" so you can see the process
     7 - Set "MAP" to the map you want in the script
     8 - Hit Run!
