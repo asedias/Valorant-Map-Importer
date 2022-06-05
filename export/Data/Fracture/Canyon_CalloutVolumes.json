@@ -1,0 +1,3372 @@
+[
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Canyon_CalloutVolumes:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.65"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Canyon_CalloutVolumes:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.68"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion10_30",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.91"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Bridge"
+      },
+      "SuperRegion": "ECalloutSuperRegion::AttackerSide",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.113"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.69"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.23"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.24"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.91"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion11_33",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.92"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Bench"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.114"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.70"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.25"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.26"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.92"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion12_37",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.93"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Arcade"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.115"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.71"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.27"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.28"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.93"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion13_40",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.94"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Tower"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.116"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.72"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.29"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.94"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion14_43",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.95"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Site"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.117"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.73"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.30"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.31"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.95"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion15_46",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.96"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Generator"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.118"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.74"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.32"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.33"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.34"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.96"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion16_49",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.97"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Link"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "Priority": 2,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.119"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.75"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.35"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.97"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion17_52",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.98"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Canteen"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.120"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.76"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.36"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.37"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.38"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.98"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion18_55",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.99"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Link"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.121"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.77"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.39"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.99"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion19_58",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.100"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Spawn"
+      },
+      "SuperRegion": "ECalloutSuperRegion::DefenderSide",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.122"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.78"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.40"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.100"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion20_61",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.101"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Main"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.123"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.79"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.41"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.42"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.43"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.101"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion21_64",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.102"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Tree"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.124"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.80"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.44"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.45"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.46"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.102"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion22_67",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.103"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Tunnel"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.125"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.81"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.47"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.48"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.49"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.103"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion2_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.104"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Hall"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.126"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.82"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.50"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.51"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.104"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion3_5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.105"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Door"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.127"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.83"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.52"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.105"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion4_8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.106"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Rope"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.128"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.84"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.53"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.54"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.55"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.106"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion5_13",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.107"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Main"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.129"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.85"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.56"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.107"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion6_18",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.108"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Site"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.130"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.86"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.57"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.58"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.108"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion7_21",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.109"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Drop"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.131"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.87"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.59"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.109"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion8_24",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.110"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Dish"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.132"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.88"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.60"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.110"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion9_27",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.111"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Gate"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "Priority": 1,
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.133"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.89"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.61"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.111"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "BP_CalloutRegion_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.112"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Spawn"
+      },
+      "SuperRegion": "ECalloutSuperRegion::AttackerSide",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.134"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.90"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.BP_CalloutSubregion_Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.62"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.BP_CalloutSubregion_Cube1",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.63"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.BP_CalloutSubregion_Cube2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.64"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.112"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion10_30",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.69"
+      },
+      "RelativeLocation": {
+        "X": -1397.999,
+        "Y": 1438.0045,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00021,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 25.450779,
+        "Y": 39.904343,
+        "Z": 18.129847
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion10_30",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.69"
+      },
+      "RelativeLocation": {
+        "X": 837.4678,
+        "Y": -2882.0422,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 45.000134,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 25.450779,
+        "Y": 28.618185,
+        "Z": 18.129847
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion11_33",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.70"
+      },
+      "RelativeLocation": {
+        "X": -547.0,
+        "Y": -505.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 26.319035,
+        "Y": 15.965424,
+        "Z": 16.44011
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion11_33",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.70"
+      },
+      "RelativeLocation": {
+        "X": -1095.0,
+        "Y": 122.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 8.910253,
+        "Y": 7.617824,
+        "Z": 16.44011
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion12_37",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.71"
+      },
+      "RelativeLocation": {
+        "X": -1084.0,
+        "Y": -1056.0,
+        "Z": -135.0
+      },
+      "RelativeScale3D": {
+        "X": 23.279848,
+        "Y": 20.09633,
+        "Z": 19.965605
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion12_37",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.71"
+      },
+      "RelativeLocation": {
+        "X": 204.0,
+        "Y": 439.0,
+        "Z": -135.0
+      },
+      "RelativeScale3D": {
+        "X": 8.358537,
+        "Y": 9.894556,
+        "Z": 19.965605
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion13_40",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.72"
+      },
+      "RelativeLocation": {
+        "X": -304.0,
+        "Y": -1330.0,
+        "Z": -285.0
+      },
+      "RelativeScale3D": {
+        "X": 24.006775,
+        "Y": 16.9843,
+        "Z": 16.412708
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion14_43",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.73"
+      },
+      "RelativeLocation": {
+        "X": -1290.0,
+        "Y": -739.0,
+        "Z": -237.0
+      },
+      "RelativeScale3D": {
+        "X": 19.751778,
+        "Y": 24.899828,
+        "Z": 16.514496
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion14_43",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.73"
+      },
+      "RelativeLocation": {
+        "X": 452.0,
+        "Y": 707.0,
+        "Z": -237.0
+      },
+      "RelativeScale3D": {
+        "X": 4.707839,
+        "Y": 10.435687,
+        "Z": 16.514496
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion15_46",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.74"
+      },
+      "RelativeLocation": {
+        "X": -809.0,
+        "Y": -811.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 15.459485,
+        "Y": 10.500617,
+        "Z": 17.14743
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion15_46",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.74"
+      },
+      "RelativeLocation": {
+        "X": -370.0,
+        "Y": 219.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 3.8183725,
+        "Y": 5.205024,
+        "Z": 17.14743
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion15_46",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.74"
+      },
+      "RelativeLocation": {
+        "X": -843.2803,
+        "Y": 278.3977,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -45.000122,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 3.8183725,
+        "Y": 6.679797,
+        "Z": 17.14743
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion16_49",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.75"
+      },
+      "RelativeLocation": {
+        "X": -827.0,
+        "Y": -403.0,
+        "Z": -103.0
+      },
+      "RelativeScale3D": {
+        "X": 13.462553,
+        "Y": 9.873636,
+        "Z": 17.163578
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion17_52",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.76"
+      },
+      "RelativeLocation": {
+        "X": -216.0,
+        "Y": -1054.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 6.6004534,
+        "Y": 6.387731,
+        "Z": 16.541588
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion17_52",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.76"
+      },
+      "RelativeLocation": {
+        "X": -498.0,
+        "Y": -413.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 9.4119625,
+        "Y": 7.4602623,
+        "Z": 16.541588
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion17_52",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.76"
+      },
+      "RelativeLocation": {
+        "X": -463.72656,
+        "Y": 324.72852,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -45.000122,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.6685295,
+        "Y": 16.70762,
+        "Z": 16.541588
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion18_55",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.77"
+      },
+      "RelativeLocation": {
+        "X": -578.0,
+        "Y": -178.0,
+        "Z": -9.0
+      },
+      "RelativeScale3D": {
+        "X": 15.81638,
+        "Y": 5.295078,
+        "Z": 16.717154
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion19_58",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.78"
+      },
+      "RelativeLocation": {
+        "X": -1314.0,
+        "Y": -1484.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 19.548393,
+        "Y": 32.95837,
+        "Z": 33.37435
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion20_61",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.79"
+      },
+      "RelativeLocation": {
+        "X": 922.0,
+        "Y": -654.0,
+        "Z": -257.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00024,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 6.7385178,
+        "Y": 15.576648,
+        "Z": 19.956987
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion20_61",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.79"
+      },
+      "RelativeLocation": {
+        "X": 921.9995,
+        "Y": -28.0,
+        "Z": -257.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00024,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 5.9612575,
+        "Y": 11.553321,
+        "Z": 19.956987
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion20_61",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.79"
+      },
+      "RelativeLocation": {
+        "X": -299.01904,
+        "Y": 602.999,
+        "Z": -257.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 240.00064,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.13654,
+        "Y": 3.8756793,
+        "Z": 19.956987
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion21_64",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.80"
+      },
+      "RelativeLocation": {
+        "X": 188.00732,
+        "Y": -3216.0,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00027,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 44.497295,
+        "Y": 21.78054,
+        "Z": 13.813329
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion21_64",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.80"
+      },
+      "RelativeLocation": {
+        "X": 1182.9951,
+        "Y": -633.0,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00027,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 18.683521,
+        "Y": 10.543865,
+        "Z": 13.813329
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion21_64",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.80"
+      },
+      "RelativeLocation": {
+        "X": 116.37842,
+        "Y": -1693.0283,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 60.000145,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 12.629827,
+        "Y": 10.543865,
+        "Z": 13.813329
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion22_67",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.81"
+      },
+      "RelativeLocation": {
+        "X": -1256.0,
+        "Y": -389.0,
+        "Z": -44.0
+      },
+      "RelativeScale3D": {
+        "X": 36.533737,
+        "Y": 17.041458,
+        "Z": 4.831839
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion22_67",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.81"
+      },
+      "RelativeLocation": {
+        "X": -1256.0,
+        "Y": -389.0,
+        "Z": 218.0
+      },
+      "RelativeScale3D": {
+        "X": 7.25,
+        "Y": 8.966891,
+        "Z": 17.90335
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion22_67",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.81"
+      },
+      "RelativeLocation": {
+        "X": 2296.0,
+        "Y": 829.0,
+        "Z": 73.0
+      },
+      "RelativeScale3D": {
+        "X": 6.9123797,
+        "Y": 8.111841,
+        "Z": 17.90335
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion2_2",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.82"
+      },
+      "RelativeLocation": {
+        "X": -1043.6562,
+        "Y": -1545.386,
+        "Z": -149.95691
+      },
+      "RelativeScale3D": {
+        "X": 14.34599,
+        "Y": 25.621876,
+        "Z": 10.060355
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion2_2",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.82"
+      },
+      "RelativeLocation": {
+        "X": 262.34473,
+        "Y": 491.5879,
+        "Z": -149.95679
+      },
+      "RelativeScale3D": {
+        "X": 2.5184145,
+        "Y": 5.252642,
+        "Z": 10.060355
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion3_5",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.83"
+      },
+      "RelativeLocation": {
+        "X": -353.4502,
+        "Y": -488.9309,
+        "Z": -108.18677
+      },
+      "RelativeScale3D": {
+        "X": 13.496568,
+        "Y": 11.262129,
+        "Z": 14.64541
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion4_8",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.84"
+      },
+      "RelativeLocation": {
+        "X": -1039.3701,
+        "Y": 399.344,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00021,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 8.553693,
+        "Y": 23.99261,
+        "Z": 25.244473
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion4_8",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.84"
+      },
+      "RelativeLocation": {
+        "X": -422.51367,
+        "Y": -350.16003,
+        "Z": -0.00030517578
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00021,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 10.604901,
+        "Y": 16.330988,
+        "Z": 25.244473
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion4_8",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.84"
+      },
+      "RelativeLocation": {
+        "X": 152.3877,
+        "Y": 604.7157,
+        "Z": 0.013183594
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00021,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.347628,
+        "Y": 12.124279,
+        "Z": 25.244473
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion5_13",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.85"
+      },
+      "RelativeLocation": {
+        "X": -1522.9307,
+        "Y": -377.40356,
+        "Z": -59.132202
+      },
+      "RelativeScale3D": {
+        "X": 28.427061,
+        "Y": 12.814431,
+        "Z": 27.022856
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion6_18",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.86"
+      },
+      "RelativeLocation": {
+        "X": -939.0918,
+        "Y": -1725.3923,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.596136,
+        "Y": 36.51859,
+        "Z": 26.745432
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion6_18",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.86"
+      },
+      "RelativeLocation": {
+        "X": 489.0205,
+        "Y": 95.87012,
+        "Z": 0.0060424805
+      },
+      "RelativeScale3D": {
+        "X": 6.873179,
+        "Y": 8.993166,
+        "Z": 26.745432
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion7_21",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.87"
+      },
+      "RelativeLocation": {
+        "X": -661.69336,
+        "Y": -433.2063,
+        "Z": -311.0182
+      },
+      "RelativeScale3D": {
+        "X": 17.003855,
+        "Y": 18.931149,
+        "Z": 26.928371
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion8_24",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.88"
+      },
+      "RelativeLocation": {
+        "X": -951.9678,
+        "Y": -1108.9082,
+        "Z": -237.28912
+      },
+      "RelativeScale3D": {
+        "X": 21.232582,
+        "Y": 42.20531,
+        "Z": 28.149319
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion9_27",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.89"
+      },
+      "RelativeLocation": {
+        "X": -629.0,
+        "Y": -898.0,
+        "Z": -96.0
+      },
+      "RelativeScale3D": {
+        "X": 18.622353,
+        "Y": 20.45372,
+        "Z": 17.429089
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube",
+    "Outer": "BP_CalloutRegion_2",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.90"
+      },
+      "RelativeLocation": {
+        "X": -2345.3923,
+        "Y": -1930.3806,
+        "Z": -309.95703
+      },
+      "RelativeScale3D": {
+        "X": 42.04746,
+        "Y": 30.72525,
+        "Z": 28.225235
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube1",
+    "Outer": "BP_CalloutRegion_2",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.90"
+      },
+      "RelativeLocation": {
+        "X": -2345.3923,
+        "Y": 1141.8904,
+        "Z": 0.0009765625
+      },
+      "RelativeScale3D": {
+        "X": 42.0478,
+        "Y": 2.8002212,
+        "Z": 28.225235
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "BP_CalloutSubregion_Cube2",
+    "Outer": "BP_CalloutRegion_2",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.90"
+      },
+      "RelativeLocation": {
+        "X": -4682.403,
+        "Y": 1169.3341,
+        "Z": 0.0009765625
+      },
+      "RelativeScale3D": {
+        "X": 43.569405,
+        "Y": 34.65428,
+        "Z": 28.225235
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Canyon_CalloutVolumes",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Canyon_CalloutVolumes:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.67"
+      },
+      "LevelBuildDataId": "DC8BB8DC-4A74D2E0-EB6C4FA4-53EB3A81",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Canyon_CalloutVolumes_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes_BuiltData.4"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Canyon_CalloutVolumes:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.0"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Canyon_CalloutVolumes:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.0"
+      },
+      null,
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.22"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.14"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.15"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.16"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.17"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.18"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.19"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.20"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.21"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.1"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.2"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.3"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.4"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.5"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.6"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.7"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.8"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.9"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.10"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.11"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.12"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.13"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Canyon_CalloutVolumes:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.67"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "AEA6E46E-4833AF0D-0D233E87-7A49C4ED",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion10_30",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 13204.0,
+        "Y": -756.0,
+        "Z": 253.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion11_33",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11473.0,
+        "Y": -2897.0,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion12_37",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10181.0,
+        "Y": -4179.0,
+        "Z": 500.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion13_40",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9155.0,
+        "Y": -5601.0,
+        "Z": 1000.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion14_43",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8178.0,
+        "Y": -5942.0,
+        "Z": 747.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion15_46",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8362.0,
+        "Y": -3380.0,
+        "Z": 550.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion16_49",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9198.0,
+        "Y": -2741.0,
+        "Z": 650.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion17_52",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7111.0,
+        "Y": -3138.0,
+        "Z": 547.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion18_55",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8578.0,
+        "Y": 1302.0,
+        "Z": 650.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion19_58",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9156.0,
+        "Y": -677.0,
+        "Z": 650.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion20_61",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5967.0,
+        "Y": -5343.0,
+        "Z": 425.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion21_64",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4965.0,
+        "Y": -4109.0,
+        "Z": 300.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion22_67",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7402.0,
+        "Y": -4058.0,
+        "Z": 109.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion2_2",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5063.5464,
+        "Y": 2057.6648,
+        "Z": 599.99963
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion3_5",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5807.855,
+        "Y": 1940.4603,
+        "Z": 602.01306
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion4_8",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6638.828,
+        "Y": 1052.6461,
+        "Z": 493.07227
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion5_13",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5878.792,
+        "Y": 3450.9639,
+        "Z": 550.0005
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion6_18",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8125.7627,
+        "Y": 3373.7861,
+        "Z": 550.00305
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion7_21",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9306.803,
+        "Y": 2826.1626,
+        "Z": 850.00006
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion8_24",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11296.665,
+        "Y": 2059.077,
+        "Z": 622.61707
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion9_27",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12962.0,
+        "Y": 1565.0,
+        "Z": 450.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "BP_CalloutRegion_2",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4345.554,
+        "Y": -948.4505,
+        "Z": 307.17273
+      }
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion10_30",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.113"
+      },
+      "RelativeLocation": {
+        "X": 13004.0,
+        "Y": -774.0,
+        "Z": 241.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion11_33",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.114"
+      },
+      "RelativeLocation": {
+        "X": 11108.0,
+        "Y": -2616.0,
+        "Z": 561.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion12_37",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.115"
+      },
+      "RelativeLocation": {
+        "X": 10471.0,
+        "Y": -3936.0,
+        "Z": 541.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion13_40",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.116"
+      },
+      "RelativeLocation": {
+        "X": 9111.0,
+        "Y": -5777.0,
+        "Z": 1010.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion14_43",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.117"
+      },
+      "RelativeLocation": {
+        "X": 7853.0,
+        "Y": -6157.0,
+        "Z": 747.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion15_46",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.118"
+      },
+      "RelativeLocation": {
+        "X": 8127.0,
+        "Y": -3447.0,
+        "Z": 559.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion16_49",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.119"
+      },
+      "RelativeLocation": {
+        "X": 9421.0,
+        "Y": -2735.0,
+        "Z": 698.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion17_52",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.120"
+      },
+      "RelativeLocation": {
+        "X": 7553.0,
+        "Y": -2408.0,
+        "Z": 571.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion18_55",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.121"
+      },
+      "RelativeLocation": {
+        "X": 8979.0,
+        "Y": 1268.0,
+        "Z": 661.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion19_58",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.122"
+      },
+      "RelativeLocation": {
+        "X": 9236.0,
+        "Y": -715.0,
+        "Z": 652.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion20_61",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.123"
+      },
+      "RelativeLocation": {
+        "X": 5999.0,
+        "Y": -5430.0,
+        "Z": 440.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion21_64",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.124"
+      },
+      "RelativeLocation": {
+        "X": 4590.0,
+        "Y": -3529.0,
+        "Z": 332.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion22_67",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.125"
+      },
+      "RelativeLocation": {
+        "X": 6149.0,
+        "Y": -4060.0,
+        "Z": 117.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion2_2",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.126"
+      },
+      "RelativeLocation": {
+        "X": 5126.7705,
+        "Y": 2072.796,
+        "Z": 596.5459
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion3_5",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.127"
+      },
+      "RelativeLocation": {
+        "X": 5795.4067,
+        "Y": 1888.357,
+        "Z": 600.36115
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion4_8",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.128"
+      },
+      "RelativeLocation": {
+        "X": 6544.492,
+        "Y": 1047.0364,
+        "Z": 599.6615
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion5_13",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.129"
+      },
+      "RelativeLocation": {
+        "X": 6494.8477,
+        "Y": 3512.671,
+        "Z": 550.76575
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion6_18",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.130"
+      },
+      "RelativeLocation": {
+        "X": 8066.6846,
+        "Y": 3492.4834,
+        "Z": 554.87177
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion7_21",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.131"
+      },
+      "RelativeLocation": {
+        "X": 9358.495,
+        "Y": 2844.6902,
+        "Z": 853.9107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion8_24",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.132"
+      },
+      "RelativeLocation": {
+        "X": 11492.619,
+        "Y": 2349.7888,
+        "Z": 615.19946
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion9_27",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.133"
+      },
+      "RelativeLocation": {
+        "X": 13046.0,
+        "Y": 1420.0,
+        "Z": 449.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "BP_CalloutRegion_2",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.134"
+      },
+      "RelativeLocation": {
+        "X": 4549.3877,
+        "Y": -1369.2822,
+        "Z": 293.26202
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion10_30",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Bridge"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion10_30.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.69"
+      },
+      "RelativeLocation": {
+        "X": -13204.0,
+        "Y": 756.0,
+        "Z": -253.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion11_33",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Bench"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion11_33.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.70"
+      },
+      "RelativeLocation": {
+        "X": -11473.0,
+        "Y": 2897.0,
+        "Z": -400.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion12_37",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Arcade"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion12_37.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.71"
+      },
+      "RelativeLocation": {
+        "X": -10181.0,
+        "Y": 4179.0,
+        "Z": -500.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion13_40",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Tower"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion13_40.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.72"
+      },
+      "RelativeLocation": {
+        "X": -9155.0,
+        "Y": 5601.0,
+        "Z": -1000.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion14_43",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Site"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion14_43.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.73"
+      },
+      "RelativeLocation": {
+        "X": -8178.0,
+        "Y": 5942.0,
+        "Z": -747.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion15_46",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Generator"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion15_46.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.74"
+      },
+      "RelativeLocation": {
+        "X": -8362.0,
+        "Y": 3380.0,
+        "Z": -550.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion16_49",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Link"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion16_49.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.75"
+      },
+      "RelativeLocation": {
+        "X": -9198.0,
+        "Y": 2741.0,
+        "Z": -650.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion17_52",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Canteen"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion17_52.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.76"
+      },
+      "RelativeLocation": {
+        "X": -7111.0,
+        "Y": 3138.0,
+        "Z": -547.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion18_55",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Link"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion18_55.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.77"
+      },
+      "RelativeLocation": {
+        "X": -8578.0,
+        "Y": -1302.0,
+        "Z": -650.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion19_58",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Spawn"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion19_58.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.78"
+      },
+      "RelativeLocation": {
+        "X": -9156.0,
+        "Y": 677.0,
+        "Z": -650.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion20_61",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Main"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion20_61.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.79"
+      },
+      "RelativeLocation": {
+        "X": -5967.0,
+        "Y": 5343.0,
+        "Z": -425.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion21_64",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Tree"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion21_64.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.80"
+      },
+      "RelativeLocation": {
+        "X": -4965.0,
+        "Y": 4109.0,
+        "Z": -300.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion22_67",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Tunnel"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion22_67.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.81"
+      },
+      "RelativeLocation": {
+        "X": -7402.0,
+        "Y": 4058.0,
+        "Z": -109.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion2_2",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Hall"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion2_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.82"
+      },
+      "RelativeLocation": {
+        "X": -5063.5464,
+        "Y": -2057.6648,
+        "Z": -599.99963
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion3_5",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Door"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion3_5.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.83"
+      },
+      "RelativeLocation": {
+        "X": -5807.855,
+        "Y": -1940.4603,
+        "Z": -602.01306
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion4_8",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Rope"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion4_8.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.84"
+      },
+      "RelativeLocation": {
+        "X": -6638.828,
+        "Y": -1052.6461,
+        "Z": -493.07227
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion5_13",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Main"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion5_13.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.85"
+      },
+      "RelativeLocation": {
+        "X": -5878.792,
+        "Y": -3450.9639,
+        "Z": -550.0005
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion6_18",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Site"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion6_18.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.86"
+      },
+      "RelativeLocation": {
+        "X": -8125.7627,
+        "Y": -3373.7861,
+        "Z": -550.00305
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion7_21",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Drop"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion7_21.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.87"
+      },
+      "RelativeLocation": {
+        "X": -9306.803,
+        "Y": -2826.1626,
+        "Z": -850.00006
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion8_24",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Dish"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion8_24.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.88"
+      },
+      "RelativeLocation": {
+        "X": -11296.665,
+        "Y": -2059.077,
+        "Z": -622.61707
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion9_27",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Gate"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion9_27.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.89"
+      },
+      "RelativeLocation": {
+        "X": -12962.0,
+        "Y": -1565.0,
+        "Z": -450.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "BP_CalloutRegion_2",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Canyon/Canyon_StringTable.Canyon_StringTable",
+        "Key": "Canyon_Callout_Spawn"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_CalloutVolumes:PersistentLevel.BP_CalloutRegion_2.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.90"
+      },
+      "RelativeLocation": {
+        "X": -4345.554,
+        "Y": 948.4505,
+        "Z": -307.17273
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Canyon_CalloutVolumes",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Canyon_CalloutVolumes:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_CalloutVolumes.66"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

@@ -1,0 +1,1854 @@
+[
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Canyon_BombGameMode_Only:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.42"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Canyon_BombGameMode_Only:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.45"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.67"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.68"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.69"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.70"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.71"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.72"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.50"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.79"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.99"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.10"
+        },
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.11"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.78"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.52"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.29"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.16"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.65"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.99"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.79"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.50"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.51"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.81"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.100"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.12"
+        },
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.13"
+        },
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.14"
+        },
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.15"
+        }
+      ],
+      "BombSite": "BombSiteEnum::NewEnumerator1",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.80"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.53"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.30"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.17"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.66"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.100"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.81"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.51"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BombSpawnLocation_C",
+    "Name": "BombSpawnLocation2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombSpawnLocation_C",
+    "Properties": {
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.94"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.60"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.37"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.24"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.73"
+      }
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_A2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.83"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.1"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.82"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.54"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.31"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.18"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.67"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.1"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.83"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_A3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.85"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.2"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.84"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.55"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.32"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.19"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.68"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.2"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.85"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.87"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.3"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.86"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.56"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.33"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.20"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.69"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.3"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.87"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B7",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.89"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.4"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.88"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.57"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.34"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.21"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.70"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.4"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.89"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.91"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.5"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.90"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.58"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.35"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.22"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.71"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.5"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.91"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.93"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.6"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.92"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.59"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.36"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.23"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.72"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.6"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.93"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombSpawnLocation2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner2_5",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner3",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner4",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombSpawnLocation2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner2_5",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner3",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner4",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Canyon_BombGameMode_Only",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Canyon_BombGameMode_Only:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.44"
+      },
+      "LevelBuildDataId": "C355E01C-4F8106C3-491AFBB9-701E7BE1",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Canyon_BombGameMode_Only_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Canyon_BombGameMode_Only:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.0"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Canyon_BombGameMode_Only:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.0"
+      },
+      null,
+      {
+        "ObjectName": "BombSpawnLocation_C Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.9"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.10"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.12"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.13"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.11"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.14"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.15"
+      },
+      {
+        "ObjectName": "OrbSpawner_C Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.49"
+      },
+      {
+        "ObjectName": "OrbSpawner_C Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.46"
+      },
+      {
+        "ObjectName": "OrbSpawner_C Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.47"
+      },
+      {
+        "ObjectName": "OrbSpawner_C Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.48"
+      },
+      {
+        "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.7"
+      },
+      {
+        "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.8"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Canyon_BombGameMode_Only:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.44"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "9E2E2E32-47F24CD0-5C7EE187-99A8B3E8",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_C",
+    "Name": "OrbSpawner2_5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_C",
+    "Properties": {
+      "TelemetryLabel": "Orb_B-Main",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.95"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.61"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.38"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.25"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.74"
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_C",
+    "Name": "OrbSpawner3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_C",
+    "Properties": {
+      "TelemetryLabel": "Orb_Arcade",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.96"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.62"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.39"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.26"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.75"
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_C",
+    "Name": "OrbSpawner4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_C",
+    "Properties": {
+      "TelemetryLabel": "Orb_A-Main",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.97"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.63"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.40"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.27"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.76"
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_C",
+    "Name": "OrbSpawner_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_C",
+    "Properties": {
+      "TelemetryLabel": "Orb_Dish",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.98"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.64"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.41"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.28"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.77"
+      }
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_A",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_B",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombSpawnLocation2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner2_5",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner3",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner4",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8033.0,
+        "Y": 3583.0,
+        "Z": 551.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00001,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8263.0,
+        "Y": -5952.0,
+        "Z": 751.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00001,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9150.0,
+        "Y": 3525.0,
+        "Z": 550.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 11.75,
+        "Y": 16.75,
+        "Z": 0.1
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8650.0,
+        "Y": 3900.0,
+        "Z": 900.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 8.0,
+        "Y": 7.75,
+        "Z": 0.1
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7860.0,
+        "Y": -6250.0,
+        "Z": 749.1102
+      },
+      "RelativeScale3D": {
+        "X": 9.875,
+        "Y": 12.875,
+        "Z": 0.1
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7150.0,
+        "Y": -6650.0,
+        "Z": 750.0
+      },
+      "RelativeScale3D": {
+        "X": 7.125,
+        "Y": 9.0,
+        "Z": 0.1
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7860.0,
+        "Y": -6650.0,
+        "Z": 750.0
+      },
+      "RelativeScale3D": {
+        "X": 4.40625,
+        "Y": 4.0,
+        "Z": 0.1
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7600.0,
+        "Y": -5750.0,
+        "Z": 750.0
+      },
+      "RelativeScale3D": {
+        "X": 2.625,
+        "Y": 0.375,
+        "Z": 0.1
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombSpawnLocation2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4149.998,
+        "Y": -750.0,
+        "Z": 310.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner2_5",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5150.0,
+        "Y": -4850.0,
+        "Z": 300.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner3",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10475.0,
+        "Y": -3475.0,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner4",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4745.0,
+        "Y": 2650.0,
+        "Z": 600.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10700.0,
+        "Y": 1825.0,
+        "Z": 650.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MassInKgOverride": 0.0,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.65"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_A",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.65"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MassInKgOverride": 0.0,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.66"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_B",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.66"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.67"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_A2",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.67"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D8A983C94A96BDBD2D218AB9127CD00B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.68"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_A3",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_A3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.68"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0417B0484CB324EBF91D4185AA8995CA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.69"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B6",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.69"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "073F3D674C8612E4106C54AD85FE318D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.70"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B7",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B7.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.70"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "41B373A54535E0F727B758BC706D3FA6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.71"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B8",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.71"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "DE27387447BBFDAB491A17AC88F15BF1"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.72"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B9",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombDestinationVolume_B9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.72"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7442A23E4838826F20A5D3BB61EC4C75"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombSpawnLocation2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.BombSpawnLocation2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.73"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner2_5",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner2_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.74"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner3",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.75"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner4",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.76"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Canyon_BombGameMode_Only:PersistentLevel.OrbSpawner_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.77"
+      }
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_A",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_B",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.8"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.8"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.8"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Canyon_BombGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.8"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Canyon_BombGameMode_Only",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Canyon_BombGameMode_Only:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_BombGameMode_Only.43"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

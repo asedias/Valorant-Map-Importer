@@ -1,0 +1,4724 @@
+[
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Canyon_KillVolumes:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.51"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Canyon_KillVolumes:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.54"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume10",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume10.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.55"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume10.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.55"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume10.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.55"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume11",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume11.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.56"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume11.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.56"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume11.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.56"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume12",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume12.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.57"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume12.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.57"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume12.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.57"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume13",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume13.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.58"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume13.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.58"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume13.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.58"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume14",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume14.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.59"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume14.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.59"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume14.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.59"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume15.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.60"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume15.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.60"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume15.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.60"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume16",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume16.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.61"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume16.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.61"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume16.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.61"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume17",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume17.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.62"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume17.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.62"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume17.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.62"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume18",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume18.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.63"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume18.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.63"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume18.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.63"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume19",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume19.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.64"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume19.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.64"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume19.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.64"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume2.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.65"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume2.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.65"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume2.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.65"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume20",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume20.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.66"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume20.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.66"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume20.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.66"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume21",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume21.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.67"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume21.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.67"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume21.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.67"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume22_25",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume22_25.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.68"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume22_25.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.68"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume22_25.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.68"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume23",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume23.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.69"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume23.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.69"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume23.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.69"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume24",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume24.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.70"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume24.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.70"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume24.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.70"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume25",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume25.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.71"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume25.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.71"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume25.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.71"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume26",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume26.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.72"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume26.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.72"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume26.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.72"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume27",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume27.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.73"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume27.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.73"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume27.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.73"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume28",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume28.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.74"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume28.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.74"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume28.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.74"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume29",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume29.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.75"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume29.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.75"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume29.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.75"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume3.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.76"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume3.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.76"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume3.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.76"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume30",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume30.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.77"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume30.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.77"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume30.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.77"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume31",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume31.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.78"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume31.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.78"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume31.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.78"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume32",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume32.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.79"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume32.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.79"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume32.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.79"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume33",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume33.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.80"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume33.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.80"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume33.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.80"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume34",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume34.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.81"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume34.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.81"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume34.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.81"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume35",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume35.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.82"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume35.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.82"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume35.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.82"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume36",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume36.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.83"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume36.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.83"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume36.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.83"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume37",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume37.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.84"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume37.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.84"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume37.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.84"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume38",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume38.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.85"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume38.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.85"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume38.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.85"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume39",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume39.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.86"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume39.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.86"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume39.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.86"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume4.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.87"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume4.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.87"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume4.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.87"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume40",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume40.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.88"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume40.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.88"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume40.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.88"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume41",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume41.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.89"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume41.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.89"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume41.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.89"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume42_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume42_2.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.90"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume42_2.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.90"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume42_2.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.90"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume43",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume43.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.91"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume43.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.91"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume43.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.91"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume44",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume44.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.92"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume44.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.92"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume44.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.92"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume45",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume45.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.93"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume45.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.93"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume45.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.93"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume46",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume46.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.94"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume46.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.94"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume46.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.94"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume47",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume47.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.95"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume47.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.95"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume47.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.95"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume48",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume48.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.96"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume48.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.96"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume48.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.96"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume49",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume49.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.97"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume49.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.97"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume49.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.97"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume5.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.98"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume5.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.98"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume5.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.98"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume50",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume50.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.99"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume50.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.99"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume50.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.99"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume6.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.100"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume6.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.100"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume6.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.100"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume7",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume7.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.101"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume7.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.101"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume7.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.101"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume8.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.102"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume8.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.102"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume8.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.102"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume9.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.103"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume9.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.103"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume9.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.103"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_PlayerKillVolume_C",
+    "Name": "BP_PlayerKillVolume_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_PlayerKillVolume_C",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume_2.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.104"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume_2.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.104"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume_2.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.104"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Canyon_KillVolumes",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Canyon_KillVolumes:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.53"
+      },
+      "LevelBuildDataId": "2C6E70B0-4B183563-D56B8A94-51B718F1",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Canyon_KillVolumes_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Canyon_KillVolumes:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.0"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Canyon_KillVolumes:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.0"
+      },
+      null,
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.50"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.11"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume3",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.22"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume4",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.33"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume5",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.44"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume6",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.46"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume7",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.47"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume8",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.48"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume9",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.49"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume10",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.1"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume11",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.2"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume12",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.3"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume13",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.4"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume14",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.5"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume15",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.6"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume16",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.7"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume17",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.8"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume18",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.9"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume19",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.10"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume20",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.12"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume21",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.13"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume22_25",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.14"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume23",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.15"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume24",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.16"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume25",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.17"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume26",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.18"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume27",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.19"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume28",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.20"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume29",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.21"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume30",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.23"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume31",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.24"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume32",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.25"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume33",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.26"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume34",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.27"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume35",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.28"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume36",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.29"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume37",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.30"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume38",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.31"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume39",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.32"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume40",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.34"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume41",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.35"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume42_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.36"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume43",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.37"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume44",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.38"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume45",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.39"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume46",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.40"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume47",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.41"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume48",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.42"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume49",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.43"
+      },
+      {
+        "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume50",
+        "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.45"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Canyon_KillVolumes:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.53"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "C12C1EC3-4DB1006B-3DFA4D8D-7DC4167F",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume10",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume10",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.1"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 7086.001,
+        "Y": -6864.001,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00008,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 11.5,
+        "Y": 2.75,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume11",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume11",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.2"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 6811.0005,
+        "Y": -6021.0107,
+        "Z": 249.99982
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 17.0,
+        "Y": 11.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume12",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume12",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.3"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 6501.96,
+        "Y": -6029.6626,
+        "Z": 249.99951
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 150.0001,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 13.5,
+        "Y": 17.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume13",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume13",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.4"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 5330.646,
+        "Y": -5358.4277,
+        "Z": 249.99988
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -119.99986,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 3.5,
+        "Y": 1.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume14",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume14",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.5"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 5179.36,
+        "Y": -5670.4634,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99986,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 26.0,
+        "Y": 8.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume15",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume15",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.6"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4704.36,
+        "Y": -5670.4634,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000084,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 11.0,
+        "Y": 22.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume16",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume16",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.7"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4704.36,
+        "Y": -4495.4634,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99992,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 10.0,
+        "Y": 1.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume17",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume17",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.8"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 3704.3599,
+        "Y": -4595.464,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000015,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 13.75,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume18",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume18",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.9"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 3704.3596,
+        "Y": -3220.4639,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 64.99999,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 4.25,
+        "Y": 8.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume19",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume19",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.10"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 3883.9724,
+        "Y": -2835.2832,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.999985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.5,
+        "Y": 8.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume2",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume2",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.11"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 13975.0,
+        "Y": -1925.0,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -135.00005,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 36.0,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume20",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume20",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.12"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 3883.9724,
+        "Y": -2585.2832,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99994,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.5,
+        "Y": 1.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume21",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume21",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.13"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 3683.9724,
+        "Y": -2585.282,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.99985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 10.25,
+        "Y": 9.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume22_25",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume22_25",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.14"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 3683.9746,
+        "Y": -1460.282,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99983,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 8.75,
+        "Y": 1.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume23",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume23",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.15"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 2883.9746,
+        "Y": -1460.2789,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.9998,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 17.75,
+        "Y": 8.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume24",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume24",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.16"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 2958.9802,
+        "Y": 214.72072,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.9998,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.25,
+        "Y": 8.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume25",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume25",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.17"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 2983.985,
+        "Y": 1589.7207,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -0.00024414062,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 17.25,
+        "Y": 5.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume26",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume26",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.18"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4408.986,
+        "Y": 2089.7175,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -0.00024414062,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": -17.0,
+        "Y": 11.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume27",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume27",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.19"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4308.9873,
+        "Y": 3339.7175,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.000305,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 4.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume28",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume28",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.20"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4716.3096,
+        "Y": 3332.3953,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -45.000214,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": -8.0,
+        "Y": 8.75,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume29",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume29",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.21"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 5317.3525,
+        "Y": 3958.432,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.000244,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": -10.0,
+        "Y": 15.5,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume3",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume3",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.22"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 12454.717,
+        "Y": -3470.2783,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99994,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.75,
+        "Y": 29.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume30",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume30",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.23"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 6867.353,
+        "Y": 4733.428,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.000244,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.0,
+        "Y": 2.75,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume31",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume31",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.24"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 6867.353,
+        "Y": 4758.428,
+        "Z": 250.0
+      },
+      "RelativeScale3D": {
+        "X": 18.75,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume32",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume32",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.25"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 8767.354,
+        "Y": 4733.428,
+        "Z": 900.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.75,
+        "Y": 5.78125,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume33",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume33",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.26"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 9325.253,
+        "Y": 3280.4128,
+        "Z": 925.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 20.000074,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.0,
+        "Y": 13.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume34",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume34",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.27"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 10657.922,
+        "Y": 3712.2583,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 35.00008,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 14.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume35",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume35",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.28"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 11169.892,
+        "Y": 4070.7446,
+        "Z": 250.0
+      },
+      "RelativeScale3D": {
+        "X": 21.0,
+        "Y": 17.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume36",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume36",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.29"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 11944.892,
+        "Y": 4070.7446,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -50.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 21.0,
+        "Y": 17.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume37",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume37",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.30"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 12571.605,
+        "Y": 3323.8508,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 11.0,
+        "Y": 8.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume38",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume38",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.31"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 12571.605,
+        "Y": 2223.8508,
+        "Z": 250.0
+      },
+      "RelativeScale3D": {
+        "X": 8.0,
+        "Y": 4.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume39",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume39",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.32"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 13096.605,
+        "Y": 2248.8508,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -35.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 17.0,
+        "Y": 19.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume4",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume4",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.33"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 10979.717,
+        "Y": -3445.2776,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.99991,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 12.25,
+        "Y": 1.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume40",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume40",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.34"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 13629.054,
+        "Y": 1851.0256,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -85.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 14.75,
+        "Y": 13.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume41",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume41",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.35"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 13757.604,
+        "Y": 381.63855,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -65.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 11.0,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume42_2",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume42_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.36"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4545.0,
+        "Y": 2900.0,
+        "Z": -2825.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 73.25,
+        "Y": 79.25,
+        "Z": 12.75
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume43",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume43",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.37"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 11545.0,
+        "Y": 625.0,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 27.25,
+        "Y": 14.0,
+        "Z": 12.75
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume44",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume44",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.38"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4745.0,
+        "Y": -1375.0,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 9.25,
+        "Y": 68.75,
+        "Z": 14.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume45",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume45",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.39"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4745.0,
+        "Y": 1250.0,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 9.25,
+        "Y": 68.75,
+        "Z": 14.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume46",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume46",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.40"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 4970.0,
+        "Y": 375.0,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 18.0,
+        "Y": 7.0,
+        "Z": 14.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume47",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume47",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.41"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 5595.0,
+        "Y": 425.0,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.5,
+        "Y": 12.5,
+        "Z": 14.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume48",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume48",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.42"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 7745.0,
+        "Y": 525.0,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.5,
+        "Y": 3.5,
+        "Z": 11.75
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume49",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume49",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.43"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 7745.0,
+        "Y": -1068.5562,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.5,
+        "Y": 3.5,
+        "Z": 11.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume5",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume5",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.44"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 10979.718,
+        "Y": -4670.2773,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -134.99988,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 8.75,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume50",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume50",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.45"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 10751.609,
+        "Y": 524.9984,
+        "Z": -1625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 19.5,
+        "Y": 3.5,
+        "Z": 8.25
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume6",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume6",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.46"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 10360.998,
+        "Y": -5288.9976,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.99985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 15.0,
+        "Y": 13.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume7",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume7",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.47"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 10460.999,
+        "Y": -5688.9976,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 10.25,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume8",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume8",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.48"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 9335.999,
+        "Y": -5688.9985,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.99982,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 11.75,
+        "Y": 1.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume9",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume9",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.49"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 9436.001,
+        "Y": -6863.9985,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 39.0,
+        "Y": 12.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "BP_PlayerKillVolume_2",
+    "Template": "StaticMesh_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BP_PlayerKillVolume_C Canyon_KillVolumes:PersistentLevel.BP_PlayerKillVolume_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.50"
+            },
+            "FunctionName": "BndEvt__StaticMesh_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "RelativeLocation": {
+        "X": 14020.0,
+        "Y": -100.00007,
+        "Z": 250.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 27.0,
+        "Y": 13.0,
+        "Z": 50.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Canyon_KillVolumes",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Canyon_KillVolumes:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Canyon/Canyon_KillVolumes.52"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]
