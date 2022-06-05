@@ -1,0 +1,503 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Bonsai_Gameplay_Dynamic_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Bonsai_Gameplay_Dynamic_C Default__Bonsai_Gameplay_Dynamic_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.1"
+    }
+  },
+  {
+    "Type": "Bonsai_Gameplay_Dynamic_C",
+    "Name": "Default__Bonsai_Gameplay_Dynamic_C"
+  },
+  {
+    "Type": "AresTextRenderComponent",
+    "Name": "AresTextRender",
+    "Outer": "MinimapSiteA_2",
+    "Template": "AresTextRender_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.20"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresTextRenderComponent",
+    "Name": "AresTextRender",
+    "Outer": "MinimapSiteB_2",
+    "Template": "AresTextRender_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.21"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Bonsai_Gameplay_Dynamic:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.11"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Bonsai_Gameplay_Dynamic:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.16"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Bonsai_Gameplay_Dynamic_C",
+    "Name": "Bonsai_Gameplay_Dynamic_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Bonsai_Gameplay_Dynamic_C"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "MinimapSiteA_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "MinimapSiteB_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "MinimapSiteA_2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "MinimapSiteB_2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DuplicateStaticMeshHighlighter_C",
+    "Name": "DuplicateStaticMeshHighlighter2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__DuplicateStaticMeshHighlighter_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.19"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.19"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter2.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.19"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Bonsai_Gameplay_Dynamic",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Bonsai_Gameplay_Dynamic:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.15"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Bonsai_Gameplay_Dynamic_C Bonsai_Gameplay_Dynamic:PersistentLevel.Bonsai_Gameplay_Dynamic_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.5"
+      },
+      "LevelBuildDataId": "E35E95DA-4C8FF173-188ED49F-5BDFB989",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Bonsai_Gameplay_Dynamic_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Bonsai_Gameplay_Dynamic:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.4"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Bonsai_Gameplay_Dynamic:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.4"
+      },
+      null,
+      null,
+      {
+        "ObjectName": "DuplicateStaticMeshHighlighter_C Bonsai_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter2",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.10"
+      },
+      {
+        "ObjectName": "MinimapSiteB_C Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.14"
+      },
+      {
+        "ObjectName": "MinimapSiteA_C Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.13"
+      },
+      {
+        "ObjectName": "Bonsai_Gameplay_Dynamic_C Bonsai_Gameplay_Dynamic:PersistentLevel.Bonsai_Gameplay_Dynamic_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.5"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Bonsai_Gameplay_Dynamic:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.15"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Bonsai_Gameplay_Dynamic_C Bonsai_Gameplay_Dynamic:PersistentLevel.Bonsai_Gameplay_Dynamic_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.5"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "MinimapSiteA_C",
+    "Name": "MinimapSiteA_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__MinimapSiteA_C",
+    "Properties": {
+      "AresTextRender": {
+        "ObjectName": "AresTextRenderComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.AresTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.2"
+      },
+      "SimpleMinimapComponent": {
+        "ObjectName": "SimpleMinimapComponent_C Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.SimpleMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.22"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.24"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.17"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.8"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.6"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.20"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleMinimapComponent_C Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.SimpleMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.22"
+        },
+        {
+          "ObjectName": "AresTextRenderComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.AresTextRender",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.2"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "MinimapSiteB_C",
+    "Name": "MinimapSiteB_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__MinimapSiteB_C",
+    "Properties": {
+      "AresTextRender": {
+        "ObjectName": "AresTextRenderComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.AresTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.3"
+      },
+      "SimpleMinimapComponent": {
+        "ObjectName": "SimpleMinimapComponent_C Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.SimpleMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.23"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.25"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.18"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.9"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.7"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.21"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleMinimapComponent_C Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.SimpleMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.23"
+        },
+        {
+          "ObjectName": "AresTextRenderComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.AresTextRender",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.3"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "CC31424D-4CE68385-80D286B2-0306F696",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "MinimapSiteA_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "MinimapSiteB_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "DuplicateStaticMeshHighlighter2",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 170.0,
+        "Y": -5010.0,
+        "Z": 1010.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "MinimapSiteA_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7765.0,
+        "Y": -7161.0,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "MinimapSiteB_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1512.0,
+        "Y": -6667.0,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "SimpleMinimapComponent_C",
+    "Name": "SimpleMinimapComponent",
+    "Outer": "MinimapSiteA_2",
+    "Template": "SimpleMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.20"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleMinimapComponent_C",
+    "Name": "SimpleMinimapComponent",
+    "Outer": "MinimapSiteB_2",
+    "Template": "SimpleMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.21"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "MinimapSiteA_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteA_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.20"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "MinimapSiteB_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Bonsai_Gameplay_Dynamic:PersistentLevel.MinimapSiteB_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.21"
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Bonsai_Gameplay_Dynamic",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Bonsai_Gameplay_Dynamic:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Gameplay_Dynamic.12"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

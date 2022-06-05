@@ -1,0 +1,3729 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C Default__Range_Art_Bridge_ClientOnly_CosmeticDetails_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.1"
+    }
+  },
+  {
+    "Type": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C",
+    "Name": "Default__Range_Art_Bridge_ClientOnly_CosmeticDetails_C"
+  },
+  {
+    "Type": "Actor",
+    "Name": "AtkPathA_0_WineBottleA_162",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AtkPathA_0_WineBottleA_162.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.25"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AtkPathA_0_WineBottleA_162.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Bullets_0_EmptyScatter_166",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Bullets_0_EmptyScatter_166.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.26"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Bullets_0_EmptyScatter_166.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.26"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Gravel_0_PebblesRocksSpreadB_142",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Gravel_0_PebblesRocksSpreadB_142.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.27"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Gravel_0_PebblesRocksSpreadB_142.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.27"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Papers_0_Ground_160",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Papers_0_Ground_160.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.28"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Papers_0_Ground_160.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.28"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Papers_1_Ground_140",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Papers_1_Ground_140.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.29"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Papers_1_Ground_140.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Plant_0_GroundLeavesB_170",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Plant_0_GroundLeavesB_170.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.30"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Plant_0_GroundLeavesB_170.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.30"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Rocks_0_MedBFINAL_178",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_MedBFINAL_178.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.31"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_MedBFINAL_178.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.31"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Rocks_0_TinyAFINAL_180",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_TinyAFINAL_180.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.32"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_TinyAFINAL_180.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.32"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Rubble_6_ConcreteDebrisB2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_6_ConcreteDebrisB2.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.33"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_6_ConcreteDebrisB2.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.33"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Rubble_7_StoneTileA_232",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_7_StoneTileA_232.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.34"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_7_StoneTileA_232.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.34"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Shell_4_AsylumShingles_240",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumShingles_240.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.35"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumShingles_240.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.35"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Structural_4_Piling_118",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_Piling_118.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.36"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_Piling_118.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.36"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Structural_4_PilingBroke_182",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_PilingBroke_182.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.37"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_PilingBroke_182.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.37"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Structural_4_PilingGroupA_238",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_PilingGroupA_238.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.38"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_PilingGroupA_238.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.38"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Tech_1_RebelGunCasePistol_174",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Tech_1_RebelGunCasePistol_174.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.39"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Tech_1_RebelGunCasePistol_174.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.39"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.24"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.42"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "DecalActor178",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor178.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.21"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor178.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.21"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M0_Ground_B_MI5_8",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_B_MI5_8.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.22"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_B_MI5_8.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.22"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M0_Ground_R_MI5_12",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_R_MI5_12.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.23"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_R_MI5_12.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.23"
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "DecalActor178",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Sand_M0_BuildupSparkles_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Sand/M0/Sand_M0_BuildupSparkles_R_MI.0"
+      },
+      "DecalSize": {
+        "X": 32.0,
+        "Y": 200.0,
+        "Z": 256.0
+      },
+      "LightIntensityOverride": 1.897701,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 27,
+        "G": 38,
+        "R": 44,
+        "A": 255,
+        "Hex": "FF2C261B"
+      },
+      "RelativeLocation": {
+        "X": 1801.2977,
+        "Y": -9300.769,
+        "Z": 1286.7847
+      },
+      "RelativeRotation": {
+        "Pitch": -84.99891,
+        "Yaw": -89.99831,
+        "Roll": -335.00134
+      },
+      "RelativeScale3D": {
+        "X": 1.549029,
+        "Y": 1.588734,
+        "Z": 1.066966
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M0_Ground_B_MI5_8",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M0_Ground_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/Ground/Grunge_M0_Ground_B_MI.0"
+      },
+      "DecalSize": {
+        "X": 3.452682,
+        "Y": 256.0,
+        "Z": 256.0
+      },
+      "RelativeLocation": {
+        "X": 2256.5,
+        "Y": -7910.173,
+        "Z": 1348.695
+      },
+      "RelativeRotation": {
+        "Pitch": -90.0,
+        "Yaw": 352.87497,
+        "Roll": -1702.6951
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M0_Ground_R_MI5_12",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M0_Ground_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/Ground/Grunge_M0_Ground_R_MI.0"
+      },
+      "DecalSize": {
+        "X": 44.26367,
+        "Y": 256.0,
+        "Z": 256.0
+      },
+      "RelativeLocation": {
+        "X": 2259.2034,
+        "Y": -7469.7104,
+        "Z": 1345.7994
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "AtkPathA_0_WineBottleA_162",
+    "Properties": {
+      "InstancingRandomSeed": 4675,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh AtkPathA_0_WineBottleA",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/AtkPathA/0/AtkPathA_0_WineBottleA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 172.96631
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 172.96631
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 172.96631
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "66E8751F424E7C1973EABC989CF60911"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2732.4893,
+          "Y": 314.68457,
+          "Z": 164.77869
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 19.41238,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 1.0000001,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2697.6963,
+          "Y": 311.18262,
+          "Z": 135.71814
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": 81.80758,
+          "Roll": 10.000751
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 1.0000004,
+          "Z": 0.9999995
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2708.705,
+          "Y": 305.18848,
+          "Z": 137.80286
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 81.807526,
+          "Roll": 5.671107E-05
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2704.4072,
+          "Y": 295.61914,
+          "Z": 137.80286
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 81.807526,
+          "Roll": 39.99979
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.9999993,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2710.5312,
+          "Y": 292.16504,
+          "Z": 141.45593
+        },
+        "RelativeRotation": {
+          "Pitch": -15.188774,
+          "Yaw": 68.63964,
+          "Roll": 41.764168
+        },
+        "RelativeScale3D": {
+          "X": 0.9999995,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Bullets_0_EmptyScatter_166",
+    "Properties": {
+      "InstancingRandomSeed": 22309,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Bullets_0_EmptyScatter",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Bullets/0/Bullets_0_EmptyScatter.2"
+      },
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_High",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3C8B1F1944EAAAA3DAD7F8B4A41A09DD"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2016.7771,
+          "Y": 192.35645,
+          "Z": -5.274048
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -150.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1994.6434,
+          "Y": 317.31836,
+          "Z": -5.274048
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -150.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2002.0046,
+          "Y": 298.96484,
+          "Z": -5.274048
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -150.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2628.557,
+          "Y": 447.19043,
+          "Z": -5.274048
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 159.9999,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2622.726,
+          "Y": 467.00684,
+          "Z": -5.274048
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 159.9999,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Gravel_0_PebblesRocksSpreadB_142",
+    "Properties": {
+      "InstancingRandomSeed": 25913,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Gravel_0_PebblesRocksSpreadB",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gravel/0/Gravel_0_PebblesRocksSpreadB.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 24,
+          "TexelFactor": 70.09336
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 70.09336
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 25,
+          "TexelFactor": 70.09336
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "bTranslucencyPreDecal": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_High",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A625DF91464C8E16C4A4AB86A061602F"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2529.5708,
+          "Y": 1580.4067,
+          "Z": 145.08582
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2101.1934,
+          "Y": 2137.4824,
+          "Z": 144.7522
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -74.616165,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999964,
+          "Y": 0.99999964,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2101.9438,
+          "Y": 2376.3027,
+          "Z": 144.7522
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 132.58078,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2516.0664,
+          "Y": 1990.5464,
+          "Z": 144.7522
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 112.75094,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999934,
+          "Y": 0.99999934,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Papers_0_Ground_160",
+    "Properties": {
+      "InstancingRandomSeed": 31844,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Papers_0_Ground",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Papers/0/Papers_0_Ground.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 129.25055
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 129.25055
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1201.9576
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "44393F79432526A54B066A96AA4C91BC"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2417.6724,
+          "Y": 1904.185,
+          "Z": 145.9032
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -64.51701,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2272.427,
+          "Y": -20.626953,
+          "Z": -5.315308
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 179.99992,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Papers_1_Ground_140",
+    "Properties": {
+      "InstancingRandomSeed": 27965,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Papers_1_Ground",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Papers/0/Papers_1_Ground.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 127.22564
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.22564
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6A3A576340924FC9B9F4348F44EF39F5"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2158.345,
+          "Y": 2451.7383,
+          "Z": 144.7522
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2196.0793,
+          "Y": 1022.04004,
+          "Z": -4.937988
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Plant_0_GroundLeavesB_170",
+    "Properties": {
+      "InstancingRandomSeed": 7084,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Plant_0_GroundLeavesB",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Plant/0/Plant_0_GroundLeavesB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 154.55862
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 154.55862
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 154.55862
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant RangePlant_0_M0_Dead_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Foliage/RangePlant_0_M0_Dead_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1201.9576
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_High",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "30AC1F444DD48B8FB1685EB590E4691C",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 296
+        }
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 1544.3252,
+          "Y": 90.822266,
+          "Z": -2.314331
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 64.72649,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.1483843,
+          "Y": 1.1483843,
+          "Z": 1.148384
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2077.2056,
+          "Y": 18.480469,
+          "Z": -2.314331
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 14.726456,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.1483837,
+          "Y": 1.1483837,
+          "Z": 1.148384
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Rocks_0_MedBFINAL_178",
+    "Properties": {
+      "InstancingRandomSeed": 12463,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rocks_0_MedBFINAL",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rocks/0/Rocks_0_MedBFINAL.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 2019.5189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2019.5189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 2019.5189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 2019.5189
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -56.7894,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E6B2EBF44FB7DEEC3322448E3992E56B"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 1398.1953,
+          "Y": 473.10254,
+          "Z": -1029.1115
+        },
+        "RelativeRotation": {
+          "Pitch": -72.04935,
+          "Yaw": -65.78763,
+          "Roll": 15.58819
+        },
+        "RelativeScale3D": {
+          "X": 0.99999964,
+          "Y": 0.9999999,
+          "Z": 1.0000005
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2330.1545,
+          "Y": 953.3496,
+          "Z": -869.21075
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": 0.0,
+          "Roll": 60.00001
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0000005,
+          "Z": 1.0000005
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2349.8772,
+          "Y": 1237.1797,
+          "Z": -785.17834
+        },
+        "RelativeRotation": {
+          "Pitch": 40.00003,
+          "Yaw": 0.0,
+          "Roll": -109.99993
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.9999995,
+          "Z": 1.0000001
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2530.975,
+          "Y": 404.24414,
+          "Z": -906.8202
+        },
+        "RelativeRotation": {
+          "Pitch": -29.874163,
+          "Yaw": -2.8807318,
+          "Roll": 5.768715
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 1.0000004,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 899.7318,
+          "Y": 402.99707,
+          "Z": -1026.002
+        },
+        "RelativeRotation": {
+          "Pitch": 20.704414,
+          "Yaw": -49.106617,
+          "Roll": -112.207726
+        },
+        "RelativeScale3D": {
+          "X": 1.0000002,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1249.2242,
+          "Y": 561.39453,
+          "Z": -1032.3322
+        },
+        "RelativeRotation": {
+          "Pitch": -79.9999,
+          "Yaw": -90.0,
+          "Roll": 90.000114
+        },
+        "RelativeScale3D": {
+          "X": 1.0000006,
+          "Y": 0.9999996,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Rocks_0_TinyAFINAL_180",
+    "Properties": {
+      "InstancingRandomSeed": 20739,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rocks_0_TinyAFINAL",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rocks/0/Rocks_0_TinyAFINAL.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 2014.463
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2014.463
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 2014.463
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 2014.463
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -57.644043,
+        "Y": -9644.753,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "13B1603140EDB2ED12EAC2B7EA0FE7BA"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2642.9023,
+          "Y": 1362.6084,
+          "Z": -760.1295
+        },
+        "RelativeRotation": {
+          "Pitch": -40.903942,
+          "Yaw": -57.911694,
+          "Roll": 50.424488
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 0.9999997,
+          "Z": 1.0000005
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2716.1072,
+          "Y": 587.2529,
+          "Z": -1144.8147
+        },
+        "RelativeRotation": {
+          "Pitch": 21.488592,
+          "Yaw": -136.5138,
+          "Roll": -156.65715
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.9999998,
+          "Z": 1.0000002
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2512.1755,
+          "Y": 1314.334,
+          "Z": -1145.5835
+        },
+        "RelativeRotation": {
+          "Pitch": -50.247402,
+          "Yaw": -85.399826,
+          "Roll": 169.28156
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 0.9999994,
+          "Z": 0.9999993
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1419.8011,
+          "Y": 897.7217,
+          "Z": -978.7678
+        },
+        "RelativeRotation": {
+          "Pitch": -80.00001,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0000002,
+          "Y": 1.0,
+          "Z": 1.0000002
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 857.9142,
+          "Y": 684.958,
+          "Z": -978.7678
+        },
+        "RelativeRotation": {
+          "Pitch": -24.999363,
+          "Yaw": -180.0,
+          "Roll": -179.99988
+        },
+        "RelativeScale3D": {
+          "X": 0.99999946,
+          "Y": 1.0,
+          "Z": 0.99999946
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Rubble_6_ConcreteDebrisB2",
+    "Properties": {
+      "InstancingRandomSeed": 8577,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_6_ConcreteDebrisB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/6/Rubble_6_ConcreteDebrisB.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 204.88264
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 204.88264
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 204.88264
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 204.88264
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Stone_M7_CanalStone_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Stone/M7/Stone_M7_CanalStone_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D72DAD474852C1A35CD6A4A4E72FE410"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2282.37,
+          "Y": 2976.1294,
+          "Z": -354.64612
+        },
+        "RelativeRotation": {
+          "Pitch": 4.63323,
+          "Yaw": 52.69147,
+          "Roll": 1.761114
+        },
+        "RelativeScale3D": {
+          "X": 0.99999976,
+          "Y": 1.0,
+          "Z": 0.9999997
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2268.0315,
+          "Y": 2814.9858,
+          "Z": -465.09967
+        },
+        "RelativeRotation": {
+          "Pitch": 70.11426,
+          "Yaw": 52.6884,
+          "Roll": 61.252697
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 1.0000002,
+          "Z": 0.9999995
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2051.6494,
+          "Y": 3266.4077,
+          "Z": -569.90826
+        },
+        "RelativeRotation": {
+          "Pitch": 18.90878,
+          "Yaw": 173.43538,
+          "Roll": 137.60739
+        },
+        "RelativeScale3D": {
+          "X": 0.9999988,
+          "Y": 0.99999994,
+          "Z": 0.99999917
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2404.2976,
+          "Y": 3017.5273,
+          "Z": -479.74365
+        },
+        "RelativeRotation": {
+          "Pitch": -81.784294,
+          "Yaw": -23.465778,
+          "Roll": 25.348785
+        },
+        "RelativeScale3D": {
+          "X": 0.9999998,
+          "Y": 0.9999996,
+          "Z": 0.99999976
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Rubble_7_StoneTileA_232",
+    "Properties": {
+      "InstancingRandomSeed": 32611,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_7_StoneTileA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/7/Rubble_7_StoneTileA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 102.02033
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 102.02033
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 102.02033
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 102.02033
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_High",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "ED48F5BC480C53E73616F19E1871E58B"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2070.9753,
+          "Y": 768.77637,
+          "Z": -7.227905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.041317,
+          "Y": 1.041317,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2111.262,
+          "Y": 604.6094,
+          "Z": -7.568359
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.57512,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0341,
+          "Y": 1.0341,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 3058.2734,
+          "Y": 30.171875,
+          "Z": -8.253784
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.038842,
+          "Y": 1.038842,
+          "Z": 1.038842
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 3098.122,
+          "Y": 154.41406,
+          "Z": -6.692627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.6618,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0388422,
+          "Y": 1.0388422,
+          "Z": 1.038842
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 3098.385,
+          "Y": 442.10254,
+          "Z": -6.692627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.6618,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0388422,
+          "Y": 1.0388422,
+          "Z": 1.038842
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2686.7407,
+          "Y": 558.9365,
+          "Z": -6.744629
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2640.2612,
+          "Y": 641.9629,
+          "Z": -7.130005
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.82389,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 1.0000004,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1701.7397,
+          "Y": 398.57715,
+          "Z": -6.832764
+        },
+        "RelativeRotation": {
+          "Pitch": -0.97361696,
+          "Yaw": -5.277485,
+          "Roll": -1.7158487
+        },
+        "RelativeScale3D": {
+          "X": 0.99999976,
+          "Y": 1.0000004,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1562.284,
+          "Y": 204.78027,
+          "Z": -6.832764
+        },
+        "RelativeRotation": {
+          "Pitch": -0.9736167,
+          "Yaw": 24.722475,
+          "Roll": -1.715836
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 1.0000004,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1666.2618,
+          "Y": 316.28906,
+          "Z": -6.785034
+        },
+        "RelativeRotation": {
+          "Pitch": -0.9736167,
+          "Yaw": 24.722475,
+          "Roll": -1.715836
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 1.0000004,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1643.3344,
+          "Y": 461.67773,
+          "Z": -6.832764
+        },
+        "RelativeRotation": {
+          "Pitch": -0.97361696,
+          "Yaw": 69.78799,
+          "Roll": -1.7158626
+        },
+        "RelativeScale3D": {
+          "X": 0.9999998,
+          "Y": 1.0000001,
+          "Z": 0.9999997
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1982.3395,
+          "Y": 403.9668,
+          "Z": -6.832764
+        },
+        "RelativeRotation": {
+          "Pitch": -0.97361696,
+          "Yaw": -5.277485,
+          "Roll": -1.7158487
+        },
+        "RelativeScale3D": {
+          "X": 0.99999976,
+          "Y": 1.0000004,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 250.09053,
+          "Y": 549.6338,
+          "Z": -8.572754
+        },
+        "RelativeRotation": {
+          "Pitch": 0.08468319,
+          "Yaw": -2.0593693,
+          "Roll": 2.3532534
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999976,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 857.0952,
+          "Y": 550.4287,
+          "Z": -9.514404
+        },
+        "RelativeRotation": {
+          "Pitch": 5.000018,
+          "Yaw": -90.0,
+          "Roll": -2.1828028E-07
+        },
+        "RelativeScale3D": {
+          "X": 0.99999934,
+          "Y": 1.0,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 897.4313,
+          "Y": 511.042,
+          "Z": -9.930908
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.00017188734,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 690.1084,
+          "Y": 548.8916,
+          "Z": -7.013062
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -899.04626,
+          "Y": 227.5166,
+          "Z": -5.777588
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": -15.00005,
+          "Roll": 5.000007
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 1.0,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -805.5088,
+          "Y": 463.74512,
+          "Z": -6.532227
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": -10.00011,
+          "Roll": 5.0000243
+        },
+        "RelativeScale3D": {
+          "X": 0.9999996,
+          "Y": 1.0,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -369.0252,
+          "Y": 578.6406,
+          "Z": -12.46228
+        },
+        "RelativeRotation": {
+          "Pitch": 5.000015,
+          "Yaw": -85.00012,
+          "Roll": -4.402269E-06
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 1.0000001,
+          "Z": 1.0000002
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -284.9281,
+          "Y": 463.62695,
+          "Z": -8.354126
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -207.2075,
+          "Y": 498.76953,
+          "Z": -11.936157
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0755732,
+          "Yaw": 89.13279,
+          "Roll": 0.038447767
+        },
+        "RelativeScale3D": {
+          "X": 0.9999994,
+          "Y": 0.99999976,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 168.77968,
+          "Y": 549.33887,
+          "Z": -7.993774
+        },
+        "RelativeRotation": {
+          "Pitch": -3.3906248,
+          "Yaw": 79.77793,
+          "Roll": 0.538853
+        },
+        "RelativeScale3D": {
+          "X": 0.99999934,
+          "Y": 0.9999994,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -481.63153,
+          "Y": 542.9346,
+          "Z": -7.672852
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -929.9956,
+          "Y": 189.50977,
+          "Z": -7.266357
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -111.58577,
+          "Y": 624.11523,
+          "Z": -17.937378
+        },
+        "RelativeRotation": {
+          "Pitch": 6.858747,
+          "Yaw": -27.336945,
+          "Roll": 9.004137
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 1.0000001,
+          "Z": 1.0000001
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 451.8371,
+          "Y": 551.94824,
+          "Z": -7.448242
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 888.7345,
+          "Y": 584.5088,
+          "Z": -23.22351
+        },
+        "RelativeRotation": {
+          "Pitch": 13.308732,
+          "Yaw": -31.212759,
+          "Roll": 12.088829
+        },
+        "RelativeScale3D": {
+          "X": 0.99999976,
+          "Y": 1.0,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 726.7897,
+          "Y": 676.0967,
+          "Z": -22.88733
+        },
+        "RelativeRotation": {
+          "Pitch": -16.857239,
+          "Yaw": 130.06363,
+          "Roll": 6.8301897E-06
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.99999994,
+          "Z": 0.9999995
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1533.1952,
+          "Y": 554.4375,
+          "Z": -5.63855
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": 0.0,
+          "Roll": 6.9155893
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0000004,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1355.848,
+          "Y": 554.4375,
+          "Z": -5.638672
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": 0.0,
+          "Roll": 2.5363393
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.9999996,
+          "Z": 0.9999996
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1097.1381,
+          "Y": 548.5176,
+          "Z": -7.810791
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": 0.0,
+          "Roll": 2.5363393
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.9999996,
+          "Z": 0.9999996
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -688.3071,
+          "Y": 68.490234,
+          "Z": -7.074585
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -0.84688616,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0217576,
+          "Y": 1.0217576,
+          "Z": 1.021757
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -282.64545,
+          "Y": 267.28418,
+          "Z": -7.648193
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.028318249,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0217571,
+          "Y": 1.0217571,
+          "Z": 1.021757
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1527.7489,
+          "Y": 425.9668,
+          "Z": -6.832764
+        },
+        "RelativeRotation": {
+          "Pitch": -0.9736167,
+          "Yaw": 24.722475,
+          "Roll": -1.715836
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 1.0000004,
+          "Z": 0.99999964
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Shell_4_AsylumShingles_240",
+    "Properties": {
+      "InstancingRandomSeed": 12741,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 16,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_High",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "11395F634BDE7FC1562E9EA58F807DE4",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 125
+        }
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 90.96178,
+          "Y": 7.353516,
+          "Z": 0.921631
+        },
+        "RelativeRotation": {
+          "Pitch": 3.340748,
+          "Yaw": -54.99513,
+          "Roll": 0.03916794
+        },
+        "RelativeScale3D": {
+          "X": 0.9999996,
+          "Y": 0.9999999,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 3.4433143,
+          "Yaw": -126.10245,
+          "Roll": 0.103844136
+        },
+        "RelativeScale3D": {
+          "X": 0.9999998,
+          "Y": 0.9999998,
+          "Z": 0.99999994
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Structural_4_Piling_118",
+    "Properties": {
+      "InstancingRandomSeed": 28119,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_4_Piling",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/4/Structural_4_Piling.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 204.99661
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 204.99661
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 204.99661
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -56.7894,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4668D47D4DD010731C56B58E948F2FE7"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2063.3472,
+          "Y": 983.8252,
+          "Z": -959.9651
+        },
+        "RelativeRotation": {
+          "Pitch": -28.761656,
+          "Yaw": -12.584891,
+          "Roll": 1.7397428
+        },
+        "RelativeScale3D": {
+          "X": 0.9999997,
+          "Y": 0.99999964,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2278.4478,
+          "Y": 919.50195,
+          "Z": -959.9651
+        },
+        "RelativeRotation": {
+          "Pitch": -9.179499,
+          "Yaw": -11.156224,
+          "Roll": -2.589562
+        },
+        "RelativeScale3D": {
+          "X": 1.0000002,
+          "Y": 1.0,
+          "Z": 0.99999976
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2546.9714,
+          "Y": 1433.6592,
+          "Z": -1194.9626
+        },
+        "RelativeRotation": {
+          "Pitch": 6.869944,
+          "Yaw": -17.253061,
+          "Roll": -20.650303
+        },
+        "RelativeScale3D": {
+          "X": 0.9999996,
+          "Y": 0.99999994,
+          "Z": 1.0000002
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Structural_4_PilingBroke_182",
+    "Properties": {
+      "InstancingRandomSeed": 18994,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_4_PilingBroke",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/4/Structural_4_PilingBroke.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 203.9992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 203.9992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 203.9992
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D78B493D423B02711F275E9A98295A9F"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2121.3086,
+          "Y": 893.4971,
+          "Z": -1086.9469
+        },
+        "RelativeRotation": {
+          "Pitch": 14.94158,
+          "Yaw": 95.17545,
+          "Roll": -8.662287
+        },
+        "RelativeScale3D": {
+          "X": 0.9999998,
+          "Y": 0.9999999,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2636.7983,
+          "Y": 1313.1484,
+          "Z": -1223.1058
+        },
+        "RelativeRotation": {
+          "Pitch": 24.99998,
+          "Yaw": 0.0,
+          "Roll": -10.000043
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 1.0000002,
+          "Z": 1.0000004
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2608.4426,
+          "Y": 1356.2793,
+          "Z": -1136.6746
+        },
+        "RelativeRotation": {
+          "Pitch": -10.589367,
+          "Yaw": -104.11934,
+          "Roll": -9.766979
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 0.99999946,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2438.3254,
+          "Y": 1107.3535,
+          "Z": -1095.2314
+        },
+        "RelativeRotation": {
+          "Pitch": 3.9690745,
+          "Yaw": -103.90812,
+          "Roll": -13.395651
+        },
+        "RelativeScale3D": {
+          "X": 0.99999964,
+          "Y": 1.0,
+          "Z": 0.9999997
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 950.3893,
+          "Y": 524.459,
+          "Z": -1077.6864
+        },
+        "RelativeRotation": {
+          "Pitch": -4.9809184,
+          "Yaw": -0.43687257,
+          "Roll": -4.9810357
+        },
+        "RelativeScale3D": {
+          "X": 1.0000002,
+          "Y": 0.99999994,
+          "Z": 0.9999996
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -908.7612,
+          "Y": 386.91016,
+          "Z": -916.19214
+        },
+        "RelativeRotation": {
+          "Pitch": -19.999987,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0000002,
+          "Y": 1.0,
+          "Z": 1.0000002
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Structural_4_PilingGroupA_238",
+    "Properties": {
+      "InstancingRandomSeed": 17313,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_4_PilingGroupA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/4/Structural_4_PilingGroupA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 204.32243
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 204.32243
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 204.32243
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Wood_M1_Solid_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Wood/M1/Wood_M1_Solid_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0DCE210445AFFB7BE7B6EBABE92EEE3D"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -646.3059,
+          "Y": 276.7246,
+          "Z": -456.92426
+        },
+        "RelativeRotation": {
+          "Pitch": 19.931782,
+          "Yaw": 90.00878,
+          "Roll": -1.305814
+        },
+        "RelativeScale3D": {
+          "X": 0.9999998,
+          "Y": 0.9999999,
+          "Z": 0.9999999
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 937.68494,
+          "Y": 439.37012,
+          "Z": -483.78113
+        },
+        "RelativeRotation": {
+          "Pitch": 22.972353,
+          "Yaw": 84.856415,
+          "Roll": -1.5967901
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 0.9999995,
+          "Z": 0.99999946
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Tech_1_RebelGunCasePistol_174",
+    "Properties": {
+      "InstancingRandomSeed": 32754,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tech_1_RebelGunCasePistol",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Tech/1/Tech_1_RebelGunCasePistol.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 93.90189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 93.90189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 93.90189
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -55.789536,
+        "Y": -9645.246,
+        "Z": 1204.938
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C0EE7D054C64328ADCB6DD82FE6D202E"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2055.3477,
+          "Y": 238.57812,
+          "Z": -10.751953
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -113.318665,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.2500002,
+          "Y": 1.2500002,
+          "Z": 1.25
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2610.7554,
+          "Y": 387.32715,
+          "Z": -10.751953
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -163.31863,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.249999,
+          "Y": 1.249999,
+          "Z": 1.25
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1654.1575,
+          "Y": 401.30664,
+          "Z": -10.751953
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.06006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.25,
+          "Y": 1.25,
+          "Z": 1.25
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Range_Art_Bridge_ClientOnly_CosmeticDetails",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.41"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_Bridge_ClientOnly_CosmeticDetails_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.43"
+      },
+      "StreamingTextureGuids": [
+        "3495B0E2-40592FD1-A75F428C-4013E6E3",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "0FC8E28B-40C2D9AD-A4528F83-E418977E",
+        "6DEE4CD5-40765209-D3B46193-32C9728E",
+        "55D1D495-4D8709F0-C4BA29AC-2C532452",
+        "1D46593D-4609BC7A-660F35A2-EAF5CEFA",
+        "C5F1C0C2-44D1DA2F-6A0828A2-B9526346",
+        "5D57AF5F-402CEA33-95679480-5808B3F4",
+        "AA780EE8-49E02C48-4ED5AE91-C1D7FDDC",
+        "4B802D58-43A221BF-CD4CCCA8-0DE43390",
+        "D2A2239F-46F4306F-F14C2CB6-99E89522",
+        "E69CC93A-4B978016-23B6DDAB-5945D184",
+        "BB52531B-4F06B14C-E5BBCF9F-468F6225",
+        "3EA60D82-494FE3B5-F9510ABC-92958929",
+        "DFD47B3F-45A97723-1CD3EDB6-9EAA39C4",
+        "3A865B9E-4E37EF34-EAE432B5-2467410C",
+        "30C45EDA-47B68660-B4686087-998206ED",
+        "DFC7DDAC-4DE576EF-8677F3A6-E87AD3F7",
+        "F8B17781-4C0242A9-C83E8CA1-C8FEB672",
+        "BE4CB062-42165A9D-E691848B-7B206F95",
+        "959BEC2E-48A8F760-57D8EAB2-4A6F73BB",
+        "52370709-437FE5A9-A03EA3A1-8537A60E",
+        "34F3DE93-47D9EB3F-1C7A069D-A2787B56",
+        "B9292709-4CF425A1-58A90BB7-46D90D60",
+        "08B29AEA-4FD0214C-1F8A6086-32FF2EA7",
+        "B6F0E4C0-4B9BBD9E-F02B23AB-80E0EE96",
+        "313CBFED-49911090-12D1D18A-F240FC2F",
+        "F791FD49-46C37958-BB96C987-461031E5",
+        "6938E496-4A47FA72-24519499-A6DC7904",
+        "150EB11E-4BC2825A-7C5F2497-17DA5A59",
+        "B90156C5-427DB347-0374D198-C6E39428",
+        "159188EB-4D0DA44C-F2B3D988-9487CF12"
+      ],
+      "LevelBuildDataId": "C6F79B40-48A8C882-84D9AEA2-443333D9",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Range_Art_Bridge_ClientOnly_CosmeticDetails_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails_BuiltData.4"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.17"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.17"
+      },
+      null,
+      {
+        "ObjectName": "DecalActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_R_MI5_12",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.20"
+      },
+      {
+        "ObjectName": "DecalActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor178",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.18"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_3_RoofDebrisB6",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.45"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.WoodPlanks_3_OnePlankA7",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.48"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumRoofSplintersC35",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.46"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Papers_0_Ground_160",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.5"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.AtkPathA_0_WineBottleA_162",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.2"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Plant_0_GroundLeavesB_170",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.7"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Tech_1_RebelGunCasePistol_174",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.16"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_7_StoneTileA_232",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.11"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumShingles_240",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.12"
+      },
+      {
+        "ObjectName": "DecalActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_B_MI5_8",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.19"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_Piling_118",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.13"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Papers_1_Ground_140",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.6"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_MedBFINAL_178",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.8"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_TinyAFINAL_180",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.9"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Vista_1_Water3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.47"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Gravel_0_PebblesRocksSpreadB_142",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.4"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Bullets_0_EmptyScatter_166",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.3"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_PilingGroupA_238",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.15"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Structural_4_PilingBroke_182",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.14"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.WoodPlanks_4_FoundationWood2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.49"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_SmallBFINAL_50",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.44"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_6_ConcreteDebrisB2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.10"
+      },
+      {
+        "ObjectName": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_Bridge_ClientOnly_CosmeticDetails_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.43"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 13030,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.41"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_Bridge_ClientOnly_CosmeticDetails_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.43"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "94EA9397-4C5B30AB-2AAFDAB5-391FE544",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C",
+    "Name": "Range_Art_Bridge_ClientOnly_CosmeticDetails_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Range_Art_Bridge_ClientOnly_CosmeticDetails_C"
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Rocks_0_SmallBFINAL_50",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_SmallBFINAL_50.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.50"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rocks_0_SmallBFINAL_50.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.50"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Rubble_3_RoofDebrisB6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_3_RoofDebrisB6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.51"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_3_RoofDebrisB6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.51"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumRoofSplintersC35",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumRoofSplintersC35.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.52"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumRoofSplintersC35.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.52"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_1_Water3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Vista_1_Water3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.53"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.Vista_1_Water3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.53"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "WoodPlanks_3_OnePlankA7",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.WoodPlanks_3_OnePlankA7.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.54"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.WoodPlanks_3_OnePlankA7.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.54"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "WoodPlanks_4_FoundationWood2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.WoodPlanks_4_FoundationWood2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.55"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel.WoodPlanks_4_FoundationWood2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.55"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Rocks_0_SmallBFINAL_50",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rocks_0_SmallBFINAL",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rocks/0/Rocks_0_SmallBFINAL.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3619434503,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 2016.2325
+        },
+        {
+          "PackedRelativeBox": 3619434503,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2016.2325
+        },
+        {
+          "PackedRelativeBox": 3619434503,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 2016.2325
+        },
+        {
+          "PackedRelativeBox": 3619434503,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 2016.2325
+        }
+      ],
+      "RelativeLocation": {
+        "X": 2288.0442,
+        "Y": -8463.711,
+        "Z": 244.2777
+      },
+      "RelativeRotation": {
+        "Pitch": 28.60263,
+        "Yaw": 161.98308,
+        "Roll": 80.427864
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5C20FA9740E1C42004DCE1A56AF893F0",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 165
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Rubble_3_RoofDebrisB6",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_3_RoofDebrisB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/3/Rubble_3_RoofDebrisB.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4278059108,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 225.91405
+        },
+        {
+          "PackedRelativeBox": 4278059108,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 225.91405
+        },
+        {
+          "PackedRelativeBox": 4278059108,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 225.91405
+        }
+      ],
+      "CastShadow": false,
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 44.352356,
+        "Y": -9710.827,
+        "Z": 1199.888
+      },
+      "RelativeRotation": {
+        "Pitch": 0.103891,
+        "Yaw": 144.08435,
+        "Roll": -0.005449
+      },
+      "DetailMode": "DM_High"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1D46657F48357F0AA348529E272B1EF6",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 800
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumRoofSplintersC35",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumRoofSplintersC",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumRoofSplintersC.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 204.46127
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 204.46127
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 204.46127
+        }
+      ],
+      "CastShadow": false,
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -145.31241,
+        "Y": -9700.0205,
+        "Z": 1201.3408
+      },
+      "RelativeRotation": {
+        "Pitch": -0.069669,
+        "Yaw": 41.232197,
+        "Roll": -0.07707
+      },
+      "DetailMode": "DM_High"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4A0740524E4C8DF8797A4A8511E727C7"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_1_Water3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_1_Water",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/Vista/1/Vista_1_Water.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 58458244,
+          "TextureLevelIndex": 23,
+          "TexelFactor": 38935.85
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material Vista_1_Water_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/Vista/1/M0/Vista_1_Water_MI.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 6107.1914,
+        "Y": 871.698,
+        "Z": 975.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -30.000036,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4D010CB744F57B10D0977A8DBCAB505C",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 882
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "WoodPlanks_3_OnePlankA7",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh WoodPlanks_3_OnePlankA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/WoodPlanks/3/WoodPlanks_3_OnePlankA.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 205.40424
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 204.45229
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 204.45229
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 204.45229
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 205.40424
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 205.40424
+        }
+      ],
+      "CastShadow": false,
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -45.888596,
+        "Y": -9717.136,
+        "Z": 1201.3506
+      },
+      "RelativeRotation": {
+        "Pitch": 0.082319,
+        "Yaw": 107.50657,
+        "Roll": -0.063503
+      },
+      "RelativeScale3D": {
+        "X": 0.75,
+        "Y": 0.75,
+        "Z": 0.75
+      },
+      "DetailMode": "DM_High"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B41AE758472564B5880B3ABE45A18A1E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "WoodPlanks_4_FoundationWood2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh WoodPlanks_4_FoundationWood",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/WoodPlanks/4/WoodPlanks_4_FoundationWood.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3617526016,
+          "TextureLevelIndex": 26,
+          "TexelFactor": 259.19208
+        },
+        {
+          "PackedRelativeBox": 3617526016,
+          "TextureLevelIndex": 27,
+          "TexelFactor": 259.19208
+        },
+        {
+          "PackedRelativeBox": 3617526016,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 259.19208
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Wood_M3_Slats_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Wood/M3/Wood_M3_Slats_MI.0"
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": -610.6445,
+        "Y": -9292.761,
+        "Z": 467.26672
+      },
+      "RelativeRotation": {
+        "Pitch": 0.091691,
+        "Yaw": 83.606804,
+        "Roll": 0.81833
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CD171BCD429A9F22CD4815BFC631963B"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Range_Art_Bridge_ClientOnly_CosmeticDetails",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Range_Art_Bridge_ClientOnly_CosmeticDetails:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Bridge_ClientOnly_CosmeticDetails.40"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

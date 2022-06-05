@@ -1,0 +1,700 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Triad_LightingDestruction_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Triad_LightingDestruction_C Default__Triad_LightingDestruction_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.1"
+    }
+  },
+  {
+    "Type": "Triad_LightingDestruction_C",
+    "Name": "Default__Triad_LightingDestruction_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Triad_LightingDestruction:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.3"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Triad_LightingDestruction:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.6"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Triad_LightingDestruction",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Triad_LightingDestruction:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.5"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Triad_LightingDestruction_C Triad_LightingDestruction:PersistentLevel.Triad_LightingDestruction_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.25"
+      },
+      "LevelBuildDataId": "91CAFC4C-40B019C5-75F601B7-E0C41600",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Triad_LightingDestruction_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Triad_LightingDestruction:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Triad_LightingDestruction:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.2"
+      },
+      null,
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight52_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.9"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight72",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.12"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight73",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.13"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight74",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.14"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight75",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.15"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight76",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.16"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight64",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.10"
+      },
+      {
+        "ObjectName": "SpotLight Triad_LightingDestruction:PersistentLevel.SpotLight69",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.11"
+      },
+      {
+        "ObjectName": "PointLight Triad_LightingDestruction:PersistentLevel.PointLight83",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.7"
+      },
+      {
+        "ObjectName": "Triad_LightingDestruction_C Triad_LightingDestruction:PersistentLevel.Triad_LightingDestruction_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.25"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Triad_LightingDestruction:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.5"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Triad_LightingDestruction_C Triad_LightingDestruction:PersistentLevel.Triad_LightingDestruction_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.25"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "37B4A0CA-455CC703-D8510ABE-52A0B21A",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "PointLight",
+    "Name": "PointLight83",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "PointLightComponent": {
+        "ObjectName": "PointLightComponent Triad_LightingDestruction:PersistentLevel.PointLight83.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.8"
+      },
+      "LightComponent": {
+        "ObjectName": "PointLightComponent Triad_LightingDestruction:PersistentLevel.PointLight83.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.8"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "PointLightComponent Triad_LightingDestruction:PersistentLevel.PointLight83.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.8"
+      }
+    }
+  },
+  {
+    "Type": "PointLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "PointLight83",
+    "Properties": {
+      "SourceRadius": 43.30932,
+      "AttenuationRadius": 1511.4951,
+      "LightGuid": "5DF37511-425D114E-74E2438A-1A55D98A",
+      "Intensity": 20000.0,
+      "LightColor": {
+        "B": 239,
+        "G": 255,
+        "R": 208,
+        "A": 255,
+        "Hex": "FFD0FFEF"
+      },
+      "CastShadows": false,
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 3209.4402,
+        "Y": -14332.104,
+        "Z": 731.5708
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight52_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight52_1.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.17"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight52_1.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.17"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight52_1.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.17"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight64",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight64.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.18"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight64.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.18"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight64.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.18"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight69",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight69.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.19"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight69.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.19"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight69.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.19"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight72",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight72.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.20"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight72.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.20"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight72.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.20"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight73",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight73.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.21"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight73.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.21"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight73.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.21"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight74",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight74.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.22"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight74.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.22"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight74.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.22"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight75",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight75.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.23"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight75.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.23"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight75.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.23"
+      }
+    }
+  },
+  {
+    "Type": "SpotLight",
+    "Name": "SpotLight76",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "SpotLightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight76.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.24"
+      },
+      "LightComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight76.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.24"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "SpotLightComponent Triad_LightingDestruction:PersistentLevel.SpotLight76.LightComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.24"
+      }
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight52_1",
+    "Properties": {
+      "InnerConeAngle": 40.0,
+      "OuterConeAngle": 70.0,
+      "SourceRadius": 19.276035,
+      "LightGuid": "81D173D1-44550EC4-278855BB-4DF1CFCC",
+      "Intensity": 0.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 6916.5723,
+        "Y": -11484.373,
+        "Z": 1368.0171
+      },
+      "RelativeRotation": {
+        "Pitch": 22.058205,
+        "Yaw": -172.32764,
+        "Roll": -103.74484
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight64",
+    "Properties": {
+      "InnerConeAngle": 39.37143,
+      "OuterConeAngle": 55.923813,
+      "SourceRadius": 19.276035,
+      "LightGuid": "79B2B1BA-428F56B8-82228598-32228532",
+      "Intensity": 500000.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 6759.2114,
+        "Y": -10414.278,
+        "Z": 2151.6584
+      },
+      "RelativeRotation": {
+        "Pitch": 42.055645,
+        "Yaw": 13.5900135,
+        "Roll": 76.406845
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight69",
+    "Properties": {
+      "InnerConeAngle": 59.685715,
+      "OuterConeAngle": 80.0,
+      "SourceRadius": 19.276035,
+      "IntensityUnits": "ELightUnits::Candelas",
+      "AttenuationRadius": 2000.0,
+      "LightGuid": "F4A0BF0A-4D39F34F-3E78DCBE-2A6D5660",
+      "Intensity": 800.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 7790.4453,
+        "Y": -10228.15,
+        "Z": 653.20087
+      },
+      "RelativeRotation": {
+        "Pitch": 55.623085,
+        "Yaw": -1.543793,
+        "Roll": 100.354164
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight72",
+    "Properties": {
+      "InnerConeAngle": 50.0,
+      "OuterConeAngle": 60.0,
+      "SourceRadius": 19.276035,
+      "LightGuid": "5B4EB349-4AB36409-6B05B5BE-B26E1F3F",
+      "Intensity": 10000.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 7338.677,
+        "Y": -10630.418,
+        "Z": 1490.0854
+      },
+      "RelativeRotation": {
+        "Pitch": 46.42468,
+        "Yaw": 157.61864,
+        "Roll": -79.190796
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight73",
+    "Properties": {
+      "InnerConeAngle": 45.266666,
+      "OuterConeAngle": 70.0,
+      "SourceRadius": 19.276035,
+      "LightGuid": "52DF79AF-42847861-8FC649A9-4FA161D3",
+      "Intensity": 100000.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 6942.3125,
+        "Y": -11023.749,
+        "Z": 1539.7235
+      },
+      "RelativeRotation": {
+        "Pitch": 9.724385,
+        "Yaw": -164.22249,
+        "Roll": -86.41644
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight74",
+    "Properties": {
+      "InnerConeAngle": 39.37143,
+      "OuterConeAngle": 70.0,
+      "SourceRadius": 19.276035,
+      "LightGuid": "3554FD02-4AA6502B-C5F82D90-83020467",
+      "Intensity": 100000.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 6862.2866,
+        "Y": -11043.89,
+        "Z": 1483.6729
+      },
+      "RelativeRotation": {
+        "Pitch": 20.386112,
+        "Yaw": 135.24411,
+        "Roll": -68.728424
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight75",
+    "Properties": {
+      "InnerConeAngle": 59.685715,
+      "OuterConeAngle": 80.0,
+      "SourceRadius": 19.276035,
+      "LightGuid": "DEE57540-453851CD-0F844495-19FC7C2F",
+      "Intensity": 20000.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 6939.3647,
+        "Y": -10737.233,
+        "Z": 1395.3235
+      },
+      "RelativeRotation": {
+        "Pitch": 72.123436,
+        "Yaw": 72.722565,
+        "Roll": 173.76726
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SpotLightComponent",
+    "Name": "LightComponent0",
+    "Outer": "SpotLight76",
+    "Properties": {
+      "InnerConeAngle": 59.685715,
+      "OuterConeAngle": 80.0,
+      "SourceRadius": 19.276035,
+      "LightGuid": "50ECE25C-4F4E6225-51849EAE-36C27F7D",
+      "Intensity": 20000.0,
+      "LightColor": {
+        "B": 80,
+        "G": 127,
+        "R": 242,
+        "A": 255,
+        "Hex": "FFF27F50"
+      },
+      "IndirectLightingIntensity": 8.0,
+      "RelativeLocation": {
+        "X": 6726.8384,
+        "Y": -10830.261,
+        "Z": 1505.5002
+      },
+      "RelativeRotation": {
+        "Pitch": 1.396261,
+        "Yaw": 124.87978,
+        "Roll": 172.2461
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "Triad_LightingDestruction_C",
+    "Name": "Triad_LightingDestruction_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Triad_LightingDestruction_C"
+  },
+  {
+    "Type": "World",
+    "Name": "Triad_LightingDestruction",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Triad_LightingDestruction:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_LightingDestruction.4"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

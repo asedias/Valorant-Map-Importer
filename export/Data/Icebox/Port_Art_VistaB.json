@@ -1,0 +1,4503 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Port_Art_VistaB_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Port_Art_VistaB_C Default__Port_Art_VistaB_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.1"
+    }
+  },
+  {
+    "Type": "Port_Art_VistaB_C",
+    "Name": "Default__Port_Art_VistaB_C"
+  },
+  {
+    "Type": "Actor",
+    "Name": "AScaffold_9_LightHazard",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.AScaffold_9_LightHazard.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.21"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.AScaffold_9_LightHazard.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.21"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Construction_1_InteriorPanelSingle",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.22"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.22"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Construction_1_WallBarrierSingle",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_WallBarrierSingle.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.23"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_WallBarrierSingle.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.23"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Container_1_ShippingC",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Container_1_ShippingC.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.24"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Container_1_ShippingC.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.24"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Container_1_ShippingC_7",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Container_1_ShippingC_7.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.25"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Container_1_ShippingC_7.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Container_1_ShippingE",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Container_1_ShippingE.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.26"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Container_1_ShippingE.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.26"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Kingdom_7_ScaffoldC",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Kingdom_7_ScaffoldC.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.27"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Kingdom_7_ScaffoldC.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.27"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Railing_1_PostCylinderFINAL",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Railing_1_PostCylinderFINAL.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.28"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Railing_1_PostCylinderFINAL.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.28"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Shell_0_VistaCraneB",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Shell_0_VistaCraneB.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.29"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Shell_0_VistaCraneB.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Shell_10_DefPathBIceWall",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Shell_10_DefPathBIceWall.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.30"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Shell_10_DefPathBIceWall.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.30"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Tarp_0_CsiteCrates",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Tarp_0_CsiteCrates.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.31"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Tarp_0_CsiteCrates.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.31"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Vent_0_StraightA",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vent_0_StraightA.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.32"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vent_0_StraightA.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.32"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Vista_2_WaterIceBuildup",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.33"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.33"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Vista_2_WaterIceBuildup_18",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup_18.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.34"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup_18.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.34"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Vista_2_WaterIceBuildup_20",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup_20.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.35"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup_20.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.35"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Port_Art_VistaB:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.20"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Port_Art_VistaB:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.38"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M0_Ground_R_MI208",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Port_Art_VistaB:PersistentLevel.Grunge_M0_Ground_R_MI208.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.19"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Port_Art_VistaB:PersistentLevel.Grunge_M0_Ground_R_MI208.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.19"
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M0_Ground_R_MI208",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Sand_M0_BuildupSparkles_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Sand/M0/Sand_M0_BuildupSparkles_G_MI.0"
+      },
+      "SortOrder": 2,
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 1.898251,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 210,
+        "G": 125,
+        "R": 106,
+        "A": 255,
+        "Hex": "FF6A7DD2"
+      },
+      "VisibilityId": 1608,
+      "RelativeLocation": {
+        "X": 4412.881,
+        "Y": 824.3882,
+        "Z": 58.130676
+      },
+      "RelativeRotation": {
+        "Pitch": -88.23474,
+        "Yaw": -171.70554,
+        "Roll": -70.516754
+      },
+      "RelativeScale3D": {
+        "X": 0.452146,
+        "Y": 2.400919,
+        "Z": 4.115558
+      },
+      "DetailMode": "DM_Medium"
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "AScaffold_9_LightHazard",
+    "Properties": {
+      "InstancingRandomSeed": 9318,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh AScaffold_9_LightHazard",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/AScaffold/9/AScaffold_9_LightHazard.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 36,
+          "TexelFactor": 54.400047
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 54.400047
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 37,
+          "TexelFactor": 54.400047
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1600,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 4861.487,
+        "Y": 1741.9395,
+        "Z": 95.27623
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_Medium",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "DF2552FB4AA9FCD5BF2A3CAA40F9AE9C"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": -1897.6951,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00003,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.5785549,
+          "Y": 2.5785549,
+          "Z": 2.578555
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00003,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.5785549,
+          "Y": 2.5785549,
+          "Z": 2.578555
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Construction_1_InteriorPanelSingle",
+    "Properties": {
+      "InstancingRandomSeed": 1054,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Construction_1_InteriorPanelSingle",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Construction/1/Construction_1_InteriorPanelSingle.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 423.02634
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M10_GroundTrimVentsIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M10/Metal_M10_GroundTrimVentsIce_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1616,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5295.307,
+        "Y": -419.24753,
+        "Z": 17.357422
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CE3FBE7246D5F8DEB3B78EAF624AAD47",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 248
+        }
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 349.9956,
+          "Y": 2250.7139,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 753.5244,
+          "Y": 3790.633,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1263.4502,
+          "Y": 4250.1543,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1263.4502,
+          "Y": 3790.633,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -814.76416,
+          "Y": 3790.633,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -304.83838,
+          "Y": 4250.1543,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -304.83838,
+          "Y": 3790.633,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1471.771,
+          "Y": 4098.665,
+          "Z": -529.21063
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1471.771,
+          "Y": 3639.1438,
+          "Z": -529.21063
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1310.728,
+          "Y": 3639.1438,
+          "Z": -529.2267
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -800.8042,
+          "Y": 4098.665,
+          "Z": -529.2236
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -800.8042,
+          "Y": 3639.1438,
+          "Z": -529.2236
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -39.072754,
+          "Y": 3790.633,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 470.85303,
+          "Y": 4250.1543,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 470.85303,
+          "Y": 3790.633,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -413.0044,
+          "Y": 2250.7139,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 96.92139,
+          "Y": 2250.7139,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 349.9956,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 859.9214,
+          "Y": 193.23532,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 859.9214,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 859.9214,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -413.0044,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 96.92139,
+          "Y": 193.23532,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 96.92139,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 96.92139,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1055.9956,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1565.9214,
+          "Y": 193.23532,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1565.9214,
+          "Y": -266.28604,
+          "Z": -529.21344
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.938913,
+          "Y": 1.938913,
+          "Z": 1.938913
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Construction_1_WallBarrierSingle",
+    "Properties": {
+      "InstancingRandomSeed": 4806,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Construction_1_WallBarrierSingle",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Construction/1/Construction_1_WallBarrierSingle.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 374.39923
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 374.39923
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 374.39923
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M7_LongPanelKingdomLight",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M7/Metal_M7_LongPanelKingdomLight.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1672,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 3921.382,
+        "Y": 315.6112,
+        "Z": 28.982569
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7ECC21DE4B02AE5FC2A7FDBCD7D610E1"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -12.8515625,
+          "Y": 1517.2484,
+          "Z": -0.00053596497
+        },
+        "RelativeRotation": {
+          "Pitch": 6.9999965E-06,
+          "Yaw": 179.99988,
+          "Roll": 89.99996
+        },
+        "RelativeScale3D": {
+          "X": 1.929247,
+          "Y": 1.4295529,
+          "Z": 2.0229979
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -12.856934,
+          "Y": 505.7492,
+          "Z": -0.00031089783
+        },
+        "RelativeRotation": {
+          "Pitch": 6.9999965E-06,
+          "Yaw": 179.99988,
+          "Roll": 89.99996
+        },
+        "RelativeScale3D": {
+          "X": 1.929247,
+          "Y": 1.4295529,
+          "Z": 2.0229979
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -12.854736,
+          "Y": 1011.49866,
+          "Z": -0.0004310608
+        },
+        "RelativeRotation": {
+          "Pitch": 6.9999965E-06,
+          "Yaw": 179.99988,
+          "Roll": 89.99996
+        },
+        "RelativeScale3D": {
+          "X": 1.929247,
+          "Y": 1.4295529,
+          "Z": 2.0229979
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 6.8835534E-06,
+          "Yaw": 178.22205,
+          "Roll": 89.99992
+        },
+        "RelativeScale3D": {
+          "X": 1.9292462,
+          "Y": 1.4295528,
+          "Z": 2.0229976
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Container_1_ShippingC",
+    "Properties": {
+      "InstancingRandomSeed": 24307,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Container_1_ShippingC",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/Container_1_ShippingC.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 43,
+          "TexelFactor": 405.46402
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 40,
+          "TexelFactor": 430.32797
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 41,
+          "TexelFactor": 430.32797
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 42,
+          "TexelFactor": 430.32797
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 44,
+          "TexelFactor": 265.9584
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 45,
+          "TexelFactor": 265.9584
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 39,
+          "TexelFactor": 265.9584
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 405.46402
+        }
+      ],
+      "OverrideMaterials": [
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M0_ShippingC1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M0_ShippingC1_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Container_M0_MetalShippingC1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_M0_MetalShippingC1_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1680,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5256.5776,
+        "Y": 2208.8262,
+        "Z": 430.50635
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1D68395F461E24446DE9498D169D0DDB"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1095.6348,
+          "Y": 985.2417,
+          "Z": -349.91473
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 176.70639,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1218.8579,
+          "Y": -2963.9211,
+          "Z": -412.89273
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -178.55545,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 917.6924,
+          "Y": -3265.6562,
+          "Z": -412.89273
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -10.000458,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Container_1_ShippingC_7",
+    "Properties": {
+      "InstancingRandomSeed": 23481,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Container_1_ShippingC",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/Container_1_ShippingC.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 43,
+          "TexelFactor": 405.46402
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 430.32797
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 430.32797
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 430.32797
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 44,
+          "TexelFactor": 265.9584
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 45,
+          "TexelFactor": 265.9584
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 39,
+          "TexelFactor": 265.9584
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 405.46402
+        }
+      ],
+      "OverrideMaterials": [
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M0_ShippingC_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M0_ShippingC_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Container_M0_MetalShipping_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_M0_MetalShipping_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 20616,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5256.5776,
+        "Y": 2208.8262,
+        "Z": 430.50635
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D26772C4453C84C06C73E9B4DEEB0D22"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -222.53857,
+          "Y": -3314.6702,
+          "Z": -61.733032
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Container_1_ShippingE",
+    "Properties": {
+      "InstancingRandomSeed": 31907,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Container_1_ShippingE",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/Container_1_ShippingE.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 39,
+          "TexelFactor": 254.46071
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 40,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 41,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 42,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 221.00317
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 43,
+          "TexelFactor": 221.00317
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 44,
+          "TexelFactor": 254.46071
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 45,
+          "TexelFactor": 254.46071
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M0_ShippingC1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M0_ShippingC1_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M0_Decals_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M0_Decals_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Container_M0_MetalShippingC1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_M0_MetalShippingC1_MI.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_Occluder",
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 20640,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5256.5776,
+        "Y": 2208.8262,
+        "Z": 430.50635
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F08FD3B44E2C485AB7C14E8F95EC9D7B"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -994.62305,
+          "Y": 344.02466,
+          "Z": -350.0
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -0.00021362303,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 612.48145,
+          "Y": 270.05078,
+          "Z": -350.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99985,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Kingdom_7_ScaffoldC",
+    "Properties": {
+      "InstancingRandomSeed": 5602,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Kingdom_7_ScaffoldC",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Kingdom/7/Kingdom_7_ScaffoldC.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 281.7749
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 207.3728
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 38,
+          "TexelFactor": 207.3728
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 207.3728
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 281.7749
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 281.7749
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 2608,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 3640.757,
+        "Y": 3070.4668,
+        "Z": 463.81497
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0A8C81DF476F3FACD253A6B941DEBDEF"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -235.0,
+          "Y": -475.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": -179.99998,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.252925,
+          "Y": 1.6376972,
+          "Z": 2.777366
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.252926,
+          "Y": 1.279165,
+          "Z": 2.142857
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Railing_1_PostCylinderFINAL",
+    "Properties": {
+      "InstancingRandomSeed": 12268,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Railing_1_PostCylinderFINAL",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Railing/1/Railing_1_PostCylinderFINAL.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 34,
+          "TexelFactor": 433.41714
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 433.41714
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 35,
+          "TexelFactor": 433.41714
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1592,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 3882.9321,
+        "Y": -1195.0685,
+        "Z": 79.161316
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7604B279413D8DC1D711768A23C1AC29"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 993.0039,
+          "Y": 976.3423,
+          "Z": -57.471985
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.332628,
+          "Y": 1.332628,
+          "Z": 1.103122
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 12.282959,
+          "Y": 961.5922,
+          "Z": -6.1035156E-05
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.58791,
+          "Y": 1.58791,
+          "Z": 1.222992
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.58791,
+          "Y": 1.58791,
+          "Z": 1.222992
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Shell_0_VistaCraneB",
+    "Properties": {
+      "InstancingRandomSeed": 23556,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_0_VistaCraneB",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Shell/0/Shell_0_VistaCraneB.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 46,
+          "TexelFactor": 921.7428
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 663.3434
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 663.3434
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 663.3434
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 47,
+          "TexelFactor": 439.27115
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 48,
+          "TexelFactor": 439.27115
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 49,
+          "TexelFactor": 439.27115
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 50,
+          "TexelFactor": 303.53903
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 51,
+          "TexelFactor": 303.53903
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 52,
+          "TexelFactor": 303.53903
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 771.6106
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 771.6106
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 771.6106
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 53,
+          "TexelFactor": 921.7428
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 54,
+          "TexelFactor": 921.7428
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Concrete_M4_BasicNewDark_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Trims/Concrete/M4/Concrete_M4_BasicNewDark_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M14_PaintedKingdomTrimDark_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M14/Metal_M14_PaintedKingdomTrimDark_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M9_KingdomLargeSeamedPanel_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M9/Metal_M9_KingdomLargeSeamedPanel_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Sewer_0_M0_GrateB_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Sewer/0/M0/Sewer_0_M0_GrateB_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Construction_M0_WalkwayFenceVent_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Trims/Construction/M0/Construction_M0_WalkwayFenceVent_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1816,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 12414.145,
+        "Y": -1871.1195,
+        "Z": -775.8999
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1F97A8F744273B9598B6E08AA5B96580"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 693.28125,
+          "Y": 6536.542,
+          "Z": -225.04785
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 20.000072,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Shell_10_DefPathBIceWall",
+    "Properties": {
+      "InstancingRandomSeed": 12290,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_10_DefPathBIceWall",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Shell/10/Shell_10_DefPathBIceWall.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 55,
+          "TexelFactor": 4177.7085
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 56,
+          "TexelFactor": 4177.7085
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 57,
+          "TexelFactor": 4177.7085
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Shell_9_M0_DefSpawnIceWall_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Shell/9/M0/Shell_9_M0_DefSpawnIceWall_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 3464,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 9026.732,
+        "Y": 7807.849,
+        "Z": -1314.2847
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A076D688478950D890FBC2A88D20F5DE"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -3809.0078,
+          "Y": 349.27344,
+          "Z": 442.4629
+        },
+        "RelativeRotation": {
+          "Pitch": -5.0,
+          "Yaw": -10.000121,
+          "Roll": 1.06721714E-07
+        },
+        "RelativeScale3D": {
+          "X": 1.2275301,
+          "Y": 0.99999994,
+          "Z": 1.101053
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": -4.6543274,
+          "Yaw": -60.003544,
+          "Roll": 0.26612562
+        },
+        "RelativeScale3D": {
+          "X": 1.22753,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Tarp_0_CsiteCrates",
+    "Properties": {
+      "InstancingRandomSeed": 1012,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tarp_0_CsiteCrates",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Tarp/0/Tarp_0_CsiteCrates.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 531.027
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant ColorPalette_M0_Brown",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/ColorPalette/M0/ColorPalette_M0_Brown.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1720,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 4536.1206,
+        "Y": -960.9047,
+        "Z": 107.157135
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "826B1EA848FEB545F0080C8FC9B9FD45"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 222.53857,
+          "Y": 3312.7334,
+          "Z": 61.733032
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.18424998,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.2509851,
+          "Y": 1.480418,
+          "Z": 1.527977
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.18424998,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.2509851,
+          "Y": 1.480418,
+          "Z": 1.527977
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Vent_0_StraightA",
+    "Properties": {
+      "InstancingRandomSeed": 25345,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vent_0_StraightA",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Vent/0/Vent_0_StraightA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 25,
+          "TexelFactor": 652.4087
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 26,
+          "TexelFactor": 652.4087
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 27,
+          "TexelFactor": 652.4087
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1624,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5295.307,
+        "Y": -419.24753,
+        "Z": 17.357422
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "57FDC9C7465D243966F572ACE852D9EB"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 611.45215,
+          "Y": 2500.9111,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1014.98096,
+          "Y": 4040.83,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -553.3076,
+          "Y": 4040.83,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1049.273,
+          "Y": 3889.3408,
+          "Z": -880.93866
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 222.38379,
+          "Y": 4040.83,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -151.54785,
+          "Y": 2500.9111,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 611.45215,
+          "Y": -16.088898,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -151.54785,
+          "Y": -16.088898,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1317.4521,
+          "Y": -16.088898,
+          "Z": -880.9285
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": -90.00004
+        },
+        "RelativeScale3D": {
+          "X": 5.147073,
+          "Y": 3.579953,
+          "Z": 5.147073
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Vista_2_WaterIceBuildup",
+    "Properties": {
+      "InstancingRandomSeed": 21293,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_2_WaterIceBuildup",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/Vista_2_WaterIceBuildup.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 3077.9446
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Vista_2_M0_WaterIceBuildUpWorldOffset_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/M0/Vista_2_M0_WaterIceBuildUpWorldOffset_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "VisibilityId": 1784,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3575.067,
+        "Y": 3470.0933,
+        "Z": -863.5683
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "752C508B4F592FA21E264495E1D115F3"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2197.4404,
+          "Y": -4342.2,
+          "Z": 502.85638
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -151.99142,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.2782917,
+          "Y": 1.2782917,
+          "Z": 0.927199
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 3065.5298,
+          "Y": -575.7102,
+          "Z": 536.2159
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 19.99994,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0711999,
+          "Y": 1.2782918,
+          "Z": 0.927199
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Vista_2_WaterIceBuildup_18",
+    "Properties": {
+      "InstancingRandomSeed": 29996,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_2_WaterIceBuildup",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/Vista_2_WaterIceBuildup.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 3077.9446
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "VisibilityId": 1768,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3575.067,
+        "Y": 3470.0933,
+        "Z": -863.5683
+      },
+      "RelativeScale3D": {
+        "X": -1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C45112604E18A03D1257E687494E4C44"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -12633.016,
+          "Y": -1005.9011,
+          "Z": 520.47845
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 65.00017,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 5.070268,
+          "Y": 4.880538,
+          "Z": 4.587591
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -9278.846,
+          "Y": -3626.644,
+          "Z": 1691.7458
+        },
+        "RelativeRotation": {
+          "Pitch": 19.741856,
+          "Yaw": 130.47282,
+          "Roll": -14.344271
+        },
+        "RelativeScale3D": {
+          "X": 1.7400079,
+          "Y": 2.534301,
+          "Z": 2.350289
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -6301.525,
+          "Y": -4462.4893,
+          "Z": 447.84576
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 50.00015,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.72403,
+          "Y": 2.534301,
+          "Z": 2.241353
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5633.261,
+          "Y": 1663.5117,
+          "Z": 491.39404
+        },
+        "RelativeRotation": {
+          "Pitch": -2.812508,
+          "Yaw": 78.74333,
+          "Roll": -0.054504532
+        },
+        "RelativeScale3D": {
+          "X": 1.2782917,
+          "Y": 1.278292,
+          "Z": 1.070849
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7192.8843,
+          "Y": 2880.9023,
+          "Z": 716.51306
+        },
+        "RelativeRotation": {
+          "Pitch": 2.091491,
+          "Yaw": 78.7494,
+          "Roll": -0.39012572
+        },
+        "RelativeScale3D": {
+          "X": 1.8794119,
+          "Y": 1.8794119,
+          "Z": 0.70456207
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7228.567,
+          "Y": -4674.3447,
+          "Z": 948.858
+        },
+        "RelativeRotation": {
+          "Pitch": 3.9571524,
+          "Yaw": 173.25314,
+          "Roll": -6.525043
+        },
+        "RelativeScale3D": {
+          "X": 2.1003282,
+          "Y": 2.5343013,
+          "Z": 1.581058
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5991.6987,
+          "Y": -669.4512,
+          "Z": 506.99838
+        },
+        "RelativeRotation": {
+          "Pitch": -3.1949785,
+          "Yaw": 59.097687,
+          "Roll": -3.6412265
+        },
+        "RelativeScale3D": {
+          "X": 1.324075,
+          "Y": 2.102859,
+          "Z": 1.533613
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1896.5952,
+          "Y": -4919.708,
+          "Z": 659.32764
+        },
+        "RelativeRotation": {
+          "Pitch": 0.09344485,
+          "Yaw": -5.936983,
+          "Roll": 0.08206597
+        },
+        "RelativeScale3D": {
+          "X": 1.60522,
+          "Y": 1.727206,
+          "Z": 1.434257
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Vista_2_WaterIceBuildup_20",
+    "Properties": {
+      "InstancingRandomSeed": 29152,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_2_WaterIceBuildup",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/Vista_2_WaterIceBuildup.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 3077.9446
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 3216,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3575.067,
+        "Y": 3470.0933,
+        "Z": -863.5683
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2D0F10B042E670695F3F7B811D07D5ED"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 12483.164,
+          "Y": -3749.5962,
+          "Z": 3080.3037
+        },
+        "RelativeRotation": {
+          "Pitch": 18.319284,
+          "Yaw": -65.08568,
+          "Roll": -43.90942
+        },
+        "RelativeScale3D": {
+          "X": 2.6391604,
+          "Y": 2.8049102,
+          "Z": 5.035448
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 6171.311,
+          "Y": 1233.2661,
+          "Z": 474.86475
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999878,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.278292,
+          "Y": 1.278292,
+          "Z": 0.927199
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 3557.3403,
+          "Y": 4821.975,
+          "Z": 561.49036
+        },
+        "RelativeRotation": {
+          "Pitch": 3.0724587,
+          "Yaw": 30.020481,
+          "Roll": 0.5115711
+        },
+        "RelativeScale3D": {
+          "X": 1.417329,
+          "Y": 1.8945551,
+          "Z": 0.78241295
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 7220.5376,
+          "Y": 3115.5137,
+          "Z": 775.56616
+        },
+        "RelativeRotation": {
+          "Pitch": 4.328743,
+          "Yaw": -30.09457,
+          "Roll": -1.4494431
+        },
+        "RelativeScale3D": {
+          "X": 2.011411,
+          "Y": 2.4886377,
+          "Z": 1.439503
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1087.6523,
+          "Y": 1889.8638,
+          "Z": 450.39038
+        },
+        "RelativeRotation": {
+          "Pitch": 1.9999998E-05,
+          "Yaw": 35.000233,
+          "Roll": 7.3892883E-13
+        },
+        "RelativeScale3D": {
+          "X": 0.9162351,
+          "Y": 1.101895,
+          "Z": 0.780958
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -546.845,
+          "Y": 15.204102,
+          "Z": 467.42773
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -179.44957,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.75345474,
+          "Y": 0.88699764,
+          "Z": 0.043753
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Port_Art_VistaB",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Port_Art_VistaB:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.37"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Port_Art_VistaB_C Port_Art_VistaB:PersistentLevel.Port_Art_VistaB_C_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.39"
+      },
+      "StreamingTextureGuids": [
+        "DFD58E9F-4AE0A1AD-9155EE97-16E734F0",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "D3F395E0-4F4F0403-5538329C-24406C9A",
+        "8B1262BD-4062349A-50327587-815A40EE",
+        "18C47F30-42B556B8-94C53081-8B763833",
+        "7A9AA8C7-4EEFDB27-64375E85-D461027E",
+        "BF53F7EB-428633D8-36BC1B82-2F106C6E",
+        "4704A696-40B2D3EF-FD1880AD-F404C549",
+        "5A1DA461-45EF4856-D50C3A90-1B6A8255",
+        "CD249696-471988EE-9005F08A-975DB803",
+        "0BD850AE-4251FC02-65BAC1A2-40D9F305",
+        "35276EBE-4A10DC50-FAA992AF-A3D6D7C3",
+        "2EA1C09B-47254F84-44259EBC-B272DDDC",
+        "811DA363-42EDBCC9-B82501B3-6B527ABC",
+        "E11201D8-4AD0D470-970911BE-8F3C3EBD",
+        "169CB644-4DC97B69-4A4188AE-982E9E93",
+        "91B6FD05-4CC2307D-56E4BE97-016570CD",
+        "EDFACFF7-44D9CBBF-80E8BEA4-13DDB12D",
+        "5CE8EE7E-434D40A9-3CD6DE95-93BD5B0F",
+        "C406E8E7-4293A3F2-D8CD2296-E95505E4",
+        "C2D94E87-4EAC07C0-979CCBA6-0EA00AE1",
+        "2F2AA5B7-45153E65-BF88A1B5-1F70E196",
+        "8EDFB685-40B36E17-3357ED85-3CBBC9BF",
+        "D7DB0AD6-4F16D65B-9DE54D97-C961EE26",
+        "81B84093-48548E24-BF7123A1-04E00FB5",
+        "A14E4E2A-460653A3-118EA480-BEF63C48",
+        "CB600F5B-41EB764C-343902B0-AC620294",
+        "2006ADBA-45D8C53E-7ED18FB8-3F62815F",
+        "E7F6AFB6-47F86019-5DE749A3-B7F1F6E6",
+        "40D76D6D-4343C915-10BDD687-61B9C4F5",
+        "521C1E17-441347C4-865E6195-35453520",
+        "8C63060A-4BFDD308-0790BBBE-F03A7459",
+        "73E97FD9-4CA8F206-C0E3738F-3D4EC1E0",
+        "74E2BFDA-48107241-81DD87A7-02F7D65D",
+        "53D002A6-45AE1D48-FE53B987-51FF85FD",
+        "8E79CB47-4189A89F-7BC17DA7-548A33A0",
+        "A90A321D-4F123776-D3537CA0-D2D0450E",
+        "02FB9B2C-452231DB-8FA1E281-0C570C0C",
+        "D8C1690C-42C1E627-5C74BAA8-BBFEB021",
+        "91209DE2-4C85642C-81AF6B8E-96933A34",
+        "8E0E6935-438074F0-B2C02489-488DF6CE",
+        "56D0C42E-4CEBBBA8-AF6AFB8E-8E35FFCE",
+        "05489B38-47C532AE-C50BB398-FD8FFFE7",
+        "A5A5C676-4C39A55E-BE402799-0040749D",
+        "F97F833F-4061E76F-9DCD5E8F-3689E3E5",
+        "20DCFB99-4FBC3E37-F412EA87-67BB9441",
+        "836DA24D-4489AD36-6DB82682-7BE9FA75",
+        "5C83EA7D-4C8CBD37-24C8E183-2220B8A5",
+        "AA7417B0-4B34D35A-4A0456BC-273FB8FA",
+        "B90386CC-4837365F-632BE5B7-19C3ED68",
+        "1771D1F7-43A22E32-25095985-4FB4449D",
+        "E03DADEF-4CF2172C-EC086C98-4BFBD2B2",
+        "C367D161-4CAC3B48-A81024B7-BD4CA29B",
+        "772BCD96-45F2669C-D524BBA8-CBAFC6B4",
+        "7422BF24-4CC8B10A-5702FA95-BB54AD14",
+        "30293905-4F25B99E-60B53AB8-CA0E7588",
+        "1D1BC920-41B1F773-1C7EDDB7-98F0D176",
+        "784701FB-46C17153-ED5F2BAE-AFFE6F72",
+        "951940DF-4E6654D1-A5B040AC-33330141",
+        "90CD8407-4708921B-B3B788A8-DB1F3A4C",
+        "4352F1A9-46F3F34E-FCB8A28A-473DF7A5",
+        "5859E0CA-44758906-1A2316A5-D900082E",
+        "6C0E7733-4378EFD6-46D2CEBC-E0343C64",
+        "09FEF97B-424894D7-4EDD0A9F-8C4330A3"
+      ],
+      "LevelBuildDataId": "4B6E2163-4B76EFE5-8C43E6A0-47E43215",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Port_Art_VistaB_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Port_Art_VistaB:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.17"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Port_Art_VistaB:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.17"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_0_DockUpper",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.51"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_0_DockLower",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.49"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_0_DockRailing_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.50"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_6",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.42"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.43"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_0_AncientBoat_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.48"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_13",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.40"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vent_0_StraightA4_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.47"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup29",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.53"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceIslands21_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.54"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_27",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.41"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Construction_1_WallBarrierSingle",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.4"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Railing_1_PostCylinderFINAL",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.9"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.AScaffold_9_LightHazard",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.2"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Kingdom_7_ScaffoldC",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.8"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Container_1_ShippingE",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.7"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Container_1_ShippingC",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.5"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Container_1_ShippingC_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.6"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Tarp_0_CsiteCrates",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.12"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Shell_0_VistaCraneB",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.10"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Shell_10_DefPathBIceWall",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.11"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.14"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup_18",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.15"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup_20",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.16"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup24",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.52"
+      },
+      {
+        "ObjectName": "DecalActor Port_Art_VistaB:PersistentLevel.Grunge_M0_Ground_R_MI208",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.18"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.Plushie_4_DanThePenguin4",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.46"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.3"
+      },
+      {
+        "ObjectName": "Actor Port_Art_VistaB:PersistentLevel.Vent_0_StraightA",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.13"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.KingdomTech_2_Crane_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.44"
+      },
+      {
+        "ObjectName": "StaticMeshActor Port_Art_VistaB:PersistentLevel.KingdomTech_2_Crane_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.45"
+      },
+      {
+        "ObjectName": "Port_Art_VistaB_C Port_Art_VistaB:PersistentLevel.Port_Art_VistaB_C_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.39"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Port_Art_VistaB:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.37"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Port_Art_VistaB_C Port_Art_VistaB:PersistentLevel.Port_Art_VistaB_C_2",
+      "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.39"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "D658849F-4A52C7DC-79A11FB4-A3A8418A",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "Port_Art_VistaB_C",
+    "Name": "Port_Art_VistaB_C_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Port_Art_VistaB_C"
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Construction_1_InteriorPanelSingle3_13",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_13.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.55"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_13.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.55"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Construction_1_InteriorPanelSingle3_27",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_27.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.56"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_27.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.56"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Construction_1_InteriorPanelSingle3_6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.57"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.57"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Construction_1_InteriorPanelSingle3_9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.58"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Construction_1_InteriorPanelSingle3_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.58"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "KingdomTech_2_Crane_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.KingdomTech_2_Crane_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.59"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.KingdomTech_2_Crane_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.59"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "KingdomTech_2_Crane_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.KingdomTech_2_Crane_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.60"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.KingdomTech_2_Crane_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.60"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Plushie_4_DanThePenguin4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Plushie_4_DanThePenguin4.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.61"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Plushie_4_DanThePenguin4.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.61"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vent_0_StraightA4_5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vent_0_StraightA4_5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.62"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vent_0_StraightA4_5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.62"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_0_AncientBoat_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_AncientBoat_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.63"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_AncientBoat_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.63"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_0_DockLower",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_DockLower.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.64"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_DockLower.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.64"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_0_DockRailing_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_DockRailing_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.65"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_DockRailing_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.65"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_0_DockUpper",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_DockUpper.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.66"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_0_DockUpper.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.66"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_2_WaterIceBuildup24",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup24.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.67"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup24.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.67"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_2_WaterIceBuildup29",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup29.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.68"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceBuildup29.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.68"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Vista_2_WaterIceIslands21_9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceIslands21_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.69"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Port_Art_VistaB:PersistentLevel.Vista_2_WaterIceIslands21_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.69"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Construction_1_InteriorPanelSingle3_13",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Construction_1_InteriorPanelSingle",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Construction/1/Construction_1_InteriorPanelSingle.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 423.02634
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M10_GroundTrimVentsIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M10/Metal_M10_GroundTrimVentsIce_MI.0"
+        }
+      ],
+      "bUseAsOccluder": false,
+      "VisibilityId": 3200,
+      "RelativeLocation": {
+        "X": 3313.6104,
+        "Y": 3219.8962,
+        "Z": -511.8532
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00005,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.938913,
+        "Y": 1.938913,
+        "Z": 1.938913
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E57E78CB4F22F5A50893D9A4C0D15CD3",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 248
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Construction_1_InteriorPanelSingle3_27",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Construction_1_InteriorPanelSingle",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Construction/1/Construction_1_InteriorPanelSingle.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 423.02634
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M10_GroundTrimVentsIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M10/Metal_M10_GroundTrimVentsIce_MI.0"
+        }
+      ],
+      "bUseAsOccluder": false,
+      "VisibilityId": 2600,
+      "RelativeLocation": {
+        "X": 5392.2285,
+        "Y": 1831.4664,
+        "Z": -511.85602
+      },
+      "RelativeScale3D": {
+        "X": 1.938913,
+        "Y": 1.938913,
+        "Z": 1.938913
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "938798BD45BB190CA7AE85BFC79C03FA",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 248
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Construction_1_InteriorPanelSingle3_6",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Construction_1_InteriorPanelSingle",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Construction/1/Construction_1_InteriorPanelSingle.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 423.02634
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M10_GroundTrimVentsIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M10/Metal_M10_GroundTrimVentsIce_MI.0"
+        }
+      ],
+      "bUseAsOccluder": false,
+      "VisibilityId": 20944,
+      "RelativeLocation": {
+        "X": 6155.2285,
+        "Y": 1831.4664,
+        "Z": -511.85602
+      },
+      "RelativeScale3D": {
+        "X": 1.938913,
+        "Y": 1.938913,
+        "Z": 1.938913
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C84BA13E4C687AD7BBB292B0ABFE4591",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 248
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Construction_1_InteriorPanelSingle3_9",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Construction_1_InteriorPanelSingle",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Construction/1/Construction_1_InteriorPanelSingle.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 423.02634
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 423.02634
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M10_GroundTrimVentsIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M10/Metal_M10_GroundTrimVentsIce_MI.0"
+        }
+      ],
+      "bUseAsOccluder": false,
+      "VisibilityId": 20936,
+      "RelativeLocation": {
+        "X": 6155.2285,
+        "Y": 1831.4664,
+        "Z": -511.85602
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00005,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.938913,
+        "Y": 1.938913,
+        "Z": 1.938913
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C65B999A470C898ABD7A9FB5E80820DA",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 248
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "KingdomTech_2_Crane_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh KingdomTech_2_Crane",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/KingdomTech/2/KingdomTech_2_Crane.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901761,
+          "TextureLevelIndex": 61,
+          "TexelFactor": 855.4513
+        },
+        {
+          "PackedRelativeBox": 4294901761,
+          "TextureLevelIndex": 62,
+          "TexelFactor": 855.4513
+        },
+        {
+          "PackedRelativeBox": 4294901761,
+          "TextureLevelIndex": 63,
+          "TexelFactor": 855.4513
+        }
+      ],
+      "VisibilityId": 9248,
+      "RelativeLocation": {
+        "X": 12438.062,
+        "Y": -1930.3306,
+        "Z": 1500.9482
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -65.00009,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0430474,
+        "Y": 1.5426465,
+        "Z": 1.5426464
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "63A44B67496B91ECE3DE65ADC3FF88F6"
+      },
+      {
+        "MapBuildDataId": "AB8E50DF0D9178FC14047D62419F5F9D"
+      },
+      {
+        "MapBuildDataId": "E3EDECEDEBC32C6C342390F9015BDE72"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "KingdomTech_2_Crane_1",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh KingdomTech_2_Crane",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/KingdomTech/2/KingdomTech_2_Crane.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901792,
+          "TextureLevelIndex": 61,
+          "TexelFactor": 855.4513
+        },
+        {
+          "PackedRelativeBox": 4294901792,
+          "TextureLevelIndex": 62,
+          "TexelFactor": 855.4513
+        },
+        {
+          "PackedRelativeBox": 4294901792,
+          "TextureLevelIndex": 63,
+          "TexelFactor": 855.4513
+        }
+      ],
+      "VisibilityId": 20896,
+      "RelativeLocation": {
+        "X": 13154.887,
+        "Y": 4708.148,
+        "Z": 1275.9006
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 25.000006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.158019,
+        "Y": 1.6576183,
+        "Z": 1.6576184
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "231740054AFBB04143CDF08F7455B773"
+      },
+      {
+        "MapBuildDataId": "763D80ED38FB2BDFDC78EEC922B96D5F"
+      },
+      {
+        "MapBuildDataId": "1A27DCE148DD0BBA6B2F46E71D209A5C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Plushie_4_DanThePenguin4",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Plushie_4_DanThePenguin",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Plushie/4/Plushie_4_DanThePenguin.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4286447778,
+          "TextureLevelIndex": 58,
+          "TexelFactor": 145.6241
+        },
+        {
+          "PackedRelativeBox": 4286447778,
+          "TextureLevelIndex": 59,
+          "TexelFactor": 145.6241
+        },
+        {
+          "PackedRelativeBox": 4286447778,
+          "TextureLevelIndex": 60,
+          "TexelFactor": 145.6241
+        }
+      ],
+      "VisibilityId": 1792,
+      "RelativeLocation": {
+        "X": 5295.307,
+        "Y": -419.24753,
+        "Z": 17.357422
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 115.0,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "160592F7436F904C0D08A09F9099E1BC"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vent_0_StraightA4_5",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vent_0_StraightA",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Vent/0/Vent_0_StraightA.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 25,
+          "TexelFactor": 652.4087
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 26,
+          "TexelFactor": 652.4087
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 27,
+          "TexelFactor": 652.4087
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bUseAsOccluder": false,
+      "VisibilityId": 3208,
+      "RelativeLocation": {
+        "X": 3575.067,
+        "Y": 3470.0933,
+        "Z": -863.5683
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": -90.00005
+      },
+      "RelativeScale3D": {
+        "X": 5.147073,
+        "Y": 3.579953,
+        "Z": 5.147073
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "EE653BA8483B61E05BE5BFA1872385A5"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_0_AncientBoat_3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_0_AncientBoat",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/0/Vista_0_AncientBoat.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 2250.2666
+        },
+        {
+          "PackedRelativeBox": 2482962432,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2250.2666
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 23,
+          "TexelFactor": 2250.2666
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 24,
+          "TexelFactor": 2250.2666
+        },
+        {
+          "PackedRelativeBox": 2810059782,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 680.47784
+        },
+        {
+          "PackedRelativeBox": 2810059782,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 680.47784
+        },
+        {
+          "PackedRelativeBox": 2810059782,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 680.47784
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Wood_M15_OldSplinteredRedPaintIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Wood/M15/Wood_M15_OldSplinteredRedPaintIce_MI.0"
+        },
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Wood_M15_OldSplinteredDarkIce_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Wood/M15/Wood_M15_OldSplinteredDarkIce_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant RamenShop_0_M0_WindowScreen_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/RamenShop/0/M0/RamenShop_0_M0_WindowScreen_MI.0"
+        }
+      ],
+      "VisibilityId": 1824,
+      "RelativeLocation": {
+        "X": 11881.045,
+        "Y": 1233.9254,
+        "Z": -584.21893
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D5A9BA5C4C4F511F7255E9B682C9B6BF",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 18476
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_0_DockLower",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_0_DockLower",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/0/Vista_0_DockLower.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3488269632,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 1215.8595
+        },
+        {
+          "PackedRelativeBox": 3489645568,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1215.8595
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 873.7836
+        },
+        {
+          "PackedRelativeBox": 3445606400,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 575.25037
+        },
+        {
+          "PackedRelativeBox": 3445606400,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 575.25037
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 873.7836
+        },
+        {
+          "PackedRelativeBox": 3445606400,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 575.25037
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 873.7836
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 873.7836
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 873.7836
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 873.7836
+        },
+        {
+          "PackedRelativeBox": 3445606400,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 575.25037
+        },
+        {
+          "PackedRelativeBox": 3488269632,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 1215.8595
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Construction_M0_WalkwayMat_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Trims/Construction/M0/Construction_M0_WalkwayMat_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M8_KingdomBuildingCommercial_Dark_Frost_WAT_M",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Trims/Metal/M8/Metal_M8_KingdomBuildingCommercial_Dark_Frost_WAT_M.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Snow_M3_GroundBasicConcreteCracksADark_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Snow/M3/Snow_M3_GroundBasicConcreteCracksADark_MI.0"
+        }
+      ],
+      "VisibilityId": 1576,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3907.336,
+        "Y": 1830.1921,
+        "Z": 21.68895
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "23703D8C4D3936CA851C4883E1CC7DA2",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 379
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_0_DockRailing_1",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_0_DockRailing",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/0/Vista_0_DockRailing.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 396.31113
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 396.31113
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 396.31113
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M5_KingdomMetalTrimConstruction_Yellow_Painted_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Trims/Metal/M5/Metal_M5_KingdomMetalTrimConstruction_Yellow_painted_MI.0"
+        }
+      ],
+      "CastShadow": false,
+      "VisibilityId": 1584,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 5068.866,
+        "Y": 1325.4845,
+        "Z": 118.79346
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "63BC0EDB4703712D46971581A1C956D5",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 2334
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_0_DockUpper",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_0_DockUpper",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/0/Vista_0_DockUpper.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 709.5143
+        },
+        {
+          "PackedRelativeBox": 4227855360,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 539.6908
+        },
+        {
+          "PackedRelativeBox": 4227855360,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 539.6908
+        },
+        {
+          "PackedRelativeBox": 4227855360,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 539.6908
+        },
+        {
+          "PackedRelativeBox": 4227855360,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 539.6908
+        },
+        {
+          "PackedRelativeBox": 4227855360,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 539.6908
+        },
+        {
+          "PackedRelativeBox": 4227855360,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 539.6908
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 709.5143
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 709.5143
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M14_PaintedKingdomTrimDark_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M14/Metal_M14_PaintedKingdomTrimDark_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Snow_M3_GroundBasicConcreteCracksADark_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Snow/M3/Snow_M3_GroundBasicConcreteCracksADark_MI.0"
+        }
+      ],
+      "VisibilityId": 1664,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3259.2002,
+        "Y": -3072.4253,
+        "Z": 21.689697
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "9AFF9DFA4BCC1DB6E352A7B6F100248B",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 688
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_2_WaterIceBuildup24",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_2_WaterIceBuildup",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/Vista_2_WaterIceBuildup.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 3077.9446
+        }
+      ],
+      "CastShadow": false,
+      "VisibilityId": 3224,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 4321.3804,
+        "Y": 3541.7092,
+        "Z": -403.46283
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.44957,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.177208,
+        "Y": 0.886998,
+        "Z": 0.38725
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1FB65CF44851DCACEF91D1AFBC2FB54E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_2_WaterIceBuildup29",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_2_WaterIceBuildup",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/Vista_2_WaterIceBuildup.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 3077.9446
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 3077.9446
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Vista_2_M0_WaterIceBuildUpWorldOffset_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/M0/Vista_2_M0_WaterIceBuildUpWorldOffset_MI.0"
+        }
+      ],
+      "CastShadow": false,
+      "VisibilityId": 1432,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3227.0876,
+        "Y": -1381.9043,
+        "Z": -204.78717
+      },
+      "RelativeRotation": {
+        "Pitch": -0.093451,
+        "Yaw": -359.06296,
+        "Roll": 0.098828
+      },
+      "RelativeScale3D": {
+        "X": -1.306597,
+        "Y": 1.740571,
+        "Z": 1.447622
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "FE09775045519949B789B481EBD6D729"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Vista_2_WaterIceIslands21_9",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Vista_2_WaterIceIslands",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/Vista_2_WaterIceIslands.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4280025088,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 6686.178
+        },
+        {
+          "PackedRelativeBox": 4280025088,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 6686.178
+        },
+        {
+          "PackedRelativeBox": 4280025088,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 6686.178
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Vista_2_M0_WaterIceBuildUpWorldOffset_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Vista/2/M0/Vista_2_M0_WaterIceBuildUpWorldOffset_MI.0"
+        }
+      ],
+      "CastShadow": false,
+      "VisibilityId": 1248,
+      "RelativeLocation": {
+        "X": 7884.8965,
+        "Y": -3484.4055,
+        "Z": -374.6463
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -217.48793,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.665564,
+        "Y": 0.665564,
+        "Z": 0.665564
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "933D796E48B4841D330FC19BCD3D1F4D"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Port_Art_VistaB",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Port_Art_VistaB:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Port/Port_Art_VistaB.36"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

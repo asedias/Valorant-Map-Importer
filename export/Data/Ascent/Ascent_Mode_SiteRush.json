@@ -1,0 +1,2532 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Mode_SiteRush_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Mode_SiteRush_C Default__Ascent_Mode_SiteRush_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.1"
+    }
+  },
+  {
+    "Type": "Ascent_Mode_SiteRush_C",
+    "Name": "Default__Ascent_Mode_SiteRush_C"
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Mode_SiteRush:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.51"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Mode_SiteRush:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.57"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Mode_SiteRush_C",
+    "Name": "Ascent_Mode_SiteRush_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Mode_SiteRush_C"
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.63"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart10",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7005.0,
+        "Y": -4489.0,
+        "Z": 392.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart147",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 49.999996,
+        "Y": -8950.0,
+        "Z": 392.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart151",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -650.0,
+        "Y": -8850.0,
+        "Z": 192.00002
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00009,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart171",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -3850.0,
+        "Y": -6650.0,
+        "Z": 242.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart177",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -800.0,
+        "Y": -6050.0,
+        "Z": 192.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 180.0001,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart186",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2700.0,
+        "Y": -6250.0,
+        "Z": 192.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00012,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart206",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1650.0,
+        "Y": -2250.0,
+        "Z": 492.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart218",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3950.0,
+        "Y": -1800.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00012,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart224",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4350.0,
+        "Y": -5200.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart232",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7450.0,
+        "Y": -4700.0,
+        "Z": 392.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00024,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart249",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7000.0,
+        "Y": -8160.0,
+        "Z": 902.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00024,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart254",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3900.0,
+        "Y": -8100.0,
+        "Z": 892.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart258",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3050.0,
+        "Y": -9750.0,
+        "Z": 492.0001
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart265",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3079.853,
+        "Y": -7464.5415,
+        "Z": 672.4573
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00012,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart30",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6551.0,
+        "Y": -4482.0,
+        "Z": 496.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -150.00009,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart32",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4878.0,
+        "Y": -4037.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 135.00018,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart34",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3968.0,
+        "Y": -4217.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 60.00008,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart38",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4896.0,
+        "Y": -2632.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 165.00018,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5214.0,
+        "Y": -7648.0,
+        "Z": 592.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000015,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart40",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3468.0,
+        "Y": -1344.9995,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0001,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart42",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2768.0,
+        "Y": -2409.0,
+        "Z": 492.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart44",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1338.0,
+        "Y": 542.0,
+        "Z": 292.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart46",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -670.0,
+        "Y": -4607.0,
+        "Z": 292.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 45.000065,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart52",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3093.0,
+        "Y": -4701.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -60.00006,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart54",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3171.0,
+        "Y": -5886.0,
+        "Z": 492.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart56",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2800.0,
+        "Y": -3300.0,
+        "Z": 192.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart57",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4510.1016,
+        "Y": -6778.249,
+        "Z": 640.10223
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -135.00009,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart58",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3781.762,
+        "Y": -6589.987,
+        "Z": 645.1188
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -60.00006,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart60",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2340.0,
+        "Y": -8500.0,
+        "Z": 392.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00014,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart62",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1538.0,
+        "Y": -8995.0,
+        "Z": 192.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart64",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4846.0,
+        "Y": -9374.0,
+        "Z": 898.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00009,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart66",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 404.98935,
+        "Y": -6192.357,
+        "Z": 302.32184
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart68",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -457.0,
+        "Y": -6969.0,
+        "Z": 197.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00009,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart70",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2187.0,
+        "Y": -8165.0,
+        "Z": 192.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart72",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2145.9993,
+        "Y": -6973.0005,
+        "Z": 196.00064
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart73",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -3107.197,
+        "Y": -8628.351,
+        "Z": -3.336647
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart74",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2728.6064,
+        "Y": -8618.72,
+        "Z": -0.513077
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart75",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2223.809,
+        "Y": -6611.756,
+        "Z": 191.57214
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart76",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -507.0,
+        "Y": -8054.0,
+        "Z": 392.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart77",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1569.0,
+        "Y": -5443.0,
+        "Z": 192.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.000046,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart78",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2422.0,
+        "Y": -5308.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart79",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1221.0001,
+        "Y": -2130.0002,
+        "Z": 292.00015
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart8",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7040.0,
+        "Y": -6090.0,
+        "Z": 492.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00009,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "GroundEquippableSpawner_C",
+    "Name": "GroundEquippableSpawner2_12",
+    "Outer": "PersistentLevel",
+    "Template": "Default__GroundEquippableSpawner_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner2_12.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.60"
+      },
+      "EquippableClass": {
+        "ObjectName": "BlueprintGeneratedClass Ground_PumpShotgun_C",
+        "ObjectPath": "ShooterGame/Content/GameModes/Equippables/Ground_PumpShotgun.0"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner2_12.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.60"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner2_12.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.60"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GroundEquippableSpawner_C",
+    "Name": "GroundEquippableSpawner3_15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__GroundEquippableSpawner_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner3_15.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.61"
+      },
+      "EquippableClass": {
+        "ObjectName": "BlueprintGeneratedClass Ground_LeverSniperRifle_C",
+        "ObjectPath": "ShooterGame/Content/GameModes/Equippables/Ground_LeverSniperRifle.0"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner3_15.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.61"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner3_15.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.61"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GroundEquippableSpawner_C",
+    "Name": "GroundEquippableSpawner_9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__GroundEquippableSpawner_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner_9.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.62"
+      },
+      "EquippableClass": {
+        "ObjectName": "BlueprintGeneratedClass Ground_LeverSniperRifle_C",
+        "ObjectPath": "ShooterGame/Content/GameModes/Equippables/Ground_LeverSniperRifle.0"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner_9.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.62"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner_9.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.62"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Mode_SiteRush",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Mode_SiteRush:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.56"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Mode_SiteRush_C Ascent_Mode_SiteRush:PersistentLevel.Ascent_Mode_SiteRush_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.4"
+      },
+      "LevelBuildDataId": "F07F6BD5-4F7EAD0E-A8587588-8EBDBFB7",
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Mode_SiteRush:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.3"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Mode_SiteRush:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.3"
+      },
+      null,
+      {
+        "ObjectName": "GroundEquippableSpawner_C Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.54"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart147",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.65"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart151",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.66"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart56",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.89"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart186",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.69"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart171",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.67"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart177",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.68"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart206",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.70"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart218",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.71"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart224",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.72"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart232",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.73"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart265",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.77"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart258",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.76"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart254",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.75"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart249",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.74"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart4",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.82"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart8",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.106"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart10",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.64"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart30",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.78"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart32",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.79"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart34",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.80"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart38",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.81"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart40",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.83"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart42",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.84"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart44",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.85"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart46",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.86"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart52",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.87"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart54",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.88"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart57",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.90"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart58",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.91"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart60",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.92"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart62",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.93"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart64",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.94"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart66",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.95"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart68",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.96"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart70",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.97"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart72",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.98"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart73",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.99"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart74",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.100"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart75",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.101"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart76",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.102"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart77",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.103"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart78",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.104"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart79",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.105"
+      },
+      {
+        "ObjectName": "GroundEquippableSpawner_C Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner2_12",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.52"
+      },
+      {
+        "ObjectName": "GroundEquippableSpawner_C Ascent_Mode_SiteRush:PersistentLevel.GroundEquippableSpawner3_15",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.53"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.58"
+      },
+      {
+        "ObjectName": "Ascent_Mode_SiteRush_C Ascent_Mode_SiteRush:PersistentLevel.Ascent_Mode_SiteRush_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.4"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 13032,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Mode_SiteRush:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.56"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Mode_SiteRush_C Ascent_Mode_SiteRush:PersistentLevel.Ascent_Mode_SiteRush_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.4"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "32BA07BD-44479FC8-E71630A5-6A727D5E",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.2"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.5"
+      },
+      "OrbToSpawnClasses": [],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.107"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.59"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.50"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.49"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.63"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.5"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.2"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "GroundEquippableSpawner2_12",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1900.0,
+        "Y": -6000.0,
+        "Z": 111.60167
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "GroundEquippableSpawner3_15",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6400.0,
+        "Y": -8100.0,
+        "Z": 820.2913
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "GroundEquippableSpawner_9",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2100.0,
+        "Y": -2100.0,
+        "Z": 400.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 206.0,
+        "Y": -7298.0,
+        "Z": 300.0
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart10",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart10.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.108"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart10.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.6"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart10.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.6"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart147",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart147.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.109"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart147.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.7"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart147.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.7"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart151",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart151.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.110"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart151.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.8"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart151.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.8"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart171",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart171.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.111"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart171.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.9"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart171.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.9"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart177",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart177.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.112"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart177.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.10"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart177.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.10"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart186",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart186.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.113"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart186.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.11"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart186.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.11"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart206",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart206.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.114"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart206.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.12"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart206.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.12"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart218",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart218.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.115"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart218.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.13"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart218.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.13"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart224",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart224.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.116"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart224.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.14"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart224.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.14"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart232",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart232.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.117"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart232.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.15"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart232.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.15"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart249",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart249.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.118"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart249.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.16"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart249.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.16"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart254",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart254.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.119"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart254.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.17"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart254.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.17"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart258",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart258.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.120"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart258.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.18"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart258.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.18"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart265",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart265.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.121"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart265.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.19"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart265.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.19"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart30",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart30.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.122"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart30.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.20"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart30.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.20"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart32",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart32.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.123"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart32.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.21"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart32.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.21"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart34",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart34.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.124"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart34.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.22"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart34.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.22"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart38",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart38.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.125"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart38.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.23"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart38.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.23"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart4.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.126"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart4.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.24"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart4.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.24"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart40",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart40.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.127"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart40.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.25"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart40.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.25"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart42",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart42.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.128"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart42.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.26"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart42.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.26"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart44",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart44.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.129"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart44.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.27"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart44.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.27"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart46",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart46.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.130"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart46.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.28"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart46.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.28"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart52",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart52.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.131"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart52.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.29"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart52.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.29"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart54",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart54.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.132"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart54.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.30"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart54.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.30"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart56",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart56.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.133"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart56.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.31"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart56.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.31"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart57",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart57.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.134"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart57.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.32"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart57.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.32"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart58",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart58.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.135"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart58.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.33"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart58.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.33"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart60",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart60.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.136"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart60.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.34"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart60.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.34"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart62",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart62.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.137"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart62.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.35"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart62.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.35"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart64",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart64.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.138"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart64.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.36"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart64.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.36"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart66",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart66.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.139"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart66.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.37"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart66.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.37"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart68",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart68.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.140"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart68.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.38"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart68.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.38"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart70",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart70.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.141"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart70.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.39"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart70.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.39"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart72",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart72.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.142"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart72.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.40"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart72.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.40"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart73",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart73.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.143"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart73.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.41"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart73.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.41"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart74",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart74.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.144"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart74.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.42"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart74.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.42"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart75",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart75.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.145"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart75.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.43"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart75.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.43"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart76",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart76.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.146"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart76.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.44"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart76.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.44"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart77",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart77.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.147"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart77.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.45"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart77.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.45"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart78",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart78.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.148"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart78.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.46"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart78.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.46"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart79",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart79.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.149"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart79.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.47"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart79.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.47"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart8",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart8.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.150"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart8.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.48"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Ascent_Mode_SiteRush:PersistentLevel.ShooterTeamStart8.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.48"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_SiteRush:PersistentLevel.OrbSpawner_Random_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.63"
+      }
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart10"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart147"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart151"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart171"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart177"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart186"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart206"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart218"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart224"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart232"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart249"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart254"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart258"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart265"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart30"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart32"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart34"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart38"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart4"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart40"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart42"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart44"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart46"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart52"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart54"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart56"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart57"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart58"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart60"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart62"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart64"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart66"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart68"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart70"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart72"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart73"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart74"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart75"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart76"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart77"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart78"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart79"
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart8"
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Mode_SiteRush",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Mode_SiteRush:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_SiteRush.55"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

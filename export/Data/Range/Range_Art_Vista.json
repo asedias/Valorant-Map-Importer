@@ -1,0 +1,424 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Range_Art_Vista_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Range_Art_Vista_C Default__Range_Art_Vista_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.1"
+    }
+  },
+  {
+    "Type": "Range_Art_Vista_C",
+    "Name": "Default__Range_Art_Vista_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Range_Art_Vista:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.3"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Range_Art_Vista:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.6"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Range_Art_Vista",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Range_Art_Vista:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.5"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Range_Art_Vista_C Range_Art_Vista:PersistentLevel.Range_Art_Vista_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.7"
+      },
+      "StreamingTextureGuids": [
+        "B6A034EB-4E8FE451-6CCE088D-8665A9EC",
+        "83BA393D-4B35378E-64E04491-9D70D438"
+      ],
+      "LevelBuildDataId": "5DCDC067-432C8188-FADFDE91-8BCB6D09",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Range_Art_Vista_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista_BuiltData.6"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Range_Art_Vista:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Range_Art_Vista:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.2"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Vista:PersistentLevel.IslandVistaCard_0_Card_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.10"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Vista:PersistentLevel.Dev_0_BasicPlane_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.8"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Vista:PersistentLevel.IslandVistaCard_0_Card2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.9"
+      },
+      {
+        "ObjectName": "Range_Art_Vista_C Range_Art_Vista:PersistentLevel.Range_Art_Vista_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.7"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Range_Art_Vista:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.5"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Range_Art_Vista_C Range_Art_Vista:PersistentLevel.Range_Art_Vista_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.7"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "BC725C2C-4B7772C7-B2976DBA-30417C4A",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "Range_Art_Vista_C",
+    "Name": "Range_Art_Vista_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Range_Art_Vista_C"
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Dev_0_BasicPlane_7",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vista:PersistentLevel.Dev_0_BasicPlane_7.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.11"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vista:PersistentLevel.Dev_0_BasicPlane_7.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.11"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "IslandVistaCard_0_Card2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vista:PersistentLevel.IslandVistaCard_0_Card2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.12"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vista:PersistentLevel.IslandVistaCard_0_Card2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.12"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "IslandVistaCard_0_Card_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vista:PersistentLevel.IslandVistaCard_0_Card_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.13"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vista:PersistentLevel.IslandVistaCard_0_Card_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.13"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Dev_0_BasicPlane_7",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Dev_0_BasicPlane",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Dev/0/Dev_0_BasicPlane.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 200.0
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant IslandVistaCard_0_M0_Range1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/IslandVistaCard/0/M0/IslandVistaCard_0_M0_Range1_MI.0"
+        }
+      ],
+      "bAllowCullDistanceVolume": false,
+      "CastShadow": false,
+      "VisibilityId": 13296,
+      "RelativeLocation": {
+        "X": -3828.7986,
+        "Y": -11151.63,
+        "Z": 1696.2218
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.99999,
+        "Roll": 89.999985
+      },
+      "RelativeScale3D": {
+        "X": 80.0,
+        "Y": 80.0,
+        "Z": 70.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4BFCB9F5429DB98BDD9BF4A6F7F41AF6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "IslandVistaCard_0_Card2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh IslandVistaCard_0_Range1",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/IslandVistaCard/0/IslandVistaCard_0_Range1.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 663.763
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "MinDrawDistance": 43709.668,
+      "VisibilityId": 15040,
+      "RelativeLocation": {
+        "X": 32819.066,
+        "Y": -5147.1465,
+        "Z": 5068.8335
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.999954,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 58.819973,
+        "Y": 55.799946,
+        "Z": 55.799946
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C876FEC54316E95ADEF4DB99F833CF97"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "IslandVistaCard_0_Card_3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh IslandVistaCard_0_Card",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/IslandVistaCard/0/IslandVistaCard_0_Card.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 608.0058
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant IslandVistaCard_0_M0_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/IslandVistaCard/0/M0/IslandVistaCard_0_M0_MI.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "MinDrawDistance": 10000.0,
+      "VisibilityId": 3576,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -21363.656,
+        "Y": -12417.013,
+        "Z": 2297.9058
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00007,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 58.819973,
+        "Y": 55.799946,
+        "Z": 55.799946
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "DC323FFE4F84DF94D26B2DB751EFC992"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Range_Art_Vista",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Range_Art_Vista:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vista.4"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

@@ -1,0 +1,536 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_LightingBlockers_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_LightingBlockers_C Default__Ascent_LightingBlockers_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.1"
+    }
+  },
+  {
+    "Type": "Ascent_LightingBlockers_C",
+    "Name": "Default__Ascent_LightingBlockers_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_LightingBlockers:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.4"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_LightingBlockers:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.7"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_LightingBlockers_C",
+    "Name": "Ascent_LightingBlockers_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_LightingBlockers_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_LightingBlockers",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_LightingBlockers:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.6"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_LightingBlockers_C Ascent_LightingBlockers:PersistentLevel.Ascent_LightingBlockers_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.3"
+      },
+      "LevelBuildDataId": "79AD58C4-43C1393B-8BB7CEB0-3678C5FF",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_LightingBlockers_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers_BuiltData.6"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_LightingBlockers:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_LightingBlockers:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.2"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Ascent_LightingBlockers:PersistentLevel.LightBlocker_bottom",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.10"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_LightingBlockers:PersistentLevel.LightBlocker_Paw_X",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.11"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_LightingBlockers:PersistentLevel.LightBlocker_AtkIsland",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.8"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_LightingBlockers:PersistentLevel.LightBlocker_AtkIsland2_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.9"
+      },
+      {
+        "ObjectName": "Ascent_LightingBlockers_C Ascent_LightingBlockers:PersistentLevel.Ascent_LightingBlockers_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_LightingBlockers:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.6"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_LightingBlockers_C Ascent_LightingBlockers:PersistentLevel.Ascent_LightingBlockers_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.3"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "10EE1B13-41D12123-276A4C96-CA271330",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "LightBlocker_AtkIsland",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_AtkIsland.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.12"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_AtkIsland.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.12"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "LightBlocker_AtkIsland2_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_AtkIsland2_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.13"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_AtkIsland2_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.13"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "LightBlocker_bottom",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_bottom.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.14"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_bottom.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.14"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "LightBlocker_Paw_X",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_Paw_X.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.15"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_LightingBlockers:PersistentLevel.LightBlocker_Paw_X.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.15"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "LightBlocker_AtkIsland",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh LightBlocker_AtkIsland",
+        "ObjectPath": "ShooterGame/Content/Lighting/LightBlockers/Ascent/LightBlocker_AtkIsland.2"
+      },
+      "bUseDefaultCollision": false,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material M_LightBlocker_Black",
+          "ObjectPath": "ShooterGame/Content/Lighting/Materials/Basic/M_LightBlocker_Black.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "bCastHiddenShadow": true,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 1900.0,
+        "Y": 8198.0,
+        "Z": 11805.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -10.000366,
+        "Roll": -179.99995
+      },
+      "bVisible": false
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "AB52EEE4426B87E069A3FC8C8C915559"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "LightBlocker_AtkIsland2_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh LightBlocker_AtkIsland",
+        "ObjectPath": "ShooterGame/Content/Lighting/LightBlockers/Ascent/LightBlocker_AtkIsland.2"
+      },
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 1630.0,
+        "Y": -6230.0,
+        "Z": 660.0
+      },
+      "RelativeRotation": {
+        "Pitch": -2.000946,
+        "Yaw": -68.934326,
+        "Roll": 5.1798677
+      },
+      "RelativeScale3D": {
+        "X": 0.044805974,
+        "Y": 0.103427365,
+        "Z": 0.07242677
+      },
+      "bVisible": false
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D67D2C2340E7918C605BC4A4C7254444"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "LightBlocker_bottom",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Plane",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Plane.2"
+      },
+      "bUseDefaultCollision": false,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material M_LightBlocker_Black",
+          "ObjectPath": "ShooterGame/Content/Lighting/Materials/Basic/M_LightBlocker_Black.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "bCastHiddenShadow": true,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 20000.0,
+        "Y": -17000.0,
+        "Z": -5000.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 180.0,
+        "Roll": 180.0
+      },
+      "RelativeScale3D": {
+        "X": 300.0,
+        "Y": 300.0,
+        "Z": 1.0
+      },
+      "bVisible": false,
+      "AssetUserData": [
+        null
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E23E2E204CD64017285C36B665542444"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "LightBlocker_Paw_X",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Plane",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Plane.2"
+      },
+      "bUseDefaultCollision": false,
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material M_LightBlocker_Black",
+          "ObjectPath": "ShooterGame/Content/Lighting/Materials/Basic/M_LightBlocker_Black.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "CastShadow": false,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 3780.0,
+        "Y": -7800.0,
+        "Z": 795.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 180.0
+      },
+      "RelativeScale3D": {
+        "X": 7.0,
+        "Y": 6.0,
+        "Z": 1.0
+      },
+      "bVisible": false,
+      "AssetUserData": [
+        null
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "812086FA43E5DFD1398399B58574DF3E"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_LightingBlockers",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_LightingBlockers:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_LightingBlockers.5"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

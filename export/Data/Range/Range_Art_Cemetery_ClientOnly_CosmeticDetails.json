@@ -1,0 +1,3820 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C Default__Range_Art_Cemetery_ClientOnly_CosmeticDetails_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.1"
+    }
+  },
+  {
+    "Type": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C",
+    "Name": "Default__Range_Art_Cemetery_ClientOnly_CosmeticDetails_C"
+  },
+  {
+    "Type": "Actor",
+    "Name": "Pot_1_PotA_36",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Pot_1_PotA_36.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.32"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Pot_1_PotA_36.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.32"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.23"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.35"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "DecalActor162",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor162.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.8"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor162.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.8"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "DecalActor163",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor163.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.9"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor163.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.9"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "DecalActor164",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor164.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.10"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor164.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.10"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M0_Ground_R_MI8_11",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_R_MI8_11.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.11"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_R_MI8_11.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.11"
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "DecalActor162",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M0_Ground_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/Ground/Grunge_M0_Ground_R_MI.0"
+      },
+      "DecalSize": {
+        "X": 16.0,
+        "Y": 256.0,
+        "Z": 256.0
+      },
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 0,
+        "G": 70,
+        "R": 86,
+        "A": 255,
+        "Hex": "FF564600"
+      },
+      "RelativeLocation": {
+        "X": 1825.2362,
+        "Y": -11666.062,
+        "Z": 1192.4202
+      },
+      "RelativeRotation": {
+        "Pitch": -90.0,
+        "Yaw": 1.8986437,
+        "Roll": 178.1011
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "DecalActor163",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M0_Ground_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/Ground/Grunge_M0_Ground_R_MI.0"
+      },
+      "DecalSize": {
+        "X": 16.0,
+        "Y": 256.0,
+        "Z": 256.0
+      },
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 0,
+        "G": 70,
+        "R": 86,
+        "A": 255,
+        "Hex": "FF564600"
+      },
+      "RelativeLocation": {
+        "X": 838.8142,
+        "Y": -11813.305,
+        "Z": 1192.1969
+      },
+      "RelativeRotation": {
+        "Pitch": -90.0,
+        "Yaw": 4.7636437,
+        "Roll": -94.76376
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "DecalActor164",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M0_Ground_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/Ground/Grunge_M0_Ground_R_MI.0"
+      },
+      "DecalSize": {
+        "X": 16.0,
+        "Y": 256.0,
+        "Z": 256.0
+      },
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 0,
+        "G": 70,
+        "R": 86,
+        "A": 255,
+        "Hex": "FF564600"
+      },
+      "RelativeLocation": {
+        "X": -511.88696,
+        "Y": -12078.006,
+        "Z": 1190.893
+      },
+      "RelativeRotation": {
+        "Pitch": -90.0,
+        "Yaw": 160.52878,
+        "Roll": -160.52878
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M0_Ground_R_MI8_11",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M0_Ground_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/Ground/Grunge_M0_Ground_R_MI.0"
+      },
+      "DecalSize": {
+        "X": 170.3727,
+        "Y": 288.46582,
+        "Z": 318.2485
+      },
+      "RelativeLocation": {
+        "X": 825.1791,
+        "Y": -13424.415,
+        "Z": 1971.206
+      },
+      "RelativeRotation": {
+        "Pitch": -90.0,
+        "Yaw": 0.89517367,
+        "Roll": 177.69356
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP14",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.43"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.42"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.42"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.42"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.43"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.45"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.44"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.44"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.44"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.45"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP19",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.47"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.46"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.46"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.46"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.47"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP20",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.49"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.48"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.48"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.48"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.49"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP21",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.51"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.50"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.50"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.50"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.51"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP22",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.53"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.52"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.52"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.52"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.53"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP23",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.55"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.54"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.54"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.54"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.55"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP24",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.57"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.56"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.56"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.56"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.57"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP25",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.59"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.58"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.58"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.58"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.59"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP26",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.61"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.60"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.60"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.60"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.61"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Foliage_8_BushA_BP_C",
+    "Name": "Foliage_8_BushA_BP27",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Foliage_8_BushA_BP_C",
+    "Properties": {
+      "Foliage_8_BushACanopy": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27.Foliage_8_BushACanopy",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.63"
+      },
+      "Foliage_8_BushA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.62"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.62"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27.Foliage_8_BushA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.62"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27.Foliage_8_BushACanopy",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.63"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP54",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.65"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.64"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.64"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.64"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.65"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP55",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.67"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.66"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.66"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.66"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.67"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP56",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.69"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.68"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.68"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.68"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.69"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP57",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.71"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.70"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.70"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.70"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.71"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP58",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.73"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.72"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.72"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.72"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.73"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP59",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.75"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.74"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.74"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.74"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.75"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP60",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.77"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.76"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.76"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.76"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.77"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Grass_1_Clump_BP_C",
+    "Name": "Grass_1_Clump_BP61",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Grass_1_Clump_BP_C",
+    "Properties": {
+      "Grass_1_ClumpCards": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61.Grass_1_ClumpCards",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.79"
+      },
+      "Grass_1_Clump": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.78"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.78"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61.Grass_1_Clump",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.78"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61.Grass_1_ClumpCards",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.79"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Pot_1_PotA_36",
+    "Properties": {
+      "InstancingRandomSeed": 29092,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pot_1_PotA",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Pot/1/Pot_1_PotA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 115.3675
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 115.3675
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 115.3675
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -881.0529,
+        "Y": -11942.44,
+        "Z": 1197.3568
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7E06959D4838BA0F1B7ED39F17C59BEB"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 1807.4834,
+          "Y": -1061.9482,
+          "Z": 28.378784
+        },
+        "RelativeRotation": {
+          "Pitch": -42.99577,
+          "Yaw": 34.3425,
+          "Roll": 95.756584
+        },
+        "RelativeScale3D": {
+          "X": 0.8162631,
+          "Y": 0.8347213,
+          "Z": 1.0047858
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1493.7068,
+          "Y": -1042.4033,
+          "Z": 59.403687
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.75,
+          "Y": 0.75,
+          "Z": 0.75
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Range_Art_Cemetery_ClientOnly_CosmeticDetails",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.34"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_Cemetery_ClientOnly_CosmeticDetails_C_4",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.36"
+      },
+      "StreamingTextureGuids": [
+        "838D5849-4A017A99-421927A8-04964757",
+        "70B5E549-42345FEB-CF17D5BE-CFBA7F65",
+        "9923D66C-4FD15C85-54569F80-864FF9A7",
+        "3495B0E2-40592FD1-A75F428C-4013E6E3",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "0FC8E28B-40C2D9AD-A4528F83-E418977E",
+        "0082F9B2-434C3595-CA0BAEB7-00EC32BF",
+        "E549F6A5-4208CE6D-6F99BDBD-3A427170",
+        "E2D153E3-41CD1B3A-41A5EE8D-FA81169F",
+        "A6F696D4-43F781AD-958815B7-83B53C24",
+        "F032F691-4094E6B3-042036A4-350ACBF6",
+        "A30BF040-40577737-8CB049AE-3F2D6FC0",
+        "4C57CDF1-47710231-ED7AE5B9-BC89FC31",
+        "D99122ED-45826ACF-C2CF54A4-158D9F86",
+        "ABB955E1-4CDCADCE-EA855F8F-D66E1EA2",
+        "8A92CCD5-43D92131-600493A1-D6A5FA81",
+        "20549466-49F9F831-694B97B4-93EDFDC0",
+        "3A76D4C6-4D40D257-B71F52A3-6944DE4E",
+        "1753FB5F-4634823D-49FF319E-A7B0EB85"
+      ],
+      "LevelBuildDataId": "42250E92-490491EE-27E203A4-E913A49F",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Range_Art_Cemetery_ClientOnly_CosmeticDetails_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.3"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.3"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Prop_18_LadderA_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.38"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_3_RoofDebrisD14",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.39"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumShingles68_6",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.40"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.12"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.13"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.14"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.15"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.16"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.17"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.18"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.19"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.20"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.24"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.25"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.26"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.27"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.28"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.29"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.30"
+      },
+      {
+        "ObjectName": "Grass_1_Clump_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.31"
+      },
+      {
+        "ObjectName": "DecalActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor162",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.4"
+      },
+      {
+        "ObjectName": "DecalActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor163",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.5"
+      },
+      {
+        "ObjectName": "DecalActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.DecalActor164",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.6"
+      },
+      {
+        "ObjectName": "DecalActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grunge_M0_Ground_R_MI8_11",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.7"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.21"
+      },
+      {
+        "ObjectName": "Foliage_8_BushA_BP_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.22"
+      },
+      {
+        "ObjectName": "Actor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Pot_1_PotA_36",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.2"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Broom_0_Wooden5",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.37"
+      },
+      {
+        "ObjectName": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_Cemetery_ClientOnly_CosmeticDetails_C_4",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.36"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 13030,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.34"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_Cemetery_ClientOnly_CosmeticDetails_C_4",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.36"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "AE0C206F-44160478-679E0AA3-869247EC",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C",
+    "Name": "Range_Art_Cemetery_ClientOnly_CosmeticDetails_C_4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Range_Art_Cemetery_ClientOnly_CosmeticDetails_C"
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Broom_0_Wooden5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Broom_0_Wooden5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.41"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Broom_0_Wooden5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.41"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Prop_18_LadderA_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Prop_18_LadderA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.80"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Prop_18_LadderA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.80"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Rubble_3_RoofDebrisD14",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_3_RoofDebrisD14.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.81"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Rubble_3_RoofDebrisD14.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.81"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles68_6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumShingles68_6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.82"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Shell_4_AsylumShingles68_6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.82"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Broom_0_Wooden5",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Broom_0_Wooden",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Broom/0/Broom_0_Wooden.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4227792964,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 40.23761
+        },
+        {
+          "PackedRelativeBox": 4227792964,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 40.23761
+        },
+        {
+          "PackedRelativeBox": 4227792964,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 40.23761
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 641.56055,
+        "Y": -12869.949,
+        "Z": 1215.4092
+      },
+      "RelativeRotation": {
+        "Pitch": 1.627859,
+        "Yaw": 138.87448,
+        "Roll": 47.047268
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "087A15CE4349177B01B972B2C30BAB13"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP14",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292624483,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4292608099,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1584922888,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 2076.5603,
+        "Y": -12697.413,
+        "Z": 1251.9622
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 20.000263,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.698113,
+        "Y": 0.698113,
+        "Z": 0.698113
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6F74CD704924DE288CDB37B4B2FB365D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP14",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292673570,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4292673570,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4292673570,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP14.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.42"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8C8816F645563142F7082D8FBC9D949C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP15",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290527267,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290510883,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1522073961,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 2081.5625,
+        "Y": -12891.4375,
+        "Z": 1256.9617
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 70.00029,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.77107,
+        "Y": 0.77107,
+        "Z": 0.77107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "80A096854E448815CC008BAB7B065AA4"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP15",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290510915,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4290510915,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4290510915,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP15.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.44"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1D54CDA54311B4F190B9618C8FF36788"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP19",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290461762,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290445378,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1522008424,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 2082.1335,
+        "Y": -13414.071,
+        "Z": 1256.9617
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 70.00029,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.77107,
+        "Y": 0.77107,
+        "Z": 0.77107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8F2989154A2450D403F0C9B7124A3386"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP19",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP19.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.46"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4AFFE209477EAB42641337A7370B8893"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP20",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292624450,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1584922856,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 1691.1975,
+        "Y": -12695.844,
+        "Z": 1251.9622
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 20.000263,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.698113,
+        "Y": 0.698113,
+        "Z": 0.698113
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "99CCAB8B4C84487F27ECE5B7662123C5"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP20",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP20.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.48"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B778C9CB4E029C3BC546E09B8A71D148"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP21",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290461762,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290445378,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1522008424,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 1696.3948,
+        "Y": -12889.868,
+        "Z": 1256.9617
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 70.00029,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.77107,
+        "Y": 0.77107,
+        "Z": 0.77107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "35F7948741D5560681E56485CABDAD51"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP21",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP21.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.50"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "08F730A94BF6799C9A2CE788A2DDB3AB"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP22",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292624450,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1584922856,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 1691.3926,
+        "Y": -13220.047,
+        "Z": 1251.9622
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 20.000263,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.698113,
+        "Y": 0.698113,
+        "Z": 0.698113
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E1C01A534667800FCF7B208222E39D2B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP22",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP22.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.52"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "EB8D2918463B06C0174B9AAEC53D19DC"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP23",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290461762,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290445378,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1522008424,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 1696.3948,
+        "Y": -13414.071,
+        "Z": 1256.9617
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 70.00029,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.77107,
+        "Y": 0.77107,
+        "Z": 0.77107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1A001B1C4DF1B699F3762681032268E3"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP23",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413763,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP23.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.54"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A6BF60244048E3EC6EC4079B82992E76"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP24",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290658434,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290642050,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1592983815,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 1491.2684,
+        "Y": -11660.644,
+        "Z": 1251.9622
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -69.999725,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.698113,
+        "Y": 0.698113,
+        "Z": 0.698113
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5C254C13475ACA652F13AAAD62623448"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP24",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290641986,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4290641986,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4290641986,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP24.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.56"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4F9DED684117E205A83F969A97FA0B9A"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP25",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290527361,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290510977,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1523843308,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": 1297.2429,
+        "Y": -11665.841,
+        "Z": 1256.9617
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -19.999786,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.77107,
+        "Y": 0.77107,
+        "Z": 0.77107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3065CC9646E1F07BB05FD5AF1D7D2320"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP25",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288479330,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288479330,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288479330,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP25.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.58"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "581D09D1414F1E7D5A472094A67A17A8"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP26",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290592898,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290576514,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1592983816,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": -457.90063,
+        "Y": -11670.503,
+        "Z": 1251.9622
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -69.999725,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.698113,
+        "Y": 0.698113,
+        "Z": 0.698113
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3303406A46DED2C45CF1DE85B0854D3D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP26",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290576450,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4290576450,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4290576450,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP26.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.60"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "BDD224E7487F9618E9EF489734715B4C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushA",
+    "Outer": "Foliage_8_BushA_BP27",
+    "Template": "Foliage_8_BushA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290527361,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 4290510977,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 114.3508
+        },
+        {
+          "PackedRelativeBox": 1523843308,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 57.11389
+        }
+      ],
+      "bReceivesDecals": true,
+      "RelativeLocation": {
+        "X": -651.9262,
+        "Y": -11675.7,
+        "Z": 1256.9617
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -19.999786,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.77107,
+        "Y": 0.77107,
+        "Z": 0.77107
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A73C6D464BA06C8460D733BD453C5A6D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Foliage_8_BushACanopy",
+    "Outer": "Foliage_8_BushA_BP27",
+    "Template": "Foliage_8_BushACanopy_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288413795,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413795,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 109.79254
+        },
+        {
+          "PackedRelativeBox": 4288413795,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 109.79254
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Foliage_8_M0_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Foliage/8/M0/Foliage_8_M0_MI_Wind.0"
+        }
+      ],
+      "bReceivesDecals": true,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Foliage_8_BushA_BP27.Foliage_8_BushA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.62"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E8463E454E178BA7098CC69F47EEAACD"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP54",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1073.1982,
+        "Y": -12878.3,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -0.00012207031,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.591614
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3BED02E045D310B60987089F21121902"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP54",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP54.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.64"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "09840B04407B6AC2EFF73A996A5C6E1A"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP55",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4282056803,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4282056803,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4282056803,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "Custom"
+      },
+      "RelativeLocation": {
+        "X": 1457.054,
+        "Y": -12898.253,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 134.99977,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.591614
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7B4DAF0942701548AFBFB095816703F4"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP55",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4282056770,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4282056770,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4282056770,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP55.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.66"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E994D5A84EFB506B098EF6B30A6B3C31"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP56",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292739073,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4292739073,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4292739073,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1082.5007,
+        "Y": -12584.089,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 4.999888,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.591614
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D8F5AEFD4FFCCD8850053786A47D9AA2"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP56",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP56.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.68"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7853E16543BB585173B4928B2706CD4E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP57",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4284153955,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4284153955,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4284153955,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "Custom"
+      },
+      "RelativeLocation": {
+        "X": 1466.6348,
+        "Y": -12570.511,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 139.9998,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.591614
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "857FAB2144C1567D09A7ADA6D21F8DB5"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP57",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4281991267,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4281991267,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4281991267,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP57.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.70"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2CB36DE247F6D469F23365A9A3A4646D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP58",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288413766,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4288413766,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4288413766,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "Custom"
+      },
+      "RelativeLocation": {
+        "X": 500.7786,
+        "Y": -12522.064,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -125.0007,
+        "Roll": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5CF55FC84FC0C4B25E7879AAD7789725"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP58",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4286316613,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4286316613,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4286316613,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP58.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.72"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6EE99ABD44F18DCD3A32EEBF3F3B7988"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP59",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290510977,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4290510977,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4290510977,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "Custom"
+      },
+      "RelativeLocation": {
+        "X": 465.02548,
+        "Y": -12814.548,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -75.00055,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.401496
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8FF007D14BC3E9138582999B0E2A8BF6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP59",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292673633,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4292673633,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4292673633,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP59.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.74"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1AD4651D4BF5CB3AAA82F899AA92B69B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP60",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "Custom"
+      },
+      "RelativeLocation": {
+        "X": 1546.0698,
+        "Y": -12882.731,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99979,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.594252,
+        "Y": 1.0,
+        "Z": 0.591614
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "BC0837514F2425D63E654386087DC7CA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP60",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP60.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.76"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0DB8CB72407B66B3524C5AA82B5E0B39"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_Clump",
+    "Outer": "Grass_1_Clump_BP61",
+    "Template": "Grass_1_Clump_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294770689,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4294770689,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.26178
+        },
+        {
+          "PackedRelativeBox": 4294770689,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 205.26178
+        }
+      ],
+      "BodyInstance": {
+        "CollisionProfileName": "Custom"
+      },
+      "RelativeLocation": {
+        "X": 1271.757,
+        "Y": -12587.5205,
+        "Z": 1209.8779
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 5.00003,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.594252,
+        "Y": 1.0,
+        "Z": 0.591614
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C8D861DC455EE92A94A210B3761151DA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Grass_1_ClumpCards",
+    "Outer": "Grass_1_Clump_BP61",
+    "Template": "Grass_1_ClumpCards_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294770690,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294770690,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 123.88252
+        },
+        {
+          "PackedRelativeBox": 4294770690,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 123.88252
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_Clump_BP61.Grass_1_Clump",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.78"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "148977A0428300B21B25CD83A27EA3AB"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Prop_18_LadderA_1",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Prop_18_LadderA",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Prop/18/Prop_18_LadderA.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 2816431104,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.730515
+        },
+        {
+          "PackedRelativeBox": 2816431104,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.730515
+        },
+        {
+          "PackedRelativeBox": 2816431104,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.730515
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 194.78615,
+        "Y": -11910.206,
+        "Z": 1198.7238
+      },
+      "RelativeRotation": {
+        "Pitch": -1.783073,
+        "Yaw": -478.34222,
+        "Roll": -84.96161
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CE2E27474749449D5F72D680A18C98CA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Rubble_3_RoofDebrisD14",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_3_RoofDebrisD",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/3/Rubble_3_RoofDebrisD.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3554609184,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 224.75394
+        },
+        {
+          "PackedRelativeBox": 3554609184,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 224.75394
+        },
+        {
+          "PackedRelativeBox": 3554609184,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 224.75394
+        }
+      ],
+      "CastShadow": false,
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 738.3533,
+        "Y": -11799.431,
+        "Z": 1206.4084
+      },
+      "RelativeRotation": {
+        "Pitch": 3.634439,
+        "Yaw": 87.43552,
+        "Roll": -1.644558
+      },
+      "DetailMode": "DM_High"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "294247624ACA8E4A788EA6B2A5163CA5",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 416
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles68_6",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": false,
+      "OverriddenLightMapRes": 16,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4160686080,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 4160686080,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 4160686080,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "CastShadow": false,
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 948.2811,
+        "Y": -11815.789,
+        "Z": 1211.1165
+      },
+      "RelativeRotation": {
+        "Pitch": 1.147159,
+        "Yaw": 181.09962,
+        "Roll": 0.366117
+      },
+      "DetailMode": "DM_High"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0C53A3BE44821182CCDE4F9DAF05B757",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 125
+        }
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Range_Art_Cemetery_ClientOnly_CosmeticDetails",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Range_Art_Cemetery_ClientOnly_CosmeticDetails:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Cemetery_ClientOnly_CosmeticDetails.33"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

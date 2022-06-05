@@ -1,0 +1,1380 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Mode_QuickSpike_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Mode_QuickSpike_C Default__Ascent_Mode_QuickSpike_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.1"
+    }
+  },
+  {
+    "Type": "Ascent_Mode_QuickSpike_C",
+    "Name": "Default__Ascent_Mode_QuickSpike_C"
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Mode_QuickSpike:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.34"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Mode_QuickSpike:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.37"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Mode_QuickSpike_C",
+    "Name": "Ascent_Mode_QuickSpike_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Mode_QuickSpike_C"
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.56"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.57"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.58"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.59"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.54"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.55"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.42"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.61"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.72"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.16"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.60"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.44"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.26"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.18"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.52"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.72"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.61"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.42"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.43"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.63"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.73"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.17"
+        }
+      ],
+      "BombSite": "BombSiteEnum::NewEnumerator1",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.62"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.45"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.27"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.19"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.53"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.73"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.63"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.43"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.65"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.12"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.64"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.46"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.28"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.20"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.54"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.12"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.65"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.67"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.13"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.66"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.47"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.29"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.21"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.55"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.13"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.67"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Mode_QuickSpike",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Mode_QuickSpike:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.36"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Mode_QuickSpike_C Ascent_Mode_QuickSpike:PersistentLevel.Ascent_Mode_QuickSpike_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.7"
+      },
+      "LevelBuildDataId": "A074DD44-4BCF67DE-8D64799E-C9D91BBD",
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Mode_QuickSpike:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.6"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Mode_QuickSpike:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.6"
+      },
+      null,
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.17"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.16"
+      },
+      {
+        "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.15"
+      },
+      {
+        "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.14"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.41"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.38"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.39"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.40"
+      },
+      {
+        "ObjectName": "Ascent_Mode_QuickSpike_C Ascent_Mode_QuickSpike:PersistentLevel.Ascent_Mode_QuickSpike_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.7"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Mode_QuickSpike:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.36"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Mode_QuickSpike_C Ascent_Mode_QuickSpike:PersistentLevel.Ascent_Mode_QuickSpike_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.7"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "2A5F7E93-45474283-5BCCFF84-E4D04ABE",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random2_5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.2"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.8"
+      },
+      "TelemetryLabel": "Orb_B-Main_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.68"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.48"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.30"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.22"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.56"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.8"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.2"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random3_8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.3"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.9"
+      },
+      "TelemetryLabel": "Orb_BellTower_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.69"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.49"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.31"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.23"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.57"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.9"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.3"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random4_11",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.4"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.10"
+      },
+      "TelemetryLabel": "Orb_Catwalk_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.70"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.50"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.32"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.24"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.58"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.10"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.4"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.5"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.11"
+      },
+      "TelemetryLabel": "Orb_A-Main_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.71"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.51"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.33"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.25"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.59"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.11"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.5"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_A",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_B",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6079.0,
+        "Y": -6927.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99997,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2942.0,
+        "Y": -7617.0,
+        "Z": -99.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00001,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5100.0,
+        "Y": -7800.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 20.0,
+        "Y": 12.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -4000.0,
+        "Y": -8700.0,
+        "Z": -100.0
+      },
+      "RelativeScale3D": {
+        "X": 17.0,
+        "Y": 18.5,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2500.0,
+        "Y": -6200.0,
+        "Z": 300.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 600.0,
+        "Y": -4146.7236,
+        "Z": 200.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2300.0,
+        "Y": -4102.949,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4425.0,
+        "Y": -4700.0,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.52"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_A",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.52"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MassInKgOverride": 0.0,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.53"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_B",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.53"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MassInKgOverride": 100.0
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.54"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.54"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.55"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.55"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random2_5",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random2_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.56"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random3_8",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random3_8.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.57"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random4_11",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random4_11.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.58"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_QuickSpike:PersistentLevel.OrbSpawner_Random_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.59"
+      }
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_A",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_B",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.15"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.15"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.15"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_QuickSpike:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.15"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Mode_QuickSpike",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Mode_QuickSpike:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_QuickSpike.35"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

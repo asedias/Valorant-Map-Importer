@@ -1,0 +1,1994 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Duality_SpawnBarrier_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Duality_SpawnBarrier_C Default__Duality_SpawnBarrier_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.1"
+    }
+  },
+  {
+    "Type": "Duality_SpawnBarrier_C",
+    "Name": "Default__Duality_SpawnBarrier_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_SpawnBarrier:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.24"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_SpawnBarrier:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.37"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "Duality_SpawnBarrier_C",
+    "Name": "Duality_SpawnBarrier_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Duality_SpawnBarrier_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "GameObjectVisibilityComponent",
+    "Name": "GameObjectVisibility",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "GameObjectVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_SpawnBarrier",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_SpawnBarrier:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.36"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Duality_SpawnBarrier_C Duality_SpawnBarrier:PersistentLevel.Duality_SpawnBarrier_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.23"
+      },
+      "LevelBuildDataId": "B600BCED-4648DE2B-8A453CAC-52212003",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_SpawnBarrier_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_SpawnBarrier:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_SpawnBarrier:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.2"
+      },
+      null,
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.58"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.59"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.60"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.61"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.62"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.63"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.64"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.65"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.66"
+      },
+      {
+        "ObjectName": "SpawnBarrierDeprecated_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.67"
+      },
+      {
+        "ObjectName": "Duality_SpawnBarrier_C Duality_SpawnBarrier:PersistentLevel.Duality_SpawnBarrier_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.23"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_SpawnBarrier:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.36"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Duality_SpawnBarrier_C Duality_SpawnBarrier:PersistentLevel.Duality_SpawnBarrier_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.23"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "D63A1025-48DD93C4-33FD8AB9-85440C09",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4850.0,
+        "Y": -4550.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": -26.565033,
+        "Roll": 63.43499
+      },
+      "RelativeScale3D": {
+        "X": 6.5,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6775.0,
+        "Y": -3200.0,
+        "Z": 300.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 1.8E-05,
+        "Roll": -6.1E-05
+      },
+      "RelativeScale3D": {
+        "X": 4.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7750.0,
+        "Y": -100.0,
+        "Z": 200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 20.55604,
+        "Roll": -69.444
+      },
+      "RelativeScale3D": {
+        "X": 3.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6500.0,
+        "Y": 1525.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": -19.471218,
+        "Roll": -19.471222
+      },
+      "RelativeScale3D": {
+        "X": 9.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6400.0,
+        "Y": 3350.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": -26.565033,
+        "Roll": -116.56497
+      },
+      "RelativeScale3D": {
+        "X": 9.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8900.0,
+        "Y": 1100.0,
+        "Z": 200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": -35.26439,
+        "Roll": 144.73564
+      },
+      "RelativeScale3D": {
+        "X": 10.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8900.0,
+        "Y": 500.0,
+        "Z": 200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 7.125023,
+        "Roll": 97.12514
+      },
+      "RelativeScale3D": {
+        "X": 10.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9500.0,
+        "Y": 3400.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": -25.239388,
+        "Roll": 154.76068
+      },
+      "RelativeScale3D": {
+        "X": 6.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9100.0,
+        "Y": -3900.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 4.7636437,
+        "Roll": -85.23633
+      },
+      "RelativeScale3D": {
+        "X": 5.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9700.0,
+        "Y": -5400.0,
+        "Z": 300.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 6.721369,
+        "Roll": -173.27864
+      },
+      "RelativeScale3D": {
+        "X": 5.0,
+        "Y": 20.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Atk",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.68"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.25"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.80"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.79"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.78"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.38"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.13"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.3"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.48"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.79"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.80"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.68"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Atk2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.69"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.26"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.83"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.82"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.81"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.39"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.14"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.4"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.49"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.82"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.83"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.69"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.26"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Atk3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.70"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.27"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.86"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.85"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.84"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.40"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.15"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.5"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.50"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.85"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.86"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.70"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.27"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Atk4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.71"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.28"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.89"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.88"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.87"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.41"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.16"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.6"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.51"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.88"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.89"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.71"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.28"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Atk5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.72"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.29"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.92"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.91"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.90"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.42"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.17"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.7"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.52"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.91"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.92"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.72"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Def",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.73"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.30"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.95"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.94"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.93"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.43"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.18"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.8"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.53"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.94"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.95"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.73"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.30"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Def2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.74"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.31"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.98"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.97"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.96"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.44"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.19"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.9"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.54"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.97"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.98"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.74"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.31"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Def3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.75"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.32"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.101"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.100"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.99"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.45"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.20"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.10"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.55"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.100"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.101"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.75"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.32"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Def4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.76"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.33"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.104"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.103"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.102"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.46"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.21"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.11"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.56"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.103"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.104"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.76"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.33"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierDeprecated_C",
+    "Name": "SpawnDome_Plane_Visual_Def5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__SpawnBarrierDeprecated_C",
+    "Properties": {
+      "SpawnBarrierMinimapComponent1": {
+        "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.SpawnBarrierMinimapComponent1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.77"
+      },
+      "GameObjectVisibility": {
+        "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.GameObjectVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.34"
+      },
+      "TrackingMesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.107"
+      },
+      "StaticMesh3": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.106"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.105"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.47"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.22"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.12"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.57"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.StaticMesh3",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.106"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.TrackingMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.107"
+        },
+        {
+          "ObjectName": "SpawnBarrierMinimapComponent_C Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.SpawnBarrierMinimapComponent1",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.77"
+        },
+        {
+          "ObjectName": "GameObjectVisibilityComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.GameObjectVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.34"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.80"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.83"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.86"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.89"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.92"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.95"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.98"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.101"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.104"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SpawnBarrierMinimapComponent_C",
+    "Name": "SpawnBarrierMinimapComponent1",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "SpawnBarrierMinimapComponent1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.TrackingMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.107"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.48"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.48"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8985786,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.79"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.49"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.49"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk2",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8733385,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk2.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.82"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.50"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.50"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk3",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8536935,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk3.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.85"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.51"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.51"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk4",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8298786,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk4.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.88"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.52"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.52"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Atk5",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8258914,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Atk5.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.91"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.53"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.53"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8444543,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.94"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.54"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.54"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def2",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.837219,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def2.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.97"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.55"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.55"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def3",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8207892,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def3.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.100"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.56"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.56"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def4",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 0.5,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def4.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.103"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.57"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh3",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "StaticMesh3_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.57"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TrackingMesh",
+    "Outer": "SpawnDome_Plane_Visual_Def5",
+    "Template": "TrackingMesh_GEN_VARIABLE",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8994079,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Duality_SpawnBarrier:PersistentLevel.SpawnDome_Plane_Visual_Def5.StaticMesh3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.106"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_SpawnBarrier",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_SpawnBarrier:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SpawnBarrier.35"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

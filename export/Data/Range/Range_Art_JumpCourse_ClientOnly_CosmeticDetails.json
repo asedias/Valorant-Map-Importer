@@ -1,0 +1,693 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C Default__Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.1"
+    }
+  },
+  {
+    "Type": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C",
+    "Name": "Default__Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.3"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.6"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.5"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.7"
+      },
+      "StreamingTextureGuids": [
+        "93344CA8-4B40DF2C-91B918BB-BF3BB8A9",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "2D520F62-467A51B7-478E11AB-79F158F2",
+        "A6F696D4-43F781AD-958815B7-83B53C24",
+        "F032F691-4094E6B3-042036A4-350ACBF6",
+        "904EB5DC-4D9F51D0-5CF909B1-ACB4DD48"
+      ],
+      "LevelBuildDataId": "7B720708-4DD73615-D14725AC-6B3CFAE1",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Range_Art_JumpCourse_ClientOnly_CosmeticDetails_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.2"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.JumpCourse_12_WallMuralB_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.13"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_ChunkSMLA_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.9"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_ChunkSMLA2_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.8"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_CracksMedB_8",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.11"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_CracksMedB21",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.10"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.JumpCourse_12_TowerMuralA_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.12"
+      },
+      {
+        "ObjectName": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.7"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 13030,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.5"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C_3",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.7"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "66492462-416CB785-67325999-6CF808E2",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C",
+    "Name": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C_3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Range_Art_JumpCourse_ClientOnly_CosmeticDetails_C"
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Grass_1_ChunkSMLA2_5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_ChunkSMLA2_5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.14"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_ChunkSMLA2_5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.14"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Grass_1_ChunkSMLA_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_ChunkSMLA_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.15"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_ChunkSMLA_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.15"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Grass_1_CracksMedB21",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_CracksMedB21.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.16"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_CracksMedB21.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.16"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Grass_1_CracksMedB_8",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_CracksMedB_8.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.17"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.Grass_1_CracksMedB_8.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.17"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "JumpCourse_12_TowerMuralA_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.JumpCourse_12_TowerMuralA_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.18"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.JumpCourse_12_TowerMuralA_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.18"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "JumpCourse_12_WallMuralB_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.JumpCourse_12_WallMuralB_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.19"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel.JumpCourse_12_WallMuralB_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.19"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Grass_1_ChunkSMLA2_5",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Grass_1_ChunkSMLA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Grass/1/Grass_1_ChunkSMLA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3824888930,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 135.07037
+        },
+        {
+          "PackedRelativeBox": 3824888930,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 135.07037
+        },
+        {
+          "PackedRelativeBox": 3824888930,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 135.07037
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5861.0,
+        "Y": -15912.0,
+        "Z": 1764.0
+      },
+      "RelativeRotation": {
+        "Pitch": 20.000011,
+        "Yaw": 4E-06,
+        "Roll": 20.00001
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "9826818C47E9DE74C75B8AB09A28FEFA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Grass_1_ChunkSMLA_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Grass_1_ChunkSMLA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Grass/1/Grass_1_ChunkSMLA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 135.07037
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 135.07037
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 135.07037
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5730.0,
+        "Y": -15965.0,
+        "Z": 1738.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "004308CC409A30214393649B74B30B98"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Grass_1_CracksMedB21",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Grass_1_CracksMedB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Grass/1/Grass_1_CracksMedB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3820818529,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 148.81284
+        },
+        {
+          "PackedRelativeBox": 3820818529,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 148.81284
+        },
+        {
+          "PackedRelativeBox": 3820818529,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 148.81284
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5850.0,
+        "Y": -15909.0,
+        "Z": 1778.0
+      },
+      "RelativeRotation": {
+        "Pitch": 5.458072,
+        "Yaw": 65.94518,
+        "Roll": 24.292557
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "72D66E224A845C4078D3D2A878B6E10F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Grass_1_CracksMedB_8",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Grass_1_CracksMedB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Grass/1/Grass_1_CracksMedB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3751742689,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 148.81284
+        },
+        {
+          "PackedRelativeBox": 3751742689,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 148.81284
+        },
+        {
+          "PackedRelativeBox": 3751742689,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 148.81284
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Grass_M0_Cards_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Grass/M0/Grass_M0_Cards_MI_Wind.0"
+        }
+      ],
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5946.0,
+        "Y": -15895.0,
+        "Z": 1810.0
+      },
+      "RelativeRotation": {
+        "Pitch": 4.208571,
+        "Yaw": 80.92028,
+        "Roll": 24.66564
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5998FE6A4C9C22C8F27601941033886C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "JumpCourse_12_TowerMuralA_3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh JumpCourse_12_TowerMuralA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/JumpCourse/12/JumpCourse_12_TowerMuralA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 1064.2916
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1064.2916
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 1064.2916
+        }
+      ],
+      "bTranslucencyPreDecal": true,
+      "TranslucencySortPriority": -2,
+      "RelativeLocation": {
+        "X": -1995.0,
+        "Y": -10390.0,
+        "Z": 4339.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6AFF6E794BD4762F764B21A56D52D508"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "JumpCourse_12_WallMuralB_3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh JumpCourse_12_WallMuralB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/JumpCourse/12/JumpCourse_12_WallMuralB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 2040.335
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2040.335
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 2040.335
+        }
+      ],
+      "CastShadow": false,
+      "bTranslucencyPreDecal": true,
+      "TranslucencySortPriority": -2,
+      "RelativeLocation": {
+        "X": 2556.0,
+        "Y": -15551.0,
+        "Z": 1251.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C375A89B4888F81FECCB3C99A98CAC61",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 228
+        }
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Range_Art_JumpCourse_ClientOnly_CosmeticDetails",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Range_Art_JumpCourse_ClientOnly_CosmeticDetails:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_JumpCourse_ClientOnly_CosmeticDetails.4"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

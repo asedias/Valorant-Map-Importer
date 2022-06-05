@@ -1,0 +1,1070 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Mode_BombMode_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Mode_BombMode_C Default__Ascent_Mode_BombMode_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.1"
+    }
+  },
+  {
+    "Type": "Ascent_Mode_BombMode_C",
+    "Name": "Default__Ascent_Mode_BombMode_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Mode_BombMode:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.22"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Mode_BombMode:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.25"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Mode_BombMode_C",
+    "Name": "Ascent_Mode_BombMode_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Mode_BombMode_C"
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.38"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.39"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.28"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.43"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.52"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.8"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.42"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.30"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.16"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.10"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.36"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.52"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.43"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.28"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.29"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.45"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.53"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.9"
+        }
+      ],
+      "BombSite": "BombSiteEnum::NewEnumerator1",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.44"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.31"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.17"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.11"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.37"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.53"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.45"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.47"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.4"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.46"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.32"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.18"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.12"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.38"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.4"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.47"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.49"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.5"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.48"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.33"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.19"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.13"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.39"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.5"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.49"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "TreasureBoxSpawner",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "TreasureBoxSpawner2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "TreasureBoxSpawner",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "TreasureBoxSpawner2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Mode_BombMode",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Mode_BombMode:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.24"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Mode_BombMode_C Ascent_Mode_BombMode:PersistentLevel.Ascent_Mode_BombMode_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.3"
+      },
+      "LevelBuildDataId": "CF16CD7A-4E338763-A4F2AF87-29A526D3",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_Mode_BombMode_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Mode_BombMode:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Mode_BombMode:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.2"
+      },
+      null,
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.9"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.8"
+      },
+      {
+        "ObjectName": "OrbSpawner_C Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.26"
+      },
+      {
+        "ObjectName": "OrbSpawner_C Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.27"
+      },
+      {
+        "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.7"
+      },
+      {
+        "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.6"
+      },
+      {
+        "ObjectName": "Ascent_Mode_BombMode_C Ascent_Mode_BombMode:PersistentLevel.Ascent_Mode_BombMode_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 13032,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Mode_BombMode:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.24"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Mode_BombMode_C Ascent_Mode_BombMode:PersistentLevel.Ascent_Mode_BombMode_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.3"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "135ABB19-4598F2D0-E07FFCBF-B50B9672",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_C",
+    "Name": "TreasureBoxSpawner",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_C",
+    "Properties": {
+      "TelemetryLabel": "Orb_B-Main",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.50"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.34"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.20"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.14"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.40"
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_C",
+    "Name": "TreasureBoxSpawner2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_C",
+    "Properties": {
+      "TelemetryLabel": "Orb_A-Main",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.51"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.35"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.21"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.15"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.41"
+      }
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_A",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_B",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "TreasureBoxSpawner",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "TreasureBoxSpawner2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6079.0,
+        "Y": -6927.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99997,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2942.0,
+        "Y": -7617.0,
+        "Z": -99.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00001,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5100.0,
+        "Y": -7800.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 20.0,
+        "Y": 12.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -4000.0,
+        "Y": -8700.0,
+        "Z": -100.0
+      },
+      "RelativeScale3D": {
+        "X": 17.0,
+        "Y": 18.5,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "TreasureBoxSpawner",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2500.0,
+        "Y": -6190.0,
+        "Z": 300.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "TreasureBoxSpawner2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4425.0,
+        "Y": -4700.0,
+        "Z": 400.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.36"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_A",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.36"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MassInKgOverride": 0.0,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.37"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_B",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.37"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MassInKgOverride": 100.0
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.38"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.38"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "41882C3B4C2FD92EB5710CBF3278C302"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.39"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.39"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C1FC22C94ACD34DC6A5128BBB2E67870"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "TreasureBoxSpawner",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.40"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "TreasureBoxSpawner2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Mode_BombMode:PersistentLevel.TreasureBoxSpawner2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.41"
+      }
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_A",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_B",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Ascent_Mode_BombMode:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.7"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Mode_BombMode",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Mode_BombMode:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_BombMode.23"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

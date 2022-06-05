@@ -1,0 +1,204 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Bonsai_Skybox_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Bonsai_Skybox_C Default__Bonsai_Skybox_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.1"
+    }
+  },
+  {
+    "Type": "Bonsai_Skybox_C",
+    "Name": "Default__Bonsai_Skybox_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Bonsai_Skybox:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.4"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Bonsai_Skybox:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.7"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Bonsai_Skybox_C",
+    "Name": "Bonsai_Skybox_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Bonsai_Skybox_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Bonsai_Skybox",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Bonsai_Skybox:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.6"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Bonsai_Skybox_C Bonsai_Skybox:PersistentLevel.Bonsai_Skybox_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.3"
+      },
+      "LevelBuildDataId": "10DBA95B-495AFFBA-3AFB8EB0-1D9BE9AD",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Bonsai_Skybox_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Bonsai_Skybox:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Bonsai_Skybox:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.2"
+      },
+      null,
+      {
+        "ObjectName": "Bonsai_Skybox_C Bonsai_Skybox:PersistentLevel.Bonsai_Skybox_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Bonsai_Skybox:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.6"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Bonsai_Skybox_C Bonsai_Skybox:PersistentLevel.Bonsai_Skybox_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.3"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "EF59EBD0-419170EB-68226BB0-E2F8DCCE",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Bonsai_Skybox",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Bonsai_Skybox:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Skybox.5"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

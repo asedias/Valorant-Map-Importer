@@ -1,0 +1,3059 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Duality_ObserverCameras_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Duality_ObserverCameras_C Default__Duality_ObserverCameras_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.1"
+    }
+  },
+  {
+    "Type": "Duality_ObserverCameras_C",
+    "Name": "Default__Duality_ObserverCameras_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_ObserverCameras:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.116"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_ObserverCameras:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.119"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ABath1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.120"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ABath2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.121"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AExit1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.122"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AExit2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.123"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AExitALobby2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExitALobby2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.124"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALamp1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.125"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALamp2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.126"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALampASite1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALampASite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.127"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALink1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.128"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALink2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.129"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALobby1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.130"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ALobby2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.131"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AShort1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.132"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AShort2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.133"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AShortCubby1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShortCubby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.134"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ASite1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.135"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ASite2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.136"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ASite3",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.137"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_ASite4",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.138"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkCave1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkCave1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.139"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkSideCave",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSideCave.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.140"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkSpawn1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.141"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkSpawn2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.142"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkSpawn3",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.143"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkSpawn4",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.144"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_AtkSpawnCave1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawnCave1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.145"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BElbow1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.146"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BElbow2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.147"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BElbow3",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.148"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BExit1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.149"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BExit2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.150"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BGarden1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.151"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BGarden2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.152"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BHall1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.153"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BHall2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.154"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BHall3",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.155"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BHall4",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.156"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BLinkALink1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLinkALink1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.157"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BLobby1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLobby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.158"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BLong1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLong1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.159"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BShort1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.160"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BShort2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.161"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BShortExit1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShortExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.162"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BSite1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.163"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BSite2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.164"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_Bsite3",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.165"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_Bsite4",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.166"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_Bsite5",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite5.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.167"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BSiteElbow1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSiteElbow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.168"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BTeleporter1_0",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BTeleporter1_0.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.169"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BWindow1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.170"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BWindow2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.171"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BWindow3",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.172"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_BWindow4",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.173"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_DefSpawn1",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.174"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CinematicCam_DefSpawn2",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.175"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ABath1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.3"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.120"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.120"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ABath2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.4"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.121"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.121"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AExit1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.5"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.122"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.122"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AExit2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.6"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.123"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.123"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AExitALobby2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExitALobby2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.7"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExitALobby2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.124"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AExitALobby2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.124"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALamp1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.8"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.125"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.125"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALamp2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.9"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.126"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.126"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALampASite1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALampASite1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.10"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALampASite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.127"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALampASite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.127"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALink1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.11"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.128"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.128"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALink2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.12"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.129"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.129"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALobby1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.13"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.130"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.130"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ALobby2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.14"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.131"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.131"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AShort1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.15"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.132"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.132"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AShort2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.16"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.133"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.133"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AShortCubby1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShortCubby1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.17"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShortCubby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.134"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AShortCubby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.134"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ASite1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.18"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.135"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.135"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ASite2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.19"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.136"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.136"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ASite3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.20"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.137"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.137"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_ASite4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite4.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.21"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.138"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.138"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkCave1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkCave1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.22"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkCave1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.139"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkCave1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.139"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkSideCave",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSideCave.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.23"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSideCave.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.140"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSideCave.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.140"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkSpawn1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.24"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.141"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.141"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkSpawn2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.25"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.142"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.142"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkSpawn3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.26"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.143"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.143"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkSpawn4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn4.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.27"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.144"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.144"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_AtkSpawnCave1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawnCave1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.28"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawnCave1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.145"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawnCave1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.145"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BElbow1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.29"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.146"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.146"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BElbow2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.30"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.147"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.147"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BElbow3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.31"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.148"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.148"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BExit1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.32"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.149"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.149"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BExit2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.33"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.150"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.150"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BGarden1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.34"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.151"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.151"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BGarden2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.35"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.152"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.152"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BHall1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.36"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.153"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.153"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BHall2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.37"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.154"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.154"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BHall3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.38"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.155"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.155"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BHall4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall4.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.39"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.156"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.156"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BLinkALink1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLinkALink1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.40"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLinkALink1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.157"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLinkALink1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.157"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BLobby1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLobby1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.41"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLobby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.158"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLobby1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.158"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BLong1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLong1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.42"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLong1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.159"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BLong1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.159"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BShort1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.43"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.160"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.160"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BShort2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.44"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.161"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.161"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BShortExit1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShortExit1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.45"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShortExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.162"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BShortExit1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.162"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BSite1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.46"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.163"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.163"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BSite2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.47"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.164"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.164"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_Bsite3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.48"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.165"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.165"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_Bsite4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite4.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.49"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.166"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.166"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_Bsite5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite5.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.50"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite5.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.167"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite5.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.167"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BSiteElbow1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSiteElbow1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.51"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSiteElbow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.168"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BSiteElbow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.168"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BTeleporter1_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BTeleporter1_0.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.52"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BTeleporter1_0.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.169"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BTeleporter1_0.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.169"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BWindow1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.53"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.170"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.170"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BWindow2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.54"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.171"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.171"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BWindow3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.55"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.172"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.172"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_BWindow4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow4.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.56"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.173"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.173"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_DefSpawn1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.57"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.174"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.174"
+      }
+    }
+  },
+  {
+    "Type": "CinematicCameraMarker",
+    "Name": "CinematicCam_DefSpawn2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.58"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.175"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.175"
+      }
+    }
+  },
+  {
+    "Type": "Duality_ObserverCameras_C",
+    "Name": "Duality_ObserverCameras_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Duality_ObserverCameras_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_ObserverCameras",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_ObserverCameras:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.118"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Duality_ObserverCameras_C Duality_ObserverCameras:PersistentLevel.Duality_ObserverCameras_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.115"
+      },
+      "LevelBuildDataId": "D29B051F-4550F38C-B22EA784-F85A1424",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_ObserverCameras_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_ObserverCameras:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_ObserverCameras:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.2"
+      },
+      null,
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.59"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.61"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.88"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.74"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.64"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkCave1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.78"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.75"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BTeleporter1_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.108"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.80"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.113"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.99"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.71"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.67"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.102"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.76"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALink2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.68"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_DefSpawn2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.114"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BLong1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.98"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BSite2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.103"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BSiteElbow1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.107"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.69"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.104"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.81"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALamp2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.65"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawnCave1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.84"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.82"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.109"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AShort2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.72"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.92"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AShortCubby1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.73"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BLobby1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.97"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BShortExit1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.101"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.93"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ASite4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.77"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSideCave",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.79"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BExit2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.89"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.85"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ABath2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.60"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALobby2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.70"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.110"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BLinkALink1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.96"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.111"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.94"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BHall4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.95"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AExit2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.62"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.105"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.86"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BWindow4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.112"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BShort2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.100"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_ALampASite1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.66"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AExitALobby2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.63"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_AtkSpawn4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.83"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.90"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BGarden2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.91"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_Bsite5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.106"
+      },
+      {
+        "ObjectName": "CinematicCameraMarker Duality_ObserverCameras:PersistentLevel.CinematicCam_BElbow3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.87"
+      },
+      {
+        "ObjectName": "Duality_ObserverCameras_C Duality_ObserverCameras:PersistentLevel.Duality_ObserverCameras_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.115"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_ObserverCameras:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.118"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Duality_ObserverCameras_C Duality_ObserverCameras:PersistentLevel.Duality_ObserverCameras_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.115"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "1FE97589-4C07830A-164019A5-DF6941EC",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ABath1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9457.425,
+        "Y": 5081.449,
+        "Z": 445.7193
+      },
+      "RelativeRotation": {
+        "Pitch": -13.399778,
+        "Yaw": -122.79771,
+        "Roll": -3E-05
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ABath2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9072.236,
+        "Y": 2964.3313,
+        "Z": 344.10065
+      },
+      "RelativeRotation": {
+        "Pitch": -6.601808,
+        "Yaw": 56.199017,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AExit1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5425.888,
+        "Y": 5089.9614,
+        "Z": 994.3444
+      },
+      "RelativeRotation": {
+        "Pitch": -51.600185,
+        "Yaw": 8.40213,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AExit2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5893.4146,
+        "Y": 5749.4937,
+        "Z": 781.81024
+      },
+      "RelativeRotation": {
+        "Pitch": -36.602627,
+        "Yaw": -90.40309,
+        "Roll": -2E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AExitALobby2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7767.2354,
+        "Y": 4984.2666,
+        "Z": 597.8154
+      },
+      "RelativeRotation": {
+        "Pitch": -16.003693,
+        "Yaw": -136.20424,
+        "Roll": -0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALamp1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10645.538,
+        "Y": 1182.6621,
+        "Z": 672.4363
+      },
+      "RelativeRotation": {
+        "Pitch": -30.800169,
+        "Yaw": -47.59804,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALamp2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11181.704,
+        "Y": -77.3412,
+        "Z": 483.87183
+      },
+      "RelativeRotation": {
+        "Pitch": -8.401125,
+        "Yaw": 135.19849,
+        "Roll": -0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALampASite1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9951.725,
+        "Y": -44.585804,
+        "Z": 600.00476
+      },
+      "RelativeRotation": {
+        "Pitch": -20.003355,
+        "Yaw": 46.994976,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALink1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6103.922,
+        "Y": -711.7257,
+        "Z": 589.4684
+      },
+      "RelativeRotation": {
+        "Pitch": -18.000238,
+        "Yaw": -41.7964,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALink2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7779.574,
+        "Y": -1193.6255,
+        "Z": 640.0805
+      },
+      "RelativeRotation": {
+        "Pitch": -19.999994,
+        "Yaw": 134.60245,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALobby1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5621.0054,
+        "Y": 4589.3823,
+        "Z": 543.985
+      },
+      "RelativeRotation": {
+        "Pitch": -11.400446,
+        "Yaw": -43.99938,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ALobby2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5640.498,
+        "Y": 1627.9938,
+        "Z": 776.59247
+      },
+      "RelativeRotation": {
+        "Pitch": -22.401852,
+        "Yaw": 42.800186,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AShort1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7433.179,
+        "Y": 2378.7646,
+        "Z": 590.4511
+      },
+      "RelativeRotation": {
+        "Pitch": -12.000027,
+        "Yaw": -93.99586,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AShort2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7158.7554,
+        "Y": -21.784607,
+        "Z": 636.03467
+      },
+      "RelativeRotation": {
+        "Pitch": -17.80105,
+        "Yaw": 47.198715,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AShortCubby1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7140.167,
+        "Y": 821.3879,
+        "Z": 650.3466
+      },
+      "RelativeRotation": {
+        "Pitch": -18.001127,
+        "Yaw": 0.997803,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ASite1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9846.037,
+        "Y": 3979.1487,
+        "Z": 1174.6925
+      },
+      "RelativeRotation": {
+        "Pitch": -55.200428,
+        "Yaw": -77.19802,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ASite2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11957.223,
+        "Y": 1252.0786,
+        "Z": 951.123
+      },
+      "RelativeRotation": {
+        "Pitch": -26.400019,
+        "Yaw": 130.40164,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ASite3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9647.251,
+        "Y": 3902.86,
+        "Z": 826.713
+      },
+      "RelativeRotation": {
+        "Pitch": -20.80007,
+        "Yaw": -45.396763,
+        "Roll": -1E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_ASite4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11880.107,
+        "Y": 3938.4656,
+        "Z": 773.7763
+      },
+      "RelativeRotation": {
+        "Pitch": -16.601744,
+        "Yaw": -103.60227,
+        "Roll": 1E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkCave1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3839.8132,
+        "Y": 942.5929,
+        "Z": 411.20074
+      },
+      "RelativeRotation": {
+        "Pitch": -5.600065,
+        "Yaw": -82.79831,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkSideCave",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5218.302,
+        "Y": -971.81226,
+        "Z": 628.3365
+      },
+      "RelativeRotation": {
+        "Pitch": -15.4017,
+        "Yaw": -88.00176,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkSpawn1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -270.2112,
+        "Y": 485.38528,
+        "Z": 272.364
+      },
+      "RelativeRotation": {
+        "Pitch": -16.19989,
+        "Yaw": -3.597544,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkSpawn2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 700.15784,
+        "Y": 1069.6802,
+        "Z": 489.1307
+      },
+      "RelativeRotation": {
+        "Pitch": -14.00076,
+        "Yaw": -46.201015,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkSpawn3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 670.594,
+        "Y": -122.17672,
+        "Z": 473.7149
+      },
+      "RelativeRotation": {
+        "Pitch": -12.400993,
+        "Yaw": 21.798939,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkSpawn4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3880.4702,
+        "Y": -1966.7776,
+        "Z": 347.95724
+      },
+      "RelativeRotation": {
+        "Pitch": -5.403745,
+        "Yaw": 145.3955,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_AtkSpawnCave1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3870.8901,
+        "Y": 3162.585,
+        "Z": 597.30365
+      },
+      "RelativeRotation": {
+        "Pitch": -18.601192,
+        "Yaw": -96.40102,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BElbow1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10663.077,
+        "Y": -6392.335,
+        "Z": 979.99805
+      },
+      "RelativeRotation": {
+        "Pitch": -41.40216,
+        "Yaw": -35.999714,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BElbow2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12012.942,
+        "Y": -7284.7256,
+        "Z": 710.9589
+      },
+      "RelativeRotation": {
+        "Pitch": -28.60266,
+        "Yaw": 133.5966,
+        "Roll": -1E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BElbow3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10737.627,
+        "Y": -7279.399,
+        "Z": 510.09473
+      },
+      "RelativeRotation": {
+        "Pitch": 1.396657,
+        "Yaw": 51.19289,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BExit1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8496.196,
+        "Y": -1885.2473,
+        "Z": 1253.1464
+      },
+      "RelativeRotation": {
+        "Pitch": -55.20042,
+        "Yaw": -7.397839,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BExit2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8901.234,
+        "Y": -1411.4567,
+        "Z": 1072.2461
+      },
+      "RelativeRotation": {
+        "Pitch": -32.401917,
+        "Yaw": -89.602,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BGarden1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9511.392,
+        "Y": -5162.677,
+        "Z": 517.0783
+      },
+      "RelativeRotation": {
+        "Pitch": 1.5967,
+        "Yaw": -128.20432,
+        "Roll": -0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BGarden2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8786.505,
+        "Y": -5422.3247,
+        "Z": 619.85254
+      },
+      "RelativeRotation": {
+        "Pitch": -7.003109,
+        "Yaw": -32.204144,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BHall1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 13105.81,
+        "Y": -6258.1772,
+        "Z": 497.97574
+      },
+      "RelativeRotation": {
+        "Pitch": -6.401123,
+        "Yaw": 134.19798,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BHall2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11534.14,
+        "Y": -5933.3564,
+        "Z": 590.01294
+      },
+      "RelativeRotation": {
+        "Pitch": -9.80139,
+        "Yaw": -43.199974,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BHall3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12912.761,
+        "Y": -1822.4989,
+        "Z": 557.22626
+      },
+      "RelativeRotation": {
+        "Pitch": -13.202543,
+        "Yaw": -91.20149,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BHall4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 13146.3955,
+        "Y": -3675.9343,
+        "Z": 490.92438
+      },
+      "RelativeRotation": {
+        "Pitch": -1.602663,
+        "Yaw": -121.00229,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BLinkALink1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6145.1943,
+        "Y": -3377.7976,
+        "Z": 709.0206
+      },
+      "RelativeRotation": {
+        "Pitch": -21.202211,
+        "Yaw": 56.99863,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BLobby1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4875.7754,
+        "Y": -6468.4736,
+        "Z": 717.26294
+      },
+      "RelativeRotation": {
+        "Pitch": -11.801173,
+        "Yaw": 41.798473,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BLong1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6479.2285,
+        "Y": -6556.0425,
+        "Z": 311.21417
+      },
+      "RelativeRotation": {
+        "Pitch": 3.39987,
+        "Yaw": 35.401302,
+        "Roll": -0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BShort1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9340.83,
+        "Y": -3213.9373,
+        "Z": 897.6559
+      },
+      "RelativeRotation": {
+        "Pitch": -16.200012,
+        "Yaw": 150.60394,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BShort2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6856.205,
+        "Y": -2524.17,
+        "Z": 634.9823
+      },
+      "RelativeRotation": {
+        "Pitch": -3.203031,
+        "Yaw": -47.603886,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BShortExit1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9252.798,
+        "Y": -2660.2197,
+        "Z": 1094.9109
+      },
+      "RelativeRotation": {
+        "Pitch": -31.601065,
+        "Yaw": -138.60155,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BSite1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12340.18,
+        "Y": -3860.9932,
+        "Z": 886.63873
+      },
+      "RelativeRotation": {
+        "Pitch": -21.80035,
+        "Yaw": -134.79674,
+        "Roll": -1E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BSite2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12434.673,
+        "Y": -5735.6284,
+        "Z": 912.83746
+      },
+      "RelativeRotation": {
+        "Pitch": -22.600124,
+        "Yaw": 142.0016,
+        "Roll": 1E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_Bsite3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11798.851,
+        "Y": -3706.796,
+        "Z": 549.9241
+      },
+      "RelativeRotation": {
+        "Pitch": -5.000456,
+        "Yaw": -117.1997,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_Bsite4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9830.447,
+        "Y": -6354.4863,
+        "Z": 1043.166
+      },
+      "RelativeRotation": {
+        "Pitch": -28.402767,
+        "Yaw": 43.196472,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_Bsite5",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11401.478,
+        "Y": -5782.513,
+        "Z": 573.9422
+      },
+      "RelativeRotation": {
+        "Pitch": -3.603389,
+        "Yaw": 73.796,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BSiteElbow1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9891.149,
+        "Y": -5252.264,
+        "Z": 992.4442
+      },
+      "RelativeRotation": {
+        "Pitch": -20.00018,
+        "Yaw": -37.797974,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BTeleporter1_0",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9432.336,
+        "Y": -7206.258,
+        "Z": 698.97815
+      },
+      "RelativeRotation": {
+        "Pitch": -10.20004,
+        "Yaw": 129.60228,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BWindow1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10175.273,
+        "Y": -4725.51,
+        "Z": 974.3737
+      },
+      "RelativeRotation": {
+        "Pitch": -17.801172,
+        "Yaw": 148.59923,
+        "Roll": -0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BWindow2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10066.729,
+        "Y": -4054.1973,
+        "Z": 1180.2017
+      },
+      "RelativeRotation": {
+        "Pitch": -54.20202,
+        "Yaw": -112.20087,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BWindow3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8163.424,
+        "Y": -4711.9033,
+        "Z": 970.7057
+      },
+      "RelativeRotation": {
+        "Pitch": -27.60229,
+        "Yaw": 44.39835,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_BWindow4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8184.0967,
+        "Y": -4081.0833,
+        "Z": 885.58575
+      },
+      "RelativeRotation": {
+        "Pitch": -17.002676,
+        "Yaw": -46.00358,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_DefSpawn1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 16764.562,
+        "Y": -992.6146,
+        "Z": 765.1792
+      },
+      "RelativeRotation": {
+        "Pitch": -16.199944,
+        "Yaw": 179.203,
+        "Roll": -0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CinematicCam_DefSpawn2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 13561.209,
+        "Y": -784.52075,
+        "Z": 711.5507
+      },
+      "RelativeRotation": {
+        "Pitch": -20.40017,
+        "Yaw": 1.202393,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_ObserverCameras",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_ObserverCameras:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_ObserverCameras.117"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

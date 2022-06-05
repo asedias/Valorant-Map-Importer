@@ -1,0 +1,204 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_GreyboxChanges_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_GreyboxChanges_C Default__Ascent_GreyboxChanges_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.1"
+    }
+  },
+  {
+    "Type": "Ascent_GreyboxChanges_C",
+    "Name": "Default__Ascent_GreyboxChanges_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_GreyboxChanges:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.4"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_GreyboxChanges:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.7"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_GreyboxChanges_C",
+    "Name": "Ascent_GreyboxChanges_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_GreyboxChanges_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_GreyboxChanges",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_GreyboxChanges:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.6"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_GreyboxChanges_C Ascent_GreyboxChanges:PersistentLevel.Ascent_GreyboxChanges_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.3"
+      },
+      "LevelBuildDataId": "CEEC079C-4967CCCD-78A105BC-45C5D0A8",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_GreyboxChanges_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_GreyboxChanges:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_GreyboxChanges:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.2"
+      },
+      null,
+      {
+        "ObjectName": "Ascent_GreyboxChanges_C Ascent_GreyboxChanges:PersistentLevel.Ascent_GreyboxChanges_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_GreyboxChanges:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.6"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_GreyboxChanges_C Ascent_GreyboxChanges:PersistentLevel.Ascent_GreyboxChanges_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.3"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "2B494454-4E4F1500-C24A5B8E-F179EB0B",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_GreyboxChanges",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_GreyboxChanges:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_GreyboxChanges.5"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

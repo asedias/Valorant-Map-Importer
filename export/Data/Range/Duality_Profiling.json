@@ -1,0 +1,2094 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Duality_Profiling_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Duality_Profiling_C Default__Duality_Profiling_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.1"
+    }
+  },
+  {
+    "Type": "Duality_Profiling_C",
+    "Name": "Default__Duality_Profiling_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_Profiling:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.50"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_Profiling:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.53"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor19",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor19.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.15"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor19.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.76"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor19.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.76"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor20",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor20.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.16"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor20.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.77"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor20.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.77"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor21",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor21.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.17"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor21.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.78"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor21.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.78"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor22",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor22.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.18"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor22.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.79"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor22.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.79"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor23",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor23.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.19"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor23.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.80"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor23.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.80"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor24",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor24.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.20"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor24.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.81"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor24.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.81"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor25",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor25.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.21"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor25.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.82"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor25.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.82"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor26",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor26.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.22"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor26.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.83"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor26.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.83"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor27",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor27.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.23"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor27.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.84"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor27.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.84"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor28",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor28.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.24"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor28.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.85"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor28.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.85"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor29",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor29.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.25"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor29.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.86"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor29.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.86"
+      }
+    }
+  },
+  {
+    "Type": "CameraActor",
+    "Name": "CameraActor30",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraActor30.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.26"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor30.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.87"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor30.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.87"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor19",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor19.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.76"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor20",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor20.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.77"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor21",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor21.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.78"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor22",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor22.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.79"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor23",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor23.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.80"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor24",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor24.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.81"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor25",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor25.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.82"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor26",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor26.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.83"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor27",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor27.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.84"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor28",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor28.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.85"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor29",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor29.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.86"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraActor30",
+    "Properties": {
+      "FieldOfView": 100.0,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraActor30.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.87"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.88"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU1",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.89"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU10",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU10.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.90"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU11",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU11.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.91"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU12",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU12.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.92"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU13",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU13.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.93"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU14",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU14.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.94"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU15",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU15.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.95"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU16",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU16.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.96"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU17",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU17.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.97"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU18",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU18.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.98"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU19",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU19.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.99"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU2",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.100"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU20",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU20.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.101"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU21",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU21.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.102"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU3",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.103"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU4",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.104"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU5",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU5.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.105"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU6",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU6.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.106"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU7",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU7.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.107"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU8",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU8.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.108"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "CameraComponent",
+    "Outer": "CameraGPU9",
+    "Template": "CameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU9.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.109"
+      }
+    }
+  },
+  {
+    "Type": "Duality_Profiling_C",
+    "Name": "Duality_Profiling_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Duality_Profiling_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_Profiling",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_Profiling:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.52"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Duality_Profiling_C Duality_Profiling:PersistentLevel.Duality_Profiling_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.49"
+      },
+      "LevelBuildDataId": "2CE5471C-44E2203B-B608ADBD-FD13C170",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_Profiling_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_Profiling:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_Profiling:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.2"
+      },
+      null,
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor19",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.3"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor20",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.4"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor21",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.5"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor22",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.6"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor23",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.7"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor24",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.8"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor25",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.9"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor26",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.10"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor27",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.11"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor28",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.12"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor29",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.13"
+      },
+      {
+        "ObjectName": "CameraActor Duality_Profiling:PersistentLevel.CameraActor30",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.14"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.54"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.55"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.66"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.69"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.70"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.71"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU6",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.72"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU7",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.73"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU8",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.74"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU9",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.75"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU10",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.56"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU11",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.57"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU12",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.58"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU13",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.59"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU14",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.60"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU15",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.61"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU16",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.62"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU17",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.63"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU18",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.64"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU19",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.65"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU20",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.67"
+      },
+      {
+        "ObjectName": "ReplicatedCamera_C Duality_Profiling:PersistentLevel.CameraGPU21",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.68"
+      },
+      {
+        "ObjectName": "Duality_Profiling_C Duality_Profiling:PersistentLevel.Duality_Profiling_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.49"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_Profiling:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.52"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Duality_Profiling_C Duality_Profiling:PersistentLevel.Duality_Profiling_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.49"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "0FCA1CB0-42CF701B-E23D748B-B1E81D84",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.27"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.88"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.88"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU1.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.28"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.89"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU1.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.89"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU10",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU10.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.29"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU10.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.90"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU10.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.90"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU11",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU11.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.30"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU11.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.91"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU11.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.91"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU12",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU12.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.31"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU12.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.92"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU12.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.92"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU13",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU13.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.32"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU13.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.93"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU13.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.93"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU14",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU14.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.33"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU14.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.94"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU14.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.94"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU15.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.34"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU15.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.95"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU15.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.95"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU16",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU16.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.35"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU16.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.96"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU16.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.96"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU17",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU17.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.36"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU17.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.97"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU17.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.97"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU18",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU18.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.37"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU18.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.98"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU18.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.98"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU19",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU19.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.38"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU19.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.99"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU19.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.99"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU2.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.39"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.100"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU2.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.100"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU20",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU20.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.40"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU20.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.101"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU20.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.101"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU21",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU21.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.41"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU21.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.102"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU21.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.102"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU3.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.42"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.103"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU3.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.103"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU4.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.43"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.104"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU4.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.104"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU5.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.44"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU5.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.105"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU5.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.105"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU6.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.45"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU6.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.106"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU6.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.106"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU7",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU7.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.46"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU7.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.107"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU7.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.107"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU8.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.47"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU8.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.108"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU8.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.108"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "ReplicatedCamera_C",
+    "Name": "CameraGPU9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__ReplicatedCamera_C",
+    "Properties": {
+      "CameraComponent": {
+        "ObjectName": "CameraComponent Duality_Profiling:PersistentLevel.CameraGPU9.CameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.48"
+      },
+      "SceneComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU9.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.109"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Profiling:PersistentLevel.CameraGPU9.SceneComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.109"
+      },
+      "Tags": [
+        "Profiling"
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor19",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10118.008,
+        "Y": -5992.9014,
+        "Z": 572.9906
+      },
+      "RelativeRotation": {
+        "Pitch": 20.194635,
+        "Yaw": 52.096916,
+        "Roll": 6.4568458
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor20",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11816.541,
+        "Y": -3754.5598,
+        "Z": 572.9906
+      },
+      "RelativeRotation": {
+        "Pitch": 17.811268,
+        "Yaw": -119.13151,
+        "Roll": 1.7939978
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor21",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8265.698,
+        "Y": -4328.8784,
+        "Z": 653.8798
+      },
+      "RelativeRotation": {
+        "Pitch": 2.856508,
+        "Yaw": 10.889692,
+        "Roll": -1.19542
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor22",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9261.214,
+        "Y": -3231.278,
+        "Z": 736.93243
+      },
+      "RelativeRotation": {
+        "Pitch": 2.856508,
+        "Yaw": 169.59105,
+        "Roll": -1.1954346
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor23",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12272.826,
+        "Y": -5567.9805,
+        "Z": 572.9906
+      },
+      "RelativeRotation": {
+        "Pitch": 17.811226,
+        "Yaw": 137.2998,
+        "Roll": 1.7940186
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor24",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10810.845,
+        "Y": -7118.855,
+        "Z": 572.9923
+      },
+      "RelativeRotation": {
+        "Pitch": 17.811226,
+        "Yaw": 102.236626,
+        "Roll": 1.7940358
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor25",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11751.247,
+        "Y": -7043.3296,
+        "Z": 572.9923
+      },
+      "RelativeRotation": {
+        "Pitch": 17.811226,
+        "Yaw": 102.236626,
+        "Roll": 1.794036
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor26",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12836.54,
+        "Y": -6056.128,
+        "Z": 572.9923
+      },
+      "RelativeRotation": {
+        "Pitch": 8.48914,
+        "Yaw": 90.37078,
+        "Roll": -0.23917013
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor27",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12972.844,
+        "Y": -6085.08,
+        "Z": 572.9911
+      },
+      "RelativeRotation": {
+        "Pitch": 17.811226,
+        "Yaw": 159.2877,
+        "Roll": 1.7940825
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor28",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 15604.106,
+        "Y": -1020.50903,
+        "Z": 315.62738
+      },
+      "RelativeRotation": {
+        "Pitch": 8.489119,
+        "Yaw": -178.22945,
+        "Roll": -0.23916423
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor29",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 13000.064,
+        "Y": 74.911865,
+        "Z": 315.62738
+      },
+      "RelativeRotation": {
+        "Pitch": 8.489119,
+        "Yaw": 88.94805,
+        "Roll": -0.23915933
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraActor30",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12356.646,
+        "Y": 3297.925,
+        "Z": 599.3085
+      },
+      "RelativeRotation": {
+        "Pitch": 8.489119,
+        "Yaw": -169.30408,
+        "Roll": -0.23915988
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 630.0,
+        "Y": 335.0,
+        "Z": 35.0
+      },
+      "RelativeRotation": {
+        "Pitch": 19.048208,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU1",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4330.0,
+        "Y": -1965.0,
+        "Z": 335.0
+      },
+      "RelativeRotation": {
+        "Pitch": 19.0482,
+        "Yaw": 16.25851,
+        "Roll": 1.3548458E-06
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU10",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9354.118,
+        "Y": 4993.234,
+        "Z": 290.28256
+      },
+      "RelativeRotation": {
+        "Pitch": 9.523154,
+        "Yaw": -95.96232,
+        "Roll": 0.90721095
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU11",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9683.215,
+        "Y": 3363.0083,
+        "Z": 269.57816
+      },
+      "RelativeRotation": {
+        "Pitch": 31.069485,
+        "Yaw": -23.465576,
+        "Roll": 2.951136
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU12",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11708.156,
+        "Y": 3725.6968,
+        "Z": 269.57816
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242214,
+        "Yaw": -118.4214,
+        "Roll": 2.3628163
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU13",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12079.975,
+        "Y": 1477.1487,
+        "Z": 269.58548
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 142.56688,
+        "Roll": 2.3628266
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU14",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10278.139,
+        "Y": 768.1103,
+        "Z": 389.8862
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 179.5405,
+        "Roll": 2.362827
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU15",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7213.4727,
+        "Y": 452.7223,
+        "Z": 389.87814
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 25.818537,
+        "Roll": 2.362834
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU16",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6260.691,
+        "Y": -1115.6785,
+        "Z": 389.87814
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 10.704519,
+        "Roll": 2.3628352
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU17",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6653.9478,
+        "Y": -3109.2893,
+        "Z": 553.4226
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 10.704519,
+        "Roll": 2.362835
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU18",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5523.5234,
+        "Y": -6004.249,
+        "Z": 437.3012
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 10.704519,
+        "Roll": 2.362835
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU19",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6752.391,
+        "Y": -4942.2124,
+        "Z": 437.3012
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": -131.73882,
+        "Roll": 2.3628423
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU2",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5130.0,
+        "Y": -1265.0,
+        "Z": 335.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.6763731,
+        "Yaw": -94.371284,
+        "Roll": 1.4606028
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU20",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9266.669,
+        "Y": -6648.527,
+        "Z": 437.30054
+      },
+      "RelativeRotation": {
+        "Pitch": 14.242152,
+        "Yaw": 168.86838,
+        "Roll": 2.3628445
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU21",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 9555.717,
+        "Y": -5979.11,
+        "Z": 512.7057
+      },
+      "RelativeRotation": {
+        "Pitch": 40.211784,
+        "Yaw": 131.15631,
+        "Roll": -1.1660861
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU3",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3980.0,
+        "Y": 385.0,
+        "Z": 335.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.6763526,
+        "Yaw": 86.81136,
+        "Roll": 1.460612
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU4",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3280.0,
+        "Y": 2485.0,
+        "Z": 335.0
+      },
+      "RelativeRotation": {
+        "Pitch": 18.638186,
+        "Yaw": -3.6286807,
+        "Roll": 0.34010893
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU5",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2730.0,
+        "Y": 1635.072,
+        "Z": 149.54103
+      },
+      "RelativeRotation": {
+        "Pitch": 6.487457,
+        "Yaw": 101.99608,
+        "Roll": -2.0281372
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU6",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5916.829,
+        "Y": 2485.0,
+        "Z": 335.0022
+      },
+      "RelativeRotation": {
+        "Pitch": 18.63813,
+        "Yaw": -69.16218,
+        "Roll": 0.34016496
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU7",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5738.49,
+        "Y": 4202.7676,
+        "Z": 335.0022
+      },
+      "RelativeRotation": {
+        "Pitch": 17.792963,
+        "Yaw": -3.5083952,
+        "Roll": 0.3948552
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU8",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7212.1836,
+        "Y": 4202.7676,
+        "Z": 335.0022
+      },
+      "RelativeRotation": {
+        "Pitch": 17.792963,
+        "Yaw": -3.5083923,
+        "Roll": 0.394855
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "SceneComponent",
+    "Outer": "CameraGPU9",
+    "Template": "SceneComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8088.5635,
+        "Y": 4414.0356,
+        "Z": 290.28256
+      },
+      "RelativeRotation": {
+        "Pitch": 9.523154,
+        "Yaw": -3.3871765,
+        "Roll": 0.9072019
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_Profiling",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_Profiling:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Profiling.51"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

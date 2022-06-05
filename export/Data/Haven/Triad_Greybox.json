@@ -1,0 +1,922 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Triad_Greybox_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Triad_Greybox_C Default__Triad_Greybox_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.1"
+    }
+  },
+  {
+    "Type": "Triad_Greybox_C",
+    "Name": "Default__Triad_Greybox_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Triad_Greybox:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.7"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Triad_Greybox:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.10"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "RespawningWallPlate4",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Triad_Greybox:PersistentLevel.RespawningWallPlate3_5",
+              "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.11"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnSectionDirtied": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Triad_Greybox:PersistentLevel.RespawningWallPlate3_5",
+              "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.11"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_1_OnDamageSectionDirtiedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "RespawningWallPlate4",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Triad_Greybox:PersistentLevel.RespawningWallPlate4",
+              "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.12"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnSectionDirtied": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Triad_Greybox:PersistentLevel.RespawningWallPlate4",
+              "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.12"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_1_OnDamageSectionDirtiedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Triad_Greybox",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Triad_Greybox:PersistentLevel.Model_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.9"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Triad_Greybox_C Triad_Greybox:PersistentLevel.Triad_Greybox_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.33"
+      },
+      "StreamingTextureGuids": [
+        "0CBC6226-4C555782-5029BFA0-816EAB7F",
+        "A34BBAD3-4F7DDE82-CC0281B6-9C37DB07",
+        "D398A88E-44389902-00ECF88E-3A6E3745",
+        "D8E017BF-4033C0BB-E85DC0B4-077897C8",
+        "0E80B616-40E8F58F-1DB7EABE-9AD6A0AF",
+        "27905F1D-4A0E6774-50682080-C58A3101",
+        "91B6FD05-4CC2307D-56E4BE97-016570CD",
+        "1771D1F7-43A22E32-25095985-4FB4449D",
+        "E03DADEF-4CF2172C-EC086C98-4BFBD2B2",
+        "C367D161-4CAC3B48-A81024B7-BD4CA29B",
+        "EDFACFF7-44D9CBBF-80E8BEA4-13DDB12D",
+        "08021060-4B2F01E0-4974E683-9544102F"
+      ],
+      "LevelBuildDataId": "14B7CA1E-405600E0-CCDC3684-883C7203",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Triad_Greybox_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Triad_Greybox:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Triad_Greybox:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.2"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Triad_Greybox:PersistentLevel.Crate_1_Wood45_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.23"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_Greybox:PersistentLevel.Crate_1_Wood46_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.24"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_Greybox:PersistentLevel.Crate_1_Wood47_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.25"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_Greybox:PersistentLevel.Crate_1_Wood18_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.21"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_Greybox:PersistentLevel.Crate_1_Wood19_4",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.22"
+      },
+      {
+        "ObjectName": "RespawningWallPlate_C Triad_Greybox:PersistentLevel.RespawningWallPlate3_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.11"
+      },
+      {
+        "ObjectName": "RespawningWallPlate_C Triad_Greybox:PersistentLevel.RespawningWallPlate4",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.12"
+      },
+      {
+        "ObjectName": "Triad_Greybox_C Triad_Greybox:PersistentLevel.Triad_Greybox_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.33"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Login/Login",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Triad_Greybox:PersistentLevel.Model_7",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.9"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Triad_Greybox_C Triad_Greybox:PersistentLevel.Triad_Greybox_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.33"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_7",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "43F34700-485ADDB2-376E439A-D88F97F7",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "RespawningWallPlate_C",
+    "Name": "RespawningWallPlate3_5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__RespawningWallPlate_C",
+    "Properties": {
+      "ExplosionAnchor": {
+        "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.ExplosionAnchor",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.15"
+      },
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.19"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.31"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.13"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.5"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.3"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.16"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.19"
+        },
+        {
+          "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.ExplosionAnchor",
+          "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.15"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "RespawningWallPlate_C",
+    "Name": "RespawningWallPlate4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__RespawningWallPlate_C",
+    "Properties": {
+      "ExplosionAnchor": {
+        "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.ExplosionAnchor",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.17"
+      },
+      "HealthMaterialIndex": 1,
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.20"
+      },
+      "DeathVFX": {
+        "ObjectName": "ParticleSystem Temp_MetalPanel_Destroy_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/ParticleSystems/Temp_MetalPanel_Destroy_VFX.172"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.32"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.14"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.6"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.4"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.18"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.20"
+        },
+        {
+          "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.ExplosionAnchor",
+          "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.17"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "RespawningWallPlate4",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "ExplosionAnchor",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "ExplosionAnchor_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2373.0,
+        "Y": -5742.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 2.45
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "ExplosionAnchor",
+    "Outer": "RespawningWallPlate4",
+    "Template": "ExplosionAnchor_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.32"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "RespawningWallPlate4",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2221.0,
+        "Y": -5902.0,
+        "Z": 332.0
+      }
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "RespawningWallPlate4",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Crate_1_Wood18_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood18_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.26"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood18_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.26"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Crate_1_Wood19_4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood19_4.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.27"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood19_4.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.27"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Crate_1_Wood45_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood45_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.28"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood45_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.28"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Crate_1_Wood46_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood46_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.29"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood46_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.29"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Crate_1_Wood47_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood47_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.30"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_Greybox:PersistentLevel.Crate_1_Wood47_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.30"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Crate_1_Wood18_3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Crate_1_Wood",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/Crate_1_Wood.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 388.02908
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Crate_1_M2_Wood_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/M2/Crate_1_M2_Wood_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4875.0,
+        "Y": -5850.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 0.25,
+        "Y": 0.5,
+        "Z": 0.5
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Crate_1_Wood19_4",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Crate_1_Wood",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/Crate_1_Wood.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 388.02908
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Crate_1_M2_Wood_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/M2/Crate_1_M2_Wood_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4875.0,
+        "Y": -5750.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 0.25,
+        "Y": 0.5,
+        "Z": 0.5
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Crate_1_Wood45_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Crate_1_Wood",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/Crate_1_Wood.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 388.02908
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Crate_1_M2_Wood_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/M2/Crate_1_M2_Wood_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4950.0,
+        "Y": -5750.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 0.5,
+        "Y": 0.5,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Crate_1_Wood46_1",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Crate_1_Wood",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/Crate_1_Wood.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 388.02908
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Crate_1_M2_Wood_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/M2/Crate_1_M2_Wood_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4950.0,
+        "Y": -5850.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 0.5,
+        "Y": 0.5,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Crate_1_Wood47_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Crate_1_Wood",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/Crate_1_Wood.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 388.02908
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 388.02908
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Crate_1_M2_Wood_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Crate/1/M2/Crate_1_M2_Wood_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4950.0,
+        "Y": -5950.0,
+        "Z": 300.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.99994,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.5,
+        "Y": 0.5,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "RespawningWallPlate3_5",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 268.91
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 268.91
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 268.91
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate3_5.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.16"
+      },
+      "RelativeLocation": {
+        "X": -204.0,
+        "Y": -106.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.5,
+        "Y": 2.0,
+        "Z": 0.475
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "RespawningWallPlate4",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Gameplay_1_ArmorPlateWindow",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Gameplay/1/Gameplay_1_ArmorPlateWindow.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 376.36972
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 376.1778
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 376.1778
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 376.1778
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 376.36972
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 376.36972
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Impen_M5_KingdomMetalTrim_Int_MI",
+          "ObjectPath": "ShooterGame/Content/Interactable/WallPlates/Impen_M5_KingdomMetalTrim_Int_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Impen_Mat_Emissive_RedGlow",
+          "ObjectPath": "ShooterGame/Content/Interactable/WallPlates/Impen_Mat_Emissive_RedGlow.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Impen_M9_KingdomLargeSeamedPanel_MI",
+          "ObjectPath": "ShooterGame/Content/Interactable/WallPlates/Impen_M9_KingdomLargeSeamedPanel_MI.0"
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Triad_Greybox:PersistentLevel.RespawningWallPlate4.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.18"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 58.726562,
+        "Z": -34.0
+      }
+    }
+  },
+  {
+    "Type": "Triad_Greybox_C",
+    "Name": "Triad_Greybox_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Triad_Greybox_C"
+  },
+  {
+    "Type": "World",
+    "Name": "Triad_Greybox",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Triad_Greybox:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_Greybox.8"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

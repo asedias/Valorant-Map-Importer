@@ -1,0 +1,735 @@
+[
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation10",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.16"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.16"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.16"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation11",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.17"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.17"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.17"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.18"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.18"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.18"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.19"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.19"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.19"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.20"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.20"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.20"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.21"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.21"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.21"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.22"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.22"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.22"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation7",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.23"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.23"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.23"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.24"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.24"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.24"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.25"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.25"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.26"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.26"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.26"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_Mode_Alt8:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.12"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_Mode_Alt8:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.15"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_Mode_Alt8",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_Mode_Alt8:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.14"
+      },
+      "LevelBuildDataId": "190D3204-4D57F549-CB67CA95-3F1F9EFD",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_Mode_Alt8_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_Mode_Alt8:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.11"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_Mode_Alt8:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.11"
+      },
+      null,
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.10"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.2"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.3"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.4"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.5"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.6"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.7"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.8"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.9"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.0"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Duality_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.1"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_Mode_Alt8:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.14"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "3CD027B6-429AA963-BA9C22A7-D34D4500",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation10",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7330.0,
+        "Y": -3120.0,
+        "Z": 340.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation11",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6910.0,
+        "Y": 4550.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation2",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10420.0,
+        "Y": -5700.0,
+        "Z": 300.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation3",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 12150.0,
+        "Y": -5090.0,
+        "Z": 300.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation4",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 14480.0,
+        "Y": -940.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation5",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11560.0,
+        "Y": 1940.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation6",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10180.0,
+        "Y": 1790.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation7",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10190.0,
+        "Y": 3300.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation8",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5890.0,
+        "Y": 2630.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation9",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4940.0,
+        "Y": -1610.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation_2",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6700.0,
+        "Y": -6150.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_Mode_Alt8",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_Mode_Alt8:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_Mode_Alt8.13"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

@@ -1,0 +1,1035 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Mode_Alt8_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Mode_Alt8_C Default__Ascent_Mode_Alt8_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.1"
+    }
+  },
+  {
+    "Type": "Ascent_Mode_Alt8_C",
+    "Name": "Default__Ascent_Mode_Alt8_C"
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation10",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.24"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.24"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.24"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation11",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.25"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.25"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation12",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation12.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.26"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation12.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.26"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation12.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.26"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation13",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation13.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.27"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation13.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.27"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation13.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.27"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation14",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation14.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.28"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation14.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.28"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation14.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.28"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation15.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.29"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation15.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.29"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation15.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation16",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation16.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.30"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation16.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.30"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation16.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.30"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.31"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.31"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.31"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.32"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.32"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.32"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.33"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.33"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.33"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.34"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.34"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.34"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.35"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.35"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.35"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation7",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.36"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.36"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.36"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.37"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.37"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.37"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.38"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.38"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.38"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor_Alt8_EventLocation_C",
+    "Name": "Actor_Alt8_EventLocation_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Actor_Alt8_EventLocation_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.39"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.39"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.39"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Mode_Alt8:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.20"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Mode_Alt8:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.23"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Mode_Alt8_C",
+    "Name": "Ascent_Mode_Alt8_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Mode_Alt8_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Mode_Alt8",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Mode_Alt8:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.22"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Mode_Alt8_C Ascent_Mode_Alt8:PersistentLevel.Ascent_Mode_Alt8_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.19"
+      },
+      "LevelBuildDataId": "EA028B89-40E08154-75CA72A1-E8F68AC8",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_Mode_Alt8_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Mode_Alt8:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.18"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Mode_Alt8:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.18"
+      },
+      null,
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.17"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.9"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation3",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.10"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation4",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.11"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation5",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.12"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation6",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.13"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation7",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.14"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation8",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.15"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation9",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.16"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation10",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.2"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation11",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.3"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation12",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.4"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation13",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.5"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation14",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.6"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation15",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.7"
+      },
+      {
+        "ObjectName": "Actor_Alt8_EventLocation_C Ascent_Mode_Alt8:PersistentLevel.Actor_Alt8_EventLocation16",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.8"
+      },
+      {
+        "ObjectName": "Ascent_Mode_Alt8_C Ascent_Mode_Alt8:PersistentLevel.Ascent_Mode_Alt8_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.19"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Mode_Alt8:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.22"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Mode_Alt8_C Ascent_Mode_Alt8:PersistentLevel.Ascent_Mode_Alt8_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.19"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "A08FA28A-4FB11A8A-C72EBCA3-272BA1BE",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation10",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3190.0,
+        "Y": -9340.0,
+        "Z": 400.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation11",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4020.0,
+        "Y": -5980.0,
+        "Z": 400.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation12",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6090.0,
+        "Y": -5990.0,
+        "Z": 400.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation13",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5940.0,
+        "Y": -7180.0,
+        "Z": 500.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation14",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4360.0,
+        "Y": -2170.0,
+        "Z": 400.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation15",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2170.0,
+        "Y": -2170.0,
+        "Z": 400.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation16",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 70.0,
+        "Y": -510.0,
+        "Z": 330.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation2",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1110.0,
+        "Y": -4920.0,
+        "Z": 200.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation3",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -170.0,
+        "Y": -4150.0,
+        "Z": 200.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation4",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1960.0,
+        "Y": -3810.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation5",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1360.0,
+        "Y": -7540.0,
+        "Z": 100.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation6",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2800.0,
+        "Y": -8160.0,
+        "Z": -110.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation7",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1240.0,
+        "Y": -7320.0,
+        "Z": 300.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation8",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 210.0,
+        "Y": -7300.0,
+        "Z": 300.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation9",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1900.0,
+        "Y": -9850.0,
+        "Z": 430.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "Actor_Alt8_EventLocation_2",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1110.0,
+        "Y": -5890.0,
+        "Z": 200.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Mode_Alt8",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Mode_Alt8:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Mode_Alt8.21"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

@@ -1,0 +1,2325 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Range_Art_Vegetation_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Range_Art_Vegetation_C Default__Range_Art_Vegetation_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.1"
+    }
+  },
+  {
+    "Type": "Range_Art_Vegetation_C",
+    "Name": "Default__Range_Art_Vegetation_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Range_Art_Vegetation:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.3"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Range_Art_Vegetation:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.6"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Range_Art_Vegetation",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Range_Art_Vegetation:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.5"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Range_Art_Vegetation_C Range_Art_Vegetation:PersistentLevel.Range_Art_Vegetation_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.7"
+      },
+      "StreamingTextureGuids": [
+        "773B0556-408CEBAD-AAF599B6-D69F81E2",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "EDA97F1B-404188FC-05A1DCA9-4A51330C",
+        "90341D88-4028DDF9-DBAE32A5-3BE0C343",
+        "B299F26B-41F335FA-2EACCD93-035BB9BD",
+        "18D9479C-47C4B26E-1F6A5081-96C816EE",
+        "E2D153E3-41CD1B3A-41A5EE8D-FA81169F",
+        "9052757B-486553D2-8615ADAD-F9717534",
+        "7765A2B6-4BAB6130-AE43C09D-8F2A9FB8",
+        "E23F9D82-4FF69F10-A45997BC-45FEF57F",
+        "47E86F86-4594BC8F-105F5E99-3E9BB322"
+      ],
+      "LevelBuildDataId": "4F3787AB-4D22136D-0C930AB8-3ADE780B",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Range_Art_Vegetation_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation_BuiltData.4"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Range_Art_Vegetation:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Range_Art_Vegetation:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.2"
+      },
+      null,
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.47"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.49"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.44"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.48"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Vegetation:PersistentLevel.TreeRoomTree_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.9"
+      },
+      {
+        "ObjectName": "Tree_3_ConiferLarge_BP_C Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.50"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.40"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.41"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.42"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.43"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.45"
+      },
+      {
+        "ObjectName": "Tree_2_Arborvitae_BP_C Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.46"
+      },
+      {
+        "ObjectName": "Range_Art_Vegetation_C Range_Art_Vegetation:PersistentLevel.Range_Art_Vegetation_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.7"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Vegetation:PersistentLevel.Tree_0_BeechCanopyFoliage_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.8"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Range_Art_Vegetation:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.5"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Range_Art_Vegetation_C Range_Art_Vegetation:PersistentLevel.Range_Art_Vegetation_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.7"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "F2381585-444364BE-2F653190-4E51B8CE",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "Range_Art_Vegetation_C",
+    "Name": "Range_Art_Vegetation_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Range_Art_Vegetation_C"
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Tree_0_BeechCanopyFoliage_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_0_BeechCanopyFoliage_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.10"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_0_BeechCanopyFoliage_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.10"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "TreeRoomTree_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.TreeRoomTree_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.39"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.TreeRoomTree_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.39"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Tree_0_BeechCanopyFoliage_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_0_BeechCanopyFoliage",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/0/Tree_0_BeechCanopyFoliage.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3082232868,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 657.14435
+        },
+        {
+          "PackedRelativeBox": 3082232868,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 657.14435
+        },
+        {
+          "PackedRelativeBox": 3082232868,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 657.14435
+        },
+        {
+          "PackedRelativeBox": 3082232868,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 657.14435
+        }
+      ],
+      "LightmassSettings": {
+        "bUseTwoSidedLighting": true,
+        "DiffuseBoost": 2.0,
+        "FullyOccludedSamplesFraction": 200.0
+      },
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_0_M0_BeechGreenFoliage_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/0/M0/Tree_0_M0_BeechGreenFoliage_MI_Wind.0"
+        }
+      ],
+      "bAllowCullDistanceVolume": false,
+      "VisibilityId": 3712,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.TreeRoomTree_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.39"
+      },
+      "RelativeLocation": {
+        "X": -645.96136,
+        "Y": -39.122406,
+        "Z": 814.1234
+      },
+      "RelativeRotation": {
+        "Pitch": 1.3660378E-05,
+        "Yaw": -40.91776,
+        "Roll": 1.8691454E-06
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6F485687441DC47F38DBE7A6E8562680"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA15",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4227532864,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4227532864,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4227532864,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 12920,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.12"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "842026CA4457714DD72D3E9329354C36"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA15",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4225368194,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4225368194,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4225368194,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 12928,
+      "RelativeLocation": {
+        "X": 2673.8535,
+        "Y": -7922.021,
+        "Z": 1262.8339
+      },
+      "RelativeRotation": {
+        "Pitch": -4.9809265,
+        "Yaw": 0.43688,
+        "Roll": -5.0190125
+      },
+      "RelativeScale3D": {
+        "X": 0.8,
+        "Y": 0.8,
+        "Z": 0.8
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CBD7879B4C49FDA0CBFAE5A1D20B3658"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA16",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 14240,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.14"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B605D5564E923F6966AF29B5041986C6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA16",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 14248,
+      "RelativeLocation": {
+        "X": 2673.8535,
+        "Y": -7376.5933,
+        "Z": 1262.8339
+      },
+      "RelativeScale3D": {
+        "X": 0.8,
+        "Y": 0.8,
+        "Z": 0.8
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CD0F3304460D0ABE9134B39C97F9228C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA17",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294837347,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294837347,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294837347,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 6056,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.16"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "25011DA244A324A32876529E8F1A02D6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA17",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901892,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901892,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901892,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 6064,
+      "RelativeLocation": {
+        "X": -286.328,
+        "Y": -13266.352,
+        "Z": 1200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 4.980932,
+        "Yaw": -0.43688965,
+        "Roll": -5.0190125
+      },
+      "RelativeScale3D": {
+        "X": 0.764546,
+        "Y": 0.764546,
+        "Z": 0.764546
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A404EE9C47F5A4A32131E891E0C23C7A"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA18_4",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294705152,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294705152,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294705152,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 12376,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.18"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0BD5E8F3464FA22F032F48A04FB9A53B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA18_4",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294639618,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294639618,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294639618,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 12384,
+      "RelativeLocation": {
+        "X": 2673.8535,
+        "Y": -8902.526,
+        "Z": 1091.6125
+      },
+      "RelativeRotation": {
+        "Pitch": -5.0,
+        "Yaw": 0.0,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.8,
+        "Y": 0.8,
+        "Z": 0.8
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "96B8A8294F5FD501370E94A9170DE0F0"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA2",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 4128,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.20"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F168656F4C166070D39806BF8588E8F0"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA2",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 4136,
+      "RelativeLocation": {
+        "X": 63.947937,
+        "Y": -11670.641,
+        "Z": 1200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000015,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.51454616,
+        "Y": 0.51454616,
+        "Z": 0.51454616
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "DC5B4A9A49D303AD32C4F88BE527715B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA20",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4091350085,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4091350085,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4091350085,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 12600,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.22"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A50089DE459AE568AF7DA888F9A66522"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA20",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4160555140,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4160555140,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4160555140,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 12608,
+      "RelativeLocation": {
+        "X": 1815.13,
+        "Y": -7947.2324,
+        "Z": 1059.5438
+      },
+      "RelativeRotation": {
+        "Pitch": 20.018347,
+        "Yaw": 0.463206,
+        "Roll": -4.82251
+      },
+      "RelativeScale3D": {
+        "X": 0.8,
+        "Y": 0.8,
+        "Z": 0.8
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2785BFB04308052AF083C0A70542B02D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA21",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 14256,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.24"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "06788FEB46A5414D0353CEB3AD9CA7EB"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA21",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 14264,
+      "RelativeLocation": {
+        "X": 1770.6527,
+        "Y": -7376.5933,
+        "Z": 1262.8339
+      },
+      "RelativeScale3D": {
+        "X": 0.8,
+        "Y": 0.8,
+        "Z": 0.8
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "14F93003426FF27F304244999A92B62F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA4",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 5976,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.26"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A7CA067B4378F767A18692BDFA400548"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA4",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 5984,
+      "RelativeLocation": {
+        "X": 1239.6274,
+        "Y": -13653.186,
+        "Z": 1200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.000114,
+        "Roll": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "690EC8514AB22F6EB832BA9E3474F06E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA6",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "VisibilityId": 6032,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.28"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5EE215C7416217F475984D9F466B215B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA6",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "VisibilityId": 6040,
+      "RelativeLocation": {
+        "X": 400.34128,
+        "Y": -13706.099,
+        "Z": 1200.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "104F71C9432FB124E36B9E89841C548D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeLeaves",
+    "Outer": "Tree_2_ArborvitaeA_2",
+    "Template": "Tree_2_ArborvitaeLeaves_GEN_VARIABLE",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Tree_2_ArborvitaeLeaves_Wind",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/2/Tree_2_ArborvitaeLeaves_Wind.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 127.69919
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 127.69919
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 6016,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.30"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "75F873244756DFEE4307118696A4350D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_2_ArborvitaeShell",
+    "Outer": "Tree_2_ArborvitaeA_2",
+    "Template": "Tree_2_ArborvitaeShell_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 130.07088
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 130.07088
+        }
+      ],
+      "bReceivesDecals": true,
+      "VisibilityId": 6024,
+      "RelativeLocation": {
+        "X": -320.0,
+        "Y": -12950.0,
+        "Z": 1200.0
+      },
+      "RelativeScale3D": {
+        "X": 0.76454616,
+        "Y": 0.76454616,
+        "Z": 0.76454616
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6CBC332B4FB148E35143ABBA6B9520F8"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLarge",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLarge_GEN_VARIABLE",
+    "Properties": {
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290532450,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 439.0514
+        },
+        {
+          "PackedRelativeBox": 4290510946,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 439.0514
+        },
+        {
+          "PackedRelativeBox": 3004563656,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 201.40515
+        }
+      ],
+      "VisibilityId": 4680,
+      "BodyInstance": {
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 133.60571,
+        "Y": -13095.345,
+        "Z": 1208.6243
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -110.00012,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.2448945,
+        "Y": 1.2448945,
+        "Z": 1.2448945
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E40A56114712F44773351A8BCA2315E9"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyA",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290379876,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 288.18378
+        },
+        {
+          "PackedRelativeBox": 4290379876,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 288.18378
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 4704,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "BF34F47B4F635EA53FE271A4230C2198"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyB",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyB_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288348226,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 271.56454
+        },
+        {
+          "PackedRelativeBox": 4288348226,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 271.56454
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 4696,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1DC6A38340007CD6D188BBBD0FD0792B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyC",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyC_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292542531,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 269.55768
+        },
+        {
+          "PackedRelativeBox": 4292542531,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 269.55768
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 6440,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "56F432CB40CABAF17EFF9AB7CF098833"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyD",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyD_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290445380,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 266.771
+        },
+        {
+          "PackedRelativeBox": 4290445380,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 266.771
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 6432,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3EB17E044BBD0438DD11E0A1DD7E0A5D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyE",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyE_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 276.26886
+        },
+        {
+          "PackedRelativeBox": 4292608066,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 276.26886
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 6448,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B925688C4E3D06248B4D08A8600E66C5"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyF",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyF_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290641922,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 268.02112
+        },
+        {
+          "PackedRelativeBox": 4290641922,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 268.02112
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 6424,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "9941C81D44902EE266EDE7BF5926BCE1"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyG",
+    "Outer": "Tree_3_ConiferLarge_2",
+    "Template": "Tree_3_ConiferLargeCanopyG_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290379779,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 276.1509
+        },
+        {
+          "PackedRelativeBox": 4290379779,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 276.1509
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Tree_3_M1_Conifer_MI_Wind",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Tree/3/M1/Tree_3_M1_Conifer_MI_Wind.0"
+        }
+      ],
+      "VisibilityId": 4688,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "81B420E842A41966C87671A875ABEE61"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "TreeRoomTree_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh TreeRoomTree_0",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/TreeRoomTree/0/TreeRoomTree_0.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3820488836,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 406.68552
+        },
+        {
+          "PackedRelativeBox": 3820488836,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 406.68552
+        },
+        {
+          "PackedRelativeBox": 3820488836,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 406.68552
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant TreeBark_M1_Striation_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/TreeBark/M1/TreeBark_M1_Striation_MI.0"
+        }
+      ],
+      "PrepassCullMode": "PCM_Exclude",
+      "bAllowCullDistanceVolume": false,
+      "VisibilityId": 3656,
+      "BodyInstance": {
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -26902.018,
+        "Y": -8453.919,
+        "Z": 2010.2651
+      },
+      "RelativeRotation": {
+        "Pitch": -4.738574,
+        "Yaw": 160.86783,
+        "Roll": -13.397698
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C278E42040BF9EE4205FAD96A16B1863",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 2562
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.12"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.11"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.12"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.12"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA15.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.11"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA16",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.14"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.13"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.14"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.14"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA16.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.13"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA17",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.16"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.15"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.16"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.16"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA17.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.15"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA18_4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.18"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.17"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.18"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.18"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA18_4.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.17"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.20"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.19"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.20"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.20"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA2.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.19"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA20",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.22"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.21"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.22"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.22"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA20.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.21"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA21",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.24"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.23"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.24"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.24"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA21.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.23"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.26"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.25"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.26"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.26"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA4.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.28"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.27"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.28"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.28"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA6.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.27"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_2_Arborvitae_BP_C",
+    "Name": "Tree_2_ArborvitaeA_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_2_Arborvitae_BP_C",
+    "Properties": {
+      "Tree_2_ArborvitaeShell": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.30"
+      },
+      "Tree_2_ArborvitaeLeaves": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2.Tree_2_ArborvitaeLeaves",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.29"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2.Tree_2_ArborvitaeShell",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.30"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2.Tree_2_ArborvitaeShell",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.30"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_2_ArborvitaeA_2.Tree_2_ArborvitaeLeaves",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Tree_3_ConiferLarge_BP_C",
+    "Name": "Tree_3_ConiferLarge_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_3_ConiferLarge_BP_C",
+    "Properties": {
+      "Tree_3_ConiferLargeCanopyG": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyG",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.38"
+      },
+      "Tree_3_ConiferLargeCanopyF": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyF",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.37"
+      },
+      "Tree_3_ConiferLargeCanopyE": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyE",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.36"
+      },
+      "Tree_3_ConiferLargeCanopyD": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyD",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.35"
+      },
+      "Tree_3_ConiferLargeCanopyC": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyC",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.34"
+      },
+      "Tree_3_ConiferLargeCanopyB": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyB",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.33"
+      },
+      "Tree_3_ConiferLargeCanopyA": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.32"
+      },
+      "Tree_3_ConiferLarge": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLarge",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.31"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyA",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.32"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyB",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.33"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyC",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.34"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyD",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.35"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyE",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.36"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyF",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.37"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Vegetation:PersistentLevel.Tree_3_ConiferLarge_2.Tree_3_ConiferLargeCanopyG",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.38"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Range_Art_Vegetation",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Range_Art_Vegetation:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Vegetation.4"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

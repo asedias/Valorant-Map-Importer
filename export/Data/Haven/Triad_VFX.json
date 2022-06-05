@@ -1,0 +1,2701 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Triad_VFX_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Triad_VFX_C Default__Triad_VFX_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.1"
+    }
+  },
+  {
+    "Type": "Triad_VFX_C",
+    "Name": "Default__Triad_VFX_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Triad_VFX:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.41"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Triad_VFX:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.44"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI137",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI137.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.11"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI137.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.11"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI138",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI138.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.12"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI138.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.12"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI139",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI139.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.13"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI139.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.13"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI140",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI140.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.14"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI140.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.14"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI141",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI141.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.15"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI141.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.15"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI142",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI142.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.16"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI142.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.16"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI143",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI143.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.17"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI143.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.17"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M1_B_MI144",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI144.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.18"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Triad_VFX:PersistentLevel.Grunge_M1_B_MI144.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.18"
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI137",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.0,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 49,
+        "G": 32,
+        "R": 33,
+        "A": 255,
+        "Hex": "FF212031"
+      },
+      "RelativeLocation": {
+        "X": 2235.1414,
+        "Y": -11178.831,
+        "Z": 617.3171
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0001229434,
+        "Yaw": 90.00026,
+        "Roll": 89.83684
+      },
+      "RelativeScale3D": {
+        "X": 0.053359,
+        "Y": 0.63242,
+        "Z": 1.081838
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI138",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_B_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.0,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 49,
+        "G": 32,
+        "R": 33,
+        "A": 255,
+        "Hex": "FF212031"
+      },
+      "RelativeLocation": {
+        "X": 1752.085,
+        "Y": -11178.818,
+        "Z": 618.6922
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0001229434,
+        "Yaw": 90.00026,
+        "Roll": 89.83684
+      },
+      "RelativeScale3D": {
+        "X": 0.053359,
+        "Y": 0.63242,
+        "Z": 1.187431
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI139",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M1_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M1/Grunge_M1_R_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.025,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 40,
+        "G": 74,
+        "R": 99,
+        "A": 255,
+        "Hex": "FF634A28"
+      },
+      "RelativeLocation": {
+        "X": 1981.6365,
+        "Y": -11177.381,
+        "Z": 430.57114
+      },
+      "RelativeRotation": {
+        "Pitch": 0.16293415,
+        "Yaw": 90.00021,
+        "Roll": -90.00003
+      },
+      "RelativeScale3D": {
+        "X": 0.029331,
+        "Y": 0.5202595,
+        "Z": 1.955265
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI140",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_R_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.0,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 49,
+        "G": 32,
+        "R": 33,
+        "A": 255,
+        "Hex": "FF212031"
+      },
+      "RelativeLocation": {
+        "X": 1280.9768,
+        "Y": -11178.831,
+        "Z": 662.57043
+      },
+      "RelativeRotation": {
+        "Pitch": 0.000123,
+        "Yaw": 90.00026,
+        "Roll": 89.83684
+      },
+      "RelativeScale3D": {
+        "X": 0.053359,
+        "Y": 0.4515433,
+        "Z": 1.081838
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI141",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_B_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.0,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 49,
+        "G": 32,
+        "R": 33,
+        "A": 255,
+        "Hex": "FF212031"
+      },
+      "RelativeLocation": {
+        "X": 878.5245,
+        "Y": -11178.818,
+        "Z": 657.5221
+      },
+      "RelativeRotation": {
+        "Pitch": 0.000123,
+        "Yaw": 90.00026,
+        "Roll": 89.83684
+      },
+      "RelativeScale3D": {
+        "X": 0.053359,
+        "Y": 0.47012752,
+        "Z": 0.98029506
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI142",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M1_R_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M1/Grunge_M1_R_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.025,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 40,
+        "G": 74,
+        "R": 99,
+        "A": 255,
+        "Hex": "FF634A28"
+      },
+      "RelativeLocation": {
+        "X": 1087.8683,
+        "Y": -11177.381,
+        "Z": 399.02603
+      },
+      "RelativeRotation": {
+        "Pitch": 0.162934,
+        "Yaw": 90.00021,
+        "Roll": -90.00003
+      },
+      "RelativeScale3D": {
+        "X": 0.029331,
+        "Y": 0.3901871,
+        "Z": 1.955265
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI143",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.0,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 49,
+        "G": 32,
+        "R": 33,
+        "A": 255,
+        "Hex": "FF212031"
+      },
+      "RelativeLocation": {
+        "X": 2013.0415,
+        "Y": -11165.738,
+        "Z": 863.489
+      },
+      "RelativeRotation": {
+        "Pitch": 0.000123,
+        "Yaw": 90.00026,
+        "Roll": 89.83684
+      },
+      "RelativeScale3D": {
+        "X": 0.053359,
+        "Y": 0.2949342,
+        "Z": 1.8835931
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M1_B_MI144",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_B_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.0,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 49,
+        "G": 32,
+        "R": 33,
+        "A": 255,
+        "Hex": "FF212031"
+      },
+      "RelativeLocation": {
+        "X": 1172.4329,
+        "Y": -11165.659,
+        "Z": 802.1007
+      },
+      "RelativeRotation": {
+        "Pitch": 0.000123,
+        "Yaw": 90.00026,
+        "Roll": 89.83684
+      },
+      "RelativeScale3D": {
+        "X": 0.053359,
+        "Y": 0.54603046,
+        "Z": 2.0444565
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "Amb_BirdFlying_VFX2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlying_VFX2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.45"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlying_VFX2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.45"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "Amb_BirdFlying_VFX_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlying_VFX_2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.46"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlying_VFX_2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.46"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "Amb_BirdFlyingFlock_VFX_6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlyingFlock_VFX_6.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.47"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlyingFlock_VFX_6.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.47"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "Amb_BirdFlySlow_VFX2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlySlow_VFX2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.48"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Amb_BirdFlySlow_VFX2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.48"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "Electric_Sparks_VFX3_42",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Electric_Sparks_VFX3_42.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.49"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Electric_Sparks_VFX3_42.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.49"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "Malfunction_Sparks_VFX2_5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Malfunction_Sparks_VFX2_5.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.50"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.Malfunction_Sparks_VFX2_5.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.50"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_10",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_10.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.51"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_10.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.51"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_11",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_11.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.52"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_11.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.52"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_12",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_12.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.53"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_12.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.53"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_13",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_13.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.54"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_13.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.54"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_14",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_14.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.55"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_14.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.55"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_15",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_15.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.56"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_15.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.56"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_16",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_16.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.57"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_16.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.57"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_17",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_17.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.58"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_17.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.58"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.59"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_2.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.59"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_3.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.60"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_3.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.60"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_4.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.61"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_4.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.61"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_5.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.62"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_5.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.62"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_6.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.63"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_6.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.63"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_7",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_7.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.64"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_7.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.64"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_8",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_8.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.65"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_8.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.65"
+      }
+    }
+  },
+  {
+    "Type": "Emitter",
+    "Name": "VistaSmoke_9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "ParticleSystemComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_9.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.66"
+      },
+      "RootComponent": {
+        "ObjectName": "ParticleSystemComponent Triad_VFX:PersistentLevel.VistaSmoke_9.ParticleSystemComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.66"
+      }
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Triad_VFX",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Triad_VFX:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.43"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Triad_VFX_C Triad_VFX:PersistentLevel.Triad_VFX_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.73"
+      },
+      "StreamingTextureGuids": [
+        "EFA34D3D-474CD3D1-137269BA-37B26996",
+        "4B78F8EC-4F4785D0-41A23BB1-01E20870",
+        "753610E2-46F9C6A9-B13704BB-16130A1E"
+      ],
+      "LevelBuildDataId": "74C08EB3-42557D51-F1203AB8-86513BCA",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Triad_VFX_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Triad_VFX:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Triad_VFX:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.2"
+      },
+      null,
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.Amb_BirdFlying_VFX_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.20"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.Amb_BirdFlying_VFX2",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.19"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.Amb_BirdFlyingFlock_VFX_6",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.21"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.Amb_BirdFlySlow_VFX2",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.22"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI137",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.3"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI138",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.4"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI139",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.5"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI140",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.6"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI141",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.7"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI142",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.8"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI143",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.9"
+      },
+      {
+        "ObjectName": "DecalActor Triad_VFX:PersistentLevel.Grunge_M1_B_MI144",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.10"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_VFX:PersistentLevel.LightBlocker_AtkIsland_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.69"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_VFX:PersistentLevel.Light_6_FluorescentTubeFixtureB_36",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.67"
+      },
+      {
+        "ObjectName": "StaticMeshActor Triad_VFX:PersistentLevel.Light_6_FluorescentTubeFixtureB_37",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.68"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_8",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.39"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.40"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.34"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_10",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.25"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.36"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_6",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.37"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.38"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_15",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.30"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_17",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.32"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.Malfunction_Sparks_VFX2_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.24"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.Electric_Sparks_VFX3_42",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.23"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.33"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_11",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.26"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_12",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.27"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_13",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.28"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_14",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.29"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_4",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.35"
+      },
+      {
+        "ObjectName": "Emitter Triad_VFX:PersistentLevel.VistaSmoke_16",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.31"
+      },
+      {
+        "ObjectName": "Triad_VFX_C Triad_VFX:PersistentLevel.Triad_VFX_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.73"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Triad_VFX:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.43"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Triad_VFX_C Triad_VFX:PersistentLevel.Triad_VFX_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.73"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "D12105FC-4C2B7B7B-9D419396-30AB7338",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "Amb_BirdFlying_VFX2",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Amb_BirdFlying_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Birds/Amb_BirdFlying_VFX.16"
+      },
+      "RelativeLocation": {
+        "X": -3745.0,
+        "Y": -4132.0,
+        "Z": 1254.0
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "Amb_BirdFlying_VFX_2",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Amb_BirdFlying_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Birds/Amb_BirdFlying_VFX.16"
+      },
+      "RelativeLocation": {
+        "X": -940.0,
+        "Y": -6190.0,
+        "Z": 1254.0
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "Amb_BirdFlyingFlock_VFX_6",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Amb_BirdFlyingFlock_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Birds/Amb_BirdFlyingFlock_VFX.28"
+      },
+      "RelativeLocation": {
+        "X": 3266.0,
+        "Y": -7104.0,
+        "Z": 2906.0
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "Amb_BirdFlySlow_VFX2",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Amb_BirdFlySlow_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Birds/Amb_BirdFlySlow_VFX.52"
+      },
+      "RelativeLocation": {
+        "X": -2570.0,
+        "Y": -358.0,
+        "Z": 780.0
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "Electric_Sparks_VFX3_42",
+    "Properties": {
+      "OldPosition": {
+        "X": 1240.6818,
+        "Y": -5788.5557,
+        "Z": 305.70154
+      },
+      "RelativeLocation": {
+        "X": 1240.6818,
+        "Y": -5788.5557,
+        "Z": 305.70154
+      },
+      "RelativeRotation": {
+        "Pitch": 50.000004,
+        "Yaw": -130.0001,
+        "Roll": 5.312946E-06
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "Malfunction_Sparks_VFX2_5",
+    "Properties": {
+      "OldPosition": {
+        "X": 2924.1245,
+        "Y": -6672.862,
+        "Z": 907.5036
+      },
+      "RelativeLocation": {
+        "X": 2924.1245,
+        "Y": -6672.862,
+        "Z": 907.5036
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -60.000042,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_10",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 2468.7607,
+        "Y": 13130.001,
+        "Z": 1621.9684
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 180.0,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 30.320171,
+        "Y": 20.896303,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_11",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 11374.256,
+        "Y": 2584.4946,
+        "Z": 1227.4985
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 137.14882,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 30.320171,
+        "Y": 20.896303,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_12",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 7508.907,
+        "Y": -1300.4077,
+        "Z": 223.52802
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 147.0977,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 22.25,
+        "Y": 20.896303,
+        "Z": 3.34375
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_13",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 22718.963,
+        "Y": -4941.3003,
+        "Z": 4545.341
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 85.91577,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 94.5,
+        "Y": 43.9375,
+        "Z": 26.375
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_14",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.18,
+            "Y": 0.3,
+            "Z": 0.36
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.9,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": -11033.727,
+        "Y": -20472.395,
+        "Z": 3201.4844
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 306.95456,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 72.0018,
+        "Y": 48.723427,
+        "Z": 63.370667
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_15",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.27,
+            "Y": 0.45,
+            "Z": 0.54
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": -1660.6414,
+        "Y": 11444.403,
+        "Z": 2848.5322
+      },
+      "RelativeRotation": {
+        "Pitch": 20.180893,
+        "Yaw": -170.46643,
+        "Roll": 9.448975
+      },
+      "RelativeScale3D": {
+        "X": 28.354485,
+        "Y": 18.595263,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_16",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.18,
+            "Y": 0.3,
+            "Z": 0.36
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.9,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 11946.34,
+        "Y": -15820.125,
+        "Z": 3696.9111
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 52.77484,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 38.92055,
+        "Y": 33.11781,
+        "Z": 47.76505
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_17",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Cloud_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Cloud_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 1.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 14371.773,
+        "Y": 19408.746,
+        "Z": 3214.2524
+      },
+      "RelativeRotation": {
+        "Pitch": -24.959625,
+        "Yaw": 150.35817,
+        "Roll": 4.3188453
+      },
+      "RelativeScale3D": {
+        "X": 29.26251,
+        "Y": 80.0,
+        "Z": 27.94366
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_2",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.18,
+            "Y": 0.3,
+            "Z": 0.36
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.9,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6397.256,
+        "Y": -2842.0947,
+        "Z": 160.50372
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 119.26157,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 29.6875,
+        "Y": 26.919506,
+        "Z": 3.40625
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_3",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.405,
+            "Y": 0.675,
+            "Z": 0.81
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.6,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1760.8342,
+        "Y": 7791.886,
+        "Z": 164.34724
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 177.15814,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 24.419376,
+        "Y": 16.768393,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_4",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.18,
+            "Y": 0.3,
+            "Z": 0.36
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.9,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 621.3392,
+        "Y": -28934.125,
+        "Z": 4613.911
+      },
+      "RelativeScale3D": {
+        "X": 72.0018,
+        "Y": 48.723427,
+        "Z": 63.370667
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_5",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Cloud_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Cloud_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 1.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 5952.174,
+        "Y": 17684.287,
+        "Z": 3547.41
+      },
+      "RelativeRotation": {
+        "Pitch": -8.681,
+        "Yaw": 176.44254,
+        "Roll": 11.067881
+      },
+      "RelativeScale3D": {
+        "X": 29.26251,
+        "Y": 80.0,
+        "Z": 27.94366
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_6",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Cloud_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Cloud_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.36,
+            "Y": 0.6,
+            "Z": 0.72
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 1.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": -2829.6758,
+        "Y": 19294.604,
+        "Z": 3357.2441
+      },
+      "RelativeRotation": {
+        "Pitch": 13.062394,
+        "Yaw": -179.29463,
+        "Roll": 11.237301
+      },
+      "RelativeScale3D": {
+        "X": 29.26251,
+        "Y": 80.0,
+        "Z": 27.94366
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_7",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.27,
+            "Y": 0.45,
+            "Z": 0.54
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 5742.999,
+        "Y": 7634.9155,
+        "Z": 1931.6953
+      },
+      "RelativeRotation": {
+        "Pitch": -8.709106,
+        "Yaw": 167.98116,
+        "Roll": 1.8462245
+      },
+      "RelativeScale3D": {
+        "X": 22.932455,
+        "Y": 16.768393,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_8",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.18,
+            "Y": 0.3,
+            "Z": 0.36
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.9,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1546.2732,
+        "Y": 844.6067,
+        "Z": 144.4845
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 180.0,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 43.240738,
+        "Y": 26.919506,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "ParticleSystemComponent0",
+    "Outer": "VistaSmoke_9",
+    "Properties": {
+      "Template": {
+        "ObjectName": "ParticleSystem Env_Vista_Smoke_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/Environment/Proxy/Env_Vista_Smoke_VFX.13"
+      },
+      "InstanceParameters": [
+        {
+          "Name": "Color",
+          "ParamType": "PSPT_Vector",
+          "Scalar": 0.0,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.27,
+            "Y": 0.45,
+            "Z": 0.54
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        },
+        {
+          "Name": "Opacity",
+          "ParamType": "PSPT_Scalar",
+          "Scalar": 0.8,
+          "Scalar_Low": 0.0,
+          "Vector": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Vector_Low": {
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Color": {
+            "B": 0,
+            "G": 0,
+            "R": 0,
+            "A": 0,
+            "Hex": "000000"
+          },
+          "Actor": null,
+          "Material": null
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1048.7981,
+        "Y": 3782.6624,
+        "Z": -22.210815
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 180.0,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 24.419376,
+        "Y": 16.768393,
+        "Z": 6.56572
+      },
+      "PrimaryComponentTick": {
+        "bStartWithTickEnabled": false
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Light_6_FluorescentTubeFixtureB_36",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_VFX:PersistentLevel.Light_6_FluorescentTubeFixtureB_36.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.70"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_VFX:PersistentLevel.Light_6_FluorescentTubeFixtureB_36.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.70"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Light_6_FluorescentTubeFixtureB_37",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_VFX:PersistentLevel.Light_6_FluorescentTubeFixtureB_37.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.71"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_VFX:PersistentLevel.Light_6_FluorescentTubeFixtureB_37.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.71"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "LightBlocker_AtkIsland_5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Triad_VFX:PersistentLevel.LightBlocker_AtkIsland_5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.72"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Triad_VFX:PersistentLevel.LightBlocker_AtkIsland_5.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.72"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Light_6_FluorescentTubeFixtureB_36",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Light_6_FluorescentTubeFixtureB",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Light/6/Light_6_FluorescentTubeFixtureB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 97.6374
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 97.6374
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 97.6374
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Light_6_M0_FluorescentTubeFixture_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Light/6/M0/Light_6_M0_FluorescentTubeFixture_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1283.6082,
+        "Y": -10161.158,
+        "Z": 1228.4585
+      },
+      "RelativeRotation": {
+        "Pitch": 0.00017075472,
+        "Yaw": 179.99971,
+        "Roll": 74.999
+      },
+      "RelativeScale3D": {
+        "X": 1.329441,
+        "Y": 1.329441,
+        "Z": 1.329441
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D046D65141593276DBC6BFB5B49E2304"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Light_6_FluorescentTubeFixtureB_37",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Light_6_FluorescentTubeFixtureB",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Light/6/Light_6_FluorescentTubeFixtureB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 97.6374
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 97.6374
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 97.6374
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Light_6_M0_FluorescentTubeFixture_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Light/6/M0/Light_6_M0_FluorescentTubeFixture_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 2355.427,
+        "Y": -10161.158,
+        "Z": 1228.4585
+      },
+      "RelativeRotation": {
+        "Pitch": 0.000171,
+        "Yaw": 179.99971,
+        "Roll": 74.999
+      },
+      "RelativeScale3D": {
+        "X": 1.329441,
+        "Y": 1.329441,
+        "Z": 1.329441
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "37D23BCA49D635B984C9AA875B583D57"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "LightBlocker_AtkIsland_5",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh LightBlocker_AtkIsland",
+        "ObjectPath": "ShooterGame/Content/Lighting/LightBlockers/Ascent/LightBlocker_AtkIsland.2"
+      },
+      "bUseDefaultCollision": false,
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 1759.5139,
+        "Y": -8918.502,
+        "Z": 2167.4097
+      },
+      "RelativeRotation": {
+        "Pitch": -19.804047,
+        "Yaw": -171.6387,
+        "Roll": -2.850769
+      },
+      "RelativeScale3D": {
+        "X": 0.057062443,
+        "Y": 0.18636742,
+        "Z": 0.15563306
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5B4F7EE14831A8C771E9689B3867183D"
+      }
+    ]
+  },
+  {
+    "Type": "Triad_VFX_C",
+    "Name": "Triad_VFX_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Triad_VFX_C"
+  },
+  {
+    "Type": "World",
+    "Name": "Triad_VFX",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Triad_VFX:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Triad/Triad_VFX.42"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

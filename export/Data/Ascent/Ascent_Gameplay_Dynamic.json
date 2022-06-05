@@ -1,0 +1,2752 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Gameplay_Dynamic_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Gameplay_Dynamic_C Default__Ascent_Gameplay_Dynamic_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.1"
+    }
+  },
+  {
+    "Type": "Ascent_Gameplay_Dynamic_C",
+    "Name": "Default__Ascent_Gameplay_Dynamic_C"
+  },
+  {
+    "Type": "ActivatableActorComponent_C",
+    "Name": "ActivatableActorComponent",
+    "Outer": "WindowShieldA1",
+    "Template": "ActivatableActorComponent_GEN_VARIABLE",
+    "Properties": {
+      "AuthActivated": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_1_AuthActivated__DelegateSignature"
+          },
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_0_AuthActivated__DelegateSignature"
+          }
+        ]
+      },
+      "AuthDeactivated": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_2_AuthDeactivated__DelegateSignature"
+          },
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_1_AuthDeactivated__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActivatableActorComponent_C",
+    "Name": "ActivatableActorComponent",
+    "Outer": "WindowShieldB1",
+    "Template": "ActivatableActorComponent_GEN_VARIABLE",
+    "Properties": {
+      "AuthActivated": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_1_AuthActivated__DelegateSignature"
+          },
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_0_AuthActivated__DelegateSignature"
+          }
+        ]
+      },
+      "AuthDeactivated": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_2_AuthDeactivated__DelegateSignature"
+          },
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__ActivatableActorComponent_K2Node_ComponentBoundEvent_1_AuthDeactivated__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Gameplay_Dynamic:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.40"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Gameplay_Dynamic:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.45"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Gameplay_Dynamic_C",
+    "Name": "Ascent_Gameplay_Dynamic_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Gameplay_Dynamic_C"
+  },
+  {
+    "Type": "BombSpawnLocation_C",
+    "Name": "BombSpawnLocation_3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombSpawnLocation_C",
+    "Properties": {
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.80"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.50"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.30"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.14"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.58"
+      }
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "OverlapBoxAbilities",
+    "Outer": "WindowShieldA1",
+    "Template": "OverlapBoxAbilities_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "RelativeLocation": {
+        "X": -6.232422,
+        "Y": 184.65945,
+        "Z": 209.75128
+      },
+      "RelativeScale3D": {
+        "X": 2.0137634,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "OverlapBoxPlayer",
+    "Outer": "WindowShieldA1",
+    "Template": "OverlapBoxPlayer_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "Trigger",
+    "Outer": "WindowShieldA1",
+    "Template": "BoxComponent_6",
+    "Properties": {
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__Trigger_K2Node_ComponentBoundEvent_234_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnComponentEndOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__Trigger_K2Node_ComponentBoundEvent_237_ComponentEndOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.67"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "OverlapBoxAbilities",
+    "Outer": "WindowShieldB1",
+    "Template": "OverlapBoxAbilities_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "RelativeLocation": {
+        "X": -3.0958197,
+        "Y": 138.99559,
+        "Z": 209.61517
+      },
+      "RelativeScale3D": {
+        "X": 1.3535597,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "OverlapBoxPlayer",
+    "Outer": "WindowShieldB1",
+    "Template": "OverlapBoxPlayer_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BoxComponent",
+    "Name": "Trigger",
+    "Outer": "WindowShieldB1",
+    "Template": "BoxComponent_6",
+    "Properties": {
+      "OnComponentBeginOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__Trigger_K2Node_ComponentBoundEvent_234_ComponentBeginOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnComponentEndOverlap": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__Trigger_K2Node_ComponentBoundEvent_237_ComponentEndOverlapSignature__DelegateSignature"
+          }
+        ]
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.69"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombSpawnLocation_3",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "RespawningDestructible_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "WindowShieldA1",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "WindowShieldB1",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildRegionDamageSectionComponent",
+    "Name": "ChildRegionDamageSection",
+    "Outer": "WindowShieldA1",
+    "Template": "ChildRegionDamageSection_GEN_VARIABLE",
+    "Properties": {
+      "DamageRegions": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DoorPiece1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.86"
+        }
+      ],
+      "Life": 500.0,
+      "MaximumLife": 500.0,
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ChildRegionDamageSectionComponent",
+    "Name": "ChildRegionDamageSection",
+    "Outer": "WindowShieldB1",
+    "Template": "ChildRegionDamageSection_GEN_VARIABLE",
+    "Properties": {
+      "DamageRegions": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DoorPiece1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.89"
+        }
+      ],
+      "Life": 500.0,
+      "MaximumLife": 500.0,
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_Actor_InWorldUsable_C",
+    "Name": "Comp_Actor_InWorldUsable",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "Comp_Actor_InWorldUsable_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_Actor_InWorldUsable_C",
+    "Name": "Comp_Actor_InWorldUsable",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "Comp_Actor_InWorldUsable_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_AITarget_C",
+    "Name": "Comp_AITarget1",
+    "Outer": "WindowShieldA1",
+    "Template": "Comp_AITarget1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_AITarget_C",
+    "Name": "Comp_AITarget2",
+    "Outer": "WindowShieldA1",
+    "Template": "Comp_AITarget2_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_AITarget_C",
+    "Name": "Comp_AITarget1",
+    "Outer": "WindowShieldB1",
+    "Template": "Comp_AITarget1_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "RelativeLocation": {
+        "X": 9.999971,
+        "Y": 145.0,
+        "Z": 150.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_AITarget_C",
+    "Name": "Comp_AITarget2",
+    "Outer": "WindowShieldB1",
+    "Template": "Comp_AITarget2_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "RelativeLocation": {
+        "X": -39.99934,
+        "Y": 145.0,
+        "Z": 150.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombSpawnLocation_3",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "RespawningDestructible_2",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningDestructible_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.46"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.47"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnSectionDirtied": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.47"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_1_OnDamageSectionDirtiedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.48"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnSectionDirtied": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "RespawningWallPlate_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.48"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_1_OnDamageSectionDirtiedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "WindowShieldA1",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnSectionDirtied": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_0_OnDamageSectionDirtiedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "WindowShieldB1",
+    "Template": "DamageHandlerComponent",
+    "Properties": {
+      "OnDamaged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_133_OnDamagedSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnSectionDirtied": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+            },
+            "FunctionName": "BndEvt__DamageHandler_K2Node_ComponentBoundEvent_0_OnDamageSectionDirtiedSignature__DelegateSignature"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "DoorDamageCallbackComponent_C",
+    "Name": "DoorDamageCallbackComponent",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "DoorDamageCallbackComponent_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "DoorDamageCallbackComponent_C",
+    "Name": "DoorDamageCallbackComponent",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "DoorDamageCallbackComponent_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "DuplicateStaticMeshHighlighter_C",
+    "Name": "DuplicateStaticMeshHighlighter_180",
+    "Outer": "PersistentLevel",
+    "Template": "Default__DuplicateStaticMeshHighlighter_C",
+    "Properties": {
+      "DefaultSceneRoot": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter_180.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.59"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter_180.DefaultSceneRoot",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.59"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter_180.DefaultSceneRoot",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.59"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Gameplay_Dynamic",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Gameplay_Dynamic:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.44"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Gameplay_Dynamic_C Ascent_Gameplay_Dynamic:PersistentLevel.Ascent_Gameplay_Dynamic_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.5"
+      },
+      "StreamingTextureGuids": [
+        "71DBFAF1-49F0E520-1D0BF2AD-F3B2906E",
+        "C8D3F7C7-42E0250E-A67CEABA-3E1F916E",
+        "BE7922C7-47F4BC49-97E13FAD-3199CC8D",
+        "FAA52855-47FDA926-D92EFCA2-10F977B3",
+        "778D3518-495DC7D3-5C1D1CA9-5BE682A6",
+        "184E9914-46CA3E73-42CA808E-AB56D1DA",
+        "F2725138-4A66B997-B1F9EAB7-5302AF84",
+        "4F0869AA-49C33F5D-C66132A1-163CDEF5",
+        "2DBE6E92-48285DB4-331ED49E-E848F7F3",
+        "6975183A-49F60630-E6BA1AAC-6C220A04",
+        "3A366314-48AAC418-B334E8B9-2E64679E",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "AEA1E47B-4CAD4319-B3FA3B8D-AB463611",
+        "D8E017BF-4033C0BB-E85DC0B4-077897C8",
+        "0E80B616-40E8F58F-1DB7EABE-9AD6A0AF",
+        "27905F1D-4A0E6774-50682080-C58A3101"
+      ],
+      "LevelBuildDataId": "08C4E208-48B4E0EB-91DC4586-E770AB99",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_Gameplay_Dynamic_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Gameplay_Dynamic:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.4"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Gameplay_Dynamic:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.4"
+      },
+      null,
+      {
+        "ObjectName": "DuplicateStaticMeshHighlighter_C Ascent_Gameplay_Dynamic:PersistentLevel.DuplicateStaticMeshHighlighter_180",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.39"
+      },
+      {
+        "ObjectName": "BombSpawnLocation_C Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.6"
+      },
+      {
+        "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.91"
+      },
+      {
+        "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.92"
+      },
+      {
+        "ObjectName": "Ascent_Gameplay_Dynamic_C Ascent_Gameplay_Dynamic:PersistentLevel.Ascent_Gameplay_Dynamic_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.5"
+      },
+      {
+        "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+      },
+      {
+        "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+      },
+      {
+        "ObjectName": "RespawningDestructible_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.46"
+      },
+      {
+        "ObjectName": "RespawningWallPlate_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.47"
+      },
+      {
+        "ObjectName": "RespawningWallPlate_C Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.48"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Gameplay_Dynamic:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.44"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Gameplay_Dynamic_C Ascent_Gameplay_Dynamic:PersistentLevel.Ascent_Gameplay_Dynamic_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.5"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "MinimapVisionConesBlockerLineComponent",
+    "Name": "MinimapVisionConesBlockerLine",
+    "Outer": "WindowShieldA1",
+    "Template": "MinimapVisionConesBlockerLine_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.67"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "MinimapVisionConesBlockerLineComponent",
+    "Name": "MinimapVisionConesBlockerLine",
+    "Outer": "WindowShieldB1",
+    "Template": "MinimapVisionConesBlockerLine_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.69"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "FB40237E-4DF3DCA7-E20C9B9E-40391D4B",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "RespawningDestructible_C",
+    "Name": "RespawningDestructible_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__RespawningDestructible_C",
+    "Properties": {
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.71"
+      },
+      "DeathVFX": {
+        "ObjectName": "ParticleSystem P_Ascent_BreakableGlass",
+        "ObjectPath": "ShooterGame/Content/VFX/ParticleSystems/P_Ascent_BreakableGlass.9"
+      },
+      "CanBeCrushed": true,
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.81"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.51"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.31"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.15"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.60"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.71"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "RespawningWallPlate_C",
+    "Name": "RespawningWallPlate2_7",
+    "Outer": "PersistentLevel",
+    "Template": "Default__RespawningWallPlate_C",
+    "Properties": {
+      "ExplosionAnchor": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.ExplosionAnchor",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.61"
+      },
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.72"
+      },
+      "DeathVFX": {
+        "ObjectName": "ParticleSystem Temp_MetalPanel_Destroy_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/ParticleSystems/Temp_MetalPanel_Destroy_VFX.172"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.82"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.52"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.32"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.16"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.62"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.72"
+        },
+        {
+          "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.ExplosionAnchor",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.61"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "RespawningWallPlate_C",
+    "Name": "RespawningWallPlate_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__RespawningWallPlate_C",
+    "Properties": {
+      "ExplosionAnchor": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.ExplosionAnchor",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.63"
+      },
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.73"
+      },
+      "DeathVFX": {
+        "ObjectName": "ParticleSystem Temp_MetalPanel_Destroy_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/ParticleSystems/Temp_MetalPanel_Destroy_VFX.172"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.83"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.53"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.33"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.17"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.64"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.73"
+        },
+        {
+          "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.ExplosionAnchor",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.63"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombSpawnLocation_3",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "RespawningDestructible_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "WindowShieldA1",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "WindowShieldB1",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1948.0511,
+        "Y": -7559.14,
+        "Z": 198.90948
+      },
+      "RelativeScale3D": {
+        "X": 1.3,
+        "Y": 1.3,
+        "Z": 1.3
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombSpawnLocation_3",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 100.00238,
+        "Y": 832.50745,
+        "Z": 337.56805
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DefaultSceneRoot",
+    "Outer": "DuplicateStaticMeshHighlighter_180",
+    "Template": "DefaultSceneRoot_GEN_VARIABLE",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 100.0,
+        "Y": 1210.0,
+        "Z": 465.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "RespawningDestructible_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4063.417,
+        "Y": -7832.371,
+        "Z": 800.8759
+      },
+      "Mobility": "EComponentMobility::Static"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "ExplosionAnchor",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "ExplosionAnchor_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.82"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -25.0,
+        "Z": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 266.80695,
+        "Y": -3806.6533,
+        "Z": 252.9509
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00012,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.093562,
+        "Y": 1.093562,
+        "Z": 1.093562
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "ExplosionAnchor",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "ExplosionAnchor_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.83"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": -25.0,
+        "Z": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 266.80695,
+        "Y": -4500.6597,
+        "Z": 252.9509
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00012,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0935621,
+        "Y": 1.0935621,
+        "Z": 1.0935621
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4888.023,
+        "Y": -5705.3633,
+        "Z": 549.7237
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": -89.68338,
+        "Roll": 90.24188
+      },
+      "RelativeScale3D": {
+        "X": 1.3,
+        "Y": 1.3,
+        "Z": 1.3
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DeathFXTransform",
+    "Outer": "WindowShieldA1",
+    "Template": "DeathFXTransform_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 194.99982,
+        "Z": 200.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "WindowShieldA1",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4875.0,
+        "Y": -6205.0,
+        "Z": 405.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.020018,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "DeathFXTransform",
+    "Outer": "WindowShieldB1",
+    "Template": "DeathFXTransform_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 150.0,
+        "Z": 150.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "WindowShieldB1",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -395.0,
+        "Y": -7400.0,
+        "Z": 305.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 180.0,
+        "Roll": -0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.03,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "RespawningDestructible_2",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "WindowShieldA1",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SimpleReplicationSleepComponent",
+    "Name": "SimpleReplicationSleep",
+    "Outer": "WindowShieldB1",
+    "Template": "SimpleReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "SkeletalMesh",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "SkeletalMesh_GEN_VARIABLE",
+    "Properties": {
+      "AnimationData": {
+        "AnimToPlay": {
+          "ObjectName": "AnimSequence SwitchRoom_0_SwitchBox_Anim",
+          "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/SwitchRoom/0/SwitchRoom_0_SwitchBox_Anim.0"
+        },
+        "bSavedLooping": false,
+        "bSavedPlaying": false
+      },
+      "AnimationMode": "EAnimationMode::AnimationSingleNode",
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh SwitchRoom_0_SwitchBox_Skelmesh",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/SwitchRoom/0/SwitchRoom_0_SwitchBox_Skelmesh.0"
+      },
+      "PrepassCullMode": "PCM_Exclude",
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::QueryAndPhysics",
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.57"
+      },
+      "RelativeLocation": {
+        "X": 2.857143,
+        "Y": 0.0,
+        "Z": 2.857143
+      },
+      "PrimaryComponentTick": {
+        "EndTickGroup": "TG_PostPhysics"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "SkeletalMesh",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "SkeletalMesh_GEN_VARIABLE",
+    "Properties": {
+      "AnimationData": {
+        "AnimToPlay": {
+          "ObjectName": "AnimSequence SwitchRoom_0_SwitchBox_Anim",
+          "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/SwitchRoom/0/SwitchRoom_0_SwitchBox_Anim.0"
+        },
+        "bSavedLooping": false,
+        "bSavedPlaying": false
+      },
+      "AnimationMode": "EAnimationMode::AnimationSingleNode",
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMesh SwitchRoom_0_SwitchBox_Skelmesh",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/SwitchRoom/0/SwitchRoom_0_SwitchBox_Skelmesh.0"
+      },
+      "PrepassCullMode": "PCM_Exclude",
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.65"
+      },
+      "RelativeLocation": {
+        "X": 3.0000005,
+        "Y": -1.0728835E-05,
+        "Z": 2.9999993
+      },
+      "PrimaryComponentTick": {
+        "EndTickGroup": "TG_PostPhysics"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SwitchRoom_0_SwitchBox",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/SwitchRoom/0/SwitchRoom_0_SwitchBox.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 77.846725
+        },
+        {
+          "PackedRelativeBox": 3686386345,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 9.948371
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 77.846725
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 77.846725
+        }
+      ],
+      "OverrideMaterials": [
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Mat_Emissive_RedGlowB",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Emissive/Mat_Emissive_RedGlowB.0"
+        }
+      ],
+      "VisibilityId": 7064,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.57"
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3F84D8B04C7AA23C62655F8305ACF213"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombSpawnLocation_3",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.BombSpawnLocation_3.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.58"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "RespawningDestructible_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh DefPathABuilding_5_PawWindow",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/DefPathABuilding/5/DefPathABuilding_5_PawWindow.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3892292096,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 360.83148
+        },
+        {
+          "PackedRelativeBox": 4273864768,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 162.61148
+        },
+        {
+          "PackedRelativeBox": 4273864768,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 162.61148
+        },
+        {
+          "PackedRelativeBox": 4273864768,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 162.61148
+        },
+        {
+          "PackedRelativeBox": 4276027392,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 368.90222
+        },
+        {
+          "PackedRelativeBox": 4276027392,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 368.90222
+        },
+        {
+          "PackedRelativeBox": 4276027392,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 368.90222
+        },
+        {
+          "PackedRelativeBox": 3892292096,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 360.83148
+        },
+        {
+          "PackedRelativeBox": 3892292096,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 360.83148
+        }
+      ],
+      "OverrideMaterials": [
+        null,
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Glass_M0E_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Glass/M0/Glass_M0E_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant GlassWarpedStrongDirty_M0E_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Glass/M0/GlassWarpedStrongDirty_M0E_MI.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "VisibilityId": 17544,
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Projectile",
+              "Response": "ECR_Overlap"
+            },
+            {
+              "Channel": "EtherealProjectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        },
+        "MassInKgOverride": 241.02855,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningDestructible_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.60"
+      },
+      "Mobility": "EComponentMobility::Static"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E7D63A0A4039DC320A8D318C6CAEACC9",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 501
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "RespawningWallPlate2_7",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Gameplay_2_ArmorPlateWallMediumA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/Gameplay_2_ArmorPlateWallMediumA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 260.8832
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 260.8832
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 260.8832
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Gameplay_2_M0_ArmoredWallPlateA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/M0/Gameplay_2_M0_ArmoredWallPlateA_MI.0"
+        }
+      ],
+      "CastShadow": false,
+      "VisibilityId": 24608,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate2_7.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.62"
+      },
+      "RelativeLocation": {
+        "X": 0.002377,
+        "Y": -32.934902,
+        "Z": 184.98413
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.0003,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "09AC85074F268880106EF59A10157737"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "RespawningWallPlate_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Gameplay_2_ArmorPlateWallMediumA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/Gameplay_2_ArmorPlateWallMediumA.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 260.8832
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 260.8832
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 260.8832
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Gameplay_2_M0_ArmoredWallPlateA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/M0/Gameplay_2_M0_ArmoredWallPlateA_MI.0"
+        }
+      ],
+      "CastShadow": false,
+      "VisibilityId": 24616,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.RespawningWallPlate_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.64"
+      },
+      "RelativeLocation": {
+        "X": 0.0023765564,
+        "Y": -32.934902,
+        "Z": 184.98413
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.0003,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "71291BA4437BF3FD216E0295F802A0AF"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SwitchRoom_0_SwitchBox",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/SwitchRoom/0/SwitchRoom_0_SwitchBox.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 77.846725
+        },
+        {
+          "PackedRelativeBox": 3241891928,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 9.948371
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 77.846725
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 77.846725
+        }
+      ],
+      "OverrideMaterials": [
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Mat_Emissive_RedGlowB",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Emissive/Mat_Emissive_RedGlowB.0"
+        }
+      ],
+      "VisibilityId": 22240,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.65"
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F0F9754F444270746D4A2FB3D81A0159"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Door",
+    "Outer": "WindowShieldA1",
+    "Template": "StaticMeshComponent_26",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.67"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "bCanEverAffectNavigation": false,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "DoorPiece1",
+    "Outer": "WindowShieldA1",
+    "Template": "DoorPiece1_GEN_VARIABLE",
+    "Properties": {
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Gameplay_2_M0_ArmoredWallPlateA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/M0/Gameplay_2_M0_ArmoredWallPlateA_MI.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceSurface",
+      "CastShadow": false,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 200.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.4618814,
+        "Y": 1.2970439,
+        "Z": 1.3808753
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "bCanEverAffectNavigation": false,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "70ACF2D447065FAA692C678CB5E8B431"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "WindowShieldA1",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.67"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Door",
+    "Outer": "WindowShieldB1",
+    "Template": "StaticMeshComponent_26",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.69"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.01,
+        "Z": 1.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "bCanEverAffectNavigation": false,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "DoorPiece1",
+    "Outer": "WindowShieldB1",
+    "Template": "DoorPiece1_GEN_VARIABLE",
+    "Properties": {
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Gameplay_2_M0_ArmoredWallPlateA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/M0/Gameplay_2_M0_ArmoredWallPlateA_MI.0"
+        }
+      ],
+      "LightmapType": "ELightmapType::ForceSurface",
+      "CastShadow": false,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "RelativeLocation": {
+        "X": -5.6801902E-05,
+        "Y": 145.75531,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "bCanEverAffectNavigation": false,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5360E8D74EBD112729FD7982125278D8"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "WindowShieldB1",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.69"
+      }
+    }
+  },
+  {
+    "Type": "Switch_BlackMarket_2_C",
+    "Name": "B_Site_Door_Switch_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Switch_BlackMarket_2_C",
+    "Properties": {
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.70"
+      },
+      "Comp_Actor_InWorldUsable": {
+        "ObjectName": "Comp_Actor_InWorldUsable_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.Comp_Actor_InWorldUsable",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.23"
+      },
+      "DoorDamageCallbackComponent": {
+        "ObjectName": "DoorDamageCallbackComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.DoorDamageCallbackComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.37"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.SkeletalMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.77"
+      },
+      "UseableComponent": {
+        "ObjectName": "UsableComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.UseableComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.95"
+      },
+      "InteractableObjects": [
+        {
+          "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.79"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.49"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.29"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.13"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.57"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.UseableComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.95"
+        },
+        {
+          "ObjectName": "SkeletalMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.SkeletalMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.77"
+        },
+        {
+          "ObjectName": "DoorDamageCallbackComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.DoorDamageCallbackComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.37"
+        },
+        {
+          "ObjectName": "Comp_Actor_InWorldUsable_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.Comp_Actor_InWorldUsable",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.23"
+        },
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.70"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Switch_BlackMarket_2_C",
+    "Name": "Switch_BlackMarket_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Switch_BlackMarket_2_C",
+    "Properties": {
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.74"
+      },
+      "Comp_Actor_InWorldUsable": {
+        "ObjectName": "Comp_Actor_InWorldUsable_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.Comp_Actor_InWorldUsable",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.24"
+      },
+      "DoorDamageCallbackComponent": {
+        "ObjectName": "DoorDamageCallbackComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.DoorDamageCallbackComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.38"
+      },
+      "SkeletalMesh": {
+        "ObjectName": "SkeletalMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.SkeletalMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.78"
+      },
+      "UseableComponent": {
+        "ObjectName": "UsableComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.UseableComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.96"
+      },
+      "InteractableObjects": [
+        {
+          "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.84"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.54"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.34"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.18"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.65"
+      },
+      "Tags": [
+        "AllowCameraOverlap"
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.UseableComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.96"
+        },
+        {
+          "ObjectName": "SkeletalMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.SkeletalMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.78"
+        },
+        {
+          "ObjectName": "DoorDamageCallbackComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.DoorDamageCallbackComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.38"
+        },
+        {
+          "ObjectName": "Comp_Actor_InWorldUsable_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.Comp_Actor_InWorldUsable",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.24"
+        },
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.74"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "TimelineComponent",
+    "Name": "Door Driver",
+    "Outer": "WindowShieldA1",
+    "Properties": {
+      "TheTimeline": {
+        "Length": 1.0,
+        "InterpFloats": [
+          {
+            "FloatCurve": {
+              "ObjectName": "CurveFloat GarageDoor_C:CurveFloat_0__256DA8D9",
+              "ObjectPath": "ShooterGame/Content/Interactable/GarageDoor.27"
+            },
+            "InterpFunc": {
+              "Num": 0,
+              "Name": "None"
+            },
+            "TrackName": "DoorOpenPercent",
+            "FloatPropertyName": "Door_Driver_DoorOpenPercent_58F2A4244DF5197BFF9D00B961617053"
+          }
+        ],
+        "TimelinePostUpdateFunc": {
+          "Num": 98,
+          "Name": "Door Driver__UpdateFunc"
+        },
+        "TimelineFinishedFunc": {
+          "Num": 98,
+          "Name": "Door Driver__FinishedFunc"
+        },
+        "PropertySetObject": {
+          "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.97"
+        },
+        "DirectionPropertyName": "Door_Driver__Direction_58F2A4244DF5197BFF9D00B961617053"
+      },
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::UserConstructionScript"
+    }
+  },
+  {
+    "Type": "TimelineComponent",
+    "Name": "Door Driver",
+    "Outer": "WindowShieldB1",
+    "Properties": {
+      "TheTimeline": {
+        "Length": 1.0,
+        "InterpFloats": [
+          {
+            "FloatCurve": {
+              "ObjectName": "CurveFloat GarageDoor_C:CurveFloat_0__256DA8D9",
+              "ObjectPath": "ShooterGame/Content/Interactable/GarageDoor.27"
+            },
+            "InterpFunc": {
+              "Num": 0,
+              "Name": "None"
+            },
+            "TrackName": "DoorOpenPercent",
+            "FloatPropertyName": "Door_Driver_DoorOpenPercent_58F2A4244DF5197BFF9D00B961617053"
+          }
+        ],
+        "TimelinePostUpdateFunc": {
+          "Num": 99,
+          "Name": "Door Driver__UpdateFunc"
+        },
+        "TimelineFinishedFunc": {
+          "Num": 99,
+          "Name": "Door Driver__FinishedFunc"
+        },
+        "PropertySetObject": {
+          "ObjectName": "WindowShield_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.98"
+        },
+        "DirectionPropertyName": "Door_Driver__Direction_58F2A4244DF5197BFF9D00B961617053"
+      },
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::UserConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "UseableComponent",
+    "Outer": "B_Site_Door_Switch_0",
+    "Template": "UsableComponent_0__518A0AEC",
+    "Properties": {
+      "PitchClampWhileUsing": 45.0,
+      "YawClampWhileUsing": 45.0,
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.91"
+            },
+            "FunctionName": "BndEvt__UseableComponent_K2Node_ComponentBoundEvent_542_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnCanSelect": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.91"
+            },
+            "FunctionName": "BndEvt__UseableComponent_K2Node_ComponentBoundEvent_0_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.B_Site_Door_Switch_0",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.91"
+            },
+            "FunctionName": "BndEvt__UseableComponent_K2Node_ComponentBoundEvent_113_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "UseableComponent",
+    "Outer": "Switch_BlackMarket_2",
+    "Template": "UsableComponent_0__518A0AEC",
+    "Properties": {
+      "PitchClampWhileUsing": 45.0,
+      "YawClampWhileUsing": 45.0,
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.92"
+            },
+            "FunctionName": "BndEvt__UseableComponent_K2Node_ComponentBoundEvent_542_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnCanSelect": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.92"
+            },
+            "FunctionName": "BndEvt__UseableComponent_K2Node_ComponentBoundEvent_0_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "Switch_BlackMarket_2_C Ascent_Gameplay_Dynamic:PersistentLevel.Switch_BlackMarket_2",
+              "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.92"
+            },
+            "FunctionName": "BndEvt__UseableComponent_K2Node_ComponentBoundEvent_113_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "WindowShield_C",
+    "Name": "WindowShieldA1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__WindowShield_C",
+    "Properties": {
+      "OverlapBoxAbilities": {
+        "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.OverlapBoxAbilities",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.7"
+      },
+      "Comp_AITarget2": {
+        "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Comp_AITarget2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.26"
+      },
+      "Comp_AITarget1": {
+        "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Comp_AITarget1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.25"
+      },
+      "OverlapBoxPlayer": {
+        "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.OverlapBoxPlayer",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.8"
+      },
+      "ChildRegionDamageSection": {
+        "ObjectName": "ChildRegionDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.ChildRegionDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.21"
+      },
+      "DoorPiece1": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DoorPiece1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.86"
+      },
+      "DoorMaterialInstance": {
+        "ObjectName": "MaterialInstanceConstant Gameplay_2_M0_ArmoredWallPlateA_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/M0/Gameplay_2_M0_ArmoredWallPlateA_MI.0"
+      },
+      "OtherDoors": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "MaxDamage": 500.0,
+      "DoorPieces": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DoorPiece1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.86"
+        }
+      ],
+      "DamageRegions": [
+        {
+          "ObjectName": "ChildRegionDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.ChildRegionDamageSection",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.21"
+        }
+      ],
+      "HandleTrappedObjectsOnClose": false,
+      "MinimapVisionConesBlockerLine": {
+        "ObjectName": "MinimapVisionConesBlockerLineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.MinimapVisionConesBlockerLine",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.42"
+      },
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.75"
+      },
+      "DeathFXTransform": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DeathFXTransform",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.66"
+      },
+      "ActivatableActorComponent": {
+        "ObjectName": "ActivatableActorComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.ActivatableActorComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.2"
+      },
+      "Trigger": {
+        "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Trigger",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.9"
+      },
+      "Door": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+      },
+      "Door Driver": {
+        "ObjectName": "TimelineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door Driver",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.93"
+      },
+      "DoorOpen": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": -420.0
+      },
+      "DoAutoOpen": false,
+      "DeathVFX": {
+        "ObjectName": "ParticleSystem Temp_MetalPanel_Destroy_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/ParticleSystems/Temp_MetalPanel_Destroy_VFX.172"
+      },
+      "DoorOpenTime": 5.0,
+      "DoorCloseTime": 5.0,
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.87"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.55"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.35"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.19"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.67"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.85"
+        },
+        {
+          "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DeathFXTransform",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.66"
+        },
+        {
+          "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Trigger",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.9"
+        },
+        {
+          "ObjectName": "ActivatableActorComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.ActivatableActorComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.2"
+        },
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.75"
+        },
+        {
+          "ObjectName": "MinimapVisionConesBlockerLineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.MinimapVisionConesBlockerLine",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.42"
+        },
+        {
+          "ObjectName": "TimelineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Door Driver",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.93"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.DoorPiece1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.86"
+        },
+        {
+          "ObjectName": "ChildRegionDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.ChildRegionDamageSection",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.21"
+        },
+        {
+          "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.OverlapBoxPlayer",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.8"
+        },
+        {
+          "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Comp_AITarget1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.25"
+        },
+        {
+          "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.Comp_AITarget2",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.26"
+        },
+        {
+          "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldA1.OverlapBoxAbilities",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.7"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "WindowShield_C",
+    "Name": "WindowShieldB1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__WindowShield_C",
+    "Properties": {
+      "OverlapBoxAbilities": {
+        "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.OverlapBoxAbilities",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.10"
+      },
+      "Comp_AITarget2": {
+        "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Comp_AITarget2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.28"
+      },
+      "Comp_AITarget1": {
+        "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Comp_AITarget1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.27"
+      },
+      "OverlapBoxPlayer": {
+        "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.OverlapBoxPlayer",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.11"
+      },
+      "ChildRegionDamageSection": {
+        "ObjectName": "ChildRegionDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.ChildRegionDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.22"
+      },
+      "DoorPiece1": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DoorPiece1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.89"
+      },
+      "DoorMaterialInstance": {
+        "ObjectName": "MaterialInstanceConstant Gameplay_2_M0_ArmoredWallPlateA_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Gameplay/2/M0/Gameplay_2_M0_ArmoredWallPlateA_MI.0"
+      },
+      "OtherDoors": [
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "MaxDamage": 500.0,
+      "DoorPieces": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DoorPiece1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.89"
+        }
+      ],
+      "DamageRegions": [
+        {
+          "ObjectName": "ChildRegionDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.ChildRegionDamageSection",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.22"
+        }
+      ],
+      "Door Move Start Event": {
+        "ObjectName": "AkAudioEvent Play_HFX_JailDoorElectric_Start",
+        "ObjectPath": "ShooterGame/Content/WwiseAudio/Events/SFX/Maps/Events_Map_Kingpin_Amb/Play_HFX_JailDoorElectric_Start.1"
+      },
+      "Door Finished Moving Event": {
+        "ObjectName": "AkAudioEvent Play_HFX_JailDoorElectric_End",
+        "ObjectPath": "ShooterGame/Content/WwiseAudio/Events/SFX/Maps/Events_Map_Kingpin_Amb/Play_HFX_JailDoorElectric_End.1"
+      },
+      "Ak Stop Event for Door Move Event": {
+        "ObjectName": "AkAudioEvent Stop_HFX_JailDoorElectric_Start",
+        "ObjectPath": "ShooterGame/Content/WwiseAudio/Events/SFX/Maps/Events_Map_Kingpin_Amb/Stop_HFX_JailDoorElectric_Start.1"
+      },
+      "Ak Event Destruction": {
+        "ObjectName": "AkAudioEvent Play_HFX_JailDoorElectric_Destroyed",
+        "ObjectPath": "ShooterGame/Content/WwiseAudio/Events/SFX/Maps/Events_Map_Kingpin_Amb/Play_HFX_JailDoorElectric_Destroyed.1"
+      },
+      "HandleTrappedObjectsOnClose": false,
+      "MinimapVisionConesBlockerLine": {
+        "ObjectName": "MinimapVisionConesBlockerLineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.MinimapVisionConesBlockerLine",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.43"
+      },
+      "SimpleReplicationSleep": {
+        "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.SimpleReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.76"
+      },
+      "DeathFXTransform": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DeathFXTransform",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.68"
+      },
+      "ActivatableActorComponent": {
+        "ObjectName": "ActivatableActorComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.ActivatableActorComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.3"
+      },
+      "Trigger": {
+        "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Trigger",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.12"
+      },
+      "Door": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+      },
+      "Door Driver": {
+        "ObjectName": "TimelineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door Driver",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.94"
+      },
+      "DoorOpen": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": -395.0
+      },
+      "IsAutomatic": true,
+      "DeathVFX": {
+        "ObjectName": "ParticleSystem Temp_MetalPanel_Destroy_VFX",
+        "ObjectPath": "ShooterGame/Content/VFX/ParticleSystems/Temp_MetalPanel_Destroy_VFX.172"
+      },
+      "DoorOpenTime": 5.0,
+      "DoorCloseTime": 5.0,
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.90"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.56"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.36"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.20"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.69"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.88"
+        },
+        {
+          "ObjectName": "SceneComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DeathFXTransform",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.68"
+        },
+        {
+          "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Trigger",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.12"
+        },
+        {
+          "ObjectName": "ActivatableActorComponent_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.ActivatableActorComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.3"
+        },
+        {
+          "ObjectName": "SimpleReplicationSleepComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.SimpleReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.76"
+        },
+        {
+          "ObjectName": "MinimapVisionConesBlockerLineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.MinimapVisionConesBlockerLine",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.43"
+        },
+        {
+          "ObjectName": "TimelineComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Door Driver",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.94"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.DoorPiece1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.89"
+        },
+        {
+          "ObjectName": "ChildRegionDamageSectionComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.ChildRegionDamageSection",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.22"
+        },
+        {
+          "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.OverlapBoxPlayer",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.11"
+        },
+        {
+          "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Comp_AITarget1",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.27"
+        },
+        {
+          "ObjectName": "Comp_AITarget_C Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.Comp_AITarget2",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.28"
+        },
+        {
+          "ObjectName": "BoxComponent Ascent_Gameplay_Dynamic:PersistentLevel.WindowShieldB1.OverlapBoxAbilities",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.10"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Gameplay_Dynamic",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Gameplay_Dynamic:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Gameplay_Dynamic.41"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

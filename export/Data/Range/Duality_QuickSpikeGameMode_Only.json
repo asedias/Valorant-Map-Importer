@@ -1,0 +1,1393 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Duality_QuickSpikeGameMode_Only_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Duality_QuickSpikeGameMode_Only_C Default__Duality_QuickSpikeGameMode_Only_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.1"
+    }
+  },
+  {
+    "Type": "Duality_QuickSpikeGameMode_Only_C",
+    "Name": "Default__Duality_QuickSpikeGameMode_Only_C"
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ActorVisibilityComponent",
+    "Name": "ActorVisibility",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "ActorVisibility_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.34"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_QuickSpikeGameMode_Only:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.37"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.56"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.57"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.58"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BaseMinimapComponent_Parent_C",
+    "Name": "BaseMinimapComponent_Parent",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "BaseMinimapComponent_Parent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.59"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.54"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.55"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.42"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.61"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.72"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.15"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.60"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.44"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.25"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.17"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.52"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.72"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.61"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.42"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BombDestination_C",
+    "Name": "BombDestination_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.43"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.63"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.73"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.16"
+        }
+      ],
+      "BombSite": "BombSiteEnum::NewEnumerator1",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.62"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.45"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.26"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.18"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.53"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "UsableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.73"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.63"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.43"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.65"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.11"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.64"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.46"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.27"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.19"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.54"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.11"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.65"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BombDestinationVolume_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.67"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.12"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.66"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.47"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.28"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.20"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.55"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.12"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.67"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "Duality_QuickSpikeGameMode_Only_C",
+    "Name": "Duality_QuickSpikeGameMode_Only_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Duality_QuickSpikeGameMode_Only_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_QuickSpikeGameMode_Only",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_QuickSpikeGameMode_Only:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.36"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Duality_QuickSpikeGameMode_Only_C Duality_QuickSpikeGameMode_Only:PersistentLevel.Duality_QuickSpikeGameMode_Only_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.33"
+      },
+      "LevelBuildDataId": "BA773843-42719164-518402B4-27B60DF8",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_QuickSpikeGameMode_Only_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_QuickSpikeGameMode_Only:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.6"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_QuickSpikeGameMode_Only:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.6"
+      },
+      null,
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.16"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.15"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.41"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.38"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.40"
+      },
+      {
+        "ObjectName": "OrbSpawner_Random_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.39"
+      },
+      {
+        "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.14"
+      },
+      {
+        "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.13"
+      },
+      {
+        "ObjectName": "Duality_QuickSpikeGameMode_Only_C Duality_QuickSpikeGameMode_Only:PersistentLevel.Duality_QuickSpikeGameMode_Only_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.33"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_QuickSpikeGameMode_Only:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.36"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Duality_QuickSpikeGameMode_Only_C Duality_QuickSpikeGameMode_Only:PersistentLevel.Duality_QuickSpikeGameMode_Only_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.33"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "29905CD3-49F0BB12-553C08AA-134D528F",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.2"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.7"
+      },
+      "TelemetryLabel": "Orb_B-Long_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.68"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.48"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.29"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.21"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.56"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.7"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.2"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random2_9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.3"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.8"
+      },
+      "TelemetryLabel": "Orb_A-Short_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.69"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.49"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.30"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.22"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.57"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.8"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.3"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random3_12",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.4"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.9"
+      },
+      "TelemetryLabel": "Orb_B-Short_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.70"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.50"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.31"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.23"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.58"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.9"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.4"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "OrbSpawner_Random_C",
+    "Name": "OrbSpawner_Random_6",
+    "Outer": "PersistentLevel",
+    "Template": "Default__OrbSpawner_Random_C",
+    "Properties": {
+      "ActorVisibility": {
+        "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.ActorVisibility",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.5"
+      },
+      "BaseMinimapComponent_Parent": {
+        "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.BaseMinimapComponent_Parent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.10"
+      },
+      "TelemetryLabel": "Orb_A-Long_SR",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.71"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.51"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.32"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.24"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.59"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BaseMinimapComponent_Parent_C Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.BaseMinimapComponent_Parent",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.10"
+        },
+        {
+          "ObjectName": "ActorVisibilityComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.ActorVisibility",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.5"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_A",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_B",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10808.0,
+        "Y": 2533.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11908.0,
+        "Y": -4917.0,
+        "Z": 301.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10000.0,
+        "Y": 1700.0,
+        "Z": 100.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 16.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11075.0,
+        "Y": -5500.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 11.25,
+        "Y": 14.0,
+        "Z": 1.5
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8050.0,
+        "Y": -6500.0,
+        "Z": 219.94934
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8100.0,
+        "Y": 800.0,
+        "Z": 200.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8300.0,
+        "Y": -3050.0,
+        "Z": 504.19202
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7950.0,
+        "Y": 4400.0,
+        "Z": 100.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MassInKgOverride": 0.0,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.52"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_A",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.52"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MassInKgOverride": 0.0,
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.53"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_B",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.53"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.54"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_A",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.54"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5454B64D442027581E1E7D9250363893"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.55"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BombDestinationVolume_B",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestinationVolume_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.55"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F43BD6BE4AE5C5BABAAA3381139A1826"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random1",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.90875,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random1.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.56"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random2_9",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8406143,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random2_9.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.57"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random3_12",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 1.8761017,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random3_12.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.58"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "OrbSpawner_Random_6",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "CachedVertexFogIntensityFromVolumes": 0.4490323,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_QuickSpikeGameMode_Only:PersistentLevel.OrbSpawner_Random_6.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.59"
+      }
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_A",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.13"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.13"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.13"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.13"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_B",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_C Duality_QuickSpikeGameMode_Only:PersistentLevel.BombDestination_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.14"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_QuickSpikeGameMode_Only",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_QuickSpikeGameMode_Only:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_QuickSpikeGameMode_Only.35"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

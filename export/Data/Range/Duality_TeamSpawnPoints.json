@@ -1,0 +1,658 @@
+[
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_TeamSpawnPoints:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.11"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_TeamSpawnPoints:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.14"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Attacker1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 875.0,
+        "Y": 525.0,
+        "Z": -25.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Attacker2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1050.0,
+        "Y": 725.0,
+        "Z": -15.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Attacker3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 850.0,
+        "Y": 225.0,
+        "Z": -50.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Attacker4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 900.0,
+        "Y": -75.0,
+        "Z": -50.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Attacker5",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1050.0,
+        "Y": -275.0,
+        "Z": -40.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Defender1",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 15100.0,
+        "Y": -1299.9977,
+        "Z": 242.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99976,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Defender2",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 15100.0,
+        "Y": -999.9975,
+        "Z": 242.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99976,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Defender3",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 15100.0,
+        "Y": -699.9975,
+        "Z": 242.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99976,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Defender4",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 14900.0,
+        "Y": -399.9984,
+        "Z": 242.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99976,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CapsuleComponent",
+    "Name": "CollisionCapsule",
+    "Outer": "ShooterTeamStart_Defender5",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 14900.0,
+        "Y": -1499.9985,
+        "Z": 242.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -179.99976,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_TeamSpawnPoints",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_TeamSpawnPoints:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.13"
+      },
+      "LevelBuildDataId": "371ECBFB-462401E2-88DFECA8-D9B1C8E9",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_TeamSpawnPoints_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints_BuiltData.0"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_TeamSpawnPoints:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.0"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_TeamSpawnPoints:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.0"
+      },
+      null,
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.15"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.16"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.17"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.18"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.19"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.20"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.21"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender3",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.22"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender4",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.23"
+      },
+      {
+        "ObjectName": "ShooterTeamStart Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender5",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.24"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_TeamSpawnPoints:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.13"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "7C15A96F-48655A81-5B1F8C9C-3D5022B5",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Attacker1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker1.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.25"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker1.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.1"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker1.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.1"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Attacker2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker2.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.26"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker2.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.2"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker2.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.2"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Attacker3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker3.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.27"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker3.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.3"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker3.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.3"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Attacker4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker4.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.28"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker4.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.4"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker4.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.4"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Attacker5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker5.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.29"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker5.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.5"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Attacker5.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.5"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Defender1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender1.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.30"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender1.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.6"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender1.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.6"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Defender2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender2.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.31"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender2.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.7"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender2.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.7"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Defender3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender3.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.32"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender3.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.8"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender3.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.8"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Defender4",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender4.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.33"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender4.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.9"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender4.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.9"
+      }
+    }
+  },
+  {
+    "Type": "ShooterTeamStart",
+    "Name": "ShooterTeamStart_Defender5",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "TeamComponent": null,
+      "RoleComponent": {
+        "ObjectName": "TeamRoleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender5.TeamRoleComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.34"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender5.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.10"
+      },
+      "GoodSprite": null,
+      "BadSprite": null,
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CapsuleComponent Duality_TeamSpawnPoints:PersistentLevel.ShooterTeamStart_Defender5.CollisionCapsule",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.10"
+      }
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Attacker1",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Attacker"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Attacker2",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Attacker"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Attacker3",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Attacker"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Attacker4",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Attacker"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Attacker5",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Attacker"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Defender1",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Defender"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Defender2",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Defender"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Defender3",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Defender"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Defender4",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Defender"
+    }
+  },
+  {
+    "Type": "TeamRoleComponent",
+    "Name": "TeamRoleComponent",
+    "Outer": "ShooterTeamStart_Defender5",
+    "Properties": {
+      "TeamRole": "EAresTeamRole::Defender"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_TeamSpawnPoints",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_TeamSpawnPoints:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_TeamSpawnPoints.12"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

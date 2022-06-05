@@ -1,0 +1,3721 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_BVProjectile_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_BVProjectile_C Default__Ascent_BVProjectile_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.1"
+    }
+  },
+  {
+    "Type": "Ascent_BVProjectile_C",
+    "Name": "Default__Ascent_BVProjectile_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_BVProjectile:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.45"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_BVProjectile:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.48"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_BVProjectile_C",
+    "Name": "Ascent_BVProjectile_C_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_BVProjectile_C"
+  },
+  {
+    "Type": "BP_LevelBlockingVolume_C",
+    "Name": "BP_LevelBlockingVolume2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_LevelBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.49"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.49"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.49"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_LevelBlockingVolume_C",
+    "Name": "BP_LevelBlockingVolume_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_LevelBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.50"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.50"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume_2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.50"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_LevelBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume32_0",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_LevelBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume32_0.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.74"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume32_0.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.74"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume32_0.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.74"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_LevelBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume36",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_LevelBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume36.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.78"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume36.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.78"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume36.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.78"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume10",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume10.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.51"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume10.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.51"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume10.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.51"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume11",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume11.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.52"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume11.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.52"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume11.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.52"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume12",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume12.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.53"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume12.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.53"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume12.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.53"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume13",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume13.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.54"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume13.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.54"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume13.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.54"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume14",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume14.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.55"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume14.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.55"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume14.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.55"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume15",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume15.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.56"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume15.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.56"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume15.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.56"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume16",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume16.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.57"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume16.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.57"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume16.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.57"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume17",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume17.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.58"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume17.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.58"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume17.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.58"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume18",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume18.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.59"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume18.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.59"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume18.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.59"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume19",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume19.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.60"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume19.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.60"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume19.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.60"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.61"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.61"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.61"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume20",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume20.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.62"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume20.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.62"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume20.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.62"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume21",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume21.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.63"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume21.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.63"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume21.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.63"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume22",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume22.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.64"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume22.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.64"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume22.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.64"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume23",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume23.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.65"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume23.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.65"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume23.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.65"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume24",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume24.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.66"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume24.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.66"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume24.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.66"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume25",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume25.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.67"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume25.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.67"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume25.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.67"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume26",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume26.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.68"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume26.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.68"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume26.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.68"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume27",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume27.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.69"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume27.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.69"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume27.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.69"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume28",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume28.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.70"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume28.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.70"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume28.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.70"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume29",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume29.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.71"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume29.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.71"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume29.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.71"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume30_4",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume30_4.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.72"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume30_4.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.72"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume30_4.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.72"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume31",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume31.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.73"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume31.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.73"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume31.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.73"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume33",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume33.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.75"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume33.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.75"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume33.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.75"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume34",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume34.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.76"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume34.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.76"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume34.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.76"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume35",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume35.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.77"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume35.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.77"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume35.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.77"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume37",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume37.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.79"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume37.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.79"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume37.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.79"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume38",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume38.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.80"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume38.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.80"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume38.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.80"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume39",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume39.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.81"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume39.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.81"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume39.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.81"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume3_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume3_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.82"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume3_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.82"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume3_2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.82"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume4_5",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume4_5.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.83"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume4_5.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.83"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume4_5.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.83"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume5_8",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume5_8.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.84"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume5_8.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.84"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume5_8.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.84"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume6_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume6_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.85"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume6_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.85"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume6_2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.85"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume7_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume7_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.86"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume7_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.86"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume7_2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.86"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume8_9",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume8_9.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.87"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume8_9.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.87"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume8_9.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.87"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume9_80",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume9_80.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.88"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume9_80.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.88"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume9_80.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.88"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_ProjectileBlockingVolume_C",
+    "Name": "BP_ProjectileBlockingVolume_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_ProjectileBlockingVolume_C",
+    "Properties": {
+      "Cube": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.89"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume_2.Cube",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.89"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume_2.Cube",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.89"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_BVProjectile",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_BVProjectile:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.47"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_BVProjectile_C Ascent_BVProjectile:PersistentLevel.Ascent_BVProjectile_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.3"
+      },
+      "LevelBuildDataId": "00674E58-4F319599-5615C3B5-2AE437DD",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_BVProjectile_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_BVProjectile:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_BVProjectile:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.2"
+      },
+      null,
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume9_80",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.43"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume10",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.8"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume11",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.9"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume12",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.10"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume13",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.11"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume14",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.12"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume15",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.13"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume16",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.14"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume17",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.15"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume18",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.16"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume19",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.17"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume20",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.19"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume21",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.20"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume22",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.21"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume23",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.22"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume24",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.23"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume25",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.24"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.44"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.18"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume26",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.25"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume27",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.26"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume3_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.37"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume4_5",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.38"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume5_8",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.39"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume6_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.40"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume7_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.41"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume8_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.42"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume28",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.27"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume29",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.28"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume30_4",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.29"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume31",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.30"
+      },
+      {
+        "ObjectName": "BP_LevelBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.5"
+      },
+      {
+        "ObjectName": "BP_LevelBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_LevelBlockingVolume2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.4"
+      },
+      {
+        "ObjectName": "BP_LevelBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume32_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.6"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume33",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.31"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume34",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.32"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume35",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.33"
+      },
+      {
+        "ObjectName": "BP_LevelBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume36",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.7"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume37",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.34"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume38",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.35"
+      },
+      {
+        "ObjectName": "BP_ProjectileBlockingVolume_C Ascent_BVProjectile:PersistentLevel.BP_ProjectileBlockingVolume39",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.36"
+      },
+      {
+        "ObjectName": "Ascent_BVProjectile_C Ascent_BVProjectile:PersistentLevel.Ascent_BVProjectile_C_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_BVProjectile:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.47"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_BVProjectile_C Ascent_BVProjectile:PersistentLevel.Ascent_BVProjectile_C_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.3"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "7CF4CA98-46408ED8-C56509BA-130DF971",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_LevelBlockingVolume2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "EngineTraceChannel1",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel2",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel3",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel4",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel5",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel6",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel14",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel15",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel16",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel17",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel18",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Weapon",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Sound",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Pickup",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldStatic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldDynamic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "PhysicsBody",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Destructible",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Projectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EtherealProjectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Targeting",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 1442.9844,
+        "Y": 301.18054,
+        "Z": -149.55806
+      },
+      "RelativeScale3D": {
+        "X": 1.438285,
+        "Y": 1.828103,
+        "Z": 1.077071
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "89091B744C7F21D8DE1BA1A5026F359C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_LevelBlockingVolume_2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "EngineTraceChannel1",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel2",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel3",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel4",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel5",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel6",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel14",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel15",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel16",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel17",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel18",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Weapon",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Sound",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Pickup",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldStatic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldDynamic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "PhysicsBody",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Destructible",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Projectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EtherealProjectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Targeting",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 1434.9637,
+        "Y": 277.99136,
+        "Z": -141.08044
+      },
+      "RelativeScale3D": {
+        "X": 1.438285,
+        "Y": 1.828103,
+        "Z": 2.103005
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "51C685F044F7F5F0EC0181A858589EB9"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume10",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6800.0,
+        "Y": -7800.0,
+        "Z": 500.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C5A35FA14F5C096892DCB0BE47145608"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume11",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6400.0,
+        "Y": -7250.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "EB22B2F04050207D6C5253829E33345E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume12",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -7300.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B7E6E355435267C88BF154BE6BFCA10F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume13",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5399.0,
+        "Y": -7403.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 2.03125,
+        "Y": 6.05,
+        "Z": 3.6875
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A838AB5D45BAC4A006E79788690CFFED"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume14",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6900.0,
+        "Y": -6800.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5404352246DE542FE2A0018319C410DF"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume15",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6900.0,
+        "Y": -6800.0,
+        "Z": 700.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "855A4E1D422BE38A35B3F29A0F76AE21"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume16",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6900.0,
+        "Y": -8100.0,
+        "Z": 800.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7707AC2A4D64612257D21F9DF991953F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume17",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6900.0,
+        "Y": -8100.0,
+        "Z": 1000.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.157734
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A39178984E3ECDFEC608A49D3A6810AA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume18",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5000.0,
+        "Y": -8600.0,
+        "Z": 800.0
+      },
+      "RelativeScale3D": {
+        "X": 21.0,
+        "Y": 2.0,
+        "Z": 3.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "89A934AF4233DECD029DF5B94CEB9B97"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume19",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5000.0,
+        "Y": -9600.0,
+        "Z": 800.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 11.0,
+        "Z": 6.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0A46637A4AA6EAC13383B0809780DB93"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2030.7795,
+        "Y": -1800.0,
+        "Z": 1100.0
+      },
+      "RelativeScale3D": {
+        "X": 1.5,
+        "Y": 0.5,
+        "Z": 1.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F7D2451C4FC61FDA04D9F0911F25C9B2"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume20",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5000.0,
+        "Y": -8500.0,
+        "Z": 800.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 4.5
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "1EA4E4CE485091C444919395CBBD6303"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume21",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5400.0,
+        "Y": -8430.0,
+        "Z": 1100.0
+      },
+      "RelativeScale3D": {
+        "X": 6.0,
+        "Y": 0.25,
+        "Z": 2.75
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2BE71DF44AAF64608A9A7988B29BB341"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume22",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5500.0,
+        "Y": -8600.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 12.0,
+        "Y": 2.0,
+        "Z": 3.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "60D951C34FC34DD552CCB6A8D76AC2D3"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume23",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5300.0,
+        "Y": -7875.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 6.0,
+        "Y": 2.0,
+        "Z": 2.875
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A415080A48D649111236DDA8833351E0"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume24",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6700.0,
+        "Y": -7875.0005,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 6.0,
+        "Y": 2.0,
+        "Z": 2.875
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "DB7BBE9B439C213AFFB9E8BE0C350CCE"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume25",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6600.0,
+        "Y": -8430.0,
+        "Z": 1100.0
+      },
+      "RelativeScale3D": {
+        "X": 6.0,
+        "Y": 0.25,
+        "Z": 2.75
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "40544D4342483C6DB055B1B61027F746"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume26",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5025.241,
+        "Y": -3703.2131,
+        "Z": -462.2195
+      },
+      "RelativeScale3D": {
+        "X": 6.230082,
+        "Y": 23.13068,
+        "Z": 8.70949
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4C381B7D4EDF0047EBDC39B21076FF61"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume27",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5476.1475,
+        "Y": -3700.8196,
+        "Z": -462.21194
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.650539,
+        "Y": 21.983597,
+        "Z": 8.70949
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D54AFB474C9F81CFB8AB49B151A55301"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume28",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2438.2979,
+        "Y": -8809.319,
+        "Z": -95.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00009,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 3.2098308,
+        "Z": 1.5452987
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6BE693B04DFAD28258BA959B05135E34"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume29",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -3100.1946,
+        "Y": -7606.551,
+        "Z": -102.03519
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00009,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.13108687,
+        "Y": 1.4944102,
+        "Z": 2.25
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "42041A6E43082914FDFA648D397D53A5"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume30_4",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4042.3816,
+        "Y": -7807.74,
+        "Z": 785.603
+      },
+      "RelativeScale3D": {
+        "X": 2.1270516,
+        "Y": 0.28142163,
+        "Z": 0.12969084
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "80432E8F46F63FFAFA0188838E60F970"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume31",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2089.3542,
+        "Y": -1888.6456,
+        "Z": -131.52948
+      },
+      "RelativeScale3D": {
+        "X": 5.90106,
+        "Y": 0.5,
+        "Z": 1.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "74D1764A4AC1AE126B587799E2608BF4"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume32_0",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "EngineTraceChannel1",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel2",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel3",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel4",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel5",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel6",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel14",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel15",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel16",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel17",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel18",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Weapon",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Sound",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Pickup",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldStatic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldDynamic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "PhysicsBody",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Destructible",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Projectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EtherealProjectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Targeting",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 5000.0,
+        "Y": -8600.0,
+        "Z": 800.0
+      },
+      "RelativeScale3D": {
+        "X": 21.0,
+        "Y": 2.0,
+        "Z": 1.25
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "69F05A4A44D97E8B01FE01ACDFA8D0B5"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume33",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6700.085,
+        "Y": -5504.999,
+        "Z": 400.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.03003,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 4.0,
+        "Y": 4.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "983C2B524A723488635A478C6CBA7EAA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume34",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6900.0557,
+        "Y": -5501.612,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.03003,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 4.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E1D413C546972E933D2903993712F19B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume35",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2416.408,
+        "Y": -8194.819,
+        "Z": 295.77667
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.969925,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.25,
+        "Y": 1.5,
+        "Z": 10.25
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "766D2C7F42314F0B728077A86EFA2C6F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume36",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "BodyInstance": {
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "EngineTraceChannel1",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel2",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel3",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel4",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel5",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EngineTraceChannel6",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel14",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel15",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel16",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel17",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "GameTraceChannel18",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Weapon",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Sound",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Pickup",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldStatic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "WorldDynamic",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "PhysicsBody",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Destructible",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Projectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "EtherealProjectile",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Targeting",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 7510.7666,
+        "Y": -4525.8804,
+        "Z": 788.0651
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.013588,
+        "Y": 0.49371636,
+        "Z": 0.32353976
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2CE514A34075F39962AB7FAAA48759B3"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume37",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5691.9966,
+        "Y": -8009.4697,
+        "Z": 694.63416
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00002,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.2312655,
+        "Y": 0.048310198,
+        "Z": 0.80826294
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E04BC82B4273733AEB1AB8B5B4A1B7F1"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume38",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5600.8193,
+        "Y": -8073.203,
+        "Z": 694.63416
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -169.19792,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.9616781,
+        "Y": 0.04831,
+        "Z": 0.808263
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CCA726EA463C8105696C46A68D7D2532"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume39",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5689.5273,
+        "Y": -8090.4307,
+        "Z": 694.63416
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 81.9324,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.8219542,
+        "Y": 0.92949337,
+        "Z": 0.808263
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F097F8C54C905FBBAFB791A5E8CA129E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume3_2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4745.0,
+        "Y": -4100.0,
+        "Z": 400.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.03003,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.125,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0A663F724EBFB78CA2D12CB228634B53"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume4_5",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -3475.0,
+        "Y": -6835.0,
+        "Z": -95.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00009,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 4.25,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "68C24EB74C1E6F5C2EE82E86C86F95CF"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume5_8",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1815.0,
+        "Y": -5580.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00003,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 3.75,
+        "Z": 0.75
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "716868794E63AFC38767409F0E7A1383"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume6_2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2505.0,
+        "Y": -4225.0,
+        "Z": 400.0
+      },
+      "RelativeScale3D": {
+        "X": 0.25,
+        "Y": 2.875,
+        "Z": 3.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "758CD9314090F68F83C1C6B0750979AC"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume7_2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 42.0,
+        "Y": -6814.0,
+        "Z": 300.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00003,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.17185,
+        "Y": 2.005839,
+        "Z": 0.966249
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "3BE3CC644F58781AD393DD8B77A57256"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume8_9",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5706.0,
+        "Y": -7908.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00002,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.228974,
+        "Y": 2.104869,
+        "Z": 1.973545
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "24C288004BE748E0674F639E36F77CBA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume9_80",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6900.0,
+        "Y": -7800.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8944210F4A23B4BCEE4074AE9646E721"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Cube",
+    "Outer": "BP_ProjectileBlockingVolume_2",
+    "Template": "Cube254B3E6C4FB525D428CA1D931524363D",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3150.0,
+        "Y": -1550.0,
+        "Z": 725.0
+      },
+      "RelativeScale3D": {
+        "X": 0.5,
+        "Y": 0.5,
+        "Z": 1.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeScale3D",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "94A9EE1547EF1F8A4F1D419BE6C22A4A"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_BVProjectile",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_BVProjectile:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_BVProjectile.46"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

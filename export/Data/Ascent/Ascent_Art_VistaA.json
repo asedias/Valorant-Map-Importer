@@ -1,0 +1,6181 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Art_VistaA_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Art_VistaA_C Default__Ascent_Art_VistaA_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.1"
+    }
+  },
+  {
+    "Type": "Ascent_Art_VistaA_C",
+    "Name": "Default__Ascent_Art_VistaA_C"
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_12_Capital",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_12_Capital.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.24"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_12_Capital.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.24"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_13_DomeCage",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_13_DomeCage.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.25"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_13_DomeCage.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.25"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_DoubleWindows",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_DoubleWindows.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.26"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_DoubleWindows.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.26"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_MiddleSteps",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_MiddleSteps.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.27"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_MiddleSteps.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.27"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_OverhangTriangle_Damaged",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_OverhangTriangle_Damaged.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.28"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_OverhangTriangle_Damaged.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.28"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_Pillar",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Pillar.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.29"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Pillar.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.29"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_RailingAccent",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.30"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.30"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_RailingAccent_34",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent_34.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.31"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent_34.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.31"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_RailingAccent_51",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent_51.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.32"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent_51.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.32"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_RoofAccent_66",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RoofAccent_66.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.33"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RoofAccent_66.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.33"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_RoofAccentDamaged_64",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RoofAccentDamaged_64.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.34"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RoofAccentDamaged_64.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.34"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_TopFloorGate",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorGate.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.35"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorGate.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.35"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_TopFloorGate_48",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorGate_48.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.36"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorGate_48.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.36"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_Window",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.37"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.37"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_Window_37",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window_37.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.38"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window_37.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.38"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ABuilding_1_Window_54",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window_54.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.39"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window_54.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.39"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "MidRoof_0_Detail3x",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.MidRoof_0_Detail3x.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.40"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.MidRoof_0_Detail3x.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.40"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Rubble_6_ConcreteDebrisA_62",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.Rubble_6_ConcreteDebrisA_62.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.41"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.Rubble_6_ConcreteDebrisA_62.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.41"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "WallSconce_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.WallSconce_0.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.42"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Ascent_Art_VistaA:PersistentLevel.WallSconce_0.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.42"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Art_VistaA:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.23"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Art_VistaA:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.45"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Art_VistaA_C",
+    "Name": "Ascent_Art_VistaA_C_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Art_VistaA_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_12_Capital",
+    "Properties": {
+      "InstancingRandomSeed": 32342,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_12_Capital",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/12/ABuilding_12_Capital.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 60.42954
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 60.42954
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 60.42954
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 23128,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "471228E94C8191670B88DBA592797139"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1028.7646,
+          "Y": 85.89453,
+          "Z": 469.8169
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.8,
+          "Y": 2.8,
+          "Z": 2.2
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -668.7632,
+          "Y": 85.89453,
+          "Z": 469.8169
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.8,
+          "Y": 2.8,
+          "Z": 2.2
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 436.23682,
+          "Y": 85.89453,
+          "Z": 469.8169
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.8,
+          "Y": 2.8,
+          "Z": 2.2
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 106.23682,
+          "Y": 85.89453,
+          "Z": 469.8169
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 2.8,
+          "Y": 2.8,
+          "Z": 2.2
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_13_DomeCage",
+    "Properties": {
+      "InstancingRandomSeed": 1915,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_13_DomeCage",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/13/ABuilding_13_DomeCage.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 6594.365
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material roof1",
+          "ObjectPath": "ShooterGame/Content/VFX/Radianite/Meshes/building/roof1.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 13720,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0E1698AC499717D1AC443C8697B54019"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -244.07812,
+          "Y": -2502.0283,
+          "Z": 1249.6506
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 35.000065,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.84375006,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -244.07812,
+          "Y": -2502.0283,
+          "Z": 1209.7034
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 35.000065,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.84375006,
+          "Y": 0.84375006,
+          "Z": 1.03125
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_DoubleWindows",
+    "Properties": {
+      "InstancingRandomSeed": 21990,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_DoubleWindows",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_DoubleWindows.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 1614.8905
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 304.41064
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 304.41064
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 304.41064
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1614.8905
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 417.22308
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 417.22308
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 1614.8905
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 13672,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A77DBE49452E1062204096BFFD5993E0"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1673.9985,
+          "Y": -1892.2148,
+          "Z": 824.47534
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 44.999996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1673.9985,
+          "Y": -3092.2148,
+          "Z": 824.47534
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -823.99854,
+          "Y": -3942.2148,
+          "Z": 824.47534
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.0,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 1.0000001,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1226.0015,
+          "Y": -1892.2148,
+          "Z": 824.47534
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 376.00146,
+          "Y": -1042.2148,
+          "Z": 824.47534
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -823.99854,
+          "Y": -1042.2148,
+          "Z": 824.47534
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_MiddleSteps",
+    "Properties": {
+      "InstancingRandomSeed": 17067,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_MiddleSteps",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_MiddleSteps.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 763.7821
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 763.7821
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 763.7821
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 23208,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C2460BA34182ABDDAC38BD9CB980AACA"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -273.99854,
+          "Y": 20.000977,
+          "Z": 973.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2761.2537,
+          "Y": -2499.253,
+          "Z": 973.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_OverhangTriangle_Damaged",
+    "Properties": {
+      "InstancingRandomSeed": 7178,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_OverhangTriangle_Damaged",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_OverhangTriangle_Damaged.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 445.52527
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 872.32385
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 872.32385
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 872.32385
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 445.52527
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 23144,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "EBC76AC44C740C5EE04B04AC6D4A6F92"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -2855.9985,
+          "Y": -2499.255,
+          "Z": 852.12354
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.060657,
+          "Y": 1.060657,
+          "Z": 1.060657
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -273.99854,
+          "Y": 218.74512,
+          "Z": 852.12354
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.060657,
+          "Y": 1.060657,
+          "Z": 1.060657
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_Pillar",
+    "Properties": {
+      "InstancingRandomSeed": 22097,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Pillar",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Pillar.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 355.41272
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 355.41272
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 355.41272
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 22936,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8578F98649A24B15EAB157B68998A493"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1113.9985,
+          "Y": 173.89258,
+          "Z": -270.4397
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.85
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 351.00146,
+          "Y": 173.89258,
+          "Z": -270.4397
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.85
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 21.001465,
+          "Y": 173.89258,
+          "Z": -270.4397
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.85
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_RailingAccent",
+    "Properties": {
+      "InstancingRandomSeed": 30873,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_RailingAccent",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_RailingAccent.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 401.08676
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 401.08676
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 401.08676
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 34312,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8655.0,
+        "Z": 2290.0
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "599003A34545E00613C5508002A8E183"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -2113.706,
+          "Y": -3279.4844,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2133.7056,
+          "Y": -1712.6172,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2305.706,
+          "Y": -3279.4844,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2475.706,
+          "Y": -3181.4844,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2325.7056,
+          "Y": -1712.6172,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2475.7058,
+          "Y": -2062.6182,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2475.7068,
+          "Y": -1852.6182,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000034,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2325.7026,
+          "Y": -3289.4863,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 134.99997,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2475.7046,
+          "Y": -2028.6201,
+          "Z": 260.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2475.7043,
+          "Y": -3149.4863,
+          "Z": 256.51636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.908545
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_RailingAccent_34",
+    "Properties": {
+      "InstancingRandomSeed": 31355,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_RailingAccent",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_RailingAccent.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 401.08676
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 401.08676
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 401.08676
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 23112,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B85482A84E0E95A7A01306968E032354"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 746.6377,
+          "Y": -339.5498,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.0001,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1266.228,
+          "Y": -364.5498,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.000114,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1266.228,
+          "Y": -173.5498,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.000114,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -931.228,
+          "Y": 8.450195,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 746.6377,
+          "Y": -141.5498,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.0001,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 396.6377,
+          "Y": 8.450195,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 606.6377,
+          "Y": 8.450195,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -45.00003,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1271.228,
+          "Y": -126.549805,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000034,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 206.6377,
+          "Y": 8.450195,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1121.228,
+          "Y": 8.450195,
+          "Z": 880.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.908545
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_RailingAccent_51",
+    "Properties": {
+      "InstancingRandomSeed": 7289,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_RailingAccent",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_RailingAccent.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 401.08676
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 401.08676
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 401.08676
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 13688,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F3C0BBF4439504B2374B1A80C534193C"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2197.7056,
+          "Y": -1879.8916,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1835.7056,
+          "Y": -1728.0254,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 179.99988,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2027.7104,
+          "Y": -1728.0244,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 179.99988,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2071.7046,
+          "Y": -1726.0244,
+          "Z": 884.27905
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999878,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.859915
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_RoofAccent_66",
+    "Properties": {
+      "InstancingRandomSeed": 21617,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_RoofAccent",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_RoofAccent.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 348.7543
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 348.7543
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 348.7543
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 13696,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6863.562,
+        "Y": -9675.636,
+        "Z": 3099.9414
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "00ADA8EC43EC50B2514B41859570212C"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 463.42725,
+          "Y": 451.44043,
+          "Z": -826.10547
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 42.427246,
+          "Y": 1102.4404,
+          "Z": -826.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1335.4976,
+          "Y": -648.4375,
+          "Z": -836.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.000144,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1891.4976,
+          "Y": -887.4375,
+          "Z": -836.10547
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999976,
+          "Y": 0.99999976,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3222.623,
+          "Y": -896.6299,
+          "Z": -836.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2069.0,
+          "Y": -2050.0,
+          "Z": 5.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 866.0,
+          "Y": -867.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -67.50002,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2094.0,
+          "Y": -860.0,
+          "Z": 5.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 67.50002,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -22.5,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_RoofAccentDamaged_64",
+    "Properties": {
+      "InstancingRandomSeed": 2766,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_RoofAccentDamaged",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_RoofAccentDamaged.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 364.4002
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1094.8439
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 24,
+          "TexelFactor": 1094.8439
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 25,
+          "TexelFactor": 1094.8439
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 364.4002
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 17736,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6863.562,
+        "Y": -9675.636,
+        "Z": 3099.9414
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7BB6623843EE5666D2ADCA94D80DD998"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1225.0,
+          "Y": 2.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 22.499985,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3222.6226,
+          "Y": -2088.8027,
+          "Z": -836.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2578.623,
+          "Y": -598.6299,
+          "Z": -836.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1724.7446,
+          "Y": 392.44043,
+          "Z": -826.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1420.7446,
+          "Y": 1102.4404,
+          "Z": -826.10547
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_TopFloorGate",
+    "Properties": {
+      "InstancingRandomSeed": 24108,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_TopFloorGate",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_TopFloorGate.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 364.2583
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 364.2583
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 364.2583
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 23104,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8CCF7AE748A68AEE1525EDB4538C381C"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1298.9976,
+          "Y": -755.99805,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00019,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 751.00146,
+          "Y": -539.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 0.856419
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_TopFloorGate_48",
+    "Properties": {
+      "InstancingRandomSeed": 32111,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_TopFloorGate",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_TopFloorGate.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 364.2583
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 364.2583
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 364.2583
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 13616,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "29A3621648FB9923BBEE80A7D0554723"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1749.2446,
+          "Y": -3460.9932,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.00026,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1607.8242,
+          "Y": -3602.417,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.00002,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1466.4028,
+          "Y": -3743.838,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.00002,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1324.979,
+          "Y": -3885.2588,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 135.00002,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1299.2476,
+          "Y": -4055.996,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99982,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1299.2456,
+          "Y": -4255.995,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99982,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1299.248,
+          "Y": -4455.995,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 89.99982,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2148.2607,
+          "Y": -1709.2656,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.000122,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1376.0015,
+          "Y": -1709.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.000169,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1576.0015,
+          "Y": -1709.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.000169,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1776.0015,
+          "Y": -1709.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.000169,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.863147,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1242.0015,
+          "Y": -1567.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.99985,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1100.5801,
+          "Y": -1426.5771,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999878,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 959.1587,
+          "Y": -1285.1562,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999878,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 817.7368,
+          "Y": -1143.7354,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999878,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1473.9985,
+          "Y": -1234.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000107,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1615.419,
+          "Y": -1376.4209,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000107,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1756.8413,
+          "Y": -1517.8418,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000107,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1898.2612,
+          "Y": -1659.2656,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000107,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1298.9985,
+          "Y": -955.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00019,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1298.9956,
+          "Y": -1155.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00019,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 751.00146,
+          "Y": -939.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 0.856419
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 751.00146,
+          "Y": -739.999,
+          "Z": 953.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -89.99999,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 0.856419
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_Window",
+    "Properties": {
+      "InstancingRandomSeed": 6524,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Window",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Window.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 278.99527
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 278.99527
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 34320,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8655.0,
+        "Z": 2290.0
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "84454E064487D1FF0257D6B1FFD03668"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -2411.0,
+          "Y": -3234.0,
+          "Z": -776.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 129.99997,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65000004,
+          "Y": 0.65000004,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2411.0,
+          "Y": -3234.0,
+          "Z": -247.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 129.99997,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65000004,
+          "Y": 0.65000004,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2493.0,
+          "Y": -2982.0,
+          "Z": -356.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.000114,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2493.0,
+          "Y": -2982.0,
+          "Z": -885.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.000114,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2493.0,
+          "Y": -2035.0,
+          "Z": -356.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.000114,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2493.0,
+          "Y": -2035.0,
+          "Z": -885.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.000114,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2411.0,
+          "Y": -1789.0,
+          "Z": -776.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000004,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2411.0,
+          "Y": -1789.0,
+          "Z": -247.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000004,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2203.0,
+          "Y": -1710.0,
+          "Z": -247.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2031.0,
+          "Y": -1710.0,
+          "Z": -247.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_Window_37",
+    "Properties": {
+      "InstancingRandomSeed": 24432,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Window",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Window.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 278.99527
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 278.99527
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 17712,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "26A6D3754DB721FF4FFA1BBEB5FF418C"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -1230.9985,
+          "Y": -54.999023,
+          "Z": -153.2373
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000004,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1230.9985,
+          "Y": -54.999023,
+          "Z": 376.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000004,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -838.99854,
+          "Y": 22.000977,
+          "Z": -262.2373
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -838.99854,
+          "Y": 22.000977,
+          "Z": 270.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 291.00146,
+          "Y": 22.000977,
+          "Z": -262.2373
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 291.00146,
+          "Y": 22.000977,
+          "Z": 270.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 686.00146,
+          "Y": -52.999023,
+          "Z": -153.2373
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -45.00003,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 686.00146,
+          "Y": -52.999023,
+          "Z": 376.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -45.00003,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 765.00146,
+          "Y": -262.99902,
+          "Z": 376.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.000145,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 765.00146,
+          "Y": -433.99902,
+          "Z": 376.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -90.00006,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1312.9985,
+          "Y": -433.99902,
+          "Z": 376.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00006,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1312.9985,
+          "Y": -262.99902,
+          "Z": 376.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00006,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ABuilding_1_Window_54",
+    "Properties": {
+      "InstancingRandomSeed": 6630,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Window",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Window.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "OverriddenLightMapRes": 16,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 278.99527
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 194.31178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 1388.2762
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 278.99527
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 13712,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A7B525554694208FB43391B69CB321B1"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 2136.0015,
+          "Y": -1774.999,
+          "Z": 373.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1931.0015,
+          "Y": -1694.999,
+          "Z": 373.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1761.0015,
+          "Y": -1694.999,
+          "Z": 373.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 2136.0015,
+          "Y": -1774.999,
+          "Z": -166.2373
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -44.999996,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.65,
+          "Y": 0.65,
+          "Z": 0.65
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "MidRoof_0_Detail3x",
+    "Properties": {
+      "InstancingRandomSeed": 1502,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh MidRoof_0_Detail3x",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/MidRoof/0/MidRoof_0_Detail3x.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 47.07775
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 47.07775
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 47.07775
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 17720,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "371DAEBB414E30DFFC5248A3E56FA949"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 9.001465,
+          "Y": 133.00098,
+          "Z": 759.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -215.99854,
+          "Y": 133.00098,
+          "Z": 759.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -445.99854,
+          "Y": 133.00098,
+          "Z": 759.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -735.99854,
+          "Y": 133.00098,
+          "Z": 759.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1145.9985,
+          "Y": 25.000977,
+          "Z": 761.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1297.9985,
+          "Y": -114.75488,
+          "Z": 761.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 45.000034,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1315.9985,
+          "Y": -306.99902,
+          "Z": 761.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00006,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1315.9985,
+          "Y": -531.999,
+          "Z": 761.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 90.00006,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -945.99854,
+          "Y": 25.000977,
+          "Z": 761.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 219.00146,
+          "Y": 43.000977,
+          "Z": 769.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 454.00146,
+          "Y": 43.000977,
+          "Z": 769.7627
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 649.00146,
+          "Y": 28.000977,
+          "Z": 769.7627
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -45.00003,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Rubble_6_ConcreteDebrisA_62",
+    "Properties": {
+      "InstancingRandomSeed": 18433,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_6_ConcreteDebrisA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/6/Rubble_6_ConcreteDebrisA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 23,
+          "TexelFactor": 204.78732
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 204.78732
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 204.78732
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 204.78732
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 1928,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 7965.9595,
+        "Y": -10039.905,
+        "Z": 1692.0643
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E65780784B5FDD511B8E9A98E99DA146"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -206.1709,
+          "Y": 608.1924,
+          "Z": -1609.3997
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -91.40679,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 10.140269,
+          "Y": 6.790584,
+          "Z": 6.584024
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -206.1709,
+          "Y": 1092.4482,
+          "Z": -2068.422
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 99.33572,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 10.140272,
+          "Y": 6.7905865,
+          "Z": 6.584024
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -102.393555,
+          "Y": -282.39648,
+          "Z": -1557.6155
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 64.080215,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 15.399367,
+          "Y": 8.656897,
+          "Z": 8.656897
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 890.0659,
+          "Y": 361.24902,
+          "Z": -1228.9703
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -102.35769,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 5.576069,
+          "Y": 2.226381,
+          "Z": 2.01982
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 8.575725,
+          "Yaw": -98.93152,
+          "Roll": 40.64551
+        },
+        "RelativeScale3D": {
+          "X": 5.518395,
+          "Y": 2.1687076,
+          "Z": 1.9621462
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "WallSconce_0",
+    "Properties": {
+      "InstancingRandomSeed": 25609,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh WallSconce_0",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/WallSconce/0/WallSconce_0.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 60.15825
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 60.15825
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 60.15825
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant WallSconceOFF_0_M",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/WallSconce/0/M0/WallSconceOFF_0_M.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 23136,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 6473.9985,
+        "Y": -8665.001,
+        "Z": 1666.2373
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "070A31C64E35DB60758EE9B0638C8198"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -545.0,
+          "Y": -2.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 49.99987,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 129.99997,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Art_VistaA",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Art_VistaA:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.44"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Art_VistaA_C Ascent_Art_VistaA:PersistentLevel.Ascent_Art_VistaA_C_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.22"
+      },
+      "StreamingTextureGuids": [
+        "12FB7E42-467D6DA7-985D22B3-4A059E32",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "DBBC797C-4FB02067-20E9698D-C8775B41",
+        "C1C86B41-43F23F5D-6BE148B0-D00CF6B4",
+        "4C9DC84B-48825BB8-A2BE59BE-F70C1C3E",
+        "C1699E52-470A05BB-BE82C3A1-7DBC676B",
+        "F7D3D27C-4E5719B6-7D3A3A95-567A9C8B",
+        "220D2A1D-43BC8137-DCA045BA-F791F1A6",
+        "BEAA6BA8-4C680DEF-21C09997-2945A0B9",
+        "61111125-4BCDD08C-D7E79B9D-788A15FE",
+        "0BBD7D2D-4CC84EDA-6483FD87-3D887384",
+        "94631C07-43361E19-5315728D-4E54BB53",
+        "B98B383D-48AC9EA7-9E6FFDA8-64E14AA5",
+        "BEAA6BA8-4C680DEF-21C09997-2945A0B9",
+        "159188EB-4D0DA44C-F2B3D988-9487CF12",
+        "B389E34D-4C65E537-990332B3-4C53D91F",
+        "5D38BDC4-490FEE32-38B761B2-0A1B7A40",
+        "90C15B15-48608B3E-D01971B0-AECCB377",
+        "25BB1C2B-49F625F8-E53E4BA7-897E5F13",
+        "9067BA67-48A3F3C2-E758768F-7E1EFCB7",
+        "9A91FDBB-40F23680-B8626393-33563738",
+        "EA131F19-45753E17-9B5DEE80-335C2F11",
+        "BB028DA8-40177320-881E4D9B-89FA4EB3",
+        "252FA79B-4A8FF86E-7EE79AB1-0A568110",
+        "659B6387-478CA397-96B6488B-1F63FFF6",
+        "56F6ADC9-43C022C1-72D53CB6-CE9B3F95",
+        "97EBF0E8-4BA150CB-0A1B8883-3D743202",
+        "5B28D6B8-4C260E4C-BBDEA79D-E6BA3908",
+        "123C7782-4FF00E23-931DBEA2-F4947489",
+        "BD6FD56F-44EB92A9-58E4C798-067B8E9C",
+        "0F68846C-4469E3CC-E5871B97-D7C5C803",
+        "41E29A0D-456BBC67-E17D39B0-B267CC90",
+        "9B4FA962-42ABAC28-1B12939B-E6F57042",
+        "99F130EC-4C2B5A6B-79F2039F-03E34DD0",
+        "B6B009CD-4EE8F6BE-30AEE5BE-683DE811"
+      ],
+      "LevelBuildDataId": "8976D698-47C580C7-B83616A0-CC429DA3",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_Art_VistaA_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA_BuiltData.4"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Art_VistaA:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.21"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Art_VistaA:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.21"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_TopISMA_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.61"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuildingISMA_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.62"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_DoorFrameTopISMA_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.54"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_WindowLargeISMA_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.66"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45ISMA_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.51"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_HexagonAccentPIllarISMA_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.55"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.67"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.MidRoof_0_Detail1x35",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.70"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloor_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.64"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloor2_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.63"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorRoof_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.65"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_12",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.46"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Pillar3",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.56"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.8"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.15"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorGate",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.13"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_12_Capital",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.2"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent_34",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.9"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Pillar",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.7"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window_37",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.16"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.MidRoof_0_Detail3x",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.18"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.WallSconce_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.20"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_MiddleSteps",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.5"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_13_DomeCage",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.3"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorGate_48",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.14"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_DoubleWindows",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.4"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RailingAccent_51",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.10"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_OverhangTriangle_Damaged",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.6"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Window_54",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.17"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.49"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45_3",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.50"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_Top_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.59"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_Top_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.60"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.57"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.Rubble_6_ConcreteDebrisA_62",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.19"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RoofAccentDamaged_64",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.12"
+      },
+      {
+        "ObjectName": "Actor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_RoofAccent_66",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.11"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_36",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.58"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_BottomFloor_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.47"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_BottomFloor_39",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.48"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.AScaffold_10_PlatformBase5_129",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.68"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.AScaffold_10_PlatformBase6",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.69"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Door_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.52"
+      },
+      {
+        "ObjectName": "StaticMeshActor Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Door_42",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.53"
+      },
+      {
+        "ObjectName": "Ascent_Art_VistaA_C Ascent_Art_VistaA:PersistentLevel.Ascent_Art_VistaA_C_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.22"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Art_VistaA:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.44"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Art_VistaA_C Ascent_Art_VistaA:PersistentLevel.Ascent_Art_VistaA_C_2",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.22"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "CC4B0E02-4DA063E4-AC7C0E88-8F60A346",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_12",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_12.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.71"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_12.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.71"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_BottomFloor_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_BottomFloor_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.72"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_BottomFloor_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.72"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_BottomFloor_39",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_BottomFloor_39.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.73"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_BottomFloor_39.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.73"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_Corner_45_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.74"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.74"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_Corner_45_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.75"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.75"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_Corner_45ISMA_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45ISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.76"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Corner_45ISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.76"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_Door_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Door_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.77"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Door_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.77"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_Door_42",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Door_42.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.78"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Door_42.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.78"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_DoorFrameTopISMA_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_DoorFrameTopISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.79"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_DoorFrameTopISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.79"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_HexagonAccentPIllarISMA_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_HexagonAccentPIllarISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.80"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_HexagonAccentPIllarISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.80"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_Pillar3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Pillar3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.81"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_Pillar3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.81"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_SideBuilding_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.82"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.82"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_SideBuilding_36",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_36.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.83"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_36.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.83"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_SideBuilding_Top_7",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_Top_7.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.84"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_Top_7.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.84"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_SideBuilding_Top_9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_Top_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.85"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_Top_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.85"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_SideBuilding_TopISMA_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_TopISMA_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.86"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuilding_TopISMA_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.86"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_SideBuildingISMA_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuildingISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.87"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_SideBuildingISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.87"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_TopFloor2_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloor2_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.88"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloor2_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.88"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_TopFloor_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloor_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.89"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloor_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.89"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_TopFloorRoof_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorRoof_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.90"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_TopFloorRoof_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.90"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_1_WindowLargeISMA_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_WindowLargeISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.91"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_1_WindowLargeISMA_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.91"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ABuilding_3",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.92"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.ABuilding_3.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.92"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "AScaffold_10_PlatformBase5_129",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.AScaffold_10_PlatformBase5_129.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.93"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.AScaffold_10_PlatformBase5_129.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.93"
+      },
+      "Tags": [
+        "MinimapShow"
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "AScaffold_10_PlatformBase6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.AScaffold_10_PlatformBase6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.94"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.AScaffold_10_PlatformBase6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.94"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "MidRoof_0_Detail1x35",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.MidRoof_0_Detail1x35.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.95"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Ascent_Art_VistaA:PersistentLevel.MidRoof_0_Detail1x35.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.95"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_12",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_13_DomeDestA",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/13/ABuilding_13_DomeDestA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3623768065,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 1140.3094
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material roof1",
+          "ObjectPath": "ShooterGame/Content/VFX/Radianite/Meshes/building/roof1.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "VisibilityId": 13760,
+      "RelativeLocation": {
+        "X": 6596.9053,
+        "Y": -11337.288,
+        "Z": 3588.6084
+      },
+      "RelativeRotation": {
+        "Pitch": 10.000011,
+        "Yaw": 0.0,
+        "Roll": 9.9399605
+      },
+      "RelativeScale3D": {
+        "X": 0.951596,
+        "Y": 0.951596,
+        "Z": 0.951596
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "DACEDD4241F0054CF2726AA836ECB86E",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 2086
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_BottomFloor_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_BottomFloor",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_BottomFloor.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4158521347,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 340.6852
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 375.43378
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 375.43378
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 375.43378
+        },
+        {
+          "PackedRelativeBox": 4158521347,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 340.6852
+        }
+      ],
+      "VisibilityId": 22584,
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8720.0,
+        "Z": 1080.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "79D0CCC5410275B6D0B96BBB92715699"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_BottomFloor_39",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_BottomFloor",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_BottomFloor.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4158390273,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 340.6852
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 375.43378
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 375.43378
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 375.43378
+        },
+        {
+          "PackedRelativeBox": 4158390273,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 340.6852
+        }
+      ],
+      "VisibilityId": 15928,
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8720.0,
+        "Z": 1080.0
+      },
+      "RelativeScale3D": {
+        "X": -1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F26B3EC94556372EA52545AF7422CCDA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_Corner_45_0",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Corner_45",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Corner_45.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294943744,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 669.00854
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4227792896,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4227792896,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4294943744,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 669.00854
+        }
+      ],
+      "VisibilityId": 15920,
+      "RelativeLocation": {
+        "X": 5158.8774,
+        "Y": -9483.0,
+        "Z": 2553.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.00017399999,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": -1.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CB196A1F42288A39B441DF93902A5F47"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_Corner_45_3",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Corner_45",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Corner_45.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294943744,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 669.00854
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4227792896,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4227792896,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4294943744,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 669.00854
+        }
+      ],
+      "VisibilityId": 13624,
+      "RelativeLocation": {
+        "X": 5157.0,
+        "Y": -12843.0,
+        "Z": 2553.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -0.00033569333,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B03B9D964982C1C33139B599010FB958"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_Corner_45ISMA_1",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Corner_45",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Corner_45.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294943744,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 669.00854
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4227792896,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4227792896,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 770.4785
+        },
+        {
+          "PackedRelativeBox": 4294943744,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 669.00854
+        }
+      ],
+      "VisibilityId": 13656,
+      "RelativeLocation": {
+        "X": 7240.8774,
+        "Y": -9483.0,
+        "Z": 2553.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99995,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "AFD67EBD47002DC6D60AABA3B2E57FAE",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 588
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_Door_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Door",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Door.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4273930528,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 180.96887
+        },
+        {
+          "PackedRelativeBox": 1409165338,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 49.317818
+        },
+        {
+          "PackedRelativeBox": 1409165338,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 49.317818
+        },
+        {
+          "PackedRelativeBox": 1409165338,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 49.317818
+        },
+        {
+          "PackedRelativeBox": 4273930528,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 180.96887
+        },
+        {
+          "PackedRelativeBox": 4273930528,
+          "TextureLevelIndex": 34,
+          "TexelFactor": 180.96887
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant ABuilding_1_M2_DoorPanel_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/M2/ABuilding_1_M2_DoorPanel_MI.0"
+        }
+      ],
+      "VisibilityId": 22920,
+      "RelativeLocation": {
+        "X": 6021.0,
+        "Y": -8840.0,
+        "Z": 1090.0
+      },
+      "RelativeScale3D": {
+        "X": -1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "BDD2BAB6442872E9AD48D286C02900D9"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_Door_42",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_Door",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_Door.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4273930528,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 180.96887
+        },
+        {
+          "PackedRelativeBox": 1407526913,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 49.317818
+        },
+        {
+          "PackedRelativeBox": 1407526913,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 49.317818
+        },
+        {
+          "PackedRelativeBox": 1407526913,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 49.317818
+        },
+        {
+          "PackedRelativeBox": 4273930528,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 180.96887
+        },
+        {
+          "PackedRelativeBox": 4273930528,
+          "TextureLevelIndex": 34,
+          "TexelFactor": 180.96887
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant ABuilding_1_M2_DoorPanel_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/M2/ABuilding_1_M2_DoorPanel_MI.0"
+        }
+      ],
+      "VisibilityId": 22928,
+      "RelativeLocation": {
+        "X": 6379.0,
+        "Y": -8840.0,
+        "Z": 1090.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E28297494457B2388307F9827ED5BB8E"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_DoorFrameTopISMA_1",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_DoorFrameTop",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_DoorFrameTop.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 692.0261
+        },
+        {
+          "PackedRelativeBox": 3921326437,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 864.7663
+        },
+        {
+          "PackedRelativeBox": 3921326437,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 864.7663
+        },
+        {
+          "PackedRelativeBox": 3921326437,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 864.7663
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 692.0261
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 692.0261
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "VisibilityId": 22904,
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8755.746,
+        "Z": 1080.237
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "463EE1EC487A1A753C978487C434F48E",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1496
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_HexagonAccentPIllarISMA_1",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_HexagonAccentPIllar",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_HexagonAccentPIllar.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294836224,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 316.0696
+        },
+        {
+          "PackedRelativeBox": 4294836224,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 316.0696
+        },
+        {
+          "PackedRelativeBox": 4294836224,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 316.0696
+        }
+      ],
+      "VisibilityId": 13664,
+      "RelativeLocation": {
+        "X": 7275.0,
+        "Y": -10150.0,
+        "Z": 2505.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -44.999992,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5246A2EA44E10CD355257A9AF8FA44FD",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 529
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_Pillar3",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_PillarDamaged",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_PillarDamaged.2"
+      },
+      "bOverrideLightMapRes": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3885797541,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 67.0581
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 344.94897
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 344.94897
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 344.94897
+        },
+        {
+          "PackedRelativeBox": 3885797541,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 67.0581
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Concrete_M3_Broken_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Poveglia/WorldMaterials/Concrete/M3/Concrete_M3_Broken_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant ABuilding_0_M0_TrimKitA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/0/M0/ABuilding_0_M0_TrimKitA_MI.0"
+        }
+      ],
+      "VisibilityId": 22912,
+      "RelativeLocation": {
+        "X": 5720.0,
+        "Y": -8491.108,
+        "Z": 1395.7976
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.85
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B3169DF943AE7EE0F71A4BB6C671B056",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1784
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_SideBuilding_0",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_SideBuilding",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_SideBuilding.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 288.8509
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4227792897,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4227792897,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 288.8509
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "VisibilityId": 34176,
+      "RelativeLocation": {
+        "X": 3736.1667,
+        "Y": -11163.41,
+        "Z": 700.0906
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": -1.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A79200064F4D63591749338A1317ED21"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_SideBuilding_36",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_SideBuilding",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_SideBuilding.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 288.8509
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4227792897,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4227792897,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 288.8509
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "VisibilityId": 13528,
+      "RelativeLocation": {
+        "X": 3736.1667,
+        "Y": -11163.41,
+        "Z": 700.0906
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "51D5A0F14552DC00D82AB19927F69B9C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_SideBuilding_Top_7",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_SideBuilding_Top",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_SideBuilding_Top.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 483.23178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 483.23178
+        },
+        {
+          "PackedRelativeBox": 4294901794,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 352.932
+        },
+        {
+          "PackedRelativeBox": 4294901794,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 352.932
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 483.23178
+        }
+      ],
+      "VisibilityId": 34328,
+      "RelativeLocation": {
+        "X": 3787.0,
+        "Y": -11163.41,
+        "Z": 1758.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.99996,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": -0.9999998,
+        "Y": 0.9999998,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5999AD8E4503A31790B9A7A7886EAE8B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_SideBuilding_Top_9",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_SideBuilding_Top",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_SideBuilding_Top.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 483.23178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 483.23178
+        },
+        {
+          "PackedRelativeBox": 4290707458,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 352.932
+        },
+        {
+          "PackedRelativeBox": 4290707458,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 352.932
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 483.23178
+        }
+      ],
+      "VisibilityId": 17728,
+      "RelativeLocation": {
+        "X": 3787.0,
+        "Y": -11163.41,
+        "Z": 1758.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.99998,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.9999999,
+        "Y": 0.9999999,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "47C946F444885FA7EB8CAB9949C02DAD"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_SideBuilding_TopISMA_2",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_SideBuilding_Top",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_SideBuilding_Top.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 483.23178
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 483.23178
+        },
+        {
+          "PackedRelativeBox": 4290510848,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 352.932
+        },
+        {
+          "PackedRelativeBox": 4290510848,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 352.932
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 483.23178
+        }
+      ],
+      "VisibilityId": 13680,
+      "RelativeLocation": {
+        "X": 8612.0,
+        "Y": -11163.409,
+        "Z": 1758.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.99999,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": -1.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "48E4EE0D4631D2479EB5B497C20D4D2A",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 895
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_SideBuildingISMA_1",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_SideBuilding",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_SideBuilding.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "bOverrideLightMapRes": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 288.8509
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4225564672,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4225564672,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 294.30896
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 288.8509
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "VisibilityId": 13704,
+      "RelativeLocation": {
+        "X": 8661.638,
+        "Y": -11162.911,
+        "Z": 698.0298
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -0.000122,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": -1.0,
+        "Y": -1.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F87EFDE4423811FD60F200A0BD5DB259",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 750
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_TopFloor2_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_TopFloor_Damaged",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_TopFloor_Damaged.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901761,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 256.33917
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 443.52524
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 443.52524
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 443.52524
+        },
+        {
+          "PackedRelativeBox": 4294901761,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 256.33917
+        }
+      ],
+      "VisibilityId": 17704,
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8720.0,
+        "Z": 1080.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8EEEAA9543BBB064C1F3BB8E4D0B6BB9",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 2688
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_TopFloor_2",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_TopFloor",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_TopFloor.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4282318848,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 274.798
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 432.64578
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 432.64578
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 432.64578
+        },
+        {
+          "PackedRelativeBox": 4282318848,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 274.798
+        }
+      ],
+      "OverrideMaterials": [
+        null
+      ],
+      "VisibilityId": 23120,
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8720.0,
+        "Z": 1080.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D264D1584DF4EA9C0BE55481CD26BB41",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1044
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_TopFloorRoof_2",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_TopFloorRoof",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_TopFloorRoof.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 4691.094
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Concrete_M0_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Concrete/M0/Concrete_M0_MI.0"
+        }
+      ],
+      "VisibilityId": 13608,
+      "RelativeLocation": {
+        "X": 6200.0,
+        "Y": -8655.0,
+        "Z": 2290.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "926A87A045B4DCB8BCF8C9BE428EA88D",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 132
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_1_WindowLargeISMA_1",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_1_WindowLarge",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/1/ABuilding_1_WindowLarge.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 501.51025
+        },
+        {
+          "PackedRelativeBox": 4024111125,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 688.5646
+        },
+        {
+          "PackedRelativeBox": 4024111125,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 688.5646
+        },
+        {
+          "PackedRelativeBox": 4024111125,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 688.5646
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 501.51025
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 501.51025
+        }
+      ],
+      "VisibilityId": 34344,
+      "RelativeLocation": {
+        "X": 3720.0,
+        "Y": -11164.0,
+        "Z": 1898.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 89.999954,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D65DF0B84664D15216701FB0F5DE34D8",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1455
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ABuilding_3",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ABuilding_13_DomeDestH",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/ABuilding/13/ABuilding_13_DomeDestH.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3019833344,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 1576.9569
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 1576.9569
+        },
+        {
+          "PackedRelativeBox": 4292846766,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 1323.8883
+        },
+        {
+          "PackedRelativeBox": 4292846766,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 1323.8883
+        },
+        {
+          "PackedRelativeBox": 3019833344,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 1576.9569
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "VisibilityId": 13752,
+      "RelativeLocation": {
+        "X": 6229.92,
+        "Y": -11167.029,
+        "Z": 3340.71
+      },
+      "RelativeScale3D": {
+        "X": 0.951596,
+        "Y": 0.951596,
+        "Z": 0.951596
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A47E424C4ADB91C29FED4A8B540EEB90",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1431
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "AScaffold_10_PlatformBase5_129",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh AScaffold_10_PlatformBaseB",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/AScaffold/10/AScaffold_10_PlatformBaseB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 26,
+          "TexelFactor": 363.36044
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 363.36044
+        }
+      ],
+      "VisibilityId": 15936,
+      "RelativeLocation": {
+        "X": 7675.3994,
+        "Y": -8995.498,
+        "Z": 1094.8572
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00009,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "954991954EFDE7FDC8B259B63262362A",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 28
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "AScaffold_10_PlatformBase6",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh AScaffold_10_PlatformBaseBFrame",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/AScaffold/10/AScaffold_10_PlatformBaseBFrame.2"
+      },
+      "bUseDefaultCollision": false,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 27,
+          "TexelFactor": 131.14403
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 131.14403
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 131.14403
+        }
+      ],
+      "VisibilityId": 15944,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 7675.3994,
+        "Y": -8995.498,
+        "Z": 1094.8572
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00009,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "34F6EB2C43A6BBA0B5445B90A01796E6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "MidRoof_0_Detail1x35",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh MidRoof_0_Detail1x",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/MidRoof/0/MidRoof_0_Detail1x.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 47.076565
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 47.076565
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 47.076565
+        }
+      ],
+      "VisibilityId": 23200,
+      "RelativeLocation": {
+        "X": 5955.0,
+        "Y": -8532.0,
+        "Z": 2426.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "53E9A5FB49139275787A63A4A84D0215",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 90
+        }
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Art_VistaA",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Art_VistaA:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Art_VistaA.43"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

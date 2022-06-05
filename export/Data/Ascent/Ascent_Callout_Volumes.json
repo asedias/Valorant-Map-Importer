@@ -1,0 +1,3326 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Ascent_Callout_Volumes_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Ascent_Callout_Volumes_C Default__Ascent_Callout_Volumes_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.1"
+    }
+  },
+  {
+    "Type": "Ascent_Callout_Volumes_C",
+    "Name": "Default__Ascent_Callout_Volumes_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "CalloutRegions": {
+        "A Site": {
+          "SubRegions": [
+            "A Site",
+            "A Main",
+            "Tree",
+            "Balcony",
+            "Scaffolding"
+          ]
+        },
+        "B Site": {
+          "SubRegions": [
+            "Site B",
+            "B Main",
+            "Switch",
+            "Boathouse",
+            "Dog",
+            "Courtyard"
+          ]
+        },
+        "Mid": {
+          "SubRegions": [
+            "Shop",
+            "Bell Tower",
+            "Well",
+            "Bench",
+            "Catwalk",
+            "Books",
+            "Lion"
+          ]
+        },
+        "Attacker Spawn": {
+          "SubRegions": [
+            "Attacker Spawn",
+            "Fountain"
+          ]
+        },
+        "Defender Spawn": {
+          "SubRegions": [
+            "Defender Spawn",
+            "Garden",
+            "Gelato",
+            "Courtyard",
+            "Anchor"
+          ]
+        }
+      },
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Ascent_Callout_Volumes:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.68"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Ascent_Callout_Volumes:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.71"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Ascent_Callout_Volumes_C",
+    "Name": "Ascent_Callout_Volumes_C_2",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Ascent_Callout_Volumes_C"
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_A_Link",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.94"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_A_Tree"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.116"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.72"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.CalloutSubregion_A_Link_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.26"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.94"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_A_Lobby",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.95"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Lobby"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.117"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.73"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.CalloutSubregion_A_Lobby_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.27"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.95"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_A_Main",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.96"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Main"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.118"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.74"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.CalloutSubregion_A_Main_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.28"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.CalloutSubregion_A_Main_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.29"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.96"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_A_Window",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.97"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_A_Window"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.119"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.75"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.CalloutSubregion_A_Window_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.30"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.CalloutSubregion_A_Window_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.31"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.97"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_ASite",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.98"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Site"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.120"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.76"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.CalloutSubregion_ASite_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.32"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.CalloutSubregion_ASite_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.33"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.CalloutSubregion_ASite_03",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.34"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.98"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_AttackerSpawn",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.99"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Spawn"
+      },
+      "SuperRegion": "ECalloutSuperRegion::AttackerSide",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.121"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.77"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.CalloutSubregion_AttackerSpawn_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.35"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.CalloutSubregion_AttackerSpawn_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.36"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.CalloutSubregion_AttackerSpawn_03",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.37"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.99"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_B_Lobby",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.100"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Lobby"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.122"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.78"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.B_Lobby_SubRegion_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.38"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.B_Lobby_Subregion_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.39"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.100"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_B_Main",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.101"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Main"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.123"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.79"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.CalloutSubregion_B_Main_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.40"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.CalloutSubregion_B_Main_03",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.41"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.101"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Back_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.102"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Back_B"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.124"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.80"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.CalloutSubregion_Back_B_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.42"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.102"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Bottom_Mid",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.103"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Bottom_Mid"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.125"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.81"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.CalloutSubregion_Bottom_Mid_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.43"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.103"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_BSite",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.104"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Site"
+      },
+      "SuperRegion": "ECalloutSuperRegion::B",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.126"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.82"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.CalloutSubregion_BSite_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.44"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.104"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Catwalk",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.105"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Catwalk"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.127"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.83"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.CalloutSubregion_Catwalk_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.45"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.105"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Cubby",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.106"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Cubby"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.128"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.84"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.CalloutSubregion_Cubby_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.46"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.106"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_DefenderSpawn",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.107"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Spawn"
+      },
+      "SuperRegion": "ECalloutSuperRegion::DefenderSide",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.129"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutSubregion_DefenderSpawn_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.47"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutSubregion_DefenderSpawn_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.48"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutSubregion_DefenderSpawn_03",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.49"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutSubregion_DefenderSpawn_05",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.50"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutSubregion_DefenderSpawn_06",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.51"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.107"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Garden",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.108"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Garden"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.130"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.86"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.CalloutSubregion_Garden_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.52"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.CalloutSubregion_Garden_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.53"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.CalloutSubregion_Garden_03",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.54"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.CalloutSubregion_Garden_04",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.55"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.108"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Market",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.109"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Market"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.131"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.87"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.CalloutSubregion_Market_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.56"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.CalloutSubregion_Market_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.57"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.109"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Mid",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.110"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Mid"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.132"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.88"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.CalloutSubregion_Mid_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.58"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.CalloutSubregion_Mid_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.59"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.110"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Mid_Link",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.111"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Link"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.133"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.89"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.CalloutSubregion_Mid_Link_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.60"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.CalloutSubregion_Mid_Link_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.61"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.111"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Pizza",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.112"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Pizza"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.134"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.90"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.CalloutSubregion_Pizza_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.62"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.112"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Rafters",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.113"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Rafters"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.135"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.91"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.CalloutSubregion_Rafters_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.63"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.CalloutSubregion_Rafters_02",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.64"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.CalloutSubregion_Rafters_03",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.65"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.113"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Top_Mid",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.114"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Top_Mid"
+      },
+      "SuperRegion": "ECalloutSuperRegion::Mid",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.136"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.92"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.CalloutSubregion_Top_Mid_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.66"
+        },
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.CalloutSubregion_Top_Mid_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.66"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.114"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutRegion_C",
+    "Name": "CalloutRegion_Wine",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_CalloutRegion_C",
+    "Properties": {
+      "TextMinimapComponent": {
+        "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.TextMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.115"
+      },
+      "RegionName": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Wine"
+      },
+      "SuperRegion": "ECalloutSuperRegion::A",
+      "EditorNameText": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.137"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.93"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "BP_CalloutSubregion_Cube_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.CalloutSubregion_Wine_01",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.67"
+        }
+      ],
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "TextMinimapComponent_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.TextMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.115"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_A_Link_01",
+    "Outer": "CalloutRegion_A_Link",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.72"
+      },
+      "RelativeLocation": {
+        "X": -880.6592,
+        "Y": -455.39697,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 17.701653,
+        "Y": 8.772199,
+        "Z": 15.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_A_Lobby_01",
+    "Outer": "CalloutRegion_A_Lobby",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.73"
+      },
+      "RelativeLocation": {
+        "X": -723.4844,
+        "Y": -1292.7673,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 12.186197,
+        "Y": 27.081303,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_A_Main_01",
+    "Outer": "CalloutRegion_A_Main",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.74"
+      },
+      "RelativeLocation": {
+        "X": -692.6221,
+        "Y": -296.78027,
+        "Z": 0.00012207031
+      },
+      "RelativeScale3D": {
+        "X": 20.601406,
+        "Y": 6.539257,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_A_Main_02",
+    "Outer": "CalloutRegion_A_Main",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.74"
+      },
+      "RelativeLocation": {
+        "X": -1214.0806,
+        "Y": -612.4453,
+        "Z": 0.0004272461
+      },
+      "RelativeScale3D": {
+        "X": 5.332627,
+        "Y": 9.42102,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_A_Window_01",
+    "Outer": "CalloutRegion_A_Window",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.75"
+      },
+      "RelativeLocation": {
+        "X": -193.3667,
+        "Y": -287.17703,
+        "Z": -2.779968
+      },
+      "RelativeScale3D": {
+        "X": 6.3828373,
+        "Y": 8.052639,
+        "Z": 0.9999998
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_A_Window_02",
+    "Outer": "CalloutRegion_A_Window",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.75"
+      },
+      "RelativeLocation": {
+        "X": -79.453125,
+        "Y": 545.4175,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 4.5093074,
+        "Y": 2.9014735,
+        "Z": 7.0463247
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_ASite_01",
+    "Outer": "CalloutRegion_ASite",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.76"
+      },
+      "RelativeLocation": {
+        "X": -1058.3125,
+        "Y": -1167.2318,
+        "Z": -67.79309
+      },
+      "RelativeScale3D": {
+        "X": 20.511305,
+        "Y": 14.701817,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_ASite_02",
+    "Outer": "CalloutRegion_ASite",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.76"
+      },
+      "RelativeLocation": {
+        "X": -1259.4941,
+        "Y": 109.12319,
+        "Z": -98.52545
+      },
+      "RelativeScale3D": {
+        "X": 23.131847,
+        "Y": 14.6661215,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_ASite_03",
+    "Outer": "CalloutRegion_ASite",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.76"
+      },
+      "RelativeLocation": {
+        "X": -670.7217,
+        "Y": -1723.698,
+        "Z": -98.52545
+      },
+      "RelativeScale3D": {
+        "X": 12.207367,
+        "Y": 5.562559,
+        "Z": 3.628993
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_AttackerSpawn_01",
+    "Outer": "CalloutRegion_AttackerSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.77"
+      },
+      "RelativeLocation": {
+        "X": -1042.5781,
+        "Y": -3769.8115,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 35.336163,
+        "Y": 55.75,
+        "Z": 17.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_AttackerSpawn_02",
+    "Outer": "CalloutRegion_AttackerSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.77"
+      },
+      "RelativeLocation": {
+        "X": -1449.2031,
+        "Y": -1549.4651,
+        "Z": 0.00012207031
+      },
+      "RelativeScale3D": {
+        "X": 6.7159414,
+        "Y": 34.20497,
+        "Z": 17.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_AttackerSpawn_03",
+    "Outer": "CalloutRegion_AttackerSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.77"
+      },
+      "RelativeLocation": {
+        "X": -1870.2743,
+        "Y": -3687.225,
+        "Z": 22.261547
+      },
+      "RelativeScale3D": {
+        "X": 8.354663,
+        "Y": 6.1253524,
+        "Z": 17.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "B_Lobby_SubRegion_01",
+    "Outer": "CalloutRegion_B_Lobby",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.78"
+      },
+      "RelativeLocation": {
+        "X": -45.367188,
+        "Y": -2540.6963,
+        "Z": -153.6235
+      },
+      "RelativeScale3D": {
+        "X": 7.0,
+        "Y": 25.5,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "B_Lobby_Subregion_02",
+    "Outer": "CalloutRegion_B_Lobby",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.78"
+      },
+      "RelativeLocation": {
+        "X": -1572.6016,
+        "Y": -3329.5435,
+        "Z": -110.12268
+      },
+      "RelativeScale3D": {
+        "X": 17.25,
+        "Y": 20.40738,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_B_Main_01",
+    "Outer": "CalloutRegion_B_Main",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.79"
+      },
+      "RelativeLocation": {
+        "X": -957.38904,
+        "Y": -458.81494,
+        "Z": -6.8778687
+      },
+      "RelativeScale3D": {
+        "X": 6.606832,
+        "Y": 16.312075,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_B_Main_03",
+    "Outer": "CalloutRegion_B_Main",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.79"
+      },
+      "RelativeLocation": {
+        "X": -359.3141,
+        "Y": -559.59863,
+        "Z": -15.527496
+      },
+      "RelativeScale3D": {
+        "X": 17.427673,
+        "Y": 11.051792,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Back_B_01",
+    "Outer": "CalloutRegion_Back_B",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.80"
+      },
+      "RelativeLocation": {
+        "X": -469.50537,
+        "Y": -752.51953,
+        "Z": 9.069824
+      },
+      "RelativeScale3D": {
+        "X": 9.64652,
+        "Y": 14.826739,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Bottom_Mid_01",
+    "Outer": "CalloutRegion_Bottom_Mid",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.81"
+      },
+      "RelativeLocation": {
+        "X": -456.09436,
+        "Y": -845.62354,
+        "Z": -7.2715454
+      },
+      "RelativeScale3D": {
+        "X": 8.064555,
+        "Y": 16.393805,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_BSite_01",
+    "Outer": "CalloutRegion_BSite",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.82"
+      },
+      "RelativeLocation": {
+        "X": -1622.1184,
+        "Y": -1232.7983,
+        "Z": -302.265
+      },
+      "RelativeScale3D": {
+        "X": 35.620075,
+        "Y": 24.34014,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Catwalk_01",
+    "Outer": "CalloutRegion_Catwalk",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.83"
+      },
+      "RelativeLocation": {
+        "X": -194.323,
+        "Y": -1657.6038,
+        "Z": -21.727966
+      },
+      "RelativeScale3D": {
+        "X": 4.2172394,
+        "Y": 29.417389,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Cubby_01",
+    "Outer": "CalloutRegion_Cubby",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.84"
+      },
+      "RelativeLocation": {
+        "X": -894.0676,
+        "Y": -378.2754,
+        "Z": -21.531006
+      },
+      "RelativeScale3D": {
+        "X": 13.308554,
+        "Y": 9.156898,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_DefenderSpawn_01",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "RelativeLocation": {
+        "X": -1395.7007,
+        "Y": -857.83,
+        "Z": -18.160278
+      },
+      "RelativeScale3D": {
+        "X": 23.546253,
+        "Y": 18.068329,
+        "Z": 12.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_DefenderSpawn_02",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "RelativeLocation": {
+        "X": -96.79053,
+        "Y": -1429.4128,
+        "Z": 85.588135
+      },
+      "RelativeScale3D": {
+        "X": 11.785499,
+        "Y": 5.587126,
+        "Z": 12.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_DefenderSpawn_03",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "RelativeLocation": {
+        "X": 993.4529,
+        "Y": -413.74417,
+        "Z": -0.00012207031
+      },
+      "RelativeScale3D": {
+        "X": 5.5472503,
+        "Y": 13.617361,
+        "Z": 12.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_DefenderSpawn_05",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "RelativeLocation": {
+        "X": 1528.9568,
+        "Y": 464.56052,
+        "Z": 0.0005187988
+      },
+      "RelativeScale3D": {
+        "X": 3.1098723,
+        "Y": 5.0000005,
+        "Z": 12.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_DefenderSpawn_06",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "RelativeLocation": {
+        "X": 155.25171,
+        "Y": 947.7099,
+        "Z": -222.7243
+      },
+      "RelativeScale3D": {
+        "X": 8.299551,
+        "Y": 25.0,
+        "Z": 12.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Garden_01",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.86"
+      },
+      "RelativeLocation": {
+        "X": -875.3425,
+        "Y": -38.6709,
+        "Z": -19.85736
+      },
+      "RelativeScale3D": {
+        "X": 15.839243,
+        "Y": 3.4487753,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Garden_02",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.86"
+      },
+      "RelativeLocation": {
+        "X": -885.7351,
+        "Y": -1101.2158,
+        "Z": -187.19324
+      },
+      "RelativeScale3D": {
+        "X": 6.2484365,
+        "Y": 9.139311,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Garden_03",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.86"
+      },
+      "RelativeLocation": {
+        "X": -79.46753,
+        "Y": 287.75537,
+        "Z": -181.84631
+      },
+      "RelativeScale3D": {
+        "X": 9.246057,
+        "Y": 8.62532,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Garden_04",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.86"
+      },
+      "RelativeLocation": {
+        "X": -871.62866,
+        "Y": -219.10059,
+        "Z": 0.00030517578
+      },
+      "RelativeScale3D": {
+        "X": 10.383366,
+        "Y": 1.9889393,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Market_01",
+    "Outer": "CalloutRegion_Market",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.87"
+      },
+      "RelativeLocation": {
+        "X": -280.55627,
+        "Y": -555.54736,
+        "Z": -105.79822
+      },
+      "RelativeScale3D": {
+        "X": 7.2172613,
+        "Y": 16.19444,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Market_02",
+    "Outer": "CalloutRegion_Market",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.87"
+      },
+      "RelativeLocation": {
+        "X": -1504.0924,
+        "Y": -531.09863,
+        "Z": -16.322205
+      },
+      "RelativeScale3D": {
+        "X": 12.327634,
+        "Y": 11.880697,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Mid_01",
+    "Outer": "CalloutRegion_Mid",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.88"
+      },
+      "RelativeLocation": {
+        "X": -995.35254,
+        "Y": -890.2261,
+        "Z": -17.567505
+      },
+      "RelativeScale3D": {
+        "X": 18.796349,
+        "Y": 20.250652,
+        "Z": 20.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Mid_02",
+    "Outer": "CalloutRegion_Mid",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.88"
+      },
+      "RelativeLocation": {
+        "X": 362.6477,
+        "Y": 1120.0298,
+        "Z": -29.464355
+      },
+      "RelativeScale3D": {
+        "X": 5.033537,
+        "Y": 9.658331,
+        "Z": 20.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Mid_Link_01",
+    "Outer": "CalloutRegion_Mid_Link",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.89"
+      },
+      "RelativeLocation": {
+        "X": -230.06213,
+        "Y": -437.1494,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 10.883681,
+        "Y": 11.079882,
+        "Z": 20.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Mid_Link_02",
+    "Outer": "CalloutRegion_Mid_Link",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.89"
+      },
+      "RelativeLocation": {
+        "X": -702.0752,
+        "Y": -129.64502,
+        "Z": -93.599
+      },
+      "RelativeScale3D": {
+        "X": 5.774178,
+        "Y": 4.8380227,
+        "Z": 20.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Pizza_01",
+    "Outer": "CalloutRegion_Pizza",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.90"
+      },
+      "RelativeLocation": {
+        "X": -263.31323,
+        "Y": -339.09814,
+        "Z": -4.5606384
+      },
+      "RelativeScale3D": {
+        "X": 4.7683964,
+        "Y": 7.6864014,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Rafters_01",
+    "Outer": "CalloutRegion_Rafters",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.91"
+      },
+      "RelativeLocation": {
+        "X": -1118.7124,
+        "Y": -200.25879,
+        "Z": -32.012268
+      },
+      "RelativeScale3D": {
+        "X": 21.206066,
+        "Y": 6.015024,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Rafters_02",
+    "Outer": "CalloutRegion_Rafters",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.91"
+      },
+      "RelativeLocation": {
+        "X": -1634.9741,
+        "Y": -1320.5469,
+        "Z": -0.005126953
+      },
+      "RelativeScale3D": {
+        "X": 5.9748235,
+        "Y": 17.16332,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Rafters_03",
+    "Outer": "CalloutRegion_Rafters",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.91"
+      },
+      "RelativeLocation": {
+        "X": -2635.3413,
+        "Y": -1410.919,
+        "Z": -411.39563
+      },
+      "RelativeScale3D": {
+        "X": 10.176756,
+        "Y": 5.2160892,
+        "Z": 15.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Top_Mid_01",
+    "Outer": "CalloutRegion_Top_Mid",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.92"
+      },
+      "RelativeLocation": {
+        "X": -1158.2229,
+        "Y": -343.66235,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 21.155056,
+        "Y": 6.7746162,
+        "Z": 15.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "BP_CalloutSubregion_Cube_C",
+    "Name": "CalloutSubregion_Wine_01",
+    "Outer": "CalloutRegion_Wine",
+    "Template": "Default__BP_CalloutSubregion_Cube_C",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.93"
+      },
+      "RelativeLocation": {
+        "X": -319.30426,
+        "Y": -195.43234,
+        "Z": -16.670563
+      },
+      "RelativeScale3D": {
+        "X": 6.895066,
+        "Y": 8.852229,
+        "Z": 10.0
+      },
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Ascent_Callout_Volumes",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Ascent_Callout_Volumes:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.70"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Ascent_Callout_Volumes_C Ascent_Callout_Volumes:PersistentLevel.Ascent_Callout_Volumes_C_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.3"
+      },
+      "LevelBuildDataId": "1E553490-4DF99C13-FF7DB1A1-CB3B9605",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Ascent_Callout_Volumes_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes_BuiltData.4"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Ascent_Callout_Volumes:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Ascent_Callout_Volumes:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.2"
+      },
+      null,
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.4"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.5"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.6"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.7"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.8"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.9"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.10"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.11"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.12"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.13"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.14"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.15"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.16"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.17"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.18"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.19"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.20"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.21"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.22"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.23"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.24"
+      },
+      {
+        "ObjectName": "BP_CalloutRegion_C Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.25"
+      },
+      {
+        "ObjectName": "Ascent_Callout_Volumes_C Ascent_Callout_Volumes:PersistentLevel.Ascent_Callout_Volumes_C_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.3"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Menu/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Ascent_Callout_Volumes:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.70"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Ascent_Callout_Volumes_C Ascent_Callout_Volumes:PersistentLevel.Ascent_Callout_Volumes_C_2",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.3"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "197E99FC-40123433-222CEFB5-01DAE63C",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_A_Link",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3980.9062,
+        "Y": -5938.758,
+        "Z": 400.00003
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_A_Lobby",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4489.032,
+        "Y": -3014.0515,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_A_Main",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 5321.6206,
+        "Y": -4710.1274,
+        "Z": 399.99994
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_A_Window",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 4023.0244,
+        "Y": -8180.692,
+        "Z": 803.03015
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 0.69946957,
+        "Z": 7.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_ASite",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6153.585,
+        "Y": -6626.2114,
+        "Z": 499.99933
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0309942,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_AttackerSpawn",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 60.0,
+        "Y": 50.0,
+        "Z": 190.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00012,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 4.25
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_B_Lobby",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1490.5864,
+        "Y": -1389.9706,
+        "Z": 199.99994
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_B_Main",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -1983.6713,
+        "Y": -5840.8125,
+        "Z": 100.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Back_B",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -4484.774,
+        "Y": -7763.3584,
+        "Z": -105.08359
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Bottom_Mid",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1122.2262,
+        "Y": -5951.704,
+        "Z": 200.00006
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.15183,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_BSite",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -2344.065,
+        "Y": -7548.511,
+        "Z": 99.33539
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Catwalk",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2315.7944,
+        "Y": -4127.2554,
+        "Z": 415.80453
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -181.63556,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Cubby",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3387.3167,
+        "Y": -5129.764,
+        "Z": 400.00037
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1995.2354,
+        "Y": -9744.923,
+        "Z": 300.0053
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.526955,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0453641,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 3773.6653,
+        "Y": -7551.3535,
+        "Z": 570.3553
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Market",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1089.1044,
+        "Y": -7363.1914,
+        "Z": 306.9743
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Mid",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1222.7029,
+        "Y": -4586.6,
+        "Z": 200.13477
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Mid_Link",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": -632.0929,
+        "Y": -4280.2573,
+        "Z": 200.00018
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Pizza",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 1801.5667,
+        "Y": -7262.1704,
+        "Z": 300.00006
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Rafters",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 6129.893,
+        "Y": -8210.0,
+        "Z": 806.1185
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Top_Mid",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 2753.9297,
+        "Y": -2129.6155,
+        "Z": 400.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "RootComponent",
+    "Outer": "CalloutRegion_Wine",
+    "Template": "RootComponent",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 7358.7407,
+        "Y": -4689.2705,
+        "Z": 300.00034
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 91.642525,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_A_Link",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.116"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_A_Lobby",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.117"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_A_Main",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.118"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_A_Window",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.119"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_ASite",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.120"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_AttackerSpawn",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.121"
+      },
+      "RelativeLocation": {
+        "X": -50.027943,
+        "Y": 0.002948761,
+        "Z": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_B_Lobby",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.122"
+      },
+      "RelativeLocation": {
+        "X": -505.00977,
+        "Y": -2090.6934,
+        "Z": -0.0018920898
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.0,
+        "Roll": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_B_Main",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.123"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Back_B",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.124"
+      },
+      "RelativeLocation": {
+        "X": -100.27783,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Bottom_Mid",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.125"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_BSite",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.126"
+      },
+      "RelativeLocation": {
+        "X": -123.328125,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Catwalk",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.127"
+      },
+      "RelativeLocation": {
+        "X": 31.618927,
+        "Y": -118.27534,
+        "Z": 10.081818
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Cubby",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.128"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.129"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.130"
+      },
+      "RelativeLocation": {
+        "X": -651.4165,
+        "Y": -197.53711,
+        "Z": 6.1035156E-05
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Market",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.131"
+      },
+      "RelativeLocation": {
+        "X": -321.91748,
+        "Y": 0.0,
+        "Z": 16.669403
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Mid",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.132"
+      },
+      "RelativeLocation": {
+        "X": -312.66394,
+        "Y": -17.48291,
+        "Z": 6.1035156E-05
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Mid_Link",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.133"
+      },
+      "RelativeLocation": {
+        "X": 95.432556,
+        "Y": 0.0,
+        "Z": 3.0517578E-05
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Pizza",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.134"
+      },
+      "RelativeLocation": {
+        "X": 24.822388,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 87.374756,
+        "Roll": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Rafters",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.135"
+      },
+      "RelativeLocation": {
+        "X": 31.691406,
+        "Y": 161.87305,
+        "Z": 0.0033569336
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Top_Mid",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.136"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextMinimapComponent_C",
+    "Name": "TextMinimapComponent",
+    "Outer": "CalloutRegion_Wine",
+    "Template": "TextMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "TextRenderComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.CalloutVolumeTextRender",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.137"
+      },
+      "RelativeLocation": {
+        "X": 0.0010986328,
+        "Y": 66.73003,
+        "Z": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_A_Link",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_A_Tree"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.72"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_A_Lobby",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Lobby"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.73"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_A_Main",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Main"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.74"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_A_Window",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_A_Window"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_A_Window.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.75"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.99999994
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_ASite",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Site"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_ASite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.76"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_AttackerSpawn",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Spawn"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_AttackerSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.77"
+      },
+      "RelativeLocation": {
+        "X": 1.9073508E-05,
+        "Y": 1.1444052E-05,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_B_Lobby",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Lobby"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Lobby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.78"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_B_Main",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Main"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_B_Main.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.79"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Back_B",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Back_B"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Back_B.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.80"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Bottom_Mid",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Bottom_Mid"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Bottom_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.81"
+      },
+      "RelativeLocation": {
+        "X": 1.2938981E-06,
+        "Y": -0.00048827956,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_BSite",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Site"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_BSite.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.82"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Catwalk",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Catwalk"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Catwalk.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.83"
+      },
+      "RelativeLocation": {
+        "X": 0.0015339297,
+        "Y": -0.002398601,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Cubby",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Cubby"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Cubby.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.84"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_DefenderSpawn",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Spawn"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_DefenderSpawn.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.85"
+      },
+      "RelativeLocation": {
+        "X": -1.908536E-05,
+        "Y": -0.0019850573,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Garden",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Garden"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Garden.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.86"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Market",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Market"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Market.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.87"
+      },
+      "RelativeLocation": {
+        "X": -277.04633,
+        "Y": 0.0,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Mid",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Mid"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.88"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Mid_Link",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Link"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Mid_Link.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.89"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Pizza",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Pizza"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Pizza.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.90"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Rafters",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Rafters"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Rafters.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.91"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Top_Mid",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Top_Mid"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Top_Mid.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.92"
+      }
+    }
+  },
+  {
+    "Type": "TextRenderComponent",
+    "Name": "CalloutVolumeTextRender",
+    "Outer": "CalloutRegion_Wine",
+    "Template": "CalloutVolumeTextRender",
+    "Properties": {
+      "Text": {
+        "TableId": "/Game/Maps/Ascent/Ascent_StringTable.Ascent_StringTable",
+        "Key": "AscentCallout_Wine"
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Ascent_Callout_Volumes:PersistentLevel.CalloutRegion_Wine.RootComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.93"
+      },
+      "RelativeLocation": {
+        "X": -0.000990157,
+        "Y": -0.00046008884,
+        "Z": 0.0
+      }
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Ascent_Callout_Volumes",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Ascent_Callout_Volumes:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Ascent/Ascent_Callout_Volumes.69"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

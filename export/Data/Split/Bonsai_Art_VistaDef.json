@@ -1,0 +1,1679 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Bonsai_Art_VistaDef_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Bonsai_Art_VistaDef_C Default__Bonsai_Art_VistaDef_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.1"
+    }
+  },
+  {
+    "Type": "Bonsai_Art_VistaDef_C",
+    "Name": "Default__Bonsai_Art_VistaDef_C"
+  },
+  {
+    "Type": "Actor",
+    "Name": "BSwitchRoom_0_WoodSupportA",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.BSwitchRoom_0_WoodSupportA.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.9"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.BSwitchRoom_0_WoodSupportA.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.9"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "BSwitchRoom_0_WoodSupportA_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.BSwitchRoom_0_WoodSupportA_2.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.10"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.BSwitchRoom_0_WoodSupportA_2.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.10"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Grass_1_CracksMedB",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Grass_1_CracksMedB.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.11"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Grass_1_CracksMedB.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.11"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Plushie_1_TacticalBunny",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Plushie_1_TacticalBunny.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.12"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Plushie_1_TacticalBunny.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.12"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Bonsai_Art_VistaDef:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.8"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Bonsai_Art_VistaDef:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.15"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "Bonsai_Art_VistaDef_C",
+    "Name": "Bonsai_Art_VistaDef_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Bonsai_Art_VistaDef_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "BSwitchRoom_0_WoodSupportA",
+    "Properties": {
+      "InstancingRandomSeed": 27055,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh BSwitchRoom_0_WoodSupportA",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/BSwitchRoom/0/BSwitchRoom_0_WoodSupportA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 227.25082
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 227.25082
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 227.25082
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Wood_M3_Dark_B_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Wood/M3/Wood_M3_Dark_B_MI.0"
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.64220077,
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "CanCharacterStepUpOn": "ECB_No",
+      "VisibilityId": 3400,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -724.67084,
+        "Y": -9211.135,
+        "Z": 985.0169
+      },
+      "RelativeRotation": {
+        "Pitch": 0.09854596,
+        "Yaw": 0.8936267,
+        "Roll": -4.2416677
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "495DB9EA40193F5C89BE4BADC0F1BDB1"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 82.05493,
+          "Y": -143.46191,
+          "Z": 1.9876709
+        },
+        "RelativeRotation": {
+          "Pitch": 89.65224,
+          "Yaw": 89.99551,
+          "Roll": -89.952
+        },
+        "RelativeScale3D": {
+          "X": 0.5311189,
+          "Y": 3.2637563,
+          "Z": 3.0343173
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -91.36127,
+          "Y": -126.819336,
+          "Z": -1.7843628
+        },
+        "RelativeRotation": {
+          "Pitch": 85.456505,
+          "Yaw": 89.997116,
+          "Roll": -90.004395
+        },
+        "RelativeScale3D": {
+          "X": 0.646726,
+          "Y": 2.992571,
+          "Z": 3.2437556
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -83.578735,
+          "Y": 131.51465,
+          "Z": -1.78125
+        },
+        "RelativeRotation": {
+          "Pitch": 85.456505,
+          "Yaw": 89.997116,
+          "Roll": -90.00456
+        },
+        "RelativeScale3D": {
+          "X": 0.6467264,
+          "Y": 2.6020007,
+          "Z": 2.7123437
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 92.88507,
+          "Y": 138.7666,
+          "Z": 1.5778809
+        },
+        "RelativeRotation": {
+          "Pitch": 89.65507,
+          "Yaw": 89.99773,
+          "Roll": -89.95849
+        },
+        "RelativeScale3D": {
+          "X": 0.5311194,
+          "Y": 2.602,
+          "Z": 2.7123435
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "BSwitchRoom_0_WoodSupportA_2",
+    "Properties": {
+      "InstancingRandomSeed": 1567,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh BSwitchRoom_0_WoodSupportA",
+        "ObjectPath": "ShooterGame/Content/Environment/Ascent/Asset/Props/BSwitchRoom/0/BSwitchRoom_0_WoodSupportA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 227.25082
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 227.25082
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 227.25082
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Wood_M3_Dark_B_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Wood/M3/Wood_M3_Dark_B_MI.0"
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.9834297,
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "CanCharacterStepUpOn": "ECB_No",
+      "VisibilityId": 4792,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -722.3424,
+        "Y": -8642.42,
+        "Z": 693.21716
+      },
+      "RelativeRotation": {
+        "Pitch": 0.09854596,
+        "Yaw": 0.8936267,
+        "Roll": -4.2416677
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0709716,
+        "Z": 1.0
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "360BAB2A4830F9027EE505AFB4CA122D"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -88.55554,
+          "Y": 3.6679688,
+          "Z": 6.506592
+        },
+        "RelativeRotation": {
+          "Pitch": 58.9426,
+          "Yaw": 89.999855,
+          "Roll": -89.99928
+        },
+        "RelativeScale3D": {
+          "X": 0.62073106,
+          "Y": 2.6020012,
+          "Z": 2.712344
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 88.5556,
+          "Y": -3.6689453,
+          "Z": -6.506531
+        },
+        "RelativeRotation": {
+          "Pitch": 68.6403,
+          "Yaw": 89.9997,
+          "Roll": -89.99939
+        },
+        "RelativeScale3D": {
+          "X": 0.6207307,
+          "Y": 2.602,
+          "Z": 2.7123442
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Grass_1_CracksMedB",
+    "Properties": {
+      "InstancingRandomSeed": 23569,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Grass_1_CracksMedB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Grass/1/Grass_1_CracksMedB.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 148.81284
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 148.81284
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 148.81284
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.95803046,
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 4800,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -836.8356,
+        "Y": -8684.752,
+        "Z": 620.63574
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "BB01631C4DEFCC5415484AB64563C97A"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -196.33582,
+          "Y": -51.498047,
+          "Z": -47.785583
+        },
+        "RelativeRotation": {
+          "Pitch": -11.55475,
+          "Yaw": 2.860078,
+          "Roll": 4.90391
+        },
+        "RelativeScale3D": {
+          "X": 1.0835565,
+          "Y": 1.0835567,
+          "Z": 1.2052444
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 196.33575,
+          "Y": 51.498047,
+          "Z": 47.785583
+        },
+        "RelativeRotation": {
+          "Pitch": 13.962243,
+          "Yaw": -86.50458,
+          "Roll": 1.3996345
+        },
+        "RelativeScale3D": {
+          "X": 0.7108222,
+          "Y": 0.7108222,
+          "Z": 0.832509
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Plushie_1_TacticalBunny",
+    "Properties": {
+      "InstancingRandomSeed": 3696,
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Plushie_1_TacticalBunny",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Plushie/1/Plushie_1_TacticalBunny.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 118.37165
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 118.37165
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 118.37165
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 4808,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -1031.6135,
+        "Y": -8519.09,
+        "Z": 559.26154
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "546F3DA64DF5D20CFAD99FB99591FEC4"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": -61.143555,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 5.320971,
+          "Yaw": 91.55332,
+          "Roll": 12.785651
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 0.0,
+          "Y": 61.14258,
+          "Z": 0.0
+        },
+        "RelativeRotation": {
+          "Pitch": 5.3209696,
+          "Yaw": 76.19676,
+          "Roll": 12.784718
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Bonsai_Art_VistaDef",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Bonsai_Art_VistaDef:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.14"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Bonsai_Art_VistaDef_C Bonsai_Art_VistaDef:PersistentLevel.Bonsai_Art_VistaDef_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.7"
+      },
+      "StreamingTextureGuids": [
+        "DE9EFC53-4C91186A-A2123A8C-B9697713",
+        "18D9479C-47C4B26E-1F6A5081-96C816EE",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "E2D153E3-41CD1B3A-41A5EE8D-FA81169F",
+        "84286367-465EA6D8-5864498E-1343C6FB",
+        "C514F5B8-4663B37D-7F0F6889-CA7EE79D",
+        "EF9FC468-4FD0DFFC-F67A3D85-79BB6361",
+        "C406E8E7-4293A3F2-D8CD2296-E95505E4",
+        "C2D94E87-4EAC07C0-979CCBA6-0EA00AE1",
+        "2F2AA5B7-45153E65-BF88A1B5-1F70E196",
+        "BB52531B-4F06B14C-E5BBCF9F-468F6225",
+        "0DE8AB0D-44C412EF-A9992784-8D98B70B",
+        "04C154A4-4688D238-6A701884-A2F80707",
+        "F7640080-46AA7625-1840B0AC-8E74746D",
+        "A6F696D4-43F781AD-958815B7-83B53C24",
+        "F032F691-4094E6B3-042036A4-350ACBF6",
+        "B0F2B29E-4B546903-81AE71A7-2443C0FE",
+        "EADF3BB2-40D71C4A-05A242B2-96A4656E",
+        "6586D1BD-41AEDF20-7983A29F-1C1050ED",
+        "DA7FCC38-4199D9FB-242D5EA3-8E55593E",
+        "F7D3D27C-4E5719B6-7D3A3A95-567A9C8B",
+        "220D2A1D-43BC8137-DCA045BA-F791F1A6",
+        "7F7AD79D-46FE885F-D43CADBF-9CAE2ABF",
+        "D56FD8BA-456FF884-1917758F-78627B34"
+      ],
+      "LevelBuildDataId": "78D19CF7-4AA2D5CE-9D59E6BC-4C15AC67",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Bonsai_Art_VistaDef_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef_BuiltData.4"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Bonsai_Art_VistaDef:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.6"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Bonsai_Art_VistaDef:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.6"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Bonsai_Art_VistaDef:PersistentLevel.Test_12_MegaTower_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.21"
+      },
+      {
+        "ObjectName": "Tree_3_ConiferLarge_BP_C Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.36"
+      },
+      {
+        "ObjectName": "StaticMeshActor Bonsai_Art_VistaDef:PersistentLevel.Plushie_0_TacticalBear_11",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.20"
+      },
+      {
+        "ObjectName": "StaticMeshActor Bonsai_Art_VistaDef:PersistentLevel.Door_1_MetalFrameA2_17",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.18"
+      },
+      {
+        "ObjectName": "StaticMeshActor Bonsai_Art_VistaDef:PersistentLevel.Plant_0_GroundLeavesC2_27",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.19"
+      },
+      {
+        "ObjectName": "Actor Bonsai_Art_VistaDef:PersistentLevel.BSwitchRoom_0_WoodSupportA",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.2"
+      },
+      {
+        "ObjectName": "Actor Bonsai_Art_VistaDef:PersistentLevel.BSwitchRoom_0_WoodSupportA_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.3"
+      },
+      {
+        "ObjectName": "Actor Bonsai_Art_VistaDef:PersistentLevel.Grass_1_CracksMedB",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.4"
+      },
+      {
+        "ObjectName": "Actor Bonsai_Art_VistaDef:PersistentLevel.Plushie_1_TacticalBunny",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.5"
+      },
+      {
+        "ObjectName": "StaticMeshActor Bonsai_Art_VistaDef:PersistentLevel.Door_1_DoubleSidedA_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.16"
+      },
+      {
+        "ObjectName": "StaticMeshActor Bonsai_Art_VistaDef:PersistentLevel.Door_1_DoubleSidedA_34",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.17"
+      },
+      {
+        "ObjectName": "Bonsai_Art_VistaDef_C Bonsai_Art_VistaDef:PersistentLevel.Bonsai_Art_VistaDef_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.7"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Bonsai_Art_VistaDef:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.14"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Bonsai_Art_VistaDef_C Bonsai_Art_VistaDef:PersistentLevel.Bonsai_Art_VistaDef_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.7"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "75070DB5-4F1F615F-3CACD28A-8125FE82",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Door_1_DoubleSidedA_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Door_1_DoubleSidedA_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.22"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Door_1_DoubleSidedA_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.22"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Door_1_DoubleSidedA_34",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Door_1_DoubleSidedA_34.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.23"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Door_1_DoubleSidedA_34.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.23"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Door_1_MetalFrameA2_17",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Door_1_MetalFrameA2_17.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.24"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Door_1_MetalFrameA2_17.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.24"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Plant_0_GroundLeavesC2_27",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Plant_0_GroundLeavesC2_27.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.25"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Plant_0_GroundLeavesC2_27.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.25"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Plushie_0_TacticalBear_11",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Plushie_0_TacticalBear_11.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.26"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Plushie_0_TacticalBear_11.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.26"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Test_12_MegaTower_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Test_12_MegaTower_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.27"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Test_12_MegaTower_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.27"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Door_1_DoubleSidedA_0",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Door_1_DoubleSidedA",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Door/1/Door_1_DoubleSidedA.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 195.37189
+        },
+        {
+          "PackedRelativeBox": 3950100587,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 323.97217
+        },
+        {
+          "PackedRelativeBox": 3950100587,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 323.97217
+        },
+        {
+          "PackedRelativeBox": 3950100587,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 323.97217
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 195.37189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 23,
+          "TexelFactor": 195.37189
+        }
+      ],
+      "VisibilityId": 4816,
+      "RelativeLocation": {
+        "X": -1043.0985,
+        "Y": -8518.4375,
+        "Z": 533.07544
+      },
+      "RelativeRotation": {
+        "Pitch": 0.00019124529,
+        "Yaw": 90.000114,
+        "Roll": 0.0024903733
+      },
+      "RelativeScale3D": {
+        "X": 0.34999993,
+        "Y": 0.39999992,
+        "Z": 0.34997758
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4F06FFC744FC72905FAC12B3B8FCCC96"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Door_1_DoubleSidedA_34",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Door_1_DoubleSidedA",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Door/1/Door_1_DoubleSidedA.2"
+      },
+      "bDisallowMeshPaintPerInstance": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 195.37189
+        },
+        {
+          "PackedRelativeBox": 3950100587,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 323.97217
+        },
+        {
+          "PackedRelativeBox": 3950100587,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 323.97217
+        },
+        {
+          "PackedRelativeBox": 3950100587,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 323.97217
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 195.37189
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 23,
+          "TexelFactor": 195.37189
+        }
+      ],
+      "VisibilityId": 4824,
+      "RelativeLocation": {
+        "X": -1043.0985,
+        "Y": -8518.539,
+        "Z": 533.07544
+      },
+      "RelativeRotation": {
+        "Pitch": 0.00019807548,
+        "Yaw": 90.000114,
+        "Roll": 0.0024899994
+      },
+      "RelativeScale3D": {
+        "X": -0.34999993,
+        "Y": 0.39999995,
+        "Z": 0.34997758
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "64DFB1E54391B2D8B5F6E89AB79CD041"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Door_1_MetalFrameA2_17",
+    "Properties": {
+      "ForcedLodModel": 1,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Door_1_MetalFrameA",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Door/1/Door_1_MetalFrameA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 198.57568
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 198.57568
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 198.57568
+        }
+      ],
+      "VisibilityId": 4776,
+      "RelativeLocation": {
+        "X": -1043.0989,
+        "Y": -8549.086,
+        "Z": 435.6461
+      },
+      "RelativeRotation": {
+        "Pitch": 0.00019264221,
+        "Yaw": -90.00008,
+        "Roll": 0.002490374
+      },
+      "RelativeScale3D": {
+        "X": 0.76302487,
+        "Y": 0.32701895,
+        "Z": 0.7171787
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "A7E29DE749AB99187E864BB8765CA208"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Plant_0_GroundLeavesC2_27",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Plant_0_GroundLeavesC",
+        "ObjectPath": "ShooterGame/Content/Environment/Triad/Asset/Props/Plant/0/Plant_0_GroundLeavesC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3489601536,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 107.75615
+        },
+        {
+          "PackedRelativeBox": 3489601536,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 107.75615
+        },
+        {
+          "PackedRelativeBox": 3489601536,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 107.75615
+        }
+      ],
+      "VisibilityId": 4784,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionProfileName": "Custom",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -652.08606,
+        "Y": -8566.492,
+        "Z": 636.42426
+      },
+      "RelativeRotation": {
+        "Pitch": 1.9693893,
+        "Yaw": -0.1803579,
+        "Roll": -4.073662
+      },
+      "RelativeScale3D": {
+        "X": 0.7451431,
+        "Y": 0.7451431,
+        "Z": 0.7451431
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B153FDFC497CDBDA51DCF7A592FA494D"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Plushie_0_TacticalBear_11",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Plushie_0_TacticalBear",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Plushie/0/Plushie_0_TacticalBear.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4084927587,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 103.32238
+        },
+        {
+          "PackedRelativeBox": 4084927587,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 103.32238
+        },
+        {
+          "PackedRelativeBox": 4084927587,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 103.32238
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.85218793,
+      "VisibilityId": 4832,
+      "BodyInstance": {
+        "CollisionEnabled": "ECollisionEnabled::NoCollision",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Visibility",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Camera",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Ignore"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": -778.5843,
+        "Y": -8861.156,
+        "Z": 638.2747
+      },
+      "RelativeRotation": {
+        "Pitch": 11.072385,
+        "Yaw": -195.48888,
+        "Roll": -1.7693146
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "AF1AE99F4F176EA32309A1B4DBCD313F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Test_12_MegaTower_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Test_12_MegaTower",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/Test/12/Test_12_MegaTower.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 18921.709
+        }
+      ],
+      "OverrideMaterials": [
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant MegaTowerLight_0_M0_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/MegaTower/0/M0/MegaTowerLight_0_M0_MI.0"
+        }
+      ],
+      "UmbraCullingMode": "UCM_NonOccluder",
+      "PrepassCullMode": "PCM_Exclude",
+      "bTreatAsBackgroundForOcclusion": true,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": -29855.168,
+        "Y": -101294.41,
+        "Z": 4740.5254
+      },
+      "RelativeScale3D": {
+        "X": 16.25,
+        "Y": 1.25,
+        "Z": 15.5
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "0F338A054A59E4C258AE97A83BD1AB4E",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 72
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLarge",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLarge_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288436325,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 439.0514
+        },
+        {
+          "PackedRelativeBox": 4288413797,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 439.0514
+        },
+        {
+          "PackedRelativeBox": 3008823562,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 201.40515
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 2944,
+      "RelativeLocation": {
+        "X": -2889.1782,
+        "Y": -8696.258,
+        "Z": 435.98923
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 52.21373,
+        "Roll": 0.0
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeLocation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        },
+        {
+          "MemberParent": {
+            "ObjectName": "Class SceneComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "RelativeRotation",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "633CFAA848B772AA249D258B9BBCE8DC"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyA",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyA_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4288348263,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 288.18378
+        },
+        {
+          "PackedRelativeBox": 4288348263,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 288.18378
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 2968,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D56E89D847841BBED2D4288E055026FF"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyB",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyB_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292673672,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 271.56454
+        },
+        {
+          "PackedRelativeBox": 4292673672,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 271.56454
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 2960,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F40DDC294CA52F644ECC0E8ED034B1FA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyC",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyC_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290510916,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 269.55768
+        },
+        {
+          "PackedRelativeBox": 4290510916,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 269.55768
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 3128,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "697A6FA040A72F56C3C2CC96C4043BB9"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyD",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyD_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4286185540,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 266.771
+        },
+        {
+          "PackedRelativeBox": 4286185540,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 266.771
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 3120,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E39E72824CF1E19812DB65A403C0E433"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyE",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyE_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4284088452,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 276.26886
+        },
+        {
+          "PackedRelativeBox": 4284088452,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 276.26886
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 3112,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2F2B398A4D1011E39979BD9AC7BED84C"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyF",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyF_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294705216,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 268.02112
+        },
+        {
+          "PackedRelativeBox": 4294705216,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 268.02112
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 3104,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B1123E3A4291A48DD6AC839DF17DEA25"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "Tree_3_ConiferLargeCanopyG",
+    "Outer": "Tree_3_ConiferLarge34",
+    "Template": "Tree_3_ConiferLargeCanopyG_GEN_VARIABLE",
+    "Properties": {
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4292411493,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 276.1509
+        },
+        {
+          "PackedRelativeBox": 4292411493,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 276.1509
+        }
+      ],
+      "CachedVertexFogIntensityFromVolumes": 0.951127,
+      "VisibilityId": 2952,
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "DetailMode": "DM_High",
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "68DDD9EE4542AA6F8AAAF8918FBE7349"
+      }
+    ]
+  },
+  {
+    "Type": "Tree_3_ConiferLarge_BP_C",
+    "Name": "Tree_3_ConiferLarge34",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Tree_3_ConiferLarge_BP_C",
+    "Properties": {
+      "Tree_3_ConiferLargeCanopyG": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyG",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.35"
+      },
+      "Tree_3_ConiferLargeCanopyF": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyF",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.34"
+      },
+      "Tree_3_ConiferLargeCanopyE": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyE",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.33"
+      },
+      "Tree_3_ConiferLargeCanopyD": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyD",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.32"
+      },
+      "Tree_3_ConiferLargeCanopyC": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyC",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.31"
+      },
+      "Tree_3_ConiferLargeCanopyB": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyB",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.30"
+      },
+      "Tree_3_ConiferLargeCanopyA": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyA",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.29"
+      },
+      "Tree_3_ConiferLarge": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+        "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLarge",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.28"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyA",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.29"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyB",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.30"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyC",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.31"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyD",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.32"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyE",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.33"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyF",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.34"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Bonsai_Art_VistaDef:PersistentLevel.Tree_3_ConiferLarge34.Tree_3_ConiferLargeCanopyG",
+          "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.35"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Bonsai_Art_VistaDef",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Bonsai_Art_VistaDef:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Bonsai/Bonsai_Art_VistaDef.13"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

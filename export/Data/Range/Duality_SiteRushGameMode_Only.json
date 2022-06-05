@@ -1,0 +1,891 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Duality_SiteRushGameMode_Only_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Duality_SiteRushGameMode_Only_C Default__Duality_SiteRushGameMode_Only_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.1"
+    }
+  },
+  {
+    "Type": "Duality_SiteRushGameMode_Only_C",
+    "Name": "Default__Duality_SiteRushGameMode_Only_C"
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Duality_SiteRushGameMode_Only:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.18"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Duality_SiteRushGameMode_Only:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.21"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.30"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BillboardComponent",
+    "Name": "Billboard",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "BillboardComponent_90",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "BombDestination_SiteRush_C",
+    "Name": "BombDestination_SiteRush_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_SiteRush_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.22"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.33"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.40"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.7"
+        }
+      ],
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.32"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.24"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.13"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.9"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.28"
+      },
+      "BlueprintCreatedComponents": [
+        null,
+        {
+          "ObjectName": "UsableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.40"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.33"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.22"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BombDestination_SiteRush_C",
+    "Name": "BombDestination_SiteRush_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BombDestination_SiteRush_C",
+    "Properties": {
+      "ReplicationSleep": {
+        "ObjectName": "ReplicationSleepComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.ReplicationSleep",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.23"
+      },
+      "StaticMesh2": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.StaticMesh2",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.35"
+      },
+      "Usable": {
+        "ObjectName": "UsableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.Usable",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.41"
+      },
+      "RequiredPlantVolumes": [
+        {
+          "ObjectName": "BP_BombDestinationVolume_C Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.8"
+        }
+      ],
+      "BombSite": "BombSiteEnum::NewEnumerator1",
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.34"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.25"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.14"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.10"
+      },
+      "bHidden": true,
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.29"
+      },
+      "BlueprintCreatedComponents": [
+        null,
+        {
+          "ObjectName": "UsableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.Usable",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.41"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.StaticMesh2",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.35"
+        },
+        {
+          "ObjectName": "ReplicationSleepComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.ReplicationSleep",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.23"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BP_BombDestinationVolume_SiteRush_A",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.37"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.3"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.36"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.26"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.15"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.11"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.30"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.3"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.37"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "BP_BombDestinationVolume_C",
+    "Name": "BP_BombDestinationVolume_SiteRush_B",
+    "Outer": "PersistentLevel",
+    "Template": "Default__BP_BombDestinationVolume_C",
+    "Properties": {
+      "TriggerBox": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.TriggerBox",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.39"
+      },
+      "Billboard": {
+        "ObjectName": "BillboardComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.Billboard",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.4"
+      },
+      "Mesh": {
+        "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.GameObjectMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.38"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.27"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.16"
+      },
+      "HealthSection": {
+        "ObjectName": "ChildDamageSectionComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.12"
+      },
+      "RootComponent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.31"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "BillboardComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.Billboard",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.4"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.TriggerBox",
+          "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.39"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "HealthDamageSection"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "Duality_SiteRushGameMode_Only_C",
+    "Name": "Duality_SiteRushGameMode_Only_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Duality_SiteRushGameMode_Only_C"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Duality_SiteRushGameMode_Only",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Duality_SiteRushGameMode_Only:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.20"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Duality_SiteRushGameMode_Only_C Duality_SiteRushGameMode_Only:PersistentLevel.Duality_SiteRushGameMode_Only_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.17"
+      },
+      "LevelBuildDataId": "6A78E628-4DA462DB-D03179BC-0ACEA5C0",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Duality_SiteRushGameMode_Only_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Duality_SiteRushGameMode_Only:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.2"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Duality_SiteRushGameMode_Only:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.2"
+      },
+      null,
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.8"
+      },
+      {
+        "ObjectName": "BP_BombDestinationVolume_C Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.7"
+      },
+      {
+        "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.5"
+      },
+      {
+        "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.6"
+      },
+      {
+        "ObjectName": "Duality_SiteRushGameMode_Only_C Duality_SiteRushGameMode_Only:PersistentLevel.Duality_SiteRushGameMode_Only_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.17"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 13030,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Duality_SiteRushGameMode_Only:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.20"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Duality_SiteRushGameMode_Only_C Duality_SiteRushGameMode_Only:PersistentLevel.Duality_SiteRushGameMode_Only_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.17"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "ACDB9257-4F378635-098CAEB5-D4D97712",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ReplicationSleepComponent",
+    "Name": "ReplicationSleep",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "ReplicationSleep_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10808.0,
+        "Y": 2533.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.0,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11908.0,
+        "Y": -4917.0,
+        "Z": 301.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 10000.0,
+        "Y": 1700.0,
+        "Z": 100.0
+      },
+      "RelativeScale3D": {
+        "X": 16.0,
+        "Y": 16.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "SceneComponent",
+    "Name": "TheScene",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "TheScene",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 11075.0,
+        "Y": -5500.0,
+        "Z": 300.0
+      },
+      "RelativeScale3D": {
+        "X": 11.25,
+        "Y": 14.0,
+        "Z": 1.5
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.28"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.28"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.29"
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 1.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh2",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "StaticMesh2_GEN_VARIABLE",
+    "Properties": {
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.29"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.30"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BP_BombDestinationVolume_SiteRush_A",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_A.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.30"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F8ADDDC64C9028EB3BD65F8D8BBEC8A3"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "GameObjectMesh",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "GameObjectMesh",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.31"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "TriggerBox",
+    "Outer": "BP_BombDestinationVolume_SiteRush_B",
+    "Template": "TriggerBox_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SceneComponent Duality_SiteRushGameMode_Only:PersistentLevel.BP_BombDestinationVolume_SiteRush_B.TheScene",
+        "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.31"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B28E80BF431879B065BB0581A9518435"
+      }
+    ]
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_SiteRush_A",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.5"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_1_UsableComponentCanUseSignature__DelegateSignature"
+          },
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.5"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.5"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.5"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_A",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.5"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "UsableComponent",
+    "Name": "Usable",
+    "Outer": "BombDestination_SiteRush_B",
+    "Template": "UsableComponent_2",
+    "Properties": {
+      "OnCanUse": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_1_UsableComponentCanUseSignature__DelegateSignature"
+          },
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_97_UsableComponentCanUseSignature__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseStarted": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_100_UsableComponentUseStarted__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseSuccessful": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_104_UsableComponentUseSuccessful__DelegateSignature"
+          }
+        ]
+      },
+      "OnUseCanceled": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "BombDestination_SiteRush_C Duality_SiteRushGameMode_Only:PersistentLevel.BombDestination_SiteRush_B",
+              "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.6"
+            },
+            "FunctionName": "BndEvt__Usable_K2Node_ComponentBoundEvent_109_UsableComponentUseCanceled__DelegateSignature"
+          }
+        ]
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "World",
+    "Name": "Duality_SiteRushGameMode_Only",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Duality_SiteRushGameMode_Only:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Duality/Duality_SiteRushGameMode_Only.19"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

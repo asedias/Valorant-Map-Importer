@@ -1,0 +1,3815 @@
+[
+  {
+    "Type": "BlueprintGeneratedClass",
+    "Name": "Range_Art_Boathouse_hide_C",
+    "SuperStruct": {
+      "ObjectName": "Class LevelScriptActor",
+      "ObjectPath": "/Script/Engine"
+    },
+    "ClassFlags": 8653332,
+    "ClassWithin": {
+      "ObjectName": "Class Object",
+      "ObjectPath": "/Script/CoreUObject"
+    },
+    "ClassConfigName": "Engine",
+    "bCooked": true,
+    "ClassDefaultObject": {
+      "ObjectName": "Range_Art_Boathouse_hide_C Default__Range_Art_Boathouse_hide_C",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.1"
+    }
+  },
+  {
+    "Type": "Range_Art_Boathouse_hide_C",
+    "Name": "Default__Range_Art_Boathouse_hide_C"
+  },
+  {
+    "Type": "AIPerceptionStimuliSourceComponent",
+    "Name": "AIPerceptionStimuliSource",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "AIPerceptionStimuliSource_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AnimInstanceReplicationComponent",
+    "Name": "AnimInstanceReplicationComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "AnimInstanceReplicationComponent"
+  },
+  {
+    "Type": "AresAbilitySystemComponent",
+    "Name": "AbilitiesAndBuffsComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "AbilitiesAndBuffsComponent",
+    "Properties": {
+      "CachedAttributeSet": {
+        "ObjectName": "AresAttributeSet Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AresAttributeSet_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.5"
+      },
+      "ActivatableAbilities": {
+        "Owner": {
+          "ObjectName": "AresAbilitySystemComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AbilitiesAndBuffsComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.4"
+        }
+      },
+      "ActiveGameplayCues": {
+        "Owner": {
+          "ObjectName": "AresAbilitySystemComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AbilitiesAndBuffsComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.4"
+        }
+      },
+      "MinimalReplicationGameplayCues": {
+        "Owner": {
+          "ObjectName": "AresAbilitySystemComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AbilitiesAndBuffsComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.4"
+        }
+      },
+      "ReplicatedPredictionKeyMap": {
+        "PredictionKeys": [
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          },
+          {
+            "PredictionKey": {
+              "Current": 0,
+              "Base": 0,
+              "PredictiveConnection": null,
+              "bIsStale": false,
+              "bIsServerInitiated": false
+            },
+            "ReplicationID": -1,
+            "ReplicationKey": -1,
+            "MostRecentArrayReplicationKey": -1
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "AresAttributeSet",
+    "Name": "AresAttributeSet_1",
+    "Outer": "TargetPracticeDummy3",
+    "Properties": {
+      "Blinded": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "BonusDamage": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "DamageReduction": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "DefensiveDetectionDuration": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "DescendingGravityModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "DetectionDelay": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "EquippableMovementModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "HealingEffectiveness": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "FiringErrorModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "FiringRateModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "StabilityMovementModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "GravityModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "FootstepVolumeReduction": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "JumpForceModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "JumpMovementSlow": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MinimumAboveMaxSpeedDecayRateReduction": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "FallDamageReduction": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MagazineBonus": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MaxHealthModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MaxShieldModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MaxTurnRate": {
+        "BaseValue": 360000.0,
+        "CurrentValue": 360000.0
+      },
+      "MinimapDetectionDelay": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MinimapViewDistance": {
+        "BaseValue": 100000.0,
+        "CurrentValue": 100000.0
+      },
+      "MaxVisionDistance": {
+        "BaseValue": 100000.0,
+        "CurrentValue": 100000.0
+      },
+      "MoneyKillRewardModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementBonus": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementBonusCrouch": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementBonusFlying": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementBonusJump": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementBonusRun": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementBonusWalk": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementErrorModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "MovementSlow": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "OffensiveDetectionDuration": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "PickupAmmoBonus": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "ReduceAbilityMovementPenalty": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "ReduceTaggingMovementPenalty": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "ReloadTimeModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "SpreadRecoveryModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "RecoilModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "TurnRatePenalty": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "UltimatePointsDeathModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "UltimatePointsDefuseModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "UltimatePointsKillModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "UltimatePointsPickUpModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "UltimatePointsPlantModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "UsingTimeModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "WallPenetrationDistanceModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      },
+      "WeaponDrawTimeModifier": {
+        "BaseValue": 1.0,
+        "CurrentValue": 1.0
+      }
+    }
+  },
+  {
+    "Type": "AresHUDListener",
+    "Name": "AresHUDListener",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "AresHUDListener_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresInputStateComponent",
+    "Name": "InputStateComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "InputStateComponent"
+  },
+  {
+    "Type": "AresInventory",
+    "Name": "InventoryComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "InventoryComponent",
+    "Properties": {
+      "OnItemsChanged": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "TargetPracticeTrainingBot_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3",
+              "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.126"
+            },
+            "FunctionName": "OnInventoryItemsChanged"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "Type": "AresOutlineComponent",
+    "Name": "Outline1P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Outline1P_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.PawnMesh1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.53"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresOutlineComponent",
+    "Name": "Outline3P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Outline3P_GEN_VARIABLE",
+    "Properties": {
+      "EnemyOutline": "EAresOutlineMode::None",
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterMesh0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.50"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresOutlineComponent",
+    "Name": "OutlineCosmetic3P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "OutlineCosmetic3P_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CosmeticCharacterMesh3P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.52"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresOutlineComponent",
+    "Name": "OutlineOverlay1P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "OutlineOverlay1P_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CosmeticCharacterMesh1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.51"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresTextRenderComponent",
+    "Name": "AresTextRender1",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "AresTextRenderComponent_492",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.124"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Range_Art_Boathouse_hide:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.33"
+      },
+      "bEnableNavigationSystem": false,
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Range_Art_Boathouse_hide:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.38"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "BaseMovementSoundComponent_C",
+    "Name": "BaseMovementSoundComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "BaseMovementSoundComponent_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "CalloutRegionTrackingComponent",
+    "Name": "CalloutRegionTracker",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CalloutRegionTracker"
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "DeathCameraComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "DeathCameraComponent",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      }
+    }
+  },
+  {
+    "Type": "CameraComponent",
+    "Name": "FollowRecoilCameraComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "FollowRecoilCameraComponent"
+  },
+  {
+    "Type": "CharacterCapsuleComponent",
+    "Name": "CollisionCylinder",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CollisionCylinder",
+    "Properties": {
+      "RelativeLocation": {
+        "X": 8750.0,
+        "Y": -10800.0,
+        "Z": 1235.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99971,
+        "Roll": 0.0
+      }
+    }
+  },
+  {
+    "Type": "CharacterHudManagerComponent",
+    "Name": "CharacterHudManager",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CharacterHudManager_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "CharacterPortraitMinimapComponent_C",
+    "Name": "CharacterPortraitMinimapComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CharacterPortraitMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "HealthDamageSection",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "HealthDamageSection_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ChildDamageSectionComponent",
+    "Name": "ShieldDamageSection",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "ShieldDamageSection_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "CombatReportTrackingConfigComponent",
+    "Name": "CombatReportConfigComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CombatReportConfigComponent"
+  },
+  {
+    "Type": "Comp_Actor_Concussable_C",
+    "Name": "Comp_Actor_Concussable",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Comp_Actor_Concussable_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_CharacterFalling_C",
+    "Name": "Comp_CharacterFalling",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Comp_CharacterFalling_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Comp_PlayerCharacter_SpawnInvulnerability_C",
+    "Name": "Comp_PlayerCharacter_SpawnInvulnerability",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Comp_PlayerCharacter_SpawnInvulnerability_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "CosmeticActionsComponent_C",
+    "Name": "CosmeticActionsComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CosmeticActionsComponent_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "DamageableComponent",
+    "Name": "DamageHandlerComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "DamageHandlerComponent"
+  },
+  {
+    "Type": "DynamicBlockingComponent",
+    "Name": "DynamicBlocking",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "DynamicBlocking"
+  },
+  {
+    "Type": "FogOfWarDebugComponent",
+    "Name": "FogOfWarDebugComponent",
+    "Outer": "FogOfWarComponent",
+    "Template": "FogOfWarDebugComponent"
+  },
+  {
+    "Type": "ForceModuleManagerComponent",
+    "Name": "ForceModuleManager",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "ForceModuleManager"
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "IgnoreAllyWallPenetrationComponent",
+    "Name": "IgnoreAllyWallPenetration",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "IgnoreAllyWallPenetration_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Range_Art_Boathouse_hide",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Range_Art_Boathouse_hide:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.37"
+      },
+      "LevelScriptActor": {
+        "ObjectName": "Range_Art_Boathouse_hide_C Range_Art_Boathouse_hide:PersistentLevel.Range_Art_Boathouse_hide_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.41"
+      },
+      "StreamingTextureGuids": [
+        "11CA18B8-4B0C2089-FE8D4681-0463B6B2",
+        "BDFDD942-4410A242-4E38E9B4-A868DA0B",
+        "30966CBE-48953D39-A7132585-494B6DC0",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "84A281B1-4870A992-B95C0E86-C21B77B3",
+        "984DA0D9-422AEF7C-A3870EB8-42D02934",
+        "55D1D495-4D8709F0-C4BA29AC-2C532452",
+        "1D46593D-4609BC7A-660F35A2-EAF5CEFA",
+        "C5F1C0C2-44D1DA2F-6A0828A2-B9526346",
+        "0EF8FBF0-40986AF4-C61CE283-33C86B07",
+        "51E1078D-4A0AA01B-225134B0-189A6C0F",
+        "93344CA8-4B40DF2C-91B918BB-BF3BB8A9",
+        "4E783908-4FD512A8-1BB2049C-B1076722",
+        "E831790B-4CD7C44B-39F72B80-1488A166",
+        "DEB8F46A-4B2B9E93-00445A9D-D2CC1627",
+        "3495B0E2-40592FD1-A75F428C-4013E6E3",
+        "0FC8E28B-40C2D9AD-A4528F83-E418977E",
+        "5D57AF5F-402CEA33-95679480-5808B3F4",
+        "6DEE4CD5-40765209-D3B46193-32C9728E",
+        "019ECAA2-4583FB99-FC0AF69D-92EF19D7",
+        "41EB4062-4595AB0A-E491E6AB-CB93ABAA",
+        "159188EB-4D0DA44C-F2B3D988-9487CF12"
+      ],
+      "LevelBuildDataId": "8AD0CFB9-4648B572-F900A08D-C8247CDB",
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Range_Art_Boathouse_hide:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.14"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Range_Art_Boathouse_hide:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.14"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Box180_271",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.88"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Box289_338",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.89"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Plane8_337",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.90"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseDebrisA",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.62"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_2_BelltowerA_14",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.61"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumEntranceWall01",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.65"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumRoofSplinters9",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.66"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles30_136",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.68"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles32",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.69"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles33",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.70"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles46_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.71"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles47_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.72"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles59",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.73"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles64",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.74"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles65",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.75"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumRoofSplintersB8",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.67"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Structural_2_RafterShardA11",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.83"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Structural_2_RafterShardA12",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.84"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Structural_1_TrussCapA_74",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.82"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesB3_41",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.76"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesE6_44",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.79"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesC3_53",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.77"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesE9_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.80"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesC4_15",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.78"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseSouthWallShatter_13",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.64"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseSouthWallShatter2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.63"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Shell_4_ChunkB",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.81"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickA55",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.58"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickB114",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.60"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickA56",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.59"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC18_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.85"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC19",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.86"
+      },
+      {
+        "ObjectName": "StaticMeshActor Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC20",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.87"
+      },
+      {
+        "ObjectName": "TargetPracticeTrainingBot_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.126"
+      },
+      {
+        "ObjectName": "Range_Art_Boathouse_hide_C Range_Art_Boathouse_hide:PersistentLevel.Range_Art_Boathouse_hide_C_1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.41"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Range_Art_Boathouse_hide:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.37"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": {
+      "ObjectName": "Range_Art_Boathouse_hide_C Range_Art_Boathouse_hide:PersistentLevel.Range_Art_Boathouse_hide_C_1",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.41"
+    },
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "MinimapVisionConesComponent",
+    "Name": "MinimapVision",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "MinimapVision_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "269FBF6C-4856A8B4-0419B2BE-FFEE3E9F",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "NetworkStreamComponent",
+    "Name": "NetworkStreamComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "NetworkStreamComponent"
+  },
+  {
+    "Type": "ParticleSystemComponent",
+    "Name": "UD_FakeShadow_VFX",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "UD_FakeShadow_VFX_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterMesh0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.50"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "Range_Art_Boathouse_hide_C",
+    "Name": "Range_Art_Boathouse_hide_C_1",
+    "Outer": "PersistentLevel",
+    "Template": "Default__Range_Art_Boathouse_hide_C"
+  },
+  {
+    "Type": "RoundPersistenceComponent",
+    "Name": "Persistence",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Persistence"
+  },
+  {
+    "Type": "ServerRewindComponent",
+    "Name": "ServerRewindComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "ServerRewindComponent"
+  },
+  {
+    "Type": "ShooterCharacterDeathReactionComponent",
+    "Name": "ShooterCharacterDeathReaction",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "ShooterCharacterDeathReaction_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ShooterCharacterFogOfWarComponent",
+    "Name": "FogOfWarComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "FogOfWarComponent",
+    "Properties": {
+      "DebugComponent": {
+        "ObjectName": "FogOfWarDebugComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.FogOfWarComponent.FogOfWarDebugComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.31"
+      }
+    }
+  },
+  {
+    "Type": "ShooterCharacterMinimapComponent_C",
+    "Name": "ShooterCharacterMinimapComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "ShooterCharacterMinimapComponent_GEN_VARIABLE",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ShooterCharacterMovement",
+    "Name": "CharMoveComp",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CharMoveComp",
+    "Properties": {
+      "WalkableFloorZ": 0.71000004,
+      "NavAgentProps": {
+        "AgentRadius": 34.0,
+        "AgentHeight": 176.0
+      }
+    }
+  },
+  {
+    "Type": "ShooterCharacterVisibilityComponent",
+    "Name": "ShooterCharacterVisibility1",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "ShooterCharacterVisibility1_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "ShooterCharacterVisionComponent",
+    "Name": "VisionComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "VisionComponent"
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "CharacterMesh0",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CharacterMesh0",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "RelativeLocation": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": -84.99829
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.000206,
+        "Roll": 0.0
+      },
+      "PrimaryComponentTick": {
+        "EndTickGroup": "TG_PostPhysics"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "CosmeticCharacterMesh1P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CosmeticCharacterMesh1P",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.PawnMesh1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.53"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "CosmeticCharacterMesh3P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "CosmeticCharacterMesh3P",
+    "Properties": {
+      "VisibilityBasedAnimTickOption": "EVisibilityBasedAnimTickOption::AlwaysTickPose",
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterMesh0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.50"
+      },
+      "PrimaryComponentTick": {
+        "EndTickGroup": "TG_PostPhysics"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "PawnMesh1P",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "PawnMesh1P",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "PrimaryComponentTick": {
+        "EndTickGroup": "TG_PostPhysics"
+      }
+    }
+  },
+  {
+    "Type": "SkeletalMeshComponent",
+    "Name": "Weapon",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "Weapon_GEN_VARIABLE",
+    "Properties": {
+      "VisibilityBasedAnimTickOption": "EVisibilityBasedAnimTickOption::AlwaysTickPose",
+      "AttachParent": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterMesh0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.50"
+      },
+      "AttachSocketName": "R_Hand",
+      "PrimaryComponentTick": {
+        "EndTickGroup": "TG_PostPhysics"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript",
+      "UCSModifiedProperties": [
+        {
+          "MemberParent": {
+            "ObjectName": "Class SkinnedMeshComponent",
+            "ObjectPath": "/Script/Engine"
+          },
+          "MemberName": "VisibilityBasedAnimTickOption",
+          "MemberGuid": "00000000-00000000-00000000-00000000"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "SkeletalPoseRewinderComponent",
+    "Name": "SkeletalPoseRewinderComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "SkeletalPoseRewinderComponent"
+  },
+  {
+    "Type": "SplitBodyRotationGroundComponent",
+    "Name": "SplitBodyRotationGround",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "SplitBodyRotationGround_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "SplitBodyRotationRopeComponent",
+    "Name": "SplitBodyRotationRope",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "SplitBodyRotationRope_GEN_VARIABLE",
+    "Properties": {
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Rubble_4_BrickA55",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickA55.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.91"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickA55.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.91"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Rubble_4_BrickA56",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickA56.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.92"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickA56.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.92"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Rubble_4_BrickB114",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickB114.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.93"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Rubble_4_BrickB114.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.93"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_2_BelltowerA_14",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_2_BelltowerA_14.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.94"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_2_BelltowerA_14.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.94"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_3_BoathouseDebrisA",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseDebrisA.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.95"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseDebrisA.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.95"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_3_BoathouseSouthWallShatter2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseSouthWallShatter2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.96"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseSouthWallShatter2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.96"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_3_BoathouseSouthWallShatter_13",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseSouthWallShatter_13.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.97"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_3_BoathouseSouthWallShatter_13.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.97"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumEntranceWall01",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumEntranceWall01.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.98"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumEntranceWall01.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.98"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumRoofSplinters9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumRoofSplinters9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.99"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumRoofSplinters9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.99"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumRoofSplintersB8",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumRoofSplintersB8.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.100"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumRoofSplintersB8.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.100"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles30_136",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles30_136.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.101"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles30_136.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.101"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles32",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles32.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.102"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles32.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.102"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles33",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles33.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.103"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles33.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.103"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles46_0",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles46_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.104"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles46_0.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.104"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles47_1",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles47_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.105"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles47_1.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.105"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles59",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles59.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.106"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles59.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.106"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles64",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles64.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.107"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles64.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.107"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShingles65",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles65.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.108"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShingles65.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.108"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShinglesB3_41",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesB3_41.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.109"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesB3_41.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.109"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShinglesC3_53",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesC3_53.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.110"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesC3_53.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.110"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShinglesC4_15",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesC4_15.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.111"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesC4_15.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.111"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShinglesE6_44",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesE6_44.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.112"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesE6_44.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.112"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_AsylumShinglesE9_9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesE9_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.113"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_AsylumShinglesE9_9.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.113"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_4_ChunkB",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_ChunkB.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.114"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Shell_4_ChunkB.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.114"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Structural_1_TrussCapA_74",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_1_TrussCapA_74.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.115"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_1_TrussCapA_74.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.115"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Structural_2_RafterShardA11",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_2_RafterShardA11.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.116"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_2_RafterShardA11.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.116"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Structural_2_RafterShardA12",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_2_RafterShardA12.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.117"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_2_RafterShardA12.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.117"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Structural_3_FoundationC18_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC18_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.118"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC18_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.118"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Structural_3_FoundationC19",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC19.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.119"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC19.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.119"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Structural_3_FoundationC20",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC20.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.120"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.Structural_3_FoundationC20.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.120"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box180_271",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Box180_271.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.121"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Box180_271.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.121"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box289_338",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Box289_338.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.122"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Box289_338.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.122"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Plane8_337",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Plane8_337.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.123"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.SuperGrid_Plane8_337.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.123"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Rubble_4_BrickA55",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_4_BrickA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/4/Rubble_4_BrickA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 174.38474
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 174.38474
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 174.38474
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 174.38474
+        }
+      ],
+      "RelativeLocation": {
+        "X": 2785.579,
+        "Y": -11473.587,
+        "Z": 2214.0627
+      },
+      "RelativeRotation": {
+        "Pitch": 81.89605,
+        "Yaw": 161.04591,
+        "Roll": 80.157776
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Rubble_4_BrickA56",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_4_BrickA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/4/Rubble_4_BrickA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 174.38474
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 174.38474
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 174.38474
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 174.38474
+        }
+      ],
+      "RelativeLocation": {
+        "X": 2794.2803,
+        "Y": -11475.182,
+        "Z": 2237.589
+      },
+      "RelativeRotation": {
+        "Pitch": -1.380522,
+        "Yaw": 80.79157,
+        "Roll": -115.62927
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Rubble_4_BrickB114",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rubble_4_BrickB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Rubble/4/Rubble_4_BrickB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 196.86574
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 196.86574
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 196.86574
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 196.86574
+        }
+      ],
+      "RelativeLocation": {
+        "X": 2770.1353,
+        "Y": -11488.74,
+        "Z": 2196.634
+      },
+      "RelativeRotation": {
+        "Pitch": 6.605148,
+        "Yaw": -100.62702,
+        "Roll": -151.97145
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_2_BelltowerA_14",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_2_BelltowerA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/2/Shell_2_BelltowerA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 206.74907
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 207.96922
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 207.96922
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 204.55675
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 204.55675
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 204.55675
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 207.96922
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 206.74907
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 206.74907
+        }
+      ],
+      "RelativeLocation": {
+        "X": 1549.9999,
+        "Y": -9800.008,
+        "Z": 1350.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_3_BoathouseDebrisA",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_3_BoathouseDebrisA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/3/Shell_3_BoathouseDebrisA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 207.51213
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 9172.764,
+        "Y": -10437.43,
+        "Z": 271.56265
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_3_BoathouseSouthWallShatter2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_3_BoathouseSouthWallShatter",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/3/Shell_3_BoathouseSouthWallShatter.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.48647
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 205.48647
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.48647
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 206.54343
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 206.54343
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 206.54343
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3851.316,
+        "Y": -9800.03,
+        "Z": 1227.2489
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "AAB6C3EB40B68AB4E0B770B09AD4F999",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1674
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_3_BoathouseSouthWallShatter_13",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_3_BoathouseSouthWallShatter",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/3/Shell_3_BoathouseSouthWallShatter.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 205.48647
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 205.48647
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 205.48647
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 206.54343
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 206.54343
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 206.54343
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 3851.316,
+        "Y": -9800.03,
+        "Z": 1227.2489
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "869C3B684326DB5CD739F98C9E657F47",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1674
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumEntranceWall01",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumEntranceWall01",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumEntranceWall01.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 204.8234
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 204.86244
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 204.86244
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 204.86244
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 204.86244
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 204.8234
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 204.8234
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 2449.9988,
+        "Y": -12349.999,
+        "Z": 1250.0002
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F00879B8440CBDE5E57E1BAF2D249866",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 6506
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumRoofSplinters9",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumRoofSplinters",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumRoofSplinters.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 204.6456
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 204.6456
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 204.6456
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4174.316,
+        "Y": -11945.309,
+        "Z": 2290.2053
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 11.450049
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumRoofSplintersB8",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumRoofSplintersB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumRoofSplintersB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 203.26138
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 203.26138
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 203.26138
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3868.0261,
+        "Y": -12376.533,
+        "Z": 2436.5796
+      },
+      "RelativeRotation": {
+        "Pitch": -4.092438,
+        "Yaw": -162.43825,
+        "Roll": 14.458803
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles30_136",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3550.0,
+        "Y": -12097.75,
+        "Z": 2372.783
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 25.999947
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles32",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3725.0,
+        "Y": -12463.524,
+        "Z": 2416.0742
+      },
+      "RelativeRotation": {
+        "Pitch": 0.867168,
+        "Yaw": 9.962792,
+        "Roll": 21.0754
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles33",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3790.0,
+        "Y": -12253.524,
+        "Z": 2416.0742
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 7E-05,
+        "Roll": 40.99973
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles46_0",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4350.3867,
+        "Y": -12301.134,
+        "Z": 2380.4856
+      },
+      "RelativeRotation": {
+        "Pitch": 0.425418,
+        "Yaw": -0.093414,
+        "Roll": 16.094624
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles47_1",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4395.336,
+        "Y": -11587.483,
+        "Z": 2237.3538
+      },
+      "RelativeRotation": {
+        "Pitch": 0.425343,
+        "Yaw": 24.906528,
+        "Roll": 21.094814
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles59",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4395.6196,
+        "Y": -11524.477,
+        "Z": 2225.7053
+      },
+      "RelativeRotation": {
+        "Pitch": 0.435056,
+        "Yaw": 0.019769,
+        "Roll": 11.095414
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles64",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4331.943,
+        "Y": -11866.357,
+        "Z": 2314.2107
+      },
+      "RelativeRotation": {
+        "Pitch": -1.373657,
+        "Yaw": 4.571908,
+        "Roll": 21.05614
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShingles65",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShingles",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShingles.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98286
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98286
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4245.435,
+        "Y": -11337.34,
+        "Z": 2096.5527
+      },
+      "RelativeRotation": {
+        "Pitch": 11.466787,
+        "Yaw": -22.707245,
+        "Roll": 63.594604
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShinglesB3_41",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShinglesB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShinglesB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.76813
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.76813
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.76813
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3485.0,
+        "Y": -12445.0,
+        "Z": 2420.0
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShinglesC3_53",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShinglesC",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShinglesC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98108
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98108
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98108
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4210.0,
+        "Y": -11455.0,
+        "Z": 2235.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 25.000006
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShinglesC4_15",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShinglesC",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShinglesC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 241.98108
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 241.98108
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 241.98108
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4090.0,
+        "Y": -12347.335,
+        "Z": 2414.4805
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 24.999977
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShinglesE6_44",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShinglesE",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShinglesE.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 242.05739
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 242.05739
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 242.05739
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3475.0,
+        "Y": -12305.0,
+        "Z": 2380.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 25.00004
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_AsylumShinglesE9_9",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_AsylumShinglesE",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_AsylumShinglesE.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 242.05739
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 242.05739
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 242.05739
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4430.0,
+        "Y": -12130.0,
+        "Z": 2360.0
+      },
+      "RelativeRotation": {
+        "Pitch": -14.477509,
+        "Yaw": -15.504303,
+        "Roll": 3.96717
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_4_ChunkB",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_4_ChunkB",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Shell/4/Shell_4_ChunkB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 208.56178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 204.64857
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 204.64857
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 204.64857
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 204.64857
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 208.56178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 208.56178
+        }
+      ],
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 2664.643,
+        "Y": -11538.551,
+        "Z": 2216.7922
+      },
+      "RelativeRotation": {
+        "Pitch": 16.5849,
+        "Yaw": 7.01132,
+        "Roll": 20.891245
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Structural_1_TrussCapA_74",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_1_TrussCapA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/1/Structural_1_TrussCapA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 260.26758
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 260.26758
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 260.26758
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4010.0,
+        "Y": -11740.0,
+        "Z": 1875.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": 25.00004
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Structural_2_RafterShardA11",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_2_RafterShardA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/2/Structural_2_RafterShardA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 211.02068
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 205.78178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 205.78178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 205.78178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 211.02068
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 211.02068
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3945.0,
+        "Y": -12150.0,
+        "Z": 2135.0
+      },
+      "RelativeRotation": {
+        "Pitch": 3.4E-05,
+        "Yaw": -179.99994,
+        "Roll": -25.000061
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Structural_2_RafterShardA12",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_2_RafterShardA",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/2/Structural_2_RafterShardA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 211.02068
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 205.78178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 205.78178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 205.78178
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 211.02068
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 211.02068
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4395.0,
+        "Y": -11745.0,
+        "Z": 2005.0
+      },
+      "RelativeRotation": {
+        "Pitch": 11.371547,
+        "Yaw": 11.444723,
+        "Roll": 35.759377
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Structural_3_FoundationC18_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_3_FoundationC",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/3/Structural_3_FoundationC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 199.64838
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6686.2393,
+        "Y": -15027.038,
+        "Z": 581.78314
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.532574
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Structural_3_FoundationC19",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_3_FoundationC",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/3/Structural_3_FoundationC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 199.64838
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6686.2393,
+        "Y": -14057.758,
+        "Z": 581.7831
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.532574
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Structural_3_FoundationC20",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Structural_3_FoundationC",
+        "ObjectPath": "ShooterGame/Content/Environment/Poveglia/Asset/Props/Structural/3/Structural_3_FoundationC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 199.64838
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 199.64838
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6686.2393,
+        "Y": -13201.892,
+        "Z": 581.78125
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 1.0,
+        "Z": 0.532574
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box180_271",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        },
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Concrete",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Concrete.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8450.0,
+        "Y": -10850.0,
+        "Z": 1100.0
+      },
+      "RelativeScale3D": {
+        "X": 3.5,
+        "Y": 3.0,
+        "Z": 0.5
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box289_338",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Green_ShootinRange_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Range/Materials/M_SuperGrid_Metal_Green_ShootinRange_MI.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8800.0,
+        "Y": -10850.0,
+        "Z": 1100.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 3.0,
+        "Z": 3.5
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Plane8_337",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Plane",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Plane.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 100.0
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "Material Mat_range_target",
+          "ObjectPath": "ShooterGame/Content/Environment/_Archive/Materials/TEST/Mat_range_target.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8799.0,
+        "Y": -10775.0,
+        "Z": 1245.0
+      },
+      "RelativeRotation": {
+        "Pitch": 90.0,
+        "Yaw": 179.8813,
+        "Roll": 179.8813
+      },
+      "RelativeScale3D": {
+        "X": 1.5,
+        "Y": 1.5,
+        "Z": 0.75
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMesh",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "StaticMeshComponent_41",
+    "Properties": {
+      "AttachParent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "UCSSerializationIndex": 0,
+      "bNetAddressable": true,
+      "CreationMethod": "EComponentCreationMethod::SimpleConstructionScript"
+    }
+  },
+  {
+    "Type": "StealthComponent",
+    "Name": "StealthComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "StealthComponent"
+  },
+  {
+    "Type": "TargetPracticeTrainingBot_C",
+    "Name": "TargetPracticeDummy3",
+    "Outer": "PersistentLevel",
+    "Template": "Default__TargetPracticeTrainingBot_C",
+    "Properties": {
+      "AresTextRender1": {
+        "ObjectName": "AresTextRenderComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AresTextRender1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.13"
+      },
+      "Weapon": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Weapon",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.54"
+      },
+      "StaticMesh": {
+        "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.StaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.124"
+      },
+      "TextBlockScale": {
+        "X": 0.0,
+        "Y": 1.5,
+        "Z": 0.45
+      },
+      "Comp_PlayerCharacter_SpawnInvulnerability": {
+        "ObjectName": "Comp_PlayerCharacter_SpawnInvulnerability_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Comp_PlayerCharacter_SpawnInvulnerability",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.27"
+      },
+      "CharacterPortraitMinimapComponent": {
+        "ObjectName": "CharacterPortraitMinimapComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterPortraitMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.21"
+      },
+      "ShooterCharacterMinimapComponent": {
+        "ObjectName": "ShooterCharacterMinimapComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShooterCharacterMinimapComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.46"
+      },
+      "ShooterCharacterVisibility1": {
+        "ObjectName": "ShooterCharacterVisibilityComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShooterCharacterVisibility1",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.48"
+      },
+      "SplitBodyRotationRope": {
+        "ObjectName": "SplitBodyRotationRopeComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.SplitBodyRotationRope",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.57"
+      },
+      "OutlineOverlay1P": {
+        "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.OutlineOverlay1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.12"
+      },
+      "OutlineCosmetic3P": {
+        "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.OutlineCosmetic3P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.11"
+      },
+      "Comp_CharacterFalling": {
+        "ObjectName": "Comp_CharacterFalling_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Comp_CharacterFalling",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.26"
+      },
+      "CosmeticActionsComponent": {
+        "ObjectName": "CosmeticActionsComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CosmeticActionsComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.28"
+      },
+      "Comp_Actor_Concussable": {
+        "ObjectName": "Comp_Actor_Concussable_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Comp_Actor_Concussable",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.25"
+      },
+      "UD_FakeShadow_VFX": {
+        "ObjectName": "ParticleSystemComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.UD_FakeShadow_VFX",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.40"
+      },
+      "IgnoreAllyWallPenetration": {
+        "ObjectName": "IgnoreAllyWallPenetrationComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.IgnoreAllyWallPenetration",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.34"
+      },
+      "MinimapVision": {
+        "ObjectName": "MinimapVisionConesComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.MinimapVision",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.36"
+      },
+      "AIPerceptionStimuliSource": {
+        "ObjectName": "AIPerceptionStimuliSourceComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AIPerceptionStimuliSource",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.2"
+      },
+      "Outline1P": {
+        "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Outline1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.9"
+      },
+      "Outline3P": {
+        "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Outline3P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.10"
+      },
+      "InEditorHotkeyComponent": null,
+      "BaseMovementSoundComponent": {
+        "ObjectName": "BaseMovementSoundComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.BaseMovementSoundComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.15"
+      },
+      "SplitBodyRotationGround": {
+        "ObjectName": "SplitBodyRotationGroundComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.SplitBodyRotationGround",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.56"
+      },
+      "ShooterCharacterDeathReaction": {
+        "ObjectName": "ShooterCharacterDeathReactionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShooterCharacterDeathReaction",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.44"
+      },
+      "CharacterHudManager": {
+        "ObjectName": "CharacterHudManagerComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterHudManager",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.20"
+      },
+      "ShieldDamageSection": {
+        "ObjectName": "ChildDamageSectionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShieldDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.23"
+      },
+      "HealthDamageSection": {
+        "ObjectName": "ChildDamageSectionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.HealthDamageSection",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.22"
+      },
+      "AresHUDListener": {
+        "ObjectName": "AresHUDListener Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AresHUDListener",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.6"
+      },
+      "Persistence": {
+        "ObjectName": "RoundPersistenceComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Persistence",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.42"
+      },
+      "AbilitiesAndBuffs": {
+        "ObjectName": "AresAbilitySystemComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AbilitiesAndBuffsComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.4"
+      },
+      "FogOfWarComponent": {
+        "ObjectName": "ShooterCharacterFogOfWarComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.FogOfWarComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.45"
+      },
+      "VisionComponent": {
+        "ObjectName": "ShooterCharacterVisionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.VisionComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.49"
+      },
+      "CalloutRegionTrackingComponent": {
+        "ObjectName": "CalloutRegionTrackingComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CalloutRegionTracker",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.16"
+      },
+      "DynamicBlocking": {
+        "ObjectName": "DynamicBlockingComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.DynamicBlocking",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.30"
+      },
+      "InputStateComponent": {
+        "ObjectName": "AresInputStateComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.InputStateComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.7"
+      },
+      "NetworkStreamComponent": {
+        "ObjectName": "NetworkStreamComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.NetworkStreamComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.39"
+      },
+      "Inventory": {
+        "ObjectName": "AresInventory Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.InventoryComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.8"
+      },
+      "DamageHandler": {
+        "ObjectName": "DamageableComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.DamageHandlerComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.29"
+      },
+      "Mesh1P": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.PawnMesh1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.53"
+      },
+      "MeshOverlay1P": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CosmeticCharacterMesh1P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.51"
+      },
+      "MeshCosmetic3P": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CosmeticCharacterMesh3P",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.52"
+      },
+      "OnTeleported": {
+        "InvocationList": [
+          {
+            "Object": {
+              "ObjectName": "TransformRewinderComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.TransformRewinderComponent",
+              "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.127"
+            },
+            "FunctionName": "OnTeleported"
+          }
+        ]
+      },
+      "ForceModuleManager": {
+        "ObjectName": "ForceModuleManagerComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ForceModuleManager",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.32"
+      },
+      "StealthComponent": {
+        "ObjectName": "StealthComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.StealthComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.125"
+      },
+      "CombatReportTrackingConfig": {
+        "ObjectName": "CombatReportTrackingConfigComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CombatReportConfigComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.24"
+      },
+      "FollowRecoilCameraComponent": {
+        "ObjectName": "CameraComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.FollowRecoilCameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.18"
+      },
+      "DeathCameraComponent": {
+        "ObjectName": "CameraComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.DeathCameraComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.17"
+      },
+      "ServerRewindComponent": {
+        "ObjectName": "ServerRewindComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ServerRewindComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.43"
+      },
+      "TransformRewinderComponent": {
+        "ObjectName": "TransformRewinderComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.TransformRewinderComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.127"
+      },
+      "SkeletalPoseRewinderComponent": {
+        "ObjectName": "SkeletalPoseRewinderComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.SkeletalPoseRewinderComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.55"
+      },
+      "Mesh": {
+        "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterMesh0",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.50"
+      },
+      "CharacterMovement": {
+        "ObjectName": "ShooterCharacterMovement Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharMoveComp",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.47"
+      },
+      "CapsuleComponent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "AnimInstanceReplicationComponent": {
+        "ObjectName": "AnimInstanceReplicationComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AnimInstanceReplicationComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.3"
+      },
+      "SpawnCollisionHandlingMethod": "ESpawnActorCollisionHandlingMethod::AlwaysSpawn",
+      "RootComponent": {
+        "ObjectName": "CharacterCapsuleComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CollisionCylinder",
+        "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.19"
+      },
+      "BlueprintCreatedComponents": [
+        {
+          "ObjectName": "AresHUDListener Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AresHUDListener",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.6"
+        },
+        {
+          "ObjectName": "ChildDamageSectionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.HealthDamageSection",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.22"
+        },
+        {
+          "ObjectName": "ChildDamageSectionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShieldDamageSection",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.23"
+        },
+        {
+          "ObjectName": "CharacterHudManagerComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterHudManager",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.20"
+        },
+        {
+          "ObjectName": "ShooterCharacterDeathReactionComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShooterCharacterDeathReaction",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.44"
+        },
+        {
+          "ObjectName": "SplitBodyRotationGroundComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.SplitBodyRotationGround",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.56"
+        },
+        {
+          "ObjectName": "BaseMovementSoundComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.BaseMovementSoundComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.15"
+        },
+        null,
+        {
+          "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Outline3P",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.10"
+        },
+        {
+          "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Outline1P",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.9"
+        },
+        {
+          "ObjectName": "AIPerceptionStimuliSourceComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AIPerceptionStimuliSource",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.2"
+        },
+        {
+          "ObjectName": "MinimapVisionConesComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.MinimapVision",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.36"
+        },
+        {
+          "ObjectName": "IgnoreAllyWallPenetrationComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.IgnoreAllyWallPenetration",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.34"
+        },
+        {
+          "ObjectName": "ParticleSystemComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.UD_FakeShadow_VFX",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.40"
+        },
+        {
+          "ObjectName": "Comp_Actor_Concussable_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Comp_Actor_Concussable",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.25"
+        },
+        {
+          "ObjectName": "CosmeticActionsComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CosmeticActionsComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.28"
+        },
+        {
+          "ObjectName": "Comp_CharacterFalling_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Comp_CharacterFalling",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.26"
+        },
+        {
+          "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.OutlineCosmetic3P",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.11"
+        },
+        {
+          "ObjectName": "AresOutlineComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.OutlineOverlay1P",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.12"
+        },
+        {
+          "ObjectName": "SplitBodyRotationRopeComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.SplitBodyRotationRope",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.57"
+        },
+        {
+          "ObjectName": "ShooterCharacterVisibilityComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShooterCharacterVisibility1",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.48"
+        },
+        {
+          "ObjectName": "ShooterCharacterMinimapComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.ShooterCharacterMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.46"
+        },
+        {
+          "ObjectName": "CharacterPortraitMinimapComponent_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.CharacterPortraitMinimapComponent",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.21"
+        },
+        {
+          "ObjectName": "Comp_PlayerCharacter_SpawnInvulnerability_C Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Comp_PlayerCharacter_SpawnInvulnerability",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.27"
+        },
+        {
+          "ObjectName": "StaticMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.StaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.124"
+        },
+        {
+          "ObjectName": "AresTextRenderComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.AresTextRender1",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.13"
+        },
+        {
+          "ObjectName": "SkeletalMeshComponent Range_Art_Boathouse_hide:PersistentLevel.TargetPracticeDummy3.Weapon",
+          "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.54"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "TransformRewinderComponent",
+    "Name": "TransformRewinderComponent",
+    "Outer": "TargetPracticeDummy3",
+    "Template": "TransformRewinderComponent"
+  },
+  {
+    "Type": "World",
+    "Name": "Range_Art_Boathouse_hide",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Range_Art_Boathouse_hide:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Poveglia/Range_Art_Boathouse_hide.35"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]
