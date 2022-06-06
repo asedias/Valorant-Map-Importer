@@ -1,0 +1,5051 @@
+[
+  {
+    "Type": "Actor",
+    "Name": "BoatShipCable_9",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.BoatShipCable_9.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.38"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.BoatShipCable_9.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.38"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Container_1_ShippingE",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Container_1_ShippingE.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.39"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Container_1_ShippingE.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.39"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Container_1_ShippingE_26",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Container_1_ShippingE_26.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.40"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Container_1_ShippingE_26.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.40"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ModernTech_6_GeneratorC_34",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_GeneratorC_34.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.41"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_GeneratorC_34.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.41"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "ModernTech_6_VentSystem_38",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_VentSystem_38.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.42"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_VentSystem_38.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.42"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "oasis_rope_grp_a_01_28",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.oasis_rope_grp_a_01_28.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.43"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.oasis_rope_grp_a_01_28.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.43"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Pipe_0_Segment_26",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_0_Segment_26.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.44"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_0_Segment_26.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.44"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Pipe_6_KitA_90ABetter_11",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_90ABetter_11.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.45"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_90ABetter_11.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.45"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Pipe_6_KitA_CapA_36",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_CapA_36.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.46"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_CapA_36.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.46"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Pipe_6_KitA_StraightShortA_32",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_StraightShortA_32.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.47"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_StraightShortA_32.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.47"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Plushie_4_DanThePenguin",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Plushie_4_DanThePenguin.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.48"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Plushie_4_DanThePenguin.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.48"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "RoadKit_2_Barrel",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.RoadKit_2_Barrel.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.49"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.RoadKit_2_Barrel.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.49"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Rope_1_D",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Rope_1_D.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.50"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Rope_1_D.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.50"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "Shell_5_AtkSpawnShipCleat_30",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_5_AtkSpawnShipCleat_30.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.51"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_5_AtkSpawnShipCleat_30.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.51"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "TechElement_24_PortCover",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.TechElement_24_PortCover.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.52"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.TechElement_24_PortCover.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.52"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "Actor",
+    "Name": "TechElement_33_CylinderVent_7",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "RootComponent": {
+        "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.TechElement_33_CylinderVent_7.InstancedStaticMesh",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.53"
+      },
+      "InstanceComponents": [
+        {
+          "ObjectName": "InstancedStaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.TechElement_33_CylinderVent_7.InstancedStaticMesh",
+          "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.53"
+        }
+      ]
+    }
+  },
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Foxtrot_Art_VistaShip:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.37"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Foxtrot_Art_VistaShip:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.56"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI112",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI112.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.27"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI112.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.27"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI113",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI113.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.28"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI113.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.28"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI114",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI114.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.29"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI114.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.29"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI115",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI115.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.30"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI115.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.30"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI116",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI116.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.31"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI116.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.31"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI117_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI117_2.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.32"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI117_2.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.32"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI90",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI90.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.33"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI90.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.33"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI91",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI91.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.34"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI91.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.34"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI92",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI92.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.35"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI92.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.35"
+      }
+    }
+  },
+  {
+    "Type": "DecalActor",
+    "Name": "Grunge_M3_B_MI93",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "Decal": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI93.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.36"
+      },
+      "RootComponent": {
+        "ObjectName": "DecalComponent Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI93.NewDecalComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.36"
+      }
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI112",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_B_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 21504,
+      "RelativeLocation": {
+        "X": 31499.363,
+        "Y": 4965.287,
+        "Z": 3319.1143
+      },
+      "RelativeRotation": {
+        "Pitch": -19.220047,
+        "Yaw": -5.980821,
+        "Roll": 71.90817
+      },
+      "RelativeScale3D": {
+        "X": 0.90694565,
+        "Y": 3.2633324,
+        "Z": 4.200239
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI113",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_B_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 21592,
+      "RelativeLocation": {
+        "X": 32349.764,
+        "Y": 7737.21,
+        "Z": 4648.097
+      },
+      "RelativeRotation": {
+        "Pitch": -15.831687,
+        "Yaw": -7.128864,
+        "Roll": 70.69705
+      },
+      "RelativeScale3D": {
+        "X": 5.535225,
+        "Y": 1.0363601,
+        "Z": 4.200239
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI114",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 21552,
+      "RelativeLocation": {
+        "X": 31598.541,
+        "Y": 5946.37,
+        "Z": 2220.9358
+      },
+      "RelativeRotation": {
+        "Pitch": -1.8590368,
+        "Yaw": -7.4370656,
+        "Roll": 70.61935
+      },
+      "RelativeScale3D": {
+        "X": 0.733293,
+        "Y": 0.849266,
+        "Z": 0.263692
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI115",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 23264,
+      "RelativeLocation": {
+        "X": 32525.113,
+        "Y": 8050.5034,
+        "Z": 3481.1511
+      },
+      "RelativeRotation": {
+        "Pitch": -10.624156,
+        "Yaw": -17.364561,
+        "Roll": 71.16374
+      },
+      "RelativeScale3D": {
+        "X": 0.733293,
+        "Y": 0.849266,
+        "Z": 0.263692
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI116",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_B_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_B_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 21568,
+      "RelativeLocation": {
+        "X": 31516.945,
+        "Y": 7197.707,
+        "Z": 3164.8938
+      },
+      "RelativeRotation": {
+        "Pitch": -13.494929,
+        "Yaw": -16.529543,
+        "Roll": 72.6283
+      },
+      "RelativeScale3D": {
+        "X": 0.733293,
+        "Y": 1.7514031,
+        "Z": 2.0154986
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI117_2",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 21576,
+      "RelativeLocation": {
+        "X": 31674.975,
+        "Y": 5846.7173,
+        "Z": 3254.754
+      },
+      "RelativeRotation": {
+        "Pitch": -1.859037,
+        "Yaw": -7.437066,
+        "Roll": 70.61935
+      },
+      "RelativeScale3D": {
+        "X": 0.733293,
+        "Y": 0.849266,
+        "Z": 0.597558
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI90",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 752,
+      "RelativeLocation": {
+        "X": 14266.191,
+        "Y": 5091.6577,
+        "Z": 234.64175
+      },
+      "RelativeRotation": {
+        "Pitch": 16.400751,
+        "Yaw": 96.38504,
+        "Roll": 100.66443
+      },
+      "RelativeScale3D": {
+        "X": 0.733293,
+        "Y": 1.710535,
+        "Z": 4.3825154
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI91",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 760,
+      "RelativeLocation": {
+        "X": 16411.389,
+        "Y": 5449.7295,
+        "Z": 168.69171
+      },
+      "RelativeRotation": {
+        "Pitch": 19.163918,
+        "Yaw": 96.93585,
+        "Roll": 100.83275
+      },
+      "RelativeScale3D": {
+        "X": 0.733293,
+        "Y": 3.7213318,
+        "Z": 4.382515
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI92",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 21480,
+      "RelativeLocation": {
+        "X": 23103.568,
+        "Y": 6058.9556,
+        "Z": 1277.0067
+      },
+      "RelativeRotation": {
+        "Pitch": 19.163918,
+        "Yaw": 96.93585,
+        "Roll": 100.83275
+      },
+      "RelativeScale3D": {
+        "X": 1.3889227,
+        "Y": 3.8596826,
+        "Z": 6.875386
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "DecalComponent",
+    "Name": "NewDecalComponent",
+    "Outer": "Grunge_M3_B_MI93",
+    "Properties": {
+      "DecalMaterial": {
+        "ObjectName": "MaterialInstanceConstant Grunge_M3_G_MI",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Decals/Grunge/M3/Grunge_M3_G_MI.0"
+      },
+      "bOverrideIntensity": true,
+      "LightIntensityOverride": 0.75,
+      "bOverrideColor": true,
+      "LightColorOverride": {
+        "B": 5,
+        "G": 16,
+        "R": 67,
+        "A": 255,
+        "Hex": "FF431005"
+      },
+      "VisibilityId": 800,
+      "RelativeLocation": {
+        "X": 19794.611,
+        "Y": 5637.1167,
+        "Z": 953.8385
+      },
+      "RelativeRotation": {
+        "Pitch": 19.163887,
+        "Yaw": 96.93585,
+        "Roll": 100.83275
+      },
+      "RelativeScale3D": {
+        "X": 1.388923,
+        "Y": 2.6914847,
+        "Z": 6.875386
+      },
+      "DetailMode": "DM_High"
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "BoatShipCable_9",
+    "Properties": {
+      "InstancingRandomSeed": 29873,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh BoatShipCable_0",
+        "ObjectPath": "ShooterGame/Content/Environment/FoxTrot/Asset/Props/BoatShipCable/BoatShipCable_0.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 364.64258
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21544,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "93B8219B40B8BB2675EA828EEC3B40E7"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 11590.797,
+          "Y": -871.70654,
+          "Z": 4152.7314
+        },
+        "RelativeRotation": {
+          "Pitch": -35.38022,
+          "Yaw": 66.493675,
+          "Roll": -26.308926
+        },
+        "RelativeScale3D": {
+          "X": 2.794238,
+          "Y": 2.2625754,
+          "Z": 2.2625754
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11560.41,
+          "Y": -1198.4946,
+          "Z": 4075.121
+        },
+        "RelativeRotation": {
+          "Pitch": -41.419,
+          "Yaw": 11.136803,
+          "Roll": -22.755816
+        },
+        "RelativeScale3D": {
+          "X": 5.764696,
+          "Y": 2.0885706,
+          "Z": 2.573217
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11455.961,
+          "Y": -1640.0176,
+          "Z": 4075.121
+        },
+        "RelativeRotation": {
+          "Pitch": -53.733788,
+          "Yaw": -118.69713,
+          "Roll": 22.373907
+        },
+        "RelativeScale3D": {
+          "X": 2.7942383,
+          "Y": 2.2625751,
+          "Z": 2.262575
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Container_1_ShippingE",
+    "Properties": {
+      "InstancingRandomSeed": 29084,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Container_1_ShippingE",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/Container_1_ShippingE.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 59,
+          "TexelFactor": 254.46071
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 60,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 61,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 62,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 221.00317
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 63,
+          "TexelFactor": 221.00317
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 64,
+          "TexelFactor": 254.46071
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 65,
+          "TexelFactor": 254.46071
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M0_ShippingC_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M0_ShippingC_MI.0"
+        },
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M1_Flat_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M1_Flat_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "bOverrideCubemapSource": true,
+      "CubemapSourceOverride": "MCSRC_AmbientEnvironmentAlternative",
+      "VisibilityId": 720,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 18568.951,
+        "Y": 5942.176,
+        "Z": 891.9773
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8238F09A4E36A6A96EDA1EB95C84DAC3"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 11962.906,
+          "Y": 735.9575,
+          "Z": 659.83203
+        },
+        "RelativeRotation": {
+          "Pitch": -6.242279,
+          "Yaw": -179.25223,
+          "Roll": 19.7855
+        },
+        "RelativeScale3D": {
+          "X": 0.9999989,
+          "Y": 0.99999875,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 12054.447,
+          "Y": 414.52637,
+          "Z": 501.55676
+        },
+        "RelativeRotation": {
+          "Pitch": -0.9469607,
+          "Yaw": -177.3515,
+          "Roll": 19.665752
+        },
+        "RelativeScale3D": {
+          "X": 0.99999875,
+          "Y": 0.9999987,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11386.318,
+          "Y": 375.22168,
+          "Z": 487.49927
+        },
+        "RelativeRotation": {
+          "Pitch": -3.7684634,
+          "Yaw": -10.608093,
+          "Roll": -19.337555
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11125.576,
+          "Y": 4181.408,
+          "Z": -750.70605
+        },
+        "RelativeRotation": {
+          "Pitch": -13.789275,
+          "Yaw": 111.952736,
+          "Roll": -0.50503325
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 8921.576,
+          "Y": 3072.4082,
+          "Z": -861.70605
+        },
+        "RelativeRotation": {
+          "Pitch": 0.44317654,
+          "Yaw": 47.142803,
+          "Roll": -13.720244
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2083.5781,
+          "Y": 3353.1855,
+          "Z": 1182.7666
+        },
+        "RelativeRotation": {
+          "Pitch": -9.920686,
+          "Yaw": -174.63332,
+          "Roll": 19.613615
+        },
+        "RelativeScale3D": {
+          "X": 0.99999875,
+          "Y": 0.9999987,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11178.119,
+          "Y": -2071.9358,
+          "Z": -837.0668
+        },
+        "RelativeRotation": {
+          "Pitch": -26.312681,
+          "Yaw": -149.03181,
+          "Roll": 15.077933
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3406.921,
+          "Y": 3599.1846,
+          "Z": 1068.6609
+        },
+        "RelativeRotation": {
+          "Pitch": -9.820802,
+          "Yaw": -174.97089,
+          "Roll": 16.863464
+        },
+        "RelativeScale3D": {
+          "X": 0.99999875,
+          "Y": 0.99999887,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3071.9893,
+          "Y": 3263.129,
+          "Z": 1004.40674
+        },
+        "RelativeRotation": {
+          "Pitch": -9.717837,
+          "Yaw": -175.31659,
+          "Roll": 16.918858
+        },
+        "RelativeScale3D": {
+          "X": 0.9999988,
+          "Y": 0.9999989,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 9787.506,
+          "Y": -1935.0723,
+          "Z": -1015.9363
+        },
+        "RelativeRotation": {
+          "Pitch": 9.299178,
+          "Yaw": -126.28396,
+          "Roll": -9.533173
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 565.00977,
+          "Y": -407.95654,
+          "Z": 550.86743
+        },
+        "RelativeRotation": {
+          "Pitch": -10.9062195,
+          "Yaw": -172.00868,
+          "Roll": 17.741722
+        },
+        "RelativeScale3D": {
+          "X": 1.0000006,
+          "Y": 1.0000006,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1283.125,
+          "Y": 1259.1626,
+          "Z": 618.604
+        },
+        "RelativeRotation": {
+          "Pitch": -9.820984,
+          "Yaw": -174.97139,
+          "Roll": 16.859838
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 1.0000006,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1214.498,
+          "Y": 72.58838,
+          "Z": 409.50195
+        },
+        "RelativeRotation": {
+          "Pitch": 9.881987,
+          "Yaw": 5.1911726,
+          "Roll": -16.832125
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2293.7256,
+          "Y": 1232.2363,
+          "Z": 460.2218
+        },
+        "RelativeRotation": {
+          "Pitch": -9.0971985,
+          "Yaw": -177.35983,
+          "Roll": 17.25386
+        },
+        "RelativeScale3D": {
+          "X": 0.99999917,
+          "Y": 0.9999991,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2294.1719,
+          "Y": -0.74365234,
+          "Z": 221.05005
+        },
+        "RelativeRotation": {
+          "Pitch": 9.160068,
+          "Yaw": 4.096413,
+          "Roll": -17.519438
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3100.5547,
+          "Y": -510.60986,
+          "Z": 321.33813
+        },
+        "RelativeRotation": {
+          "Pitch": 9.655695,
+          "Yaw": 3.5948377,
+          "Roll": -18.965517
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999998,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3048.9727,
+          "Y": -414.1958,
+          "Z": -16.244324
+        },
+        "RelativeRotation": {
+          "Pitch": 9.921537,
+          "Yaw": 5.3652163,
+          "Roll": -16.800903
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3368.6895,
+          "Y": -798.4502,
+          "Z": -1096.381
+        },
+        "RelativeRotation": {
+          "Pitch": -1.2209473,
+          "Yaw": 8.688789,
+          "Roll": 4.498711
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3370.6895,
+          "Y": -1556.4502,
+          "Z": -1096.381
+        },
+        "RelativeRotation": {
+          "Pitch": -0.36679074,
+          "Yaw": 17.203465,
+          "Roll": -1.0616151
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.9999998
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -9153.628,
+          "Y": -1346.229,
+          "Z": 961.86084
+        },
+        "RelativeRotation": {
+          "Pitch": -0.022491457,
+          "Yaw": -0.060180668,
+          "Roll": 0.017579002
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7363.6895,
+          "Y": -439.4502,
+          "Z": -875.381
+        },
+        "RelativeRotation": {
+          "Pitch": -3.1463928,
+          "Yaw": 14.404137,
+          "Roll": -1.4907228
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7086.6895,
+          "Y": -1711.4502,
+          "Z": -927.381
+        },
+        "RelativeRotation": {
+          "Pitch": -3.1408384,
+          "Yaw": -8.804811,
+          "Roll": 88.95849
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Container_1_ShippingE_26",
+    "Properties": {
+      "InstancingRandomSeed": 2842,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Container_1_ShippingE",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/Container_1_ShippingE.2"
+      },
+      "bOverrideLightMapRes": true,
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 66,
+          "TexelFactor": 254.46071
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 60,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 61,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 62,
+          "TexelFactor": 421.3992
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 221.00317
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 63,
+          "TexelFactor": 221.00317
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 67,
+          "TexelFactor": 254.46071
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 68,
+          "TexelFactor": 254.46071
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Container_1_M0_ShippingD1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_1_M0_ShippingD1_MI.0"
+        },
+        null,
+        {
+          "ObjectName": "MaterialInstanceConstant Container_M0_MetalShippingD1_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Container/1/M0/Container_M0_MetalShippingD1_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "bOverrideCubemapSource": true,
+      "CubemapSourceOverride": "MCSRC_AmbientEnvironmentAlternative",
+      "VisibilityId": 728,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 18568.951,
+        "Y": 5942.176,
+        "Z": 891.9773
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7897E52E498E1CF5B2C94D919EB35C13"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -509.16406,
+          "Y": 3820.96,
+          "Z": 1565.6133
+        },
+        "RelativeRotation": {
+          "Pitch": 9.867219,
+          "Yaw": 5.185605,
+          "Roll": -16.83484
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 12668.033,
+          "Y": -1783.9478,
+          "Z": -109.21063
+        },
+        "RelativeRotation": {
+          "Pitch": 4.1141434,
+          "Yaw": 166.34085,
+          "Roll": 18.082941
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0000001,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11689.357,
+          "Y": -1546.1133,
+          "Z": -36.771606
+        },
+        "RelativeRotation": {
+          "Pitch": 3.9360127,
+          "Yaw": 166.88608,
+          "Roll": 18.122662
+        },
+        "RelativeScale3D": {
+          "X": 0.99999917,
+          "Y": 0.99999934,
+          "Z": 0.9999999
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 12454.855,
+          "Y": -2091.6567,
+          "Z": -183.95728
+        },
+        "RelativeRotation": {
+          "Pitch": 4.098023,
+          "Yaw": 166.33615,
+          "Roll": 16.386465
+        },
+        "RelativeScale3D": {
+          "X": 1.0000004,
+          "Y": 1.0000005,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11476.18,
+          "Y": -1853.7334,
+          "Z": -111.80255
+        },
+        "RelativeRotation": {
+          "Pitch": 3.936013,
+          "Yaw": 166.88608,
+          "Roll": 16.426334
+        },
+        "RelativeScale3D": {
+          "X": 0.99999917,
+          "Y": 0.9999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2378.0479,
+          "Y": 1880.6211,
+          "Z": 683.44556
+        },
+        "RelativeRotation": {
+          "Pitch": 9.703456,
+          "Yaw": 3.7261338,
+          "Roll": -21.750488
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1467.5449,
+          "Y": -288.6162,
+          "Z": 256.7052
+        },
+        "RelativeRotation": {
+          "Pitch": 9.921792,
+          "Yaw": 5.3651586,
+          "Roll": -16.800718
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3415.1328,
+          "Y": 1439.9966,
+          "Z": 372.31934
+        },
+        "RelativeRotation": {
+          "Pitch": -10.625337,
+          "Yaw": -172.23271,
+          "Roll": 16.374395
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3786.2412,
+          "Y": 1762.0679,
+          "Z": 423.1891
+        },
+        "RelativeRotation": {
+          "Pitch": -11.405883,
+          "Yaw": -169.47972,
+          "Roll": 15.848769
+        },
+        "RelativeScale3D": {
+          "X": 0.9999997,
+          "Y": 0.9999996,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3304.9033,
+          "Y": 1073.9268,
+          "Z": 264.34167
+        },
+        "RelativeRotation": {
+          "Pitch": -9.867738,
+          "Yaw": -174.81438,
+          "Roll": 16.83235
+        },
+        "RelativeScale3D": {
+          "X": 0.99999917,
+          "Y": 0.9999992,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3074.6494,
+          "Y": -504.9839,
+          "Z": 317.44373
+        },
+        "RelativeRotation": {
+          "Pitch": -9.920713,
+          "Yaw": -174.63332,
+          "Roll": 16.803223
+        },
+        "RelativeScale3D": {
+          "X": 1.0000001,
+          "Y": 0.9999998,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -4029.9766,
+          "Y": -513.72754,
+          "Z": -174.82025
+        },
+        "RelativeRotation": {
+          "Pitch": 9.821094,
+          "Yaw": 5.0281076,
+          "Roll": -14.046935
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.9999999,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -702.75,
+          "Y": -645.79004,
+          "Z": -821.01624
+        },
+        "RelativeRotation": {
+          "Pitch": -16.601044,
+          "Yaw": -81.99163,
+          "Roll": -10.258763
+        },
+        "RelativeScale3D": {
+          "X": 0.9999997,
+          "Y": 0.9999996,
+          "Z": 0.99999994
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -4059.2646,
+          "Y": -133.22754,
+          "Z": -70.38965
+        },
+        "RelativeRotation": {
+          "Pitch": 8.889306,
+          "Yaw": 1.9592481,
+          "Roll": -17.35739
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5004.3506,
+          "Y": -590.8696,
+          "Z": -361.74072
+        },
+        "RelativeRotation": {
+          "Pitch": 9.867641,
+          "Yaw": 5.1846495,
+          "Roll": -16.833313
+        },
+        "RelativeScale3D": {
+          "X": 0.9999999,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7123.841,
+          "Y": -1681.2915,
+          "Z": 962.3789
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 179.40456,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999964,
+          "Y": 0.99999964,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7913.461,
+          "Y": -1681.2915,
+          "Z": 1312.346
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 179.40456,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999964,
+          "Y": 0.99999964,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -4497.6895,
+          "Y": -1119.4502,
+          "Z": -1109.381
+        },
+        "RelativeRotation": {
+          "Pitch": -0.3667907,
+          "Yaw": 8.765915,
+          "Roll": -1.0616146
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 0.9999998
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -4497.6895,
+          "Y": -1854.4504,
+          "Z": -1121.381
+        },
+        "RelativeRotation": {
+          "Pitch": -3.140839,
+          "Yaw": -8.80478,
+          "Roll": 88.95847
+        },
+        "RelativeScale3D": {
+          "X": 0.9999998,
+          "Y": 1.0000001,
+          "Z": 1.0000002
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5245.6035,
+          "Y": -266.53076,
+          "Z": -816.1018
+        },
+        "RelativeRotation": {
+          "Pitch": 4.4387965,
+          "Yaw": -139.57408,
+          "Roll": 164.06558
+        },
+        "RelativeScale3D": {
+          "X": 0.99999946,
+          "Y": 0.99999976,
+          "Z": 0.99999964
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5566.003,
+          "Y": -1132.9019,
+          "Z": -1246.8229
+        },
+        "RelativeRotation": {
+          "Pitch": 18.253565,
+          "Yaw": -28.900637,
+          "Roll": 26.243534
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -6552.6895,
+          "Y": -2655.4507,
+          "Z": -965.381
+        },
+        "RelativeRotation": {
+          "Pitch": -3.1407785,
+          "Yaw": 30.570284,
+          "Roll": 88.95847
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0000002,
+          "Z": 1.0000001
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ModernTech_6_GeneratorC_34",
+    "Properties": {
+      "InstancingRandomSeed": 12268,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ModernTech_6_GeneratorC",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/ModernTech/6/ModernTech_6_GeneratorC.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 53,
+          "TexelFactor": 482.3509
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 54,
+          "TexelFactor": 482.3509
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 55,
+          "TexelFactor": 482.3509
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 776,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "981990F448BC1B1470647F80C752BD0B"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 9264.877,
+          "Y": 2059.3955,
+          "Z": -768.9286
+        },
+        "RelativeRotation": {
+          "Pitch": 67.92772,
+          "Yaw": -90.811485,
+          "Roll": -11.51108
+        },
+        "RelativeScale3D": {
+          "X": 4.0,
+          "Y": 4.0,
+          "Z": 4.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 9004.01,
+          "Y": 1308.0322,
+          "Z": -1163.264
+        },
+        "RelativeRotation": {
+          "Pitch": 64.68434,
+          "Yaw": -89.997925,
+          "Roll": 1.5307894E-06
+        },
+        "RelativeScale3D": {
+          "X": 4.0,
+          "Y": 4.0,
+          "Z": 4.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 7469.7344,
+          "Y": -1410.9912,
+          "Z": -1725.4326
+        },
+        "RelativeRotation": {
+          "Pitch": -2.6228333,
+          "Yaw": -90.3927,
+          "Roll": -0.16213383
+        },
+        "RelativeScale3D": {
+          "X": 1.5000004,
+          "Y": 2.500001,
+          "Z": 2.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7600.99,
+          "Y": 2262.588,
+          "Z": -1584.9214
+        },
+        "RelativeRotation": {
+          "Pitch": 67.49685,
+          "Yaw": -89.997696,
+          "Roll": 0.00024367019
+        },
+        "RelativeScale3D": {
+          "X": 4.000001,
+          "Y": 4.000001,
+          "Z": 4.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -9094.019,
+          "Y": 944.5669,
+          "Z": -1882.6191
+        },
+        "RelativeRotation": {
+          "Pitch": 1.0773125,
+          "Yaw": 157.52734,
+          "Roll": -78.959404
+        },
+        "RelativeScale3D": {
+          "X": 3.999999,
+          "Y": 3.9999993,
+          "Z": 3.999999
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7128.123,
+          "Y": 3032.3955,
+          "Z": -1227.9286
+        },
+        "RelativeRotation": {
+          "Pitch": 70.739876,
+          "Yaw": -90.92449,
+          "Roll": -11.631831
+        },
+        "RelativeScale3D": {
+          "X": 3.9999998,
+          "Y": 4.0,
+          "Z": 4.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "ModernTech_6_VentSystem_38",
+    "Properties": {
+      "InstancingRandomSeed": 5602,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ModernTech_6_VentSystem",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/ModernTech/6/ModernTech_6_VentSystem.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 56,
+          "TexelFactor": 513.2396
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 57,
+          "TexelFactor": 513.2396
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 58,
+          "TexelFactor": 513.2396
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21400,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "149B77874EE1B5AD5AB6A19B81036530"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 8730.008,
+          "Y": -38.362305,
+          "Z": -251.22461
+        },
+        "RelativeRotation": {
+          "Pitch": -25.312168,
+          "Yaw": -89.99957,
+          "Roll": -179.99988
+        },
+        "RelativeScale3D": {
+          "X": 2.875,
+          "Y": 3.40625,
+          "Z": 3.406251
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7786.587,
+          "Y": 423.625,
+          "Z": -718.98956
+        },
+        "RelativeRotation": {
+          "Pitch": -15.459045,
+          "Yaw": -81.33752,
+          "Roll": -179.60532
+        },
+        "RelativeScale3D": {
+          "X": 2.4999995,
+          "Y": 2.4999995,
+          "Z": 2.4999993
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7867.992,
+          "Y": 3290.6367,
+          "Z": -260.2246
+        },
+        "RelativeRotation": {
+          "Pitch": 16.48853,
+          "Yaw": 93.93034,
+          "Roll": 8.047987
+        },
+        "RelativeScale3D": {
+          "X": 2.8749998,
+          "Y": 4.9999995,
+          "Z": 3.40625
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "oasis_rope_grp_a_01_28",
+    "Properties": {
+      "InstancingRandomSeed": 28423,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh oasis_rope_grp_a_01",
+        "ObjectPath": "ShooterGame/Content/Environment/Duality/frozen_oasis_test/oasis_rope_grp_a_01.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 79.8565
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21456,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "068C8FE643367C80F491098E3B283C06"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 8779.008,
+          "Y": -736.7632,
+          "Z": -325.5636
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 6.375,
+          "Y": 6.375,
+          "Z": 6.375
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 3501.0078,
+          "Y": 95.23682,
+          "Z": 688.4364
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 179.99963,
+          "Roll": -0.0
+        },
+        "RelativeScale3D": {
+          "X": 8.0,
+          "Y": 8.0,
+          "Z": 8.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -8238.794,
+          "Y": 4559.9775,
+          "Z": 671.4364
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 30.937546,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 6.3750005,
+          "Y": 6.3750005,
+          "Z": 6.375
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Pipe_0_Segment_26",
+    "Properties": {
+      "InstancingRandomSeed": 31762,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pipe_0_Segment",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Pipe/0/Pipe_0_Segment.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 47,
+          "TexelFactor": 350.86954
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 48,
+          "TexelFactor": 350.86954
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 49,
+          "TexelFactor": 350.86954
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21520,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CC549FE247ACB79232BF7E8365E1EFDB"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 10579.223,
+          "Y": 724.1987,
+          "Z": 174.39941
+        },
+        "RelativeRotation": {
+          "Pitch": 0.31461897,
+          "Yaw": -0.050598145,
+          "Roll": -38.604736
+        },
+        "RelativeScale3D": {
+          "X": 3.9872847,
+          "Y": 3.9872842,
+          "Z": 9.64351
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 10377.295,
+          "Y": -1540.186,
+          "Z": -574.292
+        },
+        "RelativeRotation": {
+          "Pitch": 0.31461897,
+          "Yaw": -0.050598145,
+          "Roll": -46.42693
+        },
+        "RelativeScale3D": {
+          "X": 3.1027434,
+          "Y": 3.1027434,
+          "Z": 9.878946
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 10488.465,
+          "Y": 487.51367,
+          "Z": 95.75842
+        },
+        "RelativeRotation": {
+          "Pitch": -2.4039307,
+          "Yaw": -8.308959,
+          "Roll": -38.35736
+        },
+        "RelativeScale3D": {
+          "X": 3.987284,
+          "Y": 3.987284,
+          "Z": 9.643511
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Pipe_6_KitA_90ABetter_11",
+    "Properties": {
+      "InstancingRandomSeed": 17124,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pipe_6_KitA_90ABetter",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Pipe/6/Pipe_6_KitA_90ABetter.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 101.45539
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 101.45539
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 101.45539
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21584,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B06792C54794E45E2003CDB068A87DD2"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 10120.094,
+          "Y": 485.67188,
+          "Z": 1503.0419
+        },
+        "RelativeRotation": {
+          "Pitch": 1.0708094,
+          "Yaw": -12.823215,
+          "Roll": 71.12018
+        },
+        "RelativeScale3D": {
+          "X": 11.004881,
+          "Y": 11.004884,
+          "Z": 11.004883
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 9913.061,
+          "Y": -262.78076,
+          "Z": 1014.8612
+        },
+        "RelativeRotation": {
+          "Pitch": 19.756552,
+          "Yaw": 84.59825,
+          "Roll": -7.109531
+        },
+        "RelativeScale3D": {
+          "X": 12.04107,
+          "Y": 12.041073,
+          "Z": 12.041074
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Pipe_6_KitA_CapA_36",
+    "Properties": {
+      "InstancingRandomSeed": 9318,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pipe_6_KitA_CapA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Pipe/6/Pipe_6_KitA_CapA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 92.79359
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 92.79359
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 92.79359
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21440,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "8C41EDDE4F9385CFBF4BE29E8D0F7067"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 10209.158,
+          "Y": -1100.561,
+          "Z": 270.31128
+        },
+        "RelativeRotation": {
+          "Pitch": 23.03826,
+          "Yaw": 75.479866,
+          "Roll": -9.157805
+        },
+        "RelativeScale3D": {
+          "X": 20.37594,
+          "Y": 20.375938,
+          "Z": 20.375938
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 10195.4,
+          "Y": -989.37256,
+          "Z": 35.99292
+        },
+        "RelativeRotation": {
+          "Pitch": 23.038263,
+          "Yaw": 75.479866,
+          "Roll": -9.157805
+        },
+        "RelativeScale3D": {
+          "X": 19.324293,
+          "Y": 19.324293,
+          "Z": 19.324293
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 8161.5527,
+          "Y": -772.21826,
+          "Z": -1030.6104
+        },
+        "RelativeRotation": {
+          "Pitch": 23.679499,
+          "Yaw": 80.32785,
+          "Roll": 14.9685335
+        },
+        "RelativeScale3D": {
+          "X": 26.000004,
+          "Y": 26.000002,
+          "Z": 26.000002
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 7438.662,
+          "Y": -2177.6865,
+          "Z": -1660.8208
+        },
+        "RelativeRotation": {
+          "Pitch": -6.3360896,
+          "Yaw": 72.64924,
+          "Roll": 13.769867
+        },
+        "RelativeScale3D": {
+          "X": 40.000004,
+          "Y": 40.000008,
+          "Z": 40.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -8011.4473,
+          "Y": 4647.7812,
+          "Z": -903.61035
+        },
+        "RelativeRotation": {
+          "Pitch": -45.77929,
+          "Yaw": 67.94618,
+          "Roll": 40.781506
+        },
+        "RelativeScale3D": {
+          "X": 25.999994,
+          "Y": 25.999992,
+          "Z": 25.999998
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Pipe_6_KitA_StraightShortA_32",
+    "Properties": {
+      "InstancingRandomSeed": 4806,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pipe_6_KitA_StraightShortA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Pipe/6/Pipe_6_KitA_StraightShortA.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 106.04077
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 106.04077
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 106.04077
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21448,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2A6F986542C3323FA6E37DB48A193934"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 7484.49,
+          "Y": -2145.0054,
+          "Z": -1390.4794
+        },
+        "RelativeRotation": {
+          "Pitch": 8.30087,
+          "Yaw": -17.030457,
+          "Roll": 30.36976
+        },
+        "RelativeScale3D": {
+          "X": 45.0,
+          "Y": 40.0,
+          "Z": 40.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 10350.162,
+          "Y": 621.7417,
+          "Z": 1558.8422
+        },
+        "RelativeRotation": {
+          "Pitch": -1.6377562,
+          "Yaw": -13.763307,
+          "Roll": 109.09256
+        },
+        "RelativeScale3D": {
+          "X": 11.637001,
+          "Y": 11.109233,
+          "Z": 11.109234
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 10063.654,
+          "Y": 240.18408,
+          "Z": 1422.7721
+        },
+        "RelativeRotation": {
+          "Pitch": 18.876263,
+          "Yaw": 77.544464,
+          "Roll": 81.13997
+        },
+        "RelativeScale3D": {
+          "X": 8.670999,
+          "Y": 8.670998,
+          "Z": 8.670998
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 9979.652,
+          "Y": -140.32812,
+          "Z": 1289.539
+        },
+        "RelativeRotation": {
+          "Pitch": 18.876263,
+          "Yaw": 77.544464,
+          "Roll": 81.13997
+        },
+        "RelativeScale3D": {
+          "X": 13.556869,
+          "Y": 13.556869,
+          "Z": 13.556869
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 8163.5703,
+          "Y": -836.22656,
+          "Z": -863.3293
+        },
+        "RelativeRotation": {
+          "Pitch": 8.437501,
+          "Yaw": -14.06311,
+          "Roll": 2.872433E-06
+        },
+        "RelativeScale3D": {
+          "X": 18.65625,
+          "Y": 26.156252,
+          "Z": 26.15625
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 8714.736,
+          "Y": -907.92725,
+          "Z": -780.8541
+        },
+        "RelativeRotation": {
+          "Pitch": 0.0,
+          "Yaw": 0.0,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 18.0,
+          "Y": 26.15625,
+          "Z": 26.15625
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -8025.5645,
+          "Y": 4789.2773,
+          "Z": -794.6915
+        },
+        "RelativeRotation": {
+          "Pitch": 24.232872,
+          "Yaw": 4.4430165,
+          "Roll": 75.429535
+        },
+        "RelativeScale3D": {
+          "X": 33.5,
+          "Y": 26.156252,
+          "Z": 26.156254
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Plushie_4_DanThePenguin",
+    "Properties": {
+      "InstancingRandomSeed": 11662,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Plushie_4_DanThePenguin",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Plushie/4/Plushie_4_DanThePenguin.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 34,
+          "TexelFactor": 145.6241
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 35,
+          "TexelFactor": 145.6241
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 36,
+          "TexelFactor": 145.6241
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21488,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "FEA1B6604010E125E79119A145DBE5B6"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 1563.0078,
+          "Y": 1544.2363,
+          "Z": -981.5636
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -118.12496,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 0.99999994,
+          "Y": 0.99999994,
+          "Z": 1.0
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1529.0703,
+          "Y": 1480.7393,
+          "Z": -981.5636
+        },
+        "RelativeRotation": {
+          "Pitch": -0.0,
+          "Yaw": -64.6874,
+          "Roll": 0.0
+        },
+        "RelativeScale3D": {
+          "X": 1.0,
+          "Y": 1.0,
+          "Z": 1.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "RoadKit_2_Barrel",
+    "Properties": {
+      "InstancingRandomSeed": 14721,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh RoadKit_2_Barrel",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/RoadKit/2/RoadKit_2_Barrel.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 37,
+          "TexelFactor": 212.5832
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 38,
+          "TexelFactor": 212.5832
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 39,
+          "TexelFactor": 212.5832
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Roadkit_2_M0_CansB_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/RoadKit/2/M0/Roadkit_2_M0_CansB_MI.0"
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21496,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "IgnoreOnlyPawn",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Pawn",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Vehicle",
+              "Response": "ECR_Ignore"
+            },
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        },
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6E6DEA7A4DC606FF0C41DC91614AF97D"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 1458.5,
+          "Y": 1399.1816,
+          "Z": -991.8142
+        },
+        "RelativeRotation": {
+          "Pitch": 5.054554,
+          "Yaw": 68.26081,
+          "Roll": 6.1093483
+        },
+        "RelativeScale3D": {
+          "X": 1.2999998,
+          "Y": 1.3,
+          "Z": 1.330028
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1474.1191,
+          "Y": 1315.0088,
+          "Z": -993.42114
+        },
+        "RelativeRotation": {
+          "Pitch": -6.191101,
+          "Yaw": 160.55031,
+          "Roll": 4.8940973
+        },
+        "RelativeScale3D": {
+          "X": 1.2999996,
+          "Y": 1.2999995,
+          "Z": 1.330028
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1513.5508,
+          "Y": 1234.3086,
+          "Z": -953.41846
+        },
+        "RelativeRotation": {
+          "Pitch": -6.191101,
+          "Yaw": 160.55031,
+          "Roll": -85.32156
+        },
+        "RelativeScale3D": {
+          "X": 1.2999998,
+          "Y": 1.2999998,
+          "Z": 1.3300279
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Rope_1_D",
+    "Properties": {
+      "InstancingRandomSeed": 6064,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Rope_1_D",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Rope/1/Rope_1_D.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 40,
+          "TexelFactor": 11.3307
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 11.3307
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 41,
+          "TexelFactor": 11.3307
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 18808,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "22736BCB4201CFD3109B97B17A08F55D"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -13772.992,
+          "Y": -4249.7637,
+          "Z": 558.4364
+        },
+        "RelativeRotation": {
+          "Pitch": -16.94455,
+          "Yaw": -93.511635,
+          "Roll": 0.37654108
+        },
+        "RelativeScale3D": {
+          "X": 4.499999,
+          "Y": 3.4999995,
+          "Z": 3.4999998
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -13845.992,
+          "Y": -4236.7637,
+          "Z": 559.4364
+        },
+        "RelativeRotation": {
+          "Pitch": -16.057583,
+          "Yaw": -100.85075,
+          "Roll": 0.14039786
+        },
+        "RelativeScale3D": {
+          "X": 4.5,
+          "Y": 3.5,
+          "Z": 2.0
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "Shell_5_AtkSpawnShipCleat_30",
+    "Properties": {
+      "InstancingRandomSeed": 27531,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_5_AtkSpawnShipCleat",
+        "ObjectPath": "ShooterGame/Content/Environment/Port/Asset/Props/Shell/5/Shell_5_AtkSpawnShipCleat.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 50,
+          "TexelFactor": 1726.1426
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 51,
+          "TexelFactor": 1726.1426
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 52,
+          "TexelFactor": 1726.1426
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "CastShadow": false,
+      "VisibilityId": 21408,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "DetailMode": "DM_Low",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5201358A4060A152DA84B0B2FE1A0A17"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -6916.462,
+          "Y": 202.76123,
+          "Z": -548.74634
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668399,
+          "Yaw": 5.5476565,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -4897.703,
+          "Y": 382.82422,
+          "Z": -187.56897
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668399,
+          "Yaw": 5.5476565,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 518.89453,
+          "Y": 5100.167,
+          "Z": 2263.9375
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 660.6465,
+          "Y": 4238.081,
+          "Z": 1878.5074
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1356.7129,
+          "Y": 4056.6758,
+          "Z": 1522.3536
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3449.1582,
+          "Y": 4740.549,
+          "Z": 1572.4159
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1195.168,
+          "Y": 2944.4346,
+          "Z": 1179.6024
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3354.9766,
+          "Y": 3875.6318,
+          "Z": 1173.9352
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5531.552,
+          "Y": 4552.043,
+          "Z": 1208.8141
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668376,
+          "Yaw": 5.5481496,
+          "Roll": -17.169796
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.70000005,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1041.0879,
+          "Y": 1859.2422,
+          "Z": 855.3331
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7546.426,
+          "Y": 4369.669,
+          "Z": 856.89075
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668376,
+          "Yaw": 5.5481496,
+          "Roll": -17.169796
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.70000005,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -879.54297,
+          "Y": 747.00195,
+          "Z": 512.5819
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3039.3516,
+          "Y": 1678.1982,
+          "Z": 506.91467
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -769.416,
+          "Y": -116.58447,
+          "Z": 401.2921
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7393.6074,
+          "Y": 3512.4248,
+          "Z": 461.02454
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2877.8066,
+          "Y": 565.9658,
+          "Z": 164.1637
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5059.249,
+          "Y": 1495.0547,
+          "Z": 155.18152
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -2728.2793,
+          "Y": -293.80078,
+          "Z": 58.903076
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7078.007,
+          "Y": 1314.9912,
+          "Z": -205.99585
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -4810.6953,
+          "Y": -482.30615,
+          "Z": -304.69812
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668376,
+          "Yaw": 5.5481496,
+          "Roll": -17.169796
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.70000005,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -1490.2949,
+          "Y": 4917.7646,
+          "Z": 1914.8048
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 822.1914,
+          "Y": 3125.8418,
+          "Z": 1535.7562
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 976.2715,
+          "Y": 2040.6475,
+          "Z": 1211.4869
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1137.8164,
+          "Y": 928.4087,
+          "Z": 868.7357
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -3193.4316,
+          "Y": 2763.3975,
+          "Z": 831.1842
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5374.8496,
+          "Y": 3692.4883,
+          "Z": 822.202
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 1239.7734,
+          "Y": 65.81787,
+          "Z": 750.4247
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -5213.3086,
+          "Y": 2580.2559,
+          "Z": 479.45154
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -6825.5723,
+          "Y": -664.6797,
+          "Z": -656.62146
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668376,
+          "Yaw": 5.5481496,
+          "Roll": -17.169796
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.70000005,
+          "Z": 0.7
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -7232.0625,
+          "Y": 2400.1924,
+          "Z": 118.27185
+        },
+        "RelativeRotation": {
+          "Pitch": 8.668401,
+          "Yaw": 5.54766,
+          "Roll": -17.169708
+        },
+        "RelativeScale3D": {
+          "X": 0.7,
+          "Y": 0.7,
+          "Z": 0.7
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "TechElement_24_PortCover",
+    "Properties": {
+      "InstancingRandomSeed": 29309,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh TechElement_24_PortCover",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/TechElement/24/TechElement_24_PortCover.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 42,
+          "TexelFactor": 241.5834
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 43,
+          "TexelFactor": 241.5834
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 44,
+          "TexelFactor": 241.5834
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 19984,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "EC6604114BCD036E16ACE49DC57E5DA9"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": -13666.992,
+          "Y": -3006.7632,
+          "Z": 942.4364
+        },
+        "RelativeRotation": {
+          "Pitch": 89.99998,
+          "Yaw": 0.059522796,
+          "Roll": -179.97041
+        },
+        "RelativeScale3D": {
+          "X": 1.9999999,
+          "Y": 4.0,
+          "Z": 1.9999999
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": -13666.992,
+          "Y": -2980.7632,
+          "Z": 942.4364
+        },
+        "RelativeRotation": {
+          "Pitch": 89.99999,
+          "Yaw": -3.3722177,
+          "Roll": -1.6878345
+        },
+        "RelativeScale3D": {
+          "X": 1.9999998,
+          "Y": 4.0,
+          "Z": 1.9999998
+        }
+      }
+    ]
+  },
+  {
+    "Type": "InstancedStaticMeshComponent",
+    "Name": "InstancedStaticMesh",
+    "Outer": "TechElement_33_CylinderVent_7",
+    "Properties": {
+      "InstancingRandomSeed": 17902,
+      "StaticMesh": {
+        "ObjectName": "StaticMesh TechElement_33_CylinderVent",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/TechElement/33/TechElement_33_CylinderVent.2"
+      },
+      "bUseDefaultCollision": true,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 45,
+          "TexelFactor": 603.1032
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 603.1032
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 46,
+          "TexelFactor": 603.1032
+        }
+      ],
+      "bGenerateOverlapEvents": false,
+      "bReceivesDecals": true,
+      "bUseAsOccluder": false,
+      "bHasPerInstanceHitProxies": true,
+      "VisibilityId": 21600,
+      "BodyInstance": {
+        "ObjectType": "ECC_WorldStatic",
+        "CollisionProfileName": "BlockAll",
+        "CollisionResponses": {
+          "ResponseArray": [
+            {
+              "Channel": "Level",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Death Reaction",
+              "Response": "ECR_Block"
+            },
+            {
+              "Channel": "Fluid",
+              "Response": "ECR_Block"
+            }
+          ]
+        }
+      },
+      "RelativeLocation": {
+        "X": 21413.992,
+        "Y": 7245.341,
+        "Z": 1729.5636
+      },
+      "Mobility": "EComponentMobility::Static",
+      "CreationMethod": "EComponentCreationMethod::Instance"
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4AA67C86428DEB6C83E29F80118A30B8"
+      }
+    ],
+    "PerInstanceSMData": [
+      {
+        "OffsetLocation": {
+          "X": 11333.855,
+          "Y": 922.59326,
+          "Z": 3379.3218
+        },
+        "RelativeRotation": {
+          "Pitch": -3.3767695,
+          "Yaw": -11.298402,
+          "Roll": -17.967712
+        },
+        "RelativeScale3D": {
+          "X": 1.6958019,
+          "Y": 1.6958021,
+          "Z": 1.6958019
+        }
+      },
+      {
+        "OffsetLocation": {
+          "X": 11241.297,
+          "Y": 501.19678,
+          "Z": 3239.6885
+        },
+        "RelativeRotation": {
+          "Pitch": -3.3767698,
+          "Yaw": -11.298402,
+          "Roll": -17.967714
+        },
+        "RelativeScale3D": {
+          "X": 1.6958021,
+          "Y": 1.6958022,
+          "Z": 1.6958021
+        }
+      }
+    ]
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Foxtrot_Art_VistaShip",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Foxtrot_Art_VistaShip:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.55"
+      },
+      "StreamingTextureGuids": [
+        "FA1E23B8-478B076F-0145308E-9D40C974",
+        "256AEEC1-401CD276-5D9B5EAF-164E9729",
+        "A695AF2B-4B42E8DC-0B589181-633B4189",
+        "8A268BF6-45E59535-B3A11880-CD39063C",
+        "3B266BA9-41BE2E6D-51A0B88B-FF9F6E3F",
+        "E78E18FF-4F217F24-B1D85EA2-38984F51",
+        "5F8E47E9-49C0B83C-28320DA8-0F307416",
+        "1909E3DE-491986CB-EB1A6892-EFBF811E",
+        "6D91A6F4-444E5DA5-AB6108B9-E7FB86EC",
+        "F6376952-40D08FBC-0085A3A3-8D9C2C0D",
+        "2DB23842-4A816078-D2E50C83-58C7E5A7",
+        "EC1A3207-48DE6221-5DE564B4-602635CD",
+        "D5F387A5-475254AB-A5269586-19542C26",
+        "6AFA5825-4991AEE3-ECDD3B8B-D5345888",
+        "421D7557-417644A0-4746D283-101BB2D7",
+        "81F9E975-4457B63C-29E496B0-2B8E38D2",
+        "0147317B-4292D378-F61098AD-26806897",
+        "96BC3CB3-4B7DBB19-1475A6B4-2288B4AE",
+        "925EA16D-4C4CE81E-41C885AF-9F23D49F",
+        "9F3B47DB-4EB609F3-9CB82EA4-FC0D33DB",
+        "0B171B3C-412F6A3B-A18E4E88-5A0D8D1D",
+        "D3A8C9B6-42EF4B25-AE116583-F6967873",
+        "20D5BE95-4F16010E-8333A1A7-7B980736",
+        "08AE7480-405744C1-B0D12596-939B6FC4",
+        "42F69593-4C039F24-84983BAB-45EF6E01",
+        "57C0F205-46F1D3D8-DD32AFBD-C940F66A",
+        "179FF005-4FFD5F42-0BBA1391-A3D00558",
+        "4945F7FA-424732C5-83317CBE-0DEBA69D",
+        "43457D4A-4D67C095-F4D24DA1-81FF7242",
+        "3D7C1DFF-4AD23573-AD458E92-86F4DC20",
+        "E4165C1A-4B2809F4-D58F8DB0-2B5E3FF0",
+        "10A46716-40DF6AD7-F5D52294-0FD5DBD6",
+        "E9FACEB9-402960BB-4B9D8683-5DEEE875",
+        "A3ACDE4D-4AE825D0-F855AC93-F8757C5D",
+        "951940DF-4E6654D1-A5B040AC-33330141",
+        "90CD8407-4708921B-B3B788A8-DB1F3A4C",
+        "4352F1A9-46F3F34E-FCB8A28A-473DF7A5",
+        "190E6F52-45EF454E-499FCD94-CE68CC83",
+        "3F537A90-46BED194-BACAE2BB-A68AEFE1",
+        "A5985D6F-4D52B459-8EDB4E82-B2858621",
+        "F63F4C98-4748D1DF-C31BB98D-13A45B1C",
+        "27C63BBD-4047D268-9C7F3887-6A604839",
+        "BBC9B525-4E911608-3E448798-08FDD5EC",
+        "4CAF8291-491B9668-300831A3-39629EDD",
+        "D10E1DD3-48045531-A32A59B8-ED0ECB48",
+        "F6FE155C-426CBE5D-E0D65988-563A87D0",
+        "9899FA8A-487CB228-E8A869A6-682EA7A7",
+        "B47266BC-42BE2874-13BCABA3-5A214889",
+        "9DBD63E6-4CB07E10-2AC96194-5C597D90",
+        "A7BC385C-43D21281-F2AE1288-3E2E1395",
+        "EDE6C38F-461C0F5C-0C45359A-222884AF",
+        "1E0F7C6F-436358D3-E4709FA3-B4098D4B",
+        "22876B0A-47AD8F69-9789E8AD-E4663FEC",
+        "07D2EB3A-43CEE22D-26D983A8-0CA8660E",
+        "6418D732-4CB91E54-69BFD9AA-CDA3776E",
+        "1ECA3057-4CACEC98-63786287-53A2E464",
+        "2A4941F7-4E9A72A8-3D1798A2-926281DF",
+        "FC795571-487F22A8-68E70F93-5F60E66D",
+        "4B12B89F-40C3633F-C94A63B6-1A155826",
+        "91209DE2-4C85642C-81AF6B8E-96933A34",
+        "8E0E6935-438074F0-B2C02489-488DF6CE",
+        "56D0C42E-4CEBBBA8-AF6AFB8E-8E35FFCE",
+        "05489B38-47C532AE-C50BB398-FD8FFFE7",
+        "A5A5C676-4C39A55E-BE402799-0040749D",
+        "F97F833F-4061E76F-9DCD5E8F-3689E3E5",
+        "20DCFB99-4FBC3E37-F412EA87-67BB9441",
+        "AC4BC831-4DC7B63C-95934AB2-36AE0751",
+        "0198BFAA-4DA297D1-9D293F97-75496BF2",
+        "7D7EED87-4A2CF648-BE662A8D-5FBAEF68"
+      ],
+      "LevelBuildDataId": "D1EAFAE2-4580C5A4-4F28CC9D-2D7BF065",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Foxtrot_Art_VistaShip_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip_BuiltData.18"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Foxtrot_Art_VistaShip:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.16"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Foxtrot_Art_VistaShip:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.16"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipPieceB",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.63"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.Railing_1_UndamagedLongA_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.61"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_GeneratorB4_11",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.58"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_FiltrationSystem5_21",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.57"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipPieceC",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.64"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.TechElement_37_SphereDome_36",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.65"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipDecalB_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.62"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI90",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.23"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI91",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.24"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI92",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.25"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI93",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.26"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI112",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.17"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI113",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.18"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.Pirate_0_GreebleC2_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.60"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI114",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.19"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI115",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.20"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_StraightLongA99",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.59"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI116",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.21"
+      },
+      {
+        "ObjectName": "DecalActor Foxtrot_Art_VistaShip:PersistentLevel.Grunge_M3_B_MI117_2",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.22"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Plushie_4_DanThePenguin",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.10"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.RoadKit_2_Barrel",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.11"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Rope_1_D",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.12"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.TechElement_24_PortCover",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.14"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.TechElement_33_CylinderVent_7",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.15"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.BoatShipCable_9",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.0"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_90ABetter_11",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.7"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Pipe_0_Segment_26",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.6"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.oasis_rope_grp_a_01_28",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.5"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Shell_5_AtkSpawnShipCleat_30",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.13"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_StraightShortA_32",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.9"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_GeneratorC_34",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.3"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_CapA_36",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.8"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_VentSystem_38",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.4"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Container_1_ShippingE",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.1"
+      },
+      {
+        "ObjectName": "Actor Foxtrot_Art_VistaShip:PersistentLevel.Container_1_ShippingE_26",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.2"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Foxtrot_Art_VistaShip:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.55"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "CA2EF0AF-49F8F704-715D0DAC-82820A32",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ModernTech_6_FiltrationSystem5_21",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_FiltrationSystem5_21.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.66"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_FiltrationSystem5_21.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.66"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "ModernTech_6_GeneratorB4_11",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_GeneratorB4_11.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.67"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.ModernTech_6_GeneratorB4_11.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.67"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Pipe_6_KitA_StraightLongA99",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_StraightLongA99.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.68"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pipe_6_KitA_StraightLongA99.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.68"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Pirate_0_GreebleC2_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pirate_0_GreebleC2_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.69"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Pirate_0_GreebleC2_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.69"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Railing_1_UndamagedLongA_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Railing_1_UndamagedLongA_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.70"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Railing_1_UndamagedLongA_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.70"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_0_ASiteShipDecalB_2",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipDecalB_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.71"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipDecalB_2.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.71"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_0_ASiteShipPieceB",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipPieceB.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.72"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipPieceB.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.72"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "Shell_0_ASiteShipPieceC",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipPieceC.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.73"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.Shell_0_ASiteShipPieceC.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.73"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "TechElement_37_SphereDome_36",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.TechElement_37_SphereDome_36.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.74"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_Art_VistaShip:PersistentLevel.TechElement_37_SphereDome_36.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.74"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ModernTech_6_FiltrationSystem5_21",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ModernTech_6_FiltrationSystem",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/ModernTech/6/ModernTech_6_FiltrationSystem.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4093444160,
+          "TextureLevelIndex": 17,
+          "TexelFactor": 208.10156
+        },
+        {
+          "PackedRelativeBox": 4093444160,
+          "TextureLevelIndex": 18,
+          "TexelFactor": 208.10156
+        },
+        {
+          "PackedRelativeBox": 4093444160,
+          "TextureLevelIndex": 19,
+          "TexelFactor": 208.10156
+        }
+      ],
+      "VisibilityId": 912,
+      "RelativeLocation": {
+        "X": 30365.152,
+        "Y": 7840.612,
+        "Z": -199.06596
+      },
+      "RelativeRotation": {
+        "Pitch": -3.218732,
+        "Yaw": -7.803497,
+        "Roll": -11.029598
+      },
+      "RelativeScale3D": {
+        "X": 9.0,
+        "Y": 9.0,
+        "Z": 9.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "263DE2D44A91D2B3479227B9E5C2E33B"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "ModernTech_6_GeneratorB4_11",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh ModernTech_6_GeneratorB",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/ModernTech/6/ModernTech_6_GeneratorB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4160684096,
+          "TextureLevelIndex": 14,
+          "TexelFactor": 277.4683
+        },
+        {
+          "PackedRelativeBox": 4160684096,
+          "TextureLevelIndex": 15,
+          "TexelFactor": 277.4683
+        },
+        {
+          "PackedRelativeBox": 4160684096,
+          "TextureLevelIndex": 16,
+          "TexelFactor": 277.4683
+        }
+      ],
+      "VisibilityId": 21528,
+      "RelativeLocation": {
+        "X": 35995.0,
+        "Y": 3023.8115,
+        "Z": 1192.8479
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": -22.49993
+      },
+      "RelativeScale3D": {
+        "X": 3.0,
+        "Y": 3.0,
+        "Z": 3.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E3D9400A452B4B3EE4894E92A1D3A4E6"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Pipe_6_KitA_StraightLongA99",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pipe_6_KitA_StraightLongA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Pipe/6/Pipe_6_KitA_StraightLongA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 31,
+          "TexelFactor": 108.75618
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 32,
+          "TexelFactor": 108.75618
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 33,
+          "TexelFactor": 108.75618
+        }
+      ],
+      "VisibilityId": 21560,
+      "RelativeLocation": {
+        "X": 31224.463,
+        "Y": 7377.856,
+        "Z": 1678.8419
+      },
+      "RelativeRotation": {
+        "Pitch": 69.05115,
+        "Yaw": -75.14919,
+        "Roll": -74.19467
+      },
+      "RelativeScale3D": {
+        "X": 9.359916,
+        "Y": 11.85923,
+        "Z": 11.85923
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "AF98B96E43BA72057415E38259C47D26"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Pirate_0_GreebleC2_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Pirate_0_GreebleC",
+        "ObjectPath": "ShooterGame/Content/Environment/FoxTrot/Asset/Props/Pirate/0/Pirate_0_GreebleC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3623825412,
+          "TextureLevelIndex": 28,
+          "TexelFactor": 349.99957
+        },
+        {
+          "PackedRelativeBox": 3623825412,
+          "TextureLevelIndex": 29,
+          "TexelFactor": 349.99957
+        },
+        {
+          "PackedRelativeBox": 3623825412,
+          "TextureLevelIndex": 30,
+          "TexelFactor": 349.99957
+        }
+      ],
+      "VisibilityId": 21512,
+      "RelativeLocation": {
+        "X": 32705.834,
+        "Y": 4585.819,
+        "Z": 2312.6062
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 166.46019,
+        "Roll": 15.928303
+      },
+      "RelativeScale3D": {
+        "X": 2.4840462,
+        "Y": 2.4840462,
+        "Z": 2.4840462
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B339CB4A445D1C1972EC4BAB373174DA"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Railing_1_UndamagedLongA_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Railing_1_UndamagedLongA",
+        "ObjectPath": "ShooterGame/Content/Environment/Asset/Props/Railing/1/Railing_1_UndamagedLongA.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 12,
+          "TexelFactor": 431.43973
+        },
+        {
+          "PackedRelativeBox": 4294901760,
+          "TextureLevelIndex": 13,
+          "TexelFactor": 431.43973
+        }
+      ],
+      "VisibilityId": 21416,
+      "RelativeLocation": {
+        "X": 25111.574,
+        "Y": 5901.367,
+        "Z": 2527.298
+      },
+      "RelativeRotation": {
+        "Pitch": -9.893194,
+        "Yaw": 184.64761,
+        "Roll": 19.599205
+      },
+      "RelativeScale3D": {
+        "X": 4.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "96ECABF344B108DD823AEA9CFA167551"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_0_ASiteShipDecalB_2",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_0_ASiteShipDecalB",
+        "ObjectPath": "ShooterGame/Content/Environment/FoxTrot/Asset/Props/Shell/0/Shell_0_ASiteShipDecalB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4026470400,
+          "TextureLevelIndex": 26,
+          "TexelFactor": 6929.056
+        },
+        {
+          "PackedRelativeBox": 4026470400,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 6929.056
+        },
+        {
+          "PackedRelativeBox": 4026470400,
+          "TextureLevelIndex": 27,
+          "TexelFactor": 6929.056
+        }
+      ],
+      "VisibilityId": 792,
+      "RelativeLocation": {
+        "X": 13920.044,
+        "Y": 5046.5283,
+        "Z": 484.2378
+      },
+      "RelativeRotation": {
+        "Pitch": 9.808751,
+        "Yaw": 4.991095,
+        "Roll": -16.8647
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "06732CE24C95AC25E2257E9369CBB7DE"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_0_ASiteShipPieceB",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_0_ASiteShipPieceB",
+        "ObjectPath": "ShooterGame/Content/Environment/FoxTrot/Asset/Props/Shell/0/Shell_0_ASiteShipPieceB.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 1281.0922
+        },
+        {
+          "PackedRelativeBox": 4223488000,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2048.4744
+        },
+        {
+          "PackedRelativeBox": 4223488000,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 2048.4744
+        },
+        {
+          "PackedRelativeBox": 4223488000,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 2048.4744
+        },
+        {
+          "PackedRelativeBox": 4223488000,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 2048.4744
+        },
+        {
+          "PackedRelativeBox": 4223488000,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 2048.4744
+        },
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 3977.7083
+        },
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 3977.7083
+        },
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 3977.7083
+        },
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 1281.0922
+        },
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 1281.0922
+        },
+        {
+          "PackedRelativeBox": 4290649088,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 1281.0922
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkPanelsAPaintedBlue_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkPanelsAPaintedBlue_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkTrimA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkTrimA_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkTileA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkTileA_MI.0"
+        }
+      ],
+      "PrepassCullMode": "PCM_Exclude",
+      "bOverrideCubemapSource": true,
+      "CubemapSourceOverride": "MCSRC_AmbientEnvironment",
+      "VisibilityId": 744,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 19113.26,
+        "Y": 9746.193,
+        "Z": 1589.4368
+      },
+      "RelativeRotation": {
+        "Pitch": 9.808751,
+        "Yaw": 4.991095,
+        "Roll": -16.8647
+      },
+      "bCanEverAffectNavigation": false
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "4FE0731144390D561FF417B6B49B3E8C",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 1187
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "Shell_0_ASiteShipPieceC",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh Shell_0_ASiteShipPieceC",
+        "ObjectPath": "ShooterGame/Content/Environment/FoxTrot/Asset/Props/Shell/0/Shell_0_ASiteShipPieceC.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3487373472,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 2121.2222
+        },
+        {
+          "PackedRelativeBox": 2411543712,
+          "TextureLevelIndex": 1,
+          "TexelFactor": 2048.758
+        },
+        {
+          "PackedRelativeBox": 2411543712,
+          "TextureLevelIndex": 2,
+          "TexelFactor": 2048.758
+        },
+        {
+          "PackedRelativeBox": 2411543712,
+          "TextureLevelIndex": 3,
+          "TexelFactor": 2048.758
+        },
+        {
+          "PackedRelativeBox": 2411543712,
+          "TextureLevelIndex": 4,
+          "TexelFactor": 2048.758
+        },
+        {
+          "PackedRelativeBox": 2411543712,
+          "TextureLevelIndex": 5,
+          "TexelFactor": 2048.758
+        },
+        {
+          "PackedRelativeBox": 2345739584,
+          "TextureLevelIndex": 20,
+          "TexelFactor": 2048.6267
+        },
+        {
+          "PackedRelativeBox": 2345739584,
+          "TextureLevelIndex": 21,
+          "TexelFactor": 2048.6267
+        },
+        {
+          "PackedRelativeBox": 2345739584,
+          "TextureLevelIndex": 22,
+          "TexelFactor": 2048.6267
+        },
+        {
+          "PackedRelativeBox": 3687784672,
+          "TextureLevelIndex": 6,
+          "TexelFactor": 2386.7952
+        },
+        {
+          "PackedRelativeBox": 3687784672,
+          "TextureLevelIndex": 7,
+          "TexelFactor": 2386.7952
+        },
+        {
+          "PackedRelativeBox": 3687784672,
+          "TextureLevelIndex": 8,
+          "TexelFactor": 2386.7952
+        },
+        {
+          "PackedRelativeBox": 3487373472,
+          "TextureLevelIndex": 9,
+          "TexelFactor": 2121.2222
+        },
+        {
+          "PackedRelativeBox": 3487373472,
+          "TextureLevelIndex": 10,
+          "TexelFactor": 2121.2222
+        },
+        {
+          "PackedRelativeBox": 3487373472,
+          "TextureLevelIndex": 11,
+          "TexelFactor": 2121.2222
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkPanelsAPaintedBlue_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkPanelsAPaintedBlue_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkTrimA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkTrimA_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkShipHull_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkShipHull_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Metal_M21_ScrapJunkTileA_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Metal/M21/Metal_M21_ScrapJunkTileA_MI.0"
+        },
+        {
+          "ObjectName": "MaterialInstanceConstant Glass_M0_OpaqueShinyDark_MI",
+          "ObjectPath": "ShooterGame/Content/Environment/Asset/WorldMaterials/Glass/M0/Glass_M0_OpaqueShinyDark_MI.0"
+        }
+      ],
+      "PrepassCullMode": "PCM_Exclude",
+      "bOverrideCubemapSource": true,
+      "CubemapSourceOverride": "MCSRC_AmbientEnvironment",
+      "VisibilityId": 920,
+      "BodyInstance": {
+        "MaxAngularVelocity": 3599.9998
+      },
+      "RelativeLocation": {
+        "X": 34713.32,
+        "Y": 7218.9595,
+        "Z": 2430.516
+      },
+      "RelativeRotation": {
+        "Pitch": -3.9881978,
+        "Yaw": -13.173693,
+        "Roll": -17.874464
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "678D6CB44A0D1F01135060B568ADD8C4",
+        "OverrideVertexColors": {
+          "Stride": 4,
+          "NumVertices": 3884
+        }
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "TechElement_37_SphereDome_36",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh TechElement_37_SphereDome",
+        "ObjectPath": "ShooterGame/Content/Environment/Bonsai/Asset/Props/TechElement/37/TechElement_37_SphereDome.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 3953069152,
+          "TextureLevelIndex": 23,
+          "TexelFactor": 613.74084
+        },
+        {
+          "PackedRelativeBox": 3953069152,
+          "TextureLevelIndex": 24,
+          "TexelFactor": 613.74084
+        },
+        {
+          "PackedRelativeBox": 3953069152,
+          "TextureLevelIndex": 25,
+          "TexelFactor": 613.74084
+        }
+      ],
+      "VisibilityId": 21536,
+      "RelativeLocation": {
+        "X": 32755.457,
+        "Y": 4979.258,
+        "Z": 4059.6968
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 0.0,
+        "Roll": -22.49996
+      },
+      "RelativeScale3D": {
+        "X": 1.375,
+        "Y": 1.375,
+        "Z": 1.375
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C8470B0D4D065FBAAFB8CF9D3CDD1D6B"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Foxtrot_Art_VistaShip",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Foxtrot_Art_VistaShip:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_Art_VistaShip.54"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]

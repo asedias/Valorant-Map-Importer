@@ -4,6 +4,8 @@ Fork with additions from: https://github.com/luvyana/val-scripts
 
 Some useful scripts & tools to be used with creating VALORANT content
 
+Map Data in export folder from 4.10 Patch
+
 ## Extracting maps
 
 Extracted Maps : https://mega.nz/folder/BqglCTzC#qJqUZ6VYysNMCnjvni69AQ

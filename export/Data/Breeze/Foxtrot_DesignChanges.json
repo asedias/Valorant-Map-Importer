@@ -1,0 +1,1523 @@
+[
+  {
+    "Type": "AresWorldSettings",
+    "Name": "AresWorldSettings",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "GameFeatureTogglesComponent": {
+        "ObjectName": "GameFeatureTogglesComponent Foxtrot_DesignChanges:PersistentLevel.AresWorldSettings.GameFeatureTogglesComponent",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.1"
+      },
+      "NavigationSystemConfig": {
+        "ObjectName": "NavigationSystemModuleConfig Foxtrot_DesignChanges:PersistentLevel.AresWorldSettings.NavigationSystemModuleConfig_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.4"
+      },
+      "BookmarkArray": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    }
+  },
+  {
+    "Type": "GameFeatureTogglesComponent",
+    "Name": "GameFeatureTogglesComponent",
+    "Outer": "AresWorldSettings"
+  },
+  {
+    "Type": "Level",
+    "Name": "PersistentLevel",
+    "Outer": "Foxtrot_DesignChanges",
+    "Properties": {
+      "Model": {
+        "ObjectName": "Model Foxtrot_DesignChanges:PersistentLevel.Model_0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.3"
+      },
+      "StreamingTextureGuids": [
+        "11CA18B8-4B0C2089-FE8D4681-0463B6B2"
+      ],
+      "LevelBuildDataId": "AB868892-4A3AAFBF-F4F7599B-3F8A154B",
+      "MapBuildData": {
+        "ObjectName": "MapBuildDataRegistry Foxtrot_DesignChanges_BuiltData",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges_BuiltData.2"
+      },
+      "WorldSettings": {
+        "ObjectName": "AresWorldSettings Foxtrot_DesignChanges:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.0"
+      }
+    },
+    "Actors": [
+      {
+        "ObjectName": "AresWorldSettings Foxtrot_DesignChanges:PersistentLevel.AresWorldSettings",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.0"
+      },
+      null,
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box180",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.5"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull388",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.17"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull390",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.18"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull436",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.22"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull412",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.19"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull591",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.24"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull164",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.13"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull165",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.14"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull166",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.15"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull596",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.25"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull486_14",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.23"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box236",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.6"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box260",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.7"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box322",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.9"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull374",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.16"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull428",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.20"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull429",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.21"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box261",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.8"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box6",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.12"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box330",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.10"
+      },
+      {
+        "ObjectName": "StaticMeshActor Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box331",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.11"
+      }
+    ],
+    "URL": {
+      "Protocol": "unreal",
+      "Host": "",
+      "Port": 7777,
+      "Valid": true,
+      "Map": "/Game/Maps/Init/Init",
+      "Op": [],
+      "Portal": ""
+    },
+    "Model": {
+      "ObjectName": "Model Foxtrot_DesignChanges:PersistentLevel.Model_0",
+      "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.3"
+    },
+    "ModelComponents": [],
+    "LevelScriptActor": null,
+    "NavListStart": null,
+    "NavListEnd": null,
+    "PrecomputedVisibilityHandler": {
+      "PrecomputedVisibilityCellBucketOriginXY": {
+        "X": 0.0,
+        "Y": 0.0
+      },
+      "PrecomputedVisibilityCellSizeXY": 0.0,
+      "PrecomputedVisibilityCellSizeZ": 0.0,
+      "PrecomputedVisibilityCellBucketSizeXY": 0,
+      "PrecomputedVisibilityNumCellBuckets": 0,
+      "PrecomputedVisibilityCellBuckets": []
+    },
+    "PrecomputedVolumeDistanceField": {
+      "VolumeMaxDistance": 0.0,
+      "VolumeBox": {
+        "Min": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "Max": {
+          "X": 0.0,
+          "Y": 0.0,
+          "Z": 0.0
+        },
+        "IsValid": 0
+      },
+      "VolumeSizeX": 0,
+      "VolumeSizeY": 0,
+      "VolumeSizeZ": 0,
+      "Data": []
+    }
+  },
+  {
+    "Type": "Model",
+    "Name": "Model_0",
+    "Outer": "PersistentLevel",
+    "Bounds": {
+      "Origin": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "BoxExtent": {
+        "X": 0.0,
+        "Y": 0.0,
+        "Z": 0.0
+      },
+      "SphereRadius": 0.0
+    },
+    "Vectors": [],
+    "Points": [],
+    "Nodes": [],
+    "Surfs": [],
+    "NumSharedSides": 4,
+    "VertexBuffer": {
+      "Vertices": []
+    },
+    "LightingGuid": "5A261B44-49681FE4-351023B5-B6752B99",
+    "LightmassSettings": []
+  },
+  {
+    "Type": "NavigationSystemModuleConfig",
+    "Name": "NavigationSystemModuleConfig_0",
+    "Outer": "AresWorldSettings",
+    "Properties": {
+      "bCreateOnClient": true,
+      "bAutoSpawnMissingNavData": true,
+      "NavigationSystemClass": {
+        "AssetPathName": "/Script/NavigationSystem.NavigationSystemV1",
+        "SubPathString": ""
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box180",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box180.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.26"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box180.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.26"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box236",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box236.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.27"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box236.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.27"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box260",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box260.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.28"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box260.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.28"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box261",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box261.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.29"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box261.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.29"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box322",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box322.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.30"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box322.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.30"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box330",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box330.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.31"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box330.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.31"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box331",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box331.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.32"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box331.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.32"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_Box6",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.33"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_Box6.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.33"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull164",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull164.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.34"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull164.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.34"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull165",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull165.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.35"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull165.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.35"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull166",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull166.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.36"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull166.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.36"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull374",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull374.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.37"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull374.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.37"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull388",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull388.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.38"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull388.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.38"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull390",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull390.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.39"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull390.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.39"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull412",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull412.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.40"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull412.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.40"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull428",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull428.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.41"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull428.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.41"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull429",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull429.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.42"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull429.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.42"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull436",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull436.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.43"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull436.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.43"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull486_14",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull486_14.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.44"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull486_14.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.44"
+      }
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull591",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull591.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.45"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull591.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.45"
+      },
+      "Tags": [
+        "TargetingLandmark"
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshActor",
+    "Name": "SuperGrid_CylinderFull596",
+    "Outer": "PersistentLevel",
+    "Properties": {
+      "StaticMeshComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull596.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.46"
+      },
+      "RootComponent": {
+        "ObjectName": "StaticMeshComponent Foxtrot_DesignChanges:PersistentLevel.SuperGrid_CylinderFull596.StaticMeshComponent0",
+        "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.46"
+      },
+      "Tags": [
+        "TargetingLandmark"
+      ]
+    }
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box180",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4500.0,
+        "Y": 4000.0,
+        "Z": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 17.0,
+        "Y": 33.25,
+        "Z": 5.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "93A112524720510B09C0C3BCE521B747"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box236",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "BodyInstance": {
+        "MassInKgOverride": 16850.502
+      },
+      "RelativeLocation": {
+        "X": 2100.0,
+        "Y": 4950.0,
+        "Z": 600.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "E754B5194DF25888299142A5FC303654"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box260",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "BodyInstance": {
+        "MassInKgOverride": 16850.502
+      },
+      "RelativeLocation": {
+        "X": 2100.0,
+        "Y": 4950.0,
+        "Z": 800.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "02FB17C54FC35A7638332D97570CC374"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box261",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "BodyInstance": {
+        "MassInKgOverride": 16850.502
+      },
+      "RelativeLocation": {
+        "X": 3100.0,
+        "Y": 5850.0,
+        "Z": 600.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 3.5,
+        "Z": 8.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C95A258740FFAD9830D5C3820E9F2D37"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box322",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "BodyInstance": {
+        "MassInKgOverride": 16850.502
+      },
+      "RelativeLocation": {
+        "X": 7275.7363,
+        "Y": -4317.1567,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -45.000107,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "2A43E1894838F68E1A17319D378D1524"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box330",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "BodyInstance": {
+        "MassInKgOverride": 16850.502
+      },
+      "RelativeLocation": {
+        "X": 8700.0,
+        "Y": -3250.0,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00011,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "5E19D5B44A9FC73B3AED0BB820B09BE3"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box331",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "BodyInstance": {
+        "MassInKgOverride": 16850.502
+      },
+      "RelativeLocation": {
+        "X": 8700.0,
+        "Y": -3250.0,
+        "Z": 800.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00011,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "ADFF87624B36A5957883EC99C81F6F25"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_Box6",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4950.0,
+        "Y": 6900.0,
+        "Z": 500.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 3.0,
+        "Z": 4.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "ADA52E4A4F9EE5E20C25F8A42B584C64"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull164",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6999.628,
+        "Y": 4438.797,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -10.000219,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 2.0,
+        "Y": 2.0,
+        "Z": 2.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F33977CC47FD56B34F52449F77533211"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull165",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6982.2627,
+        "Y": 4340.3145,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -10.000219,
+        "Roll": 0.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "7D93CBE94812D2EA61B0F9A9A591FF74"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull166",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 6600.0,
+        "Y": 3900.0,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -10.000219,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 3.0,
+        "Y": 8.0,
+        "Z": 3.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "184EDBFC4E855234D3EA51B0E4DA438A"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull374",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3400.0,
+        "Y": 6400.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 5.5,
+        "Y": 3.0,
+        "Z": 19.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F36D471D4C00A724D0D8E289358F2D45"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull388",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Slope",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Slope.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 105.37109
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 4700.0,
+        "Y": 4000.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 29.0,
+        "Y": 2.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D720475040D68148FA4ABABF53440C29"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull390",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Slope",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Slope.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 105.37109
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 5999.9883,
+        "Y": 7299.9995,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 270.00015,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 30.0,
+        "Y": 2.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "45ACCF0A47D776339903B185B676955F"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull412",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3400.0,
+        "Y": 5900.0,
+        "Z": 600.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": 179.99994,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 1.0,
+        "Y": 0.5,
+        "Z": 6.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "F30D92A64B1610E4238C0995F35AE559"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull428",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3400.0,
+        "Y": 5250.0,
+        "Z": 100.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.5,
+        "Y": 1.0,
+        "Z": 11.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "C1F3BE784618AB790EC761B27BA2AB16"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull429",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 3400.0,
+        "Y": 6400.0,
+        "Z": 1200.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -90.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 26.0,
+        "Y": 1.0,
+        "Z": 8.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "D7BF5E4D42AD9B487778CE9193D537B1"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull436",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Slope",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Slope.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 105.37109
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8500.001,
+        "Y": -4200.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -360.00012,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 12.0,
+        "Y": 4.0,
+        "Z": 1.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "02CC0FEB4FC3B9330B7C94B61717C73A"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull486_14",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Slope",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Slope.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 105.37109
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8550.001,
+        "Y": -4200.0,
+        "Z": 625.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -180.00006,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 0.5,
+        "Y": 4.0,
+        "Z": 1.75
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "6E7167CD4BEC201CF49A0EA7CBF7E794"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull591",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8500.0,
+        "Y": -4600.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.999985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 7.0,
+        "Y": 0.5,
+        "Z": 3.0
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "CE48593B4615EB583A1E82B8C8C1D3B2"
+      }
+    ]
+  },
+  {
+    "Type": "StaticMeshComponent",
+    "Name": "StaticMeshComponent0",
+    "Outer": "SuperGrid_CylinderFull596",
+    "Properties": {
+      "StaticMesh": {
+        "ObjectName": "StaticMesh SuperGrid_Box",
+        "ObjectPath": "ShooterGame/Content/SuperGrid/Source/Meshes/SuperGrid_Box.2"
+      },
+      "bOverrideLightMapRes": true,
+      "OverriddenLightMapRes": 128,
+      "StreamingTextureData": [
+        {
+          "PackedRelativeBox": 0,
+          "TextureLevelIndex": 0,
+          "TexelFactor": 99.99999
+        }
+      ],
+      "OverrideMaterials": [
+        {
+          "ObjectName": "MaterialInstanceConstant M_SuperGrid_Metal_Red",
+          "ObjectPath": "ShooterGame/Content/SuperGrid/Materials/Palette/PhysicalMaterials/M_SuperGrid_Metal_Red.0"
+        }
+      ],
+      "RelativeLocation": {
+        "X": 8500.0,
+        "Y": -3800.0,
+        "Z": 500.0
+      },
+      "RelativeRotation": {
+        "Pitch": 0.0,
+        "Yaw": -89.999985,
+        "Roll": 0.0
+      },
+      "RelativeScale3D": {
+        "X": 8.0,
+        "Y": 0.5,
+        "Z": 1.25
+      }
+    },
+    "LODData": [
+      {
+        "MapBuildDataId": "B806646E48547534174BC6B09554EF61"
+      }
+    ]
+  },
+  {
+    "Type": "World",
+    "Name": "Foxtrot_DesignChanges",
+    "Properties": {
+      "bAresLevelIgnoresZPrepass": true
+    },
+    "PersistentLevel": {
+      "ObjectName": "Level Foxtrot_DesignChanges:PersistentLevel",
+      "ObjectPath": "ShooterGame/Content/Maps/Foxtrot/Foxtrot_DesignChanges.2"
+    },
+    "ExtraReferencedObjects": [],
+    "StreamingLevels": []
+  }
+]
